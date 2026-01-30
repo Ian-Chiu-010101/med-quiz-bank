@@ -1,0 +1,14 @@
+[
+  {
+    "id": "TEST_Q0001",
+    "stem": "下列何者最符合高血壓第一線用藥的一般原則？",
+    "options": [
+      {"key":"A","text":"所有人都首選β阻斷劑"},
+      {"key":"B","text":"ACEi/ARB、CCB、thiazide 類利尿劑常作為第一線選項"},
+      {"key":"C","text":"一律先用 loop 利尿劑"},
+      {"key":"D","text":"先用短效 nifedipine 作為長期控制"}
+    ],
+    "answer": "B",
+    "explanation": "一般成人原發性高血壓的第一線藥物常見為 ACEi/ARB、鈣離子阻斷劑（CCB）、thiazide 類利尿劑；β阻斷劑多用於特定共病（如心絞痛、心衰等）。短效 nifedipine 不建議作長期控制。"
+  }
+]
