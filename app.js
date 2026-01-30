@@ -10,36 +10,56 @@ function getWrongMap() {
   try { return JSON.parse(localStorage.getItem(STORE_KEY) || "{}"); }
   catch { return {}; }
 }
-function setWrongMap(map) {
-  localStorage.setItem(STORE_KEY, JSON.stringify(map));
-}
+function setWrongMap(map) { localStorage.setItem(STORE_KEY, JSON.stringify(map)); }
 function incWrong(id) {
   const m = getWrongMap();
   m[id] = (m[id] || 0) + 1;
   setWrongMap(m);
 }
-function clearWrong() {
-  localStorage.removeItem(STORE_KEY);
-}
+function clearWrong() { localStorage.removeItem(STORE_KEY); }
 
-function normalizeQuestions(data) {
-  if (!Array.isArray(data)) throw new Error("questions.json 必須是陣列");
-  // 最低限度欄位檢查
+function normalizeQuestions(data, sourceId = "UNKNOWN") {
+  if (!Array.isArray(data)) throw new Error(`[${sourceId}] 題庫必須是陣列`);
   data.forEach((q, i) => {
     if (!q.id || !q.stem || !q.options || !q.answer) {
-      throw new Error(`第 ${i+1} 題缺少必要欄位（id/stem/options/answer）`);
+      throw new Error(`[${sourceId}] 第 ${i+1} 題缺少必要欄位（id/stem/options/answer）`);
     }
   });
   return data;
 }
 
-async function loadQuestions() {
-  // cache bust：避免 Pages 快取導致你更新 JSON 卻沒生效
-  const url = `./data/questions.json?v=${Date.now()}`;
+async function fetchJson(url) {
   const res = await fetch(url, { cache: "no-store" });
-  if (!res.ok) throw new Error(`載入失敗 HTTP ${res.status}`);
-  const data = await res.json();
-  return normalizeQuestions(data);
+  if (!res.ok) throw new Error(`HTTP ${res.status}：${url}`);
+  return await res.json();
+}
+
+async function loadFromManifest() {
+  const manifestUrl = `./data/manifest.json?v=${Date.now()}`;
+  const manifest = await fetchJson(manifestUrl);
+
+  if (!manifest || !Array.isArray(manifest.sources)) {
+    throw new Error("manifest.json 格式錯誤：缺 sources[]");
+  }
+
+  const enabled = manifest.sources.filter(s => s.enabled);
+  if (enabled.length === 0) return [];
+
+  const merged = [];
+  const idSet = new Set();
+
+  for (const src of enabled) {
+    const path = `${src.path}?v=${Date.now()}`;
+    const data = await fetchJson(path);
+    const qs = normalizeQuestions(data, src.id);
+
+    for (const q of qs) {
+      if (idSet.has(q.id)) continue; // 去重：同 id 只保留第一個
+      idSet.add(q.id);
+      merged.push(q);
+    }
+  }
+  return merged;
 }
 
 function buildPool() {
@@ -49,7 +69,6 @@ function buildPool() {
   } else {
     pool = ALL.filter(q => wrongMap[q.id]);
   }
-  // 若錯題池為空，自動回到全題模式
   if (wrongOnly && pool.length === 0) {
     wrongOnly = false;
     document.getElementById("btnToggleWrong").textContent = "錯題模式：關";
@@ -60,8 +79,7 @@ function buildPool() {
 
 function pickRandom() {
   if (pool.length === 0) return null;
-  const idx = Math.floor(Math.random() * pool.length);
-  return pool[idx];
+  return pool[Math.floor(Math.random() * pool.length)];
 }
 
 function setFeedback(msg, type = "") {
@@ -170,13 +188,13 @@ function toggleWrongMode() {
 async function main() {
   const status = document.getElementById("loadStatus");
   try {
-    ALL = await loadQuestions();
-    status.textContent = `載入成功：${ALL.length} 題`;
+    ALL = await loadFromManifest();
+    status.textContent = `載入成功：${ALL.length} 題（manifest）`;
     buildPool();
     nextQuestion();
   } catch (e) {
     status.textContent = `載入失敗：${e.message}`;
-    setFeedback("請檢查 data/questions.json 路徑與 JSON 格式。", "no");
+    setFeedback("請檢查 data/manifest.json、各 source path 與 JSON 格式。", "no");
   }
 
   document.getElementById("btnNew").addEventListener("click", nextQuestion);
