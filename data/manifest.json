@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "sources": [
+    { "id": "TEST", "title": "測試題庫", "path": "./data/questions.json", "enabled": true }
+  ]
+}
