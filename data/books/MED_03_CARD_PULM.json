@@ -2184,6 +2184,205 @@
     "explanation": "高風險族群（年長、慢性病、免疫低下等）疫苗接種（流感、肺炎鏈球菌）可降低肺炎與嚴重併發症風險；其他選項非標準預防策略。"
   }
 
+,
+
+  
+  {
+    "id": "MED3_V1_DER_TB_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜肺結核（TB）｜定義" },
+    "stem": "下列何者最符合『活動性肺結核（active pulmonary TB）』？",
+    "options": [
+      { "key": "A", "text": "無症狀、影像正常、僅 TST/IGRA 陽性" },
+      { "key": "B", "text": "有症狀與影像異常，且可檢出分枝桿菌（塗片/培養/NAAT）" },
+      { "key": "C", "text": "僅有 BCG 接種史" },
+      { "key": "D", "text": "單次咳嗽即確診" }
+    ],
+    "answer": "B",
+    "explanation": "活動性 TB 需有臨床/影像證據，並以微生物學檢驗支持；僅 TST/IGRA 陽性而無臨床證據屬潛伏結核感染（LTBI）。"
+  },
+  {
+    "id": "MED3_V1_DER_TB_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜TB｜潛伏感染" },
+    "stem": "關於潛伏結核感染（LTBI），下列何者正確？",
+    "options": [
+      { "key": "A", "text": "一定具有傳染性" },
+      { "key": "B", "text": "影像與症狀皆正常，但 TST/IGRA 陽性" },
+      { "key": "C", "text": "一定需要 6 個月四合一治療" },
+      { "key": "D", "text": "胸部 X 光必定有空洞" }
+    ],
+    "answer": "B",
+    "explanation": "LTBI 為免疫學證據陽性但無臨床/影像活動性病灶，通常不具傳染性；治療策略與活動性 TB 不同。"
+  },
+  {
+    "id": "MED3_V1_DER_TB_Q0003",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜TB｜症狀" },
+    "stem": "肺結核最典型的症狀組合為何？",
+    "options": [
+      { "key": "A", "text": "慢性咳嗽、夜間盜汗、體重減輕、發燒" },
+      { "key": "B", "text": "突發胸痛、立即休克" },
+      { "key": "C", "text": "急性高燒合併大量膿痰 24 小時內痊癒" },
+      { "key": "D", "text": "只有鼻塞流鼻水" }
+    ],
+    "answer": "A",
+    "explanation": "TB 為慢性消耗性疾病，常見慢性咳嗽、低度發燒、夜間盜汗與體重減輕。"
+  },
+  {
+    "id": "MED3_V1_DER_TB_Q0004",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜TB｜影像學" },
+    "stem": "免疫正常成人的再活化型肺結核，最典型的影像分佈為何？",
+    "options": [
+      { "key": "A", "text": "上肺葉或肺尖為主，可能合併空洞" },
+      { "key": "B", "text": "只在右下肺葉" },
+      { "key": "C", "text": "僅中央肺門淋巴結腫大" },
+      { "key": "D", "text": "一定有大量胸水" }
+    ],
+    "answer": "A",
+    "explanation": "再活化 TB 偏好高氧分壓區域，典型位於上肺葉/肺尖，常可見空洞。"
+  },
+  {
+    "id": "MED3_V1_DER_TB_Q0005",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜TB｜兒童/免疫低下" },
+    "stem": "下列何者較符合兒童或免疫低下者之肺結核表現？",
+    "options": [
+      { "key": "A", "text": "肺門/縱膈淋巴結腫大較常見" },
+      { "key": "B", "text": "一定有上肺葉空洞" },
+      { "key": "C", "text": "症狀一定很輕" },
+      { "key": "D", "text": "不會發生粟粒型結核" }
+    ],
+    "answer": "A",
+    "explanation": "兒童與免疫低下者常見肺門或縱膈淋巴結腫大，影像表現與成人再活化 TB 不同，亦可見粟粒型結核。"
+  },
+  {
+    "id": "MED3_V1_DER_TB_Q0006",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜TB｜檢驗" },
+    "stem": "下列何者屬於結核感染的『免疫學檢驗』？",
+    "options": [
+      { "key": "A", "text": "痰抗酸菌塗片（AFB smear）" },
+      { "key": "B", "text": "痰培養（culture）" },
+      { "key": "C", "text": "IGRA 或 TST" },
+      { "key": "D", "text": "NAAT（核酸放大）" }
+    ],
+    "answer": "C",
+    "explanation": "IGRA/TST 為免疫學檢驗，反映是否曾感染結核；塗片、培養、NAAT 屬病原學檢驗。"
+  },
+  {
+    "id": "MED3_V1_DER_TB_Q0007",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜TB｜塗片與培養" },
+    "stem": "關於痰抗酸菌塗片（AFB smear），下列何者正確？",
+    "options": [
+      { "key": "A", "text": "塗片陽性即可判定具傳染性風險" },
+      { "key": "B", "text": "塗片陰性即可完全排除 TB" },
+      { "key": "C", "text": "塗片比培養更敏感" },
+      { "key": "D", "text": "塗片只能檢出死菌" }
+    ],
+    "answer": "A",
+    "explanation": "AFB 塗片陽性代表菌量高、傳染性風險較高；但塗片陰性不能排除 TB，培養仍是金標準（但較慢）。"
+  },
+  {
+    "id": "MED3_V1_DER_TB_Q0008",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜TB｜NAAT" },
+    "stem": "NAAT（核酸放大檢驗）在 TB 診斷中的優點為何？",
+    "options": [
+      { "key": "A", "text": "快速且可同時偵測結核菌與部分抗藥性" },
+      { "key": "B", "text": "完全取代培養，不需後續檢驗" },
+      { "key": "C", "text": "只適用於潛伏結核感染" },
+      { "key": "D", "text": "一定比塗片慢" }
+    ],
+    "answer": "A",
+    "explanation": "NAAT 可快速偵測 MTB，並可同時提供部分抗藥性資訊（如 rifampin），但仍需培養做完整藥敏。"
+  },
+  {
+    "id": "MED3_V1_DER_TB_Q0009",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜TB｜標準治療" },
+    "stem": "藥物敏感性肺結核的標準初始治療為何？",
+    "options": [
+      { "key": "A", "text": "2 個月 HRZE + 4 個月 HR" },
+      { "key": "B", "text": "2 週抗生素即可" },
+      { "key": "C", "text": "單用 isoniazid 9 個月" },
+      { "key": "D", "text": "終身治療" }
+    ],
+    "answer": "A",
+    "explanation": "藥物敏感性 TB 標準治療為 2HRZE/4HR（共 6 個月），以降低復發與抗藥性。"
+  },
+  {
+    "id": "MED3_V1_DER_TB_Q0010",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜TB｜藥物副作用" },
+    "stem": "下列哪一組藥物與其典型副作用配對最正確？",
+    "options": [
+      { "key": "A", "text": "Ethambutol → 視神經炎" },
+      { "key": "B", "text": "Isoniazid → 聽力受損" },
+      { "key": "C", "text": "Rifampin → 嚴重 QT 延長" },
+      { "key": "D", "text": "Pyrazinamide → 視力模糊" }
+    ],
+    "answer": "A",
+    "explanation": "Ethambutol 可能造成視神經炎；INH 相關為周邊神經病變（B6 缺乏）；Rifampin 會造成體液橘紅色；Pyrazinamide 常見高尿酸/關節痛。"
+  },
+  {
+    "id": "MED3_V1_DER_TB_Q0011",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜TB｜隔離" },
+    "stem": "疑似活動性肺結核病人，最適當的感染管制措施為何？",
+    "options": [
+      { "key": "A", "text": "負壓隔離與空氣傳染防護" },
+      { "key": "B", "text": "只需一般外科口罩" },
+      { "key": "C", "text": "不需任何隔離" },
+      { "key": "D", "text": "只要塗片陰性即可解除隔離" }
+    ],
+    "answer": "A",
+    "explanation": "疑似或確診活動性肺結核需空氣傳染防護（負壓隔離）；解除隔離需依臨床與微生物學條件評估。"
+  },
+  {
+    "id": "MED3_V1_DER_TB_Q0012",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜TB｜抗藥性" },
+    "stem": "MDR-TB 的定義為何？",
+    "options": [
+      { "key": "A", "text": "對 isoniazid 與 rifampin 皆具抗藥性" },
+      { "key": "B", "text": "只對 ethambutol 抗藥" },
+      { "key": "C", "text": "只要治療超過 6 個月即為 MDR-TB" },
+      { "key": "D", "text": "只在 HIV 病人發生" }
+    ],
+    "answer": "A",
+    "explanation": "MDR-TB 定義為至少對 INH 與 rifampin 抗藥，治療需使用第二線藥物並由專家管理。"
+  },
+  {
+    "id": "MED3_V1_DER_TB_Q0013",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜TB｜接觸者處置" },
+    "stem": "活動性肺結核確診後，對密切接觸者的處置原則，下列何者正確？",
+    "options": [
+      { "key": "A", "text": "進行症狀評估與 TST/IGRA，必要時給予 LTBI 治療" },
+      { "key": "B", "text": "完全不需評估" },
+      { "key": "C", "text": "所有接觸者一律給四合一治療" },
+      { "key": "D", "text": "只要無症狀即可忽略" }
+    ],
+    "answer": "A",
+    "explanation": "密切接觸者需評估是否感染（TST/IGRA）與是否有活動性疾病，必要時給予 LTBI 治療以降低未來發病風險。"
+  }
+
 
 
 
