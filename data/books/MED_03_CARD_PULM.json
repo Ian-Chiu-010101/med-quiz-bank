@@ -1774,7 +1774,235 @@
     ],
     "answer": "A",
     "explanation": "ILD 的關鍵在『分類與找原因』：暴露史（藥物/職業/抗原）常直接決定診斷與治療；HRCT 與 PFT（含 DLCO）是基礎評估工具，必要時再進一步做血清學、BAL 或肺活檢。"
+  },
+
+  
+  {
+    "id": "MED3_V1_DER_PE_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜（下一節）肺栓塞／肺高壓｜PE 總論" },
+    "stem": "疑似肺栓塞（PE）病人最常見、最典型的臨床表現組合為何？",
+    "options": [
+      { "key": "A", "text": "突發呼吸困難、胸痛（多為胸膜性）、心搏過速" },
+      { "key": "B", "text": "長期咳痰、晨起喘鳴、可逆性高度陽性" },
+      { "key": "C", "text": "大量黃疸、茶色尿、灰白便" },
+      { "key": "D", "text": "局部右下腹反跳痛" }
+    ],
+    "answer": "A",
+    "explanation": "PE 常見突發呼吸困難、胸痛（可為胸膜性）、心搏過速；亦可合併咳血、暈厥、低血壓（大塊 PE）。"
+  },
+  {
+    "id": "MED3_V1_DER_PE_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜肺栓塞／肺高壓｜PE 診斷策略" },
+    "stem": "疑似 PE 的檢查策略，下列何者最符合通用流程？",
+    "options": [
+      { "key": "A", "text": "先估計臨床前測機率（Wells/改良 Geneva），低/中風險可用 D-dimer 排除，高風險直接做影像" },
+      { "key": "B", "text": "所有人先做 CTPA，不需分層" },
+      { "key": "C", "text": "D-dimer 只要偏高就可直接確診 PE" },
+      { "key": "D", "text": "胸部 X 光正常即可排除 PE" }
+    ],
+    "answer": "A",
+    "explanation": "PE 診斷核心是「前測機率＋檢驗」。低/中機率可用（年齡調整）D-dimer 排除；高機率者應直接做 CTPA（或相當影像）確認。"
+  },
+  {
+    "id": "MED3_V1_DER_PE_Q0003",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜肺栓塞／肺高壓｜D-dimer" },
+    "stem": "關於 D-dimer 的敘述，下列何者正確？",
+    "options": [
+      { "key": "A", "text": "高 D-dimer 具有高特異性，可直接確診 PE" },
+      { "key": "B", "text": "在低/中前測機率時，陰性 D-dimer 有助排除 PE" },
+      { "key": "C", "text": "D-dimer 在任何族群都不會受到年齡影響" },
+      { "key": "D", "text": "D-dimer 只在肺炎才會上升" }
+    ],
+    "answer": "B",
+    "explanation": "D-dimer 特徵是敏感度高、特異度低；在低/中機率族群，陰性有助排除 PE。年齡、感染、手術、癌症、妊娠等都會使 D-dimer 上升。"
+  },
+  {
+    "id": "MED3_V1_DER_PE_Q0004",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜肺栓塞／肺高壓｜影像學" },
+    "stem": "在血流動力學穩定、腎功能許可的疑似 PE 病人，最常用來確認診斷的影像檢查為何？",
+    "options": [
+      { "key": "A", "text": "CT pulmonary angiography（CTPA）" },
+      { "key": "B", "text": "腹部超音波" },
+      { "key": "C", "text": "單純胸部 X 光" },
+      { "key": "D", "text": "腦部 MRI" }
+    ],
+    "answer": "A",
+    "explanation": "CTPA 是臨床最常用的 PE 確診影像（在腎功能可接受且無明顯禁忌時）。"
+  },
+  {
+    "id": "MED3_V1_DER_PE_Q0005",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜肺栓塞／肺高壓｜影像學" },
+    "stem": "下列哪一種情境較適合考慮 V/Q scan（通氣灌流掃描）而非 CTPA？",
+    "options": [
+      { "key": "A", "text": "嚴重碘劑過敏或腎功能不佳且胸部 X 光相對乾淨" },
+      { "key": "B", "text": "所有 PE 都應優先 V/Q scan" },
+      { "key": "C", "text": "D-dimer 陰性" },
+      { "key": "D", "text": "已明確高風險且休克" }
+    ],
+    "answer": "A",
+    "explanation": "在 CTPA 不適合（造影禁忌）且胸部基礎影像相對乾淨時，V/Q scan 可用於 PE 評估。"
+  },
+  {
+    "id": "MED3_V1_DER_PE_Q0006",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜肺栓塞／肺高壓｜危險因子" },
+    "stem": "下列何者屬於典型 PE 危險因子？",
+    "options": [
+      { "key": "A", "text": "近期手術或長期臥床、惡性腫瘤、口服避孕藥/妊娠、既往 VTE" },
+      { "key": "B", "text": "單純高血脂" },
+      { "key": "C", "text": "過敏性鼻炎" },
+      { "key": "D", "text": "偏頭痛" }
+    ],
+    "answer": "A",
+    "explanation": "PE 多來自下肢/骨盆深層靜脈血栓（DVT），危險因子包括手術/臥床、癌症、雌激素相關、既往 VTE、血栓體質等。"
+  },
+  {
+    "id": "MED3_V1_DER_PE_Q0007",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜肺栓塞／肺高壓｜心電圖" },
+    "stem": "PE 的心電圖表現，下列何者最典型（但並非必然）？",
+    "options": [
+      { "key": "A", "text": "竇性心搏過速" },
+      { "key": "B", "text": "ST elevation 只在 V1–V4" },
+      { "key": "C", "text": "PR 下降" },
+      { "key": "D", "text": "必然出現完全性房室傳導阻滯" }
+    ],
+    "answer": "A",
+    "explanation": "PE 最常見 ECG 是竇性心搏過速；S1Q3T3、右軸偏移、右束支傳導阻滯等可見但敏感度不高。"
+  },
+  {
+    "id": "MED3_V1_DER_PE_Q0008",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜肺栓塞／肺高壓｜治療" },
+    "stem": "血流動力學穩定的確診 PE 病人，最核心的初始治療為何？",
+    "options": [
+      { "key": "A", "text": "抗凝治療（如 DOAC 或 heparin 起始，視個案調整）" },
+      { "key": "B", "text": "立即溶栓作為常規" },
+      { "key": "C", "text": "只給氧，不需抗凝" },
+      { "key": "D", "text": "長期口服類固醇" }
+    ],
+    "answer": "A",
+    "explanation": "大多數穩定 PE 的基礎治療是抗凝，降低血栓延伸與復發。溶栓多保留給高風險（massive）或特定次高風險情境。"
+  },
+  {
+    "id": "MED3_V1_DER_PE_Q0009",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜肺栓塞／肺高壓｜高風險 PE" },
+    "stem": "下列何者最符合『高風險（massive）PE』的定義？",
+    "options": [
+      { "key": "A", "text": "持續性低血壓／休克（hemodynamic instability）" },
+      { "key": "B", "text": "只有輕微胸痛" },
+      { "key": "C", "text": "D-dimer 很高" },
+      { "key": "D", "text": "胸部 X 光正常" }
+    ],
+    "answer": "A",
+    "explanation": "高風險（massive）PE 的核心是血流動力學不穩定（休克或持續低血壓）。這群病人需考慮更積極再灌流策略（溶栓/導管/手術）。"
+  },
+  {
+    "id": "MED3_V1_DER_PE_Q0010",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜肺栓塞／肺高壓｜溶栓" },
+    "stem": "下列哪一項最符合 PE 溶栓治療的典型適應症？",
+    "options": [
+      { "key": "A", "text": "高風險（massive）PE 合併休克/低血壓，且無重大出血禁忌" },
+      { "key": "B", "text": "所有確診 PE 都必須溶栓" },
+      { "key": "C", "text": "只有 D-dimer 升高" },
+      { "key": "D", "text": "單純輕症且可以門診追蹤" }
+    ],
+    "answer": "A",
+    "explanation": "溶栓主要用於 hemodynamic instability 的高風險 PE；穩定 PE 通常以抗凝為主。"
+  },
+  {
+    "id": "MED3_V1_DER_PE_Q0011",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜肺栓塞／肺高壓｜下肢血栓" },
+    "stem": "疑似 PE 病人若同時有下肢腫痛，最合理的下一步檢查（可協助支持 VTE）為何？",
+    "options": [
+      { "key": "A", "text": "下肢靜脈超音波（compression ultrasonography）" },
+      { "key": "B", "text": "胃鏡" },
+      { "key": "C", "text": "腦波" },
+      { "key": "D", "text": "甲狀腺超音波" }
+    ],
+    "answer": "A",
+    "explanation": "PE 常源自下肢 DVT。下肢靜脈超音波可找 DVT，對 VTE 診斷鏈非常有幫助（尤其當胸部影像不易/禁忌時）。"
+  },
+  {
+    "id": "MED3_V1_DER_PH_Q0012",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜肺栓塞／肺高壓｜PH 總論" },
+    "stem": "肺高壓（PH）的確立診斷金標準檢查為何？",
+    "options": [
+      { "key": "A", "text": "右心導管檢查（right heart catheterization）" },
+      { "key": "B", "text": "單純心臟超音波即可確診 PH 並分型" },
+      { "key": "C", "text": "胸部 X 光" },
+      { "key": "D", "text": "肺量計" }
+    ],
+    "answer": "A",
+    "explanation": "心臟超音波可做初步篩檢與推估，但 PH 的確診與血流動力學分型需要右心導管。"
+  },
+  {
+    "id": "MED3_V1_DER_PH_Q0013",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜肺栓塞／肺高壓｜分型" },
+    "stem": "下列哪一項最符合『慢性血栓栓塞性肺高壓（CTEPH）』的概念？",
+    "options": [
+      { "key": "A", "text": "急性 PE 後血栓未完全溶解，形成慢性阻塞/重塑導致 PH" },
+      { "key": "B", "text": "單純氣喘造成可逆性氣流受限" },
+      { "key": "C", "text": "上呼吸道感染造成鼻塞" },
+      { "key": "D", "text": "只要有高血壓就會造成 PH" }
+    ],
+    "answer": "A",
+    "explanation": "CTEPH 為 PE 後慢性血栓殘留/血管重塑造成的 PH，治療策略與一般 PAH 不同，需特別辨識（可考慮肺動脈內膜切除或介入）。"
+  },
+  {
+    "id": "MED3_V1_DER_PH_Q0014",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜肺栓塞／肺高壓｜臨床" },
+    "stem": "PH 病人常見症狀與徵象，下列何者較典型？",
+    "options": [
+      { "key": "A", "text": "漸進性運動喘、暈厥或胸悶、右心衰徵象（JVD/水腫）" },
+      { "key": "B", "text": "侷限性右下腹劇痛" },
+      { "key": "C", "text": "急性大量咳血且每天固定在清晨發作" },
+      { "key": "D", "text": "只有鼻涕倒流" }
+    ],
+    "answer": "A",
+    "explanation": "PH 典型為漸進性運動喘，嚴重時可暈厥或胸悶，晚期出現右心衰表現（JVD、下肢水腫、肝腫大等）。"
+  },
+  {
+    "id": "MED3_V1_DER_PH_Q0015",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜肺栓塞／肺高壓｜篩檢" },
+    "stem": "疑似 PH 的初步篩檢工具，下列何者最合適？",
+    "options": [
+      { "key": "A", "text": "心臟超音波估算肺動脈壓並評估右心結構功能" },
+      { "key": "B", "text": "只做肺功能即可確診 PH" },
+      { "key": "C", "text": "只做胸部 X 光即可排除 PH" },
+      { "key": "D", "text": "只測 D-dimer" }
+    ],
+    "answer": "A",
+    "explanation": "心臟超音波可做 PH 初步評估（估算肺動脈壓、右心室大小/功能、三尖瓣返流等），但確診仍需右心導管。"
   }
+
 
 
 ]
