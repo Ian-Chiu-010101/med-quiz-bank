@@ -2001,7 +2001,190 @@
     ],
     "answer": "A",
     "explanation": "心臟超音波可做 PH 初步評估（估算肺動脈壓、右心室大小/功能、三尖瓣返流等），但確診仍需右心導管。"
+  },
+  
+  {
+    "id": "MED3_V1_DER_PNA_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜肺部感染｜CAP 定義" },
+    "stem": "下列何者最符合社區型肺炎（CAP）的定義？",
+    "options": [
+      { "key": "A", "text": "入院 48 小時後才出現的新發肺炎" },
+      { "key": "B", "text": "長照機構住民一律視為 VAP" },
+      { "key": "C", "text": "在社區獲得、或入院早期（通常 <48 小時）即已存在的肺炎" },
+      { "key": "D", "text": "所有免疫低下的肺炎都不算 CAP" }
+    ],
+    "answer": "C",
+    "explanation": "CAP 指在醫療照護機構外獲得、或入院早期即已存在的肺炎；住院超過一段時間才新發者較符合 HAP/VAP 概念。"
+  },
+  {
+    "id": "MED3_V1_DER_PNA_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜肺部感染｜HAP/VAP 定義" },
+    "stem": "關於 HAP 與 VAP，下列何者正確？",
+    "options": [
+      { "key": "A", "text": "HAP：入院 48 小時後才發生；VAP：插管/呼吸器使用後才發生" },
+      { "key": "B", "text": "HAP 只發生在門診" },
+      { "key": "C", "text": "VAP 一定是病毒感染" },
+      { "key": "D", "text": "HAP/VAP 都不需要考慮抗藥性菌" }
+    ],
+    "answer": "A",
+    "explanation": "HAP（hospital-acquired pneumonia）多定義為入院 ≥48 小時後新發；VAP（ventilator-associated pneumonia）發生在插管通氣後（臨床多用插管 ≥48 小時後）且需高度考慮 MDR 風險。"
+  },
+  {
+    "id": "MED3_V1_DER_PNA_Q0003",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜肺部感染｜CAP 嚴重度" },
+    "stem": "CAP 需要住院與否的嚴重度評估工具，下列何者最常用？",
+    "options": [
+      { "key": "A", "text": "CURB-65 或 PSI" },
+      { "key": "B", "text": "CHADS2-VASc" },
+      { "key": "C", "text": "Wells score（PE 用）" },
+      { "key": "D", "text": "Glasgow coma scale 只能單獨決定是否住院" }
+    ],
+    "answer": "A",
+    "explanation": "CAP 常用 CURB-65 或 PSI 進行風險分層，協助決定門診、住院或 ICU 評估；臨床仍需結合生命徵象與共病。"
+  },
+  {
+    "id": "MED3_V1_DER_PNA_Q0004",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜肺部感染｜CAP 門診治療" },
+    "stem": "免疫正常、無重大共病、門診治療的 CAP，經驗性抗生素策略下列何者最合理？",
+    "options": [
+      { "key": "A", "text": "Amoxicillin（或相當 β-lactam）/Doxycycline，視地區抗藥性與個案調整" },
+      { "key": "B", "text": "必須三合一：anti-pseudomonal β-lactam + vancomycin + azithromycin" },
+      { "key": "C", "text": "只要咳嗽就給抗生素，無需影像證據" },
+      { "key": "D", "text": "Warfarin 作為第一線抗感染治療" }
+    ],
+    "answer": "A",
+    "explanation": "低風險 CAP 門診常以窄譜為主（如 amoxicillin 或 doxycycline；部分情境可用 macrolide 但需考量抗藥性）。高強度廣譜（含抗綠膿桿菌/抗 MRSA）並非常規。"
+  },
+  {
+    "id": "MED3_V1_DER_PNA_Q0005",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜肺部感染｜CAP 住院治療" },
+    "stem": "一般病房住院 CAP（非 ICU）常見的經驗性治療組合何者最典型？",
+    "options": [
+      { "key": "A", "text": "β-lactam + macrolide，或 respiratory fluoroquinolone 單用（視個案）" },
+      { "key": "B", "text": "只給吸入型 SABA" },
+      { "key": "C", "text": "固定加 vancomycin（不論風險）" },
+      { "key": "D", "text": "只要 CRP 低就不需要任何治療" }
+    ],
+    "answer": "A",
+    "explanation": "住院 CAP（非 ICU）常見策略為 β-lactam（如 ceftriaxone/ampicillin-sulbactam）合併 macrolide，或使用 respiratory FQ 單用（依個案 QT/副作用/抗藥性與共病調整）。"
+  },
+  {
+    "id": "MED3_V1_DER_PNA_Q0006",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜肺部感染｜MRSA/綠膿桿菌風險" },
+    "stem": "CAP 需要加 coverage for MRSA 或 Pseudomonas 的情境，較符合下列哪一項？",
+    "options": [
+      { "key": "A", "text": "既往有 MRSA/綠膿桿菌呼吸道分離史或近期住院且接受靜脈抗生素" },
+      { "key": "B", "text": "單純過敏性鼻炎" },
+      { "key": "C", "text": "年紀大於 30 歲" },
+      { "key": "D", "text": "只要胸痛就一定要加 vancomycin + anti-pseudomonal" }
+    ],
+    "answer": "A",
+    "explanation": "是否需要 MRSA/綠膿桿菌 coverage 以「具體風險因子」為主（如既往分離史、近期住院與 IV 抗生素等）；不建議無差別廣譜。"
+  },
+  {
+    "id": "MED3_V1_DER_PNA_Q0007",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜肺部感染｜Aspiration pneumonia" },
+    "stem": "吸入性肺炎（aspiration pneumonia）的經驗性用藥思路，下列何者最正確？",
+    "options": [
+      { "key": "A", "text": "若是典型吸入性肺炎（非單純吸入性肺炎炎症），需涵蓋口腔厭氧菌的藥物（例如 ampicillin-sulbactam）" },
+      { "key": "B", "text": "吸入事件後一定要加 vancomycin" },
+      { "key": "C", "text": "只要吸到胃酸就等同細菌肺炎，永遠需抗生素" },
+      { "key": "D", "text": "吸入性肺炎不會造成右下肺葉為主的浸潤" }
+    ],
+    "answer": "A",
+    "explanation": "吸入可分 aspiration pneumonitis（化學性）與 aspiration pneumonia（細菌性）；後者常需涵蓋厭氧與口腔菌叢（視臨床情境）。浸潤分佈常與體位相關，右下肺葉常見。"
+  },
+  {
+    "id": "MED3_V1_DER_PNA_Q0008",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜肺部感染｜Atypical pneumonia" },
+    "stem": "下列哪一項病原體最典型被歸類為『非典型肺炎（atypical pneumonia）』病因？",
+    "options": [
+      { "key": "A", "text": "Mycoplasma pneumoniae" },
+      { "key": "B", "text": "Streptococcus pneumoniae" },
+      { "key": "C", "text": "Klebsiella pneumoniae（典型大葉性/酒精、糖尿病等）" },
+      { "key": "D", "text": "Staphylococcus aureus（多見於流感後或醫療相關）" }
+    ],
+    "answer": "A",
+    "explanation": "非典型病原體常包含 Mycoplasma、Chlamydia pneumoniae、Legionella 等；典型大葉性肺炎常見為肺炎鏈球菌。"
+  },
+  {
+    "id": "MED3_V1_DER_PNA_Q0009",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜肺部感染｜Legionella" },
+    "stem": "哪一組臨床線索較支持 Legionella 肺炎？",
+    "options": [
+      { "key": "A", "text": "肺炎合併腹瀉、低鈉血症、相對較少痰" },
+      { "key": "B", "text": "肺炎合併大量膿痰與空洞" },
+      { "key": "C", "text": "肺炎合併明顯嗜酸性球上升與蕁麻疹" },
+      { "key": "D", "text": "肺炎合併典型支擴後可逆性陽性" }
+    ],
+    "answer": "A",
+    "explanation": "Legionella 常考點包含腸胃症狀（腹瀉）、低鈉血症、肝酵素上升、相對乾咳或痰較少；治療需涵蓋 atypical（macrolide/respiratory FQ）。"
+  },
+  {
+    "id": "MED3_V1_DER_PNA_Q0010",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜肺部感染｜治療反應" },
+    "stem": "CAP 接受抗生素治療後 48–72 小時仍未改善，下列哪一項是最合理的下一步思考方向？",
+    "options": [
+      { "key": "A", "text": "重新評估診斷與併發症：是否為非感染、是否有膿胸/脓肿、抗藥性或不典型病原、是否用藥不當" },
+      { "key": "B", "text": "直接停掉所有治療，因為抗生素無效" },
+      { "key": "C", "text": "永遠加上最高劑量類固醇即可" },
+      { "key": "D", "text": "只要 CRP 下降就不需要管臨床狀況" }
+    ],
+    "answer": "A",
+    "explanation": "治療反應不佳需系統性回頭檢查：診斷是否正確、是否併發膿胸/肺膿瘍、病原是否涵蓋、是否有抗藥性或非典型/病毒性、免疫狀態與用藥依從性等。"
+  },
+  {
+    "id": "MED3_V1_DER_PNA_Q0011",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜肺部感染｜HAP/VAP 抗生素" },
+    "stem": "HAP/VAP 經驗性抗生素選擇的核心差異點為何？",
+    "options": [
+      { "key": "A", "text": "需評估 MDR 風險（含 MRSA、Pseudomonas）並依當地 antibiogram 調整" },
+      { "key": "B", "text": "一律只用 penicillin G 即可" },
+      { "key": "C", "text": "HAP/VAP 完全不需做培養" },
+      { "key": "D", "text": "HAP/VAP 都不能使用 β-lactam" }
+    ],
+    "answer": "A",
+    "explanation": "HAP/VAP 的重點是抗藥性菌風險更高，經驗治療需依 MDR 風險、病人狀態與醫院 antibiogram，並在培養結果出來後進行 de-escalation。"
+  },
+  {
+    "id": "MED3_V1_DER_PNA_Q0012",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜肺部感染｜疫苗與預防" },
+    "stem": "下列何者是降低高風險族群肺炎/侵襲性肺炎鏈球菌感染的重要預防策略？",
+    "options": [
+      { "key": "A", "text": "依適應症施打肺炎鏈球菌疫苗與流感疫苗" },
+      { "key": "B", "text": "長期預防性口服抗生素（所有人）" },
+      { "key": "C", "text": "每日口服類固醇（所有人）" },
+      { "key": "D", "text": "完全避免運動" }
+    ],
+    "answer": "A",
+    "explanation": "高風險族群（年長、慢性病、免疫低下等）疫苗接種（流感、肺炎鏈球菌）可降低肺炎與嚴重併發症風險；其他選項非標準預防策略。"
   }
+
+
 
 
 
