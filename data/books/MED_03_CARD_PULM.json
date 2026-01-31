@@ -1547,8 +1547,234 @@
     ],
     "answer": "A",
     "explanation": "肺氣腫常見 air trapping/過度充氣與橫膈變平，且因肺泡-毛細血管床破壞導致 DLCO 下降；慢性支氣管炎則以咳痰為主、DLCO 常較保留。"
-  }
+  },
 
+  
+  {
+    "id": "MED3_V1_DER_ILD_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丁 間質性肺病（ILD）｜總論" },
+    "stem": "典型 ILD 的肺功能型態最常見為何？",
+    "options": [
+      { "key": "A", "text": "限制型：TLC 下降、FVC 下降，FEV1/FVC 正常或上升" },
+      { "key": "B", "text": "阻塞型：FEV1/FVC 下降為主" },
+      { "key": "C", "text": "完全正常肺功能" },
+      { "key": "D", "text": "只會造成 DLCO 上升" }
+    ],
+    "answer": "A",
+    "explanation": "ILD 以肺實質/間質受損為主，典型呈限制型通氣障礙（TLC、FVC 下降），FEV1/FVC 常正常或相對上升；DLCO 多下降而非上升。"
+  },
+  {
+    "id": "MED3_V1_DER_ILD_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丁 ILD｜氣體交換" },
+    "stem": "下列何者最常見於多數 ILD 的氣體交換異常？",
+    "options": [
+      { "key": "A", "text": "DLCO 下降" },
+      { "key": "B", "text": "DLCO 上升" },
+      { "key": "C", "text": "A–a gradient 一定正常" },
+      { "key": "D", "text": "只會造成 PaCO2 上升、PaO2 正常" }
+    ],
+    "answer": "A",
+    "explanation": "ILD 造成肺泡-微血管膜受損與肺血管床減少，最典型是 DLCO 下降，且常見運動時低氧與 A–a gradient 增加。"
+  },
+  {
+    "id": "MED3_V1_DER_ILD_Q0003",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丁 ILD｜身體檢查" },
+    "stem": "下列哪一組身體檢查較符合纖維化型 ILD（例如 IPF）？",
+    "options": [
+      { "key": "A", "text": "吸氣末乾囉音（Velcro crackles）± 杵狀指" },
+      { "key": "B", "text": "單側胸膜摩擦音合併高熱" },
+      { "key": "C", "text": "典型哮鳴音為主且完全可逆" },
+      { "key": "D", "text": "只有鼻塞與流鼻水" }
+    ],
+    "answer": "A",
+    "explanation": "纖維化型 ILD 常見雙側吸氣末細碎乾囉音（Velcro-like crackles），部分患者可見杵狀指；哮鳴音更像氣喘/COPD。"
+  },
+  {
+    "id": "MED3_V1_DER_ILD_Q0004",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丁 ILD｜影像學" },
+    "stem": "ILD 評估中，最能用來辨識纖維化型態（如 UIP pattern）的影像檢查為何？",
+    "options": [
+      { "key": "A", "text": "高解析度胸部電腦斷層（HRCT）" },
+      { "key": "B", "text": "單純 PA chest X-ray 即可確診分型" },
+      { "key": "C", "text": "腹部超音波" },
+      { "key": "D", "text": "心電圖" }
+    ],
+    "answer": "A",
+    "explanation": "HRCT 是 ILD 分型與判斷纖維化樣態（UIP、NSIP、HP 等）的核心工具；CXR 常不足以分型。"
+  },
+  {
+    "id": "MED3_V1_DER_ILD_Q0005",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丁 ILD｜UIP/IPF" },
+    "stem": "典型 UIP（usual interstitial pneumonia）在 HRCT 的最代表性特徵組合為何？",
+    "options": [
+      { "key": "A", "text": "周邊/胸膜下為主、基底部優勢的網狀影（reticulation）＋蜂窩肺（honeycombing）± traction bronchiectasis" },
+      { "key": "B", "text": "中央型為主的肺門淋巴結腫大" },
+      { "key": "C", "text": "瀰漫性樹芽徵（tree-in-bud）為主" },
+      { "key": "D", "text": "大量胸水為主" }
+    ],
+    "answer": "A",
+    "explanation": "UIP 的典型影像是胸膜下/周邊、基底部優勢的纖維化表現（reticulation、traction bronchiectasis）並常見 honeycombing。"
+  },
+  {
+    "id": "MED3_V1_DER_ILD_Q0006",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丁 ILD｜IPF 治療" },
+    "stem": "下列何者屬於 IPF（idiopathic pulmonary fibrosis）具疾病修正效果、常用的抗纖維化藥物？",
+    "options": [
+      { "key": "A", "text": "Nintedanib 或 Pirfenidone" },
+      { "key": "B", "text": "吸入 SABA（albuterol）單用" },
+      { "key": "C", "text": "長期高劑量全身性類固醇作為標準治療" },
+      { "key": "D", "text": "Warfarin 作為標準抗纖維化治療" }
+    ],
+    "answer": "A",
+    "explanation": "IPF 的疾病修正治療以抗纖維化藥物（nintedanib、pirfenidone）為主，可減緩肺功能下降；常規長期高劑量類固醇不作為 IPF 標準治療。"
+  },
+  {
+    "id": "MED3_V1_DER_ILD_Q0007",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丁 ILD｜急性惡化" },
+    "stem": "已知 IPF 病人突然在數天到數週內呼吸快速惡化、影像出現新發廣泛磨玻璃陰影（ground-glass opacities），最符合下列何者？",
+    "options": [
+      { "key": "A", "text": "IPF 急性惡化（acute exacerbation）" },
+      { "key": "B", "text": "單純慢性穩定期變化" },
+      { "key": "C", "text": "一定是肺癌轉移" },
+      { "key": "D", "text": "一定是氣胸" }
+    ],
+    "answer": "A",
+    "explanation": "IPF 急性惡化典型是短期內呼吸惡化，HRCT 可見在既有纖維化背景上新發的雙側磨玻璃/實變，需積極排除感染、心衰、肺栓塞等。"
+  },
+  {
+    "id": "MED3_V1_DER_ILD_Q0008",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丁 ILD｜NSIP vs UIP 概念" },
+    "stem": "下列何者較偏向 NSIP（nonspecific interstitial pneumonia）而非典型 UIP？",
+    "options": [
+      { "key": "A", "text": "相對較均勻的磨玻璃陰影與纖維化、蜂窩肺較少見" },
+      { "key": "B", "text": "明顯胸膜下基底部蜂窩肺為主" },
+      { "key": "C", "text": "樹芽徵為主" },
+      { "key": "D", "text": "大量胸水為主" }
+    ],
+    "answer": "A",
+    "explanation": "NSIP 常呈較均勻的炎症/纖維化分布，ground-glass 相對多、honeycombing 較少；UIP 則常見胸膜下基底部為主的 honeycombing。"
+  },
+  {
+    "id": "MED3_V1_DER_ILD_Q0009",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丁 ILD｜過敏性肺炎（HP）" },
+    "stem": "過敏性肺炎（hypersensitivity pneumonitis）最關鍵的病史線索為何？",
+    "options": [
+      { "key": "A", "text": "反覆接觸特定抗原（如鳥類、黴菌、農業/加濕器）後出現呼吸症狀" },
+      { "key": "B", "text": "長期抽菸且咳痰為主" },
+      { "key": "C", "text": "單次暴露粉塵後立即大量咳血" },
+      { "key": "D", "text": "只有夜間喘鳴、完全可逆" }
+    ],
+    "answer": "A",
+    "explanation": "HP 是免疫反應導致的間質性肺病，診斷核心是『明確的抗原暴露史』與其時間相關性；處置重點之一也包含避免暴露。"
+  },
+  {
+    "id": "MED3_V1_DER_ILD_Q0010",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丁 ILD｜結節病（Sarcoidosis）" },
+    "stem": "下列哪個組合較典型支持結節病（sarcoidosis）？",
+    "options": [
+      { "key": "A", "text": "雙側肺門淋巴結腫大（BHL）± 非乾酪性肉芽腫" },
+      { "key": "B", "text": "胸膜下基底部蜂窩肺為主" },
+      { "key": "C", "text": "大量膿痰合併 lobar consolidation" },
+      { "key": "D", "text": "只要 DLCO 下降就可診斷 sarcoidosis" }
+    ],
+    "answer": "A",
+    "explanation": "Sarcoidosis 常見影像為雙側肺門淋巴結腫大，病理為非乾酪性肉芽腫；診斷需臨床＋影像＋（必要時）組織學與排除其他肉芽腫疾病。"
+  },
+  {
+    "id": "MED3_V1_DER_ILD_Q0011",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丁 ILD｜藥物性肺損傷" },
+    "stem": "下列哪一組藥物與 ILD/間質性肺炎風險的關聯最典型？",
+    "options": [
+      { "key": "A", "text": "Amiodarone、Bleomycin、Nitrofurantoin" },
+      { "key": "B", "text": "Metformin、Aspirin、Acetaminophen" },
+      { "key": "C", "text": "Omeprazole、Famotidine、Aluminum hydroxide" },
+      { "key": "D", "text": "Loratadine、Cetirizine、Fexofenadine" }
+    ],
+    "answer": "A",
+    "explanation": "Amiodarone、bleomycin、nitrofurantoin 等是常被考的藥物性肺損傷/間質性肺炎原因；遇到 ILD 病人務必回顧用藥史。"
+  },
+  {
+    "id": "MED3_V1_DER_ILD_Q0012",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丁 ILD｜職業暴露" },
+    "stem": "下列哪一項職業/環境暴露與特定 ILD（塵肺症）配對最合理？",
+    "options": [
+      { "key": "A", "text": "石綿（asbestos）→ 胸膜斑塊/石綿肺（asbestosis）" },
+      { "key": "B", "text": "花粉暴露 → 矽肺（silicosis）" },
+      { "key": "C", "text": "冷空氣 → 石綿肺" },
+      { "key": "D", "text": "咖啡因 → 煤工塵肺（CWP）" }
+    ],
+    "answer": "A",
+    "explanation": "石綿暴露與 asbestosis、胸膜斑塊、（並增加惡性間皮瘤/肺癌風險）是經典考點；矽肺多見於採礦/砂石噴砂等矽粉塵暴露。"
+  },
+  {
+    "id": "MED3_V1_DER_ILD_Q0013",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丁 ILD｜自體免疫關聯" },
+    "stem": "下列哪一項最符合『結締組織疾病相關 ILD（CTD-ILD）』的臨床情境？",
+    "options": [
+      { "key": "A", "text": "ILD 合併 Raynaud 現象、關節痛/皮疹或特定自體抗體" },
+      { "key": "B", "text": "單純反覆上呼吸道感染" },
+      { "key": "C", "text": "只有偶發咳嗽，無其他系統症狀" },
+      { "key": "D", "text": "只有胸痛，無呼吸道症狀" }
+    ],
+    "answer": "A",
+    "explanation": "CTD-ILD 常見於 RA、systemic sclerosis、myositis、SLE 等背景；辨識點是 ILD 合併系統性自體免疫線索與血清學支持。"
+  },
+  {
+    "id": "MED3_V1_DER_ILD_Q0014",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丁 ILD｜鑑別陷阱" },
+    "stem": "下列哪一項更像『心因性/循環性』而非 ILD 主要表現？",
+    "options": [
+      { "key": "A", "text": "運動喘合併雙下肢水腫與端坐呼吸" },
+      { "key": "B", "text": "進行性運動喘合併吸氣末乾囉音" },
+      { "key": "C", "text": "DLCO 下降與限制型肺功能" },
+      { "key": "D", "text": "HRCT 出現周邊基底部纖維化" }
+    ],
+    "answer": "A",
+    "explanation": "端坐呼吸與周邊水腫更支持心衰/循環系統問題；ILD 則偏向限制型肺功能、DLCO 下降、乾囉音與 HRCT 纖維化所見。"
+  },
+  {
+    "id": "MED3_V1_DER_ILD_Q0015",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丁 ILD｜處置原則" },
+    "stem": "對多數疑似 ILD 病人，下列哪一項是最通用且重要的第一步策略？",
+    "options": [
+      { "key": "A", "text": "系統性釐清暴露史（職業/環境/藥物）＋安排 HRCT 與肺功能（含 DLCO）" },
+      { "key": "B", "text": "直接長期高劑量類固醇，不需診斷分型" },
+      { "key": "C", "text": "只做 CXR 即可，不需 HRCT" },
+      { "key": "D", "text": "只要咳嗽就先開抗生素 4 週" }
+    ],
+    "answer": "A",
+    "explanation": "ILD 的關鍵在『分類與找原因』：暴露史（藥物/職業/抗原）常直接決定診斷與治療；HRCT 與 PFT（含 DLCO）是基礎評估工具，必要時再進一步做血清學、BAL 或肺活檢。"
+  }
 
 
 ]
