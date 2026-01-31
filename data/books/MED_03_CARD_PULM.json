@@ -2566,6 +2566,438 @@
     "explanation": "對高風險族群（年齡與吸菸史）建議以低劑量 CT 篩檢，可降低肺癌死亡率。"
   }
 
+,
+  
+  {
+    "id": "MED3_V1_ORIG_PULM_BASIC_Q0010",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜甲 胸腔科基本知識｜胸部X光" },
+    "stem": "要診斷肺尖（lung apex）病灶，下列何種 X 光照法最為適當？",
+    "options": [
+      { "key": "A", "text": "PA view" },
+      { "key": "B", "text": "Lateral view" },
+      { "key": "C", "text": "Lateral decubitus view" },
+      { "key": "D", "text": "Lordotic view" }
+    ],
+    "answer": "D",
+    "explanation": "Lordotic view 可減少鎖骨與前肋骨對肺尖的遮蔽，提升肺尖病灶（如 Pancoast tumor、TB）的可見度。"
+  },
+  {
+    "id": "MED3_V1_ORIG_PULM_BASIC_Q0011",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜甲 胸腔科基本知識｜胸痛鑑別" },
+    "stem": "胸痛病患需優先排除的『四大急症』不包含下列何者？",
+    "options": [
+      { "key": "A", "text": "急性心肌梗塞" },
+      { "key": "B", "text": "主動脈剝離" },
+      { "key": "C", "text": "高張性氣胸" },
+      { "key": "D", "text": "肺炎" }
+    ],
+    "answer": "D",
+    "explanation": "臨床急性胸痛需先排除心肌梗塞、主動脈剝離、高張性氣胸、心包膜填塞；肺炎雖可致胸痛，但非四大立即致命急症。"
+  },
+  {
+    "id": "MED3_V1_ORIG_PULM_BASIC_Q0012",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜甲 胸腔科基本知識｜肺功能" },
+    "stem": "下列何者最符合阻塞型肺病（obstructive lung disease）的肺功能表現？",
+    "options": [
+      { "key": "A", "text": "FEV1/FVC 下降" },
+      { "key": "B", "text": "TLC 明顯下降" },
+      { "key": "C", "text": "DLCO 一定上升" },
+      { "key": "D", "text": "FVC 顯著下降且 FEV1/FVC 正常或上升" }
+    ],
+    "answer": "A",
+    "explanation": "阻塞型肺病的核心為氣流受限，典型表現為 FEV1/FVC 下降；限制型則以 TLC/FVC 下降為主。"
+  },
+  {
+    "id": "MED3_V1_ORIG_PULM_BASIC_Q0013",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜甲 胸腔科基本知識｜DLCO" },
+    "stem": "下列何種疾病最可能造成 DLCO 降低？",
+    "options": [
+      { "key": "A", "text": "肺氣腫" },
+      { "key": "B", "text": "氣喘急性發作" },
+      { "key": "C", "text": "肺出血" },
+      { "key": "D", "text": "心衰竭早期" }
+    ],
+    "answer": "A",
+    "explanation": "DLCO 下降常見於肺氣腫、間質性肺病與肺血管疾病；氣喘、肺出血與心衰竭早期可因血流增加而使 DLCO 上升。"
+  }
+
+,
+  
+  {
+    "id": "MED3_V1_ORIG_ASTHMA_Q0010",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜乙 氣喘｜定義與病理" },
+    "stem": "下列何者不是氣喘（bronchial asthma）的核心病理特徵？",
+    "options": [
+      { "key": "A", "text": "慢性氣道發炎" },
+      { "key": "B", "text": "氣道過度反應" },
+      { "key": "C", "text": "多數情況為可逆性氣流受限" },
+      { "key": "D", "text": "永久且不可逆的氣道阻塞為主" }
+    ],
+    "answer": "D",
+    "explanation": "氣喘的典型特徵為慢性發炎、氣道高反應與可變（多為可逆）的氣流受限；永久不可逆阻塞較符合 COPD。"
+  },
+  {
+    "id": "MED3_V1_ORIG_ASTHMA_Q0011",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜乙 氣喘｜診斷" },
+    "stem": "下列哪一項最支持氣喘的診斷？",
+    "options": [
+      { "key": "A", "text": "FEV1/FVC < 70% 且完全不可逆" },
+      { "key": "B", "text": "支氣管擴張劑後 FEV1 增加 >12% 且 >200 mL" },
+      { "key": "C", "text": "DLCO 顯著下降" },
+      { "key": "D", "text": "僅有慢性痰多" }
+    ],
+    "answer": "B",
+    "explanation": "氣喘診斷重點在於可變、可逆的氣流受限；支氣管擴張劑後 FEV1 顯著改善（>12% 且 >200 mL）支持診斷。"
+  },
+  {
+    "id": "MED3_V1_ORIG_ASTHMA_Q0012",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜乙 氣喘｜誘發因子" },
+    "stem": "下列何者最不常作為氣喘症狀惡化的誘發因子？",
+    "options": [
+      { "key": "A", "text": "病毒感染" },
+      { "key": "B", "text": "運動" },
+      { "key": "C", "text": "過敏原暴露" },
+      { "key": "D", "text": "單純高血脂" }
+    ],
+    "answer": "D",
+    "explanation": "氣喘常見誘發因子包括病毒感染、運動、過敏原、冷空氣等；高血脂並非典型誘因。"
+  },
+  {
+    "id": "MED3_V1_ORIG_ASTHMA_Q0013",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜乙 氣喘｜急性發作評估" },
+    "stem": "評估氣喘急性發作嚴重度時，下列何者最能反映重症？",
+    "options": [
+      { "key": "A", "text": "使用輔助呼吸肌" },
+      { "key": "B", "text": "能完整說一句話" },
+      { "key": "C", "text": "PEF 接近個人最佳值" },
+      { "key": "D", "text": "呼吸音清楚、無喘鳴" }
+    ],
+    "answer": "A",
+    "explanation": "使用輔助呼吸肌、說話困難、PEF 明顯下降等皆支持嚴重急性發作；能完整說話與 PEF 接近最佳值則較輕。"
+  },
+  {
+    "id": "MED3_V1_ORIG_ASTHMA_Q0014",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜乙 氣喘｜急性治療" },
+    "stem": "急性氣喘發作的第一線治療不包含下列何者？",
+    "options": [
+      { "key": "A", "text": "短效 β2 促效劑（SABA）" },
+      { "key": "B", "text": "系統性類固醇" },
+      { "key": "C", "text": "吸入型抗膽鹼藥（視嚴重度）" },
+      { "key": "D", "text": "Theophylline 常規使用" }
+    ],
+    "answer": "D",
+    "explanation": "急性發作以 SABA、系統性類固醇為主，重症可加抗膽鹼藥；theophylline 因治療窗窄與副作用，非急性第一線。"
+  },
+  {
+    "id": "MED3_V1_ORIG_ASTHMA_Q0015",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜乙 氣喘｜長期控制" },
+    "stem": "下列何者為氣喘長期控制治療的基石？",
+    "options": [
+      { "key": "A", "text": "吸入型類固醇（ICS）" },
+      { "key": "B", "text": "短效 β2 促效劑單獨長期使用" },
+      { "key": "C", "text": "抗生素預防性使用" },
+      { "key": "D", "text": "長期口服類固醇（所有病人）" }
+    ],
+    "answer": "A",
+    "explanation": "ICS 為氣喘長期控制治療核心；SABA 不應單獨作為長期控制，口服類固醇僅限特定情境。"
+  },
+  {
+    "id": "MED3_V1_ORIG_ASTHMA_Q0016",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜乙 氣喘｜鑑別" },
+    "stem": "下列何者較不像氣喘，而應優先考慮其他診斷？",
+    "options": [
+      { "key": "A", "text": "只有慢性咳嗽、無喘鳴或呼吸困難" },
+      { "key": "B", "text": "症狀夜間或清晨惡化" },
+      { "key": "C", "text": "症狀隨時間變化" },
+      { "key": "D", "text": "對支氣管擴張劑有反應" }
+    ],
+    "answer": "A",
+    "explanation": "僅有慢性咳嗽需考慮 post-nasal drip、GERD 等；其餘皆為氣喘典型特徵。"
+  }
+
+,
+  
+  {
+    "id": "MED3_V1_ORIG_COPD_Q0010",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丙 COPD｜定義與診斷" },
+    "stem": "下列何者為 COPD 診斷的關鍵肺功能標準？",
+    "options": [
+      { "key": "A", "text": "FEV1/FVC < 70%（支氣管擴張劑後）" },
+      { "key": "B", "text": "TLC < 70% predicted" },
+      { "key": "C", "text": "DLCO 一定下降" },
+      { "key": "D", "text": "FEV1 一定 < 50% predicted" }
+    ],
+    "answer": "A",
+    "explanation": "COPD 的核心為不可完全可逆的氣流受限；診斷以支氣管擴張劑後 FEV1/FVC < 70% 為準。"
+  },
+  {
+    "id": "MED3_V1_ORIG_COPD_Q0011",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丙 COPD｜危險因子" },
+    "stem": "下列何者不是 COPD 的主要危險因子？",
+    "options": [
+      { "key": "A", "text": "長期吸菸" },
+      { "key": "B", "text": "生質燃料或空氣污染暴露" },
+      { "key": "C", "text": "α1-antitrypsin 缺乏" },
+      { "key": "D", "text": "短期病毒感染一次" }
+    ],
+    "answer": "D",
+    "explanation": "COPD 風險與長期暴露相關（吸菸、污染、遺傳）；單次短期感染不構成主要危險因子。"
+  },
+  {
+    "id": "MED3_V1_ORIG_COPD_Q0012",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丙 COPD｜臨床表型" },
+    "stem": "下列何者最符合『pink puffer』的臨床特徵？",
+    "options": [
+      { "key": "A", "text": "呼吸困難明顯、體重偏低、氧合相對保留" },
+      { "key": "B", "text": "明顯發紺、紅血球增多、周邊水腫" },
+      { "key": "C", "text": "大量膿痰與反覆肺炎" },
+      { "key": "D", "text": "主要表現為夜間咳嗽與喘鳴" }
+    ],
+    "answer": "A",
+    "explanation": "Pink puffer 多對應肺氣腫表型：以呼吸困難為主、體重低、氧合相對保留；blue bloater 則偏慢性支氣管炎。"
+  },
+  {
+    "id": "MED3_V1_ORIG_COPD_Q0013",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丙 COPD｜臨床表型" },
+    "stem": "下列何者較符合『blue bloater』的特徵？",
+    "options": [
+      { "key": "A", "text": "慢性咳痰、發紺、紅血球增多" },
+      { "key": "B", "text": "體重過輕、嚴重呼吸困難、氧合正常" },
+      { "key": "C", "text": "僅運動誘發喘鳴" },
+      { "key": "D", "text": "急性起病、完全可逆" }
+    ],
+    "answer": "A",
+    "explanation": "Blue bloater 多對應慢性支氣管炎表型：慢性咳痰、低氧血症、發紺與次發性紅血球增多。"
+  },
+  {
+    "id": "MED3_V1_ORIG_COPD_Q0014",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丙 COPD｜急性惡化" },
+    "stem": "COPD 急性惡化最常見的誘因為何？",
+    "options": [
+      { "key": "A", "text": "呼吸道感染" },
+      { "key": "B", "text": "甲狀腺功能低下" },
+      { "key": "C", "text": "腎結石" },
+      { "key": "D", "text": "偏頭痛" }
+    ],
+    "answer": "A",
+    "explanation": "COPD 急性惡化多由感染（病毒或細菌）誘發，其次為空氣污染等。"
+  },
+  {
+    "id": "MED3_V1_ORIG_COPD_Q0015",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丙 COPD｜急性惡化處置" },
+    "stem": "COPD 急性惡化的第一線治療不包含下列何者？",
+    "options": [
+      { "key": "A", "text": "短效支氣管擴張劑（SABA ± SAMA）" },
+      { "key": "B", "text": "系統性類固醇（短期）" },
+      { "key": "C", "text": "氧氣治療（目標 SpO2 88–92%）" },
+      { "key": "D", "text": "長期預防性抗生素立即啟動" }
+    ],
+    "answer": "D",
+    "explanation": "急性惡化以支氣管擴張劑、短期類固醇與目標導向氧療為主；抗生素視細菌感染證據使用，非長期預防性。"
+  },
+  {
+    "id": "MED3_V1_ORIG_COPD_Q0016",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丙 COPD｜氧療" },
+    "stem": "COPD 急性惡化給氧時，建議的血氧目標為何？",
+    "options": [
+      { "key": "A", "text": "SpO2 88–92%" },
+      { "key": "B", "text": "SpO2 95–100%" },
+      { "key": "C", "text": "PaO2 > 120 mmHg" },
+      { "key": "D", "text": "不需監測" }
+    ],
+    "answer": "A",
+    "explanation": "COPD 病人過度給氧可能導致 CO2 retention；建議目標 SpO2 88–92%。"
+  },
+  {
+    "id": "MED3_V1_ORIG_COPD_Q0017",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丙 COPD｜非侵襲性通氣" },
+    "stem": "下列何者為 COPD 急性惡化使用非侵襲性正壓通氣（NIV）的適應症？",
+    "options": [
+      { "key": "A", "text": "呼吸性酸中毒（pH < 7.35 合併 PaCO2 上升）" },
+      { "key": "B", "text": "僅有輕微喘" },
+      { "key": "C", "text": "血壓穩定且無呼吸窘迫" },
+      { "key": "D", "text": "單純低血糖" }
+    ],
+    "answer": "A",
+    "explanation": "NIV 可改善通氣、降低插管率；適應症包含呼吸性酸中毒與顯著呼吸窘迫。"
+  },
+  {
+    "id": "MED3_V1_ORIG_COPD_Q0018",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丙 COPD｜長期治療" },
+    "stem": "下列何者為 COPD 長期藥物治療的核心？",
+    "options": [
+      { "key": "A", "text": "長效支氣管擴張劑（LABA/LAMA）" },
+      { "key": "B", "text": "單獨長期口服類固醇" },
+      { "key": "C", "text": "抗生素長期常規使用" },
+      { "key": "D", "text": "只使用 SABA 即可" }
+    ],
+    "answer": "A",
+    "explanation": "COPD 長期治療以長效支氣管擴張劑為基石；ICS 視急性惡化風險與嗜酸性球數量加用。"
+  }
+
+,
+  
+  {
+    "id": "MED3_V1_ORIG_ILD_Q0010",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丁 間質性肺病｜總論" },
+    "stem": "下列何者最符合間質性肺病（ILD）的典型臨床表現？",
+    "options": [
+      { "key": "A", "text": "漸進性呼吸困難、乾咳、運動耐受度下降" },
+      { "key": "B", "text": "突發胸痛合併休克" },
+      { "key": "C", "text": "大量膿痰、反覆高燒" },
+      { "key": "D", "text": "間歇性喘鳴、完全可逆" }
+    ],
+    "answer": "A",
+    "explanation": "ILD 多呈慢性、漸進性呼吸困難與乾咳；大量膿痰或完全可逆較不符合 ILD。"
+  },
+  {
+    "id": "MED3_V1_ORIG_ILD_Q0011",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丁 間質性肺病｜理學檢查" },
+    "stem": "ILD 病人最常見的理學檢查發現為何？",
+    "options": [
+      { "key": "A", "text": "雙側下肺野 fine crackles（Velcro rales）" },
+      { "key": "B", "text": "單側濕囉音" },
+      { "key": "C", "text": "明顯喘鳴為主" },
+      { "key": "D", "text": "心包摩擦音" }
+    ],
+    "answer": "A",
+    "explanation": "ILD 常見雙側下肺野細小爆裂音（Velcro rales），反映肺間質纖維化。"
+  },
+  {
+    "id": "MED3_V1_ORIG_ILD_Q0012",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丁 間質性肺病｜肺功能" },
+    "stem": "ILD 的典型肺功能表現為何？",
+    "options": [
+      { "key": "A", "text": "限制型通氣障礙（TLC、FVC 下降）" },
+      { "key": "B", "text": "FEV1/FVC 顯著下降" },
+      { "key": "C", "text": "僅有支氣管擴張劑可逆性" },
+      { "key": "D", "text": "TLC 正常或上升" }
+    ],
+    "answer": "A",
+    "explanation": "ILD 以限制型通氣障礙為主，FEV1/FVC 多正常或上升，與阻塞型疾病不同。"
+  },
+  {
+    "id": "MED3_V1_ORIG_ILD_Q0013",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丁 間質性肺病｜DLCO" },
+    "stem": "下列何者最符合 ILD 對 DLCO 的影響？",
+    "options": [
+      { "key": "A", "text": "DLCO 下降" },
+      { "key": "B", "text": "DLCO 一定上升" },
+      { "key": "C", "text": "DLCO 不受影響" },
+      { "key": "D", "text": "僅在氣喘才改變" }
+    ],
+    "answer": "A",
+    "explanation": "ILD 因肺泡—微血管膜受損，導致氣體交換效率下降，DLCO 常降低。"
+  },
+  {
+    "id": "MED3_V1_ORIG_ILD_Q0014",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丁 間質性肺病｜影像" },
+    "stem": "評估 ILD 最重要的影像檢查為何？",
+    "options": [
+      { "key": "A", "text": "高解析度胸部電腦斷層（HRCT）" },
+      { "key": "B", "text": "單純胸部 X 光即可" },
+      { "key": "C", "text": "腹部 CT" },
+      { "key": "D", "text": "心臟超音波" }
+    ],
+    "answer": "A",
+    "explanation": "HRCT 可清楚顯示網狀、蜂窩狀、ground-glass 等間質性病變，是 ILD 評估關鍵。"
+  },
+  {
+    "id": "MED3_V1_ORIG_ILD_Q0015",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丁 間質性肺病｜IPF" },
+    "stem": "特發性肺纖維化（IPF）最典型的 HRCT 表現為何？",
+    "options": [
+      { "key": "A", "text": "下肺野、周邊為主的蜂窩狀變化（honeycombing）" },
+      { "key": "B", "text": "中央型支氣管擴張" },
+      { "key": "C", "text": "單純肺門淋巴結腫大" },
+      { "key": "D", "text": "廣泛實變伴氣支氣管徵" }
+    ],
+    "answer": "A",
+    "explanation": "IPF 屬 UIP pattern，典型為下肺野、周邊為主的蜂窩狀與網狀變化。"
+  },
+  {
+    "id": "MED3_V1_ORIG_ILD_Q0016",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丁 間質性肺病｜病因" },
+    "stem": "下列何者不是 ILD 的常見病因或相關疾病？",
+    "options": [
+      { "key": "A", "text": "自體免疫疾病（如 RA、SSc）" },
+      { "key": "B", "text": "藥物或職業暴露" },
+      { "key": "C", "text": "吸菸" },
+      { "key": "D", "text": "單純高血脂" }
+    ],
+    "answer": "D",
+    "explanation": "ILD 常與自體免疫疾病、藥物/職業暴露、吸菸相關；高血脂非典型病因。"
+  },
+  {
+    "id": "MED3_V1_ORIG_ILD_Q0017",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丁 間質性肺病｜治療" },
+    "stem": "關於 ILD 的治療原則，下列何者正確？",
+    "options": [
+      { "key": "A", "text": "需依病因分類，並非所有 ILD 都適合類固醇" },
+      { "key": "B", "text": "所有 ILD 一律長期高劑量類固醇" },
+      { "key": "C", "text": "抗生素為長期治療基石" },
+      { "key": "D", "text": "支氣管擴張劑即可治癒" }
+    ],
+    "answer": "A",
+    "explanation": "ILD 治療須依病因與型態（如 IPF vs 發炎性 ILD）決定；IPF 有抗纖維化藥物，並非一律類固醇。"
+  }
+
 
 
 
