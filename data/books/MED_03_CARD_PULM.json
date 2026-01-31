@@ -796,9 +796,8 @@
       "emergency",
       "hypertension"
     ]
-  }
-],
-[
+  },
+  [
   {
     "id": "MED_03_CARD_PULM_ORIG_HTN_Q0014",
     "source_type": "original",
@@ -1149,4 +1148,5 @@
     "explanation": "典型線索包括突發撕裂樣胸背痛、脈搏/血壓不對稱、胸部 X 光縱隔增寬；確診多依 CTA/TEE/MRI 視情況選用。",
     "tags": ["aortic dissection", "clinical"]
   }
+]
 ]
