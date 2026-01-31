@@ -1320,7 +1320,235 @@
     "answer": "A",
     "explanation": "書中在『較不像氣喘』的病史列出：慢性痰多需考慮 COPD 或支氣管擴張。 [oai_citation:14‡三(1)：心內、胸內.pdf](sediment://file_00000000ec107206b1b91d397c0efbac)",
     "tags": ["sputum", "COPD", "bronchiectasis"]
+  },
+
+  
+  {
+    "id": "MED3_V1_DER_COPD_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丙 COPD｜診斷" },
+    "stem": "COPD 的肺功能診斷最核心的條件為何？",
+    "options": [
+      { "key": "A", "text": "FEV1/FVC < 0.70（支氣管擴張劑後）" },
+      { "key": "B", "text": "DLCO > 120% predicted" },
+      { "key": "C", "text": "TLC < 80% predicted" },
+      { "key": "D", "text": "FEV1 > 80% predicted 即可確診" }
+    ],
+    "answer": "A",
+    "explanation": "COPD 的關鍵是『持續性氣流受限』，以支氣管擴張劑後 FEV1/FVC < 0.70 作為典型診斷門檻。TLC 下降偏限制型；DLCO 上升非 COPD 典型。"
+  },
+  {
+    "id": "MED3_V1_DER_COPD_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丙 COPD｜病理生理" },
+    "stem": "下列何者最符合肺氣腫（emphysema）造成氣流受限的主要機轉？",
+    "options": [
+      { "key": "A", "text": "肺泡壁破壞導致彈性回縮力下降與小氣道塌陷" },
+      { "key": "B", "text": "支氣管平滑肌痙攣為主，完全可逆" },
+      { "key": "C", "text": "肺泡毛細血管充血使 DLCO 上升" },
+      { "key": "D", "text": "胸水增加導致 FEV1/FVC 上升" }
+    ],
+    "answer": "A",
+    "explanation": "肺氣腫的核心是肺泡結構破壞 → 彈性回縮力下降 → 呼氣期小氣道易塌陷與 air trapping，造成不可完全逆轉的氣流受限。"
+  },
+  {
+    "id": "MED3_V1_DER_COPD_Q0003",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丙 COPD｜鑑別" },
+    "stem": "下列何者較支持『COPD』而非『氣喘』？",
+    "options": [
+      { "key": "A", "text": "中老年、長期吸菸史、症狀持續且可逆性較差" },
+      { "key": "B", "text": "症狀明顯日夜變動、清晨/半夜加劇、可逆性高度陽性" },
+      { "key": "C", "text": "FEV1 增加 >12% 且 >200 mL（支擴後）是典型 COPD" },
+      { "key": "D", "text": "DLCO 一定上升" }
+    ],
+    "answer": "A",
+    "explanation": "COPD 常見於中老年且與吸菸高度相關，症狀較持續且支擴後可逆性較差；氣喘常見症狀變動、夜間/清晨加劇，且可逆性試驗陽性更支持氣喘。"
+  },
+  {
+    "id": "MED3_V1_DER_COPD_Q0004",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丙 COPD｜急性惡化處置" },
+    "stem": "COPD 急性惡化（AECOPD）第一線『支氣管擴張』用藥組合最典型為何？",
+    "options": [
+      { "key": "A", "text": "吸入 SABA（如 albuterol）± 吸入 SAMA（如 ipratropium）" },
+      { "key": "B", "text": "theophylline 單方" },
+      { "key": "C", "text": "吸入 ICS 單方" },
+      { "key": "D", "text": "長效 β2 刺激劑（LABA）起始即可取代所有短效藥" }
+    ],
+    "answer": "A",
+    "explanation": "AECOPD 急性期以短效支氣管擴張劑為主：SABA ± SAMA；theophylline 治療窗窄不作首選；ICS 單方不適合急性期立即救急。"
+  },
+  {
+    "id": "MED3_V1_DER_COPD_Q0005",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丙 COPD｜急性惡化處置" },
+    "stem": "AECOPD 使用全身性類固醇的典型建議劑量/療程為何？",
+    "options": [
+      { "key": "A", "text": "Prednisone 40 mg/day 約 5 天（或等效劑量）" },
+      { "key": "B", "text": "Prednisone 5 mg/day 連續 6 個月" },
+      { "key": "C", "text": "僅在同時有蕁麻疹時才使用" },
+      { "key": "D", "text": "必須靜脈高劑量 methylprednisolone 500 mg/day 連續 14 天" }
+    ],
+    "answer": "A",
+    "explanation": "AECOPD 給予短療程全身性類固醇可改善肺功能與症狀、降低治療失敗；常用 prednisone 40 mg/day 5 天（或等效）。長期低劑量或高劑量長療程副作用大且不必要。"
+  },
+  {
+    "id": "MED3_V1_DER_COPD_Q0006",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丙 COPD｜急性惡化處置" },
+    "stem": "AECOPD 何時較需要考慮抗生素治療？",
+    "options": [
+      { "key": "A", "text": "痰量增加、痰變膿、呼吸困難加劇（Anthonisen 三症狀）或需機械通氣" },
+      { "key": "B", "text": "只要有咳嗽就一定要抗生素" },
+      { "key": "C", "text": "只要胸部 X 光正常就一定不需要抗生素" },
+      { "key": "D", "text": "僅在白血球 > 20,000 才需要" }
+    ],
+    "answer": "A",
+    "explanation": "AECOPD 抗生素通常在細菌感染可能性高時使用：三大症狀（呼吸困難、痰量增加、痰膿性）或需要（非侵襲/侵襲）通氣支持者。"
+  },
+  {
+    "id": "MED3_V1_DER_COPD_Q0007",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丙 COPD｜氧氣與通氣" },
+    "stem": "AECOPD 給氧治療的目標血氧飽和度（SpO2）最常建議為何？",
+    "options": [
+      { "key": "A", "text": "88–92%" },
+      { "key": "B", "text": "100% 以避免缺氧" },
+      { "key": "C", "text": "70–75% 以避免 CO2 retention" },
+      { "key": "D", "text": "不需監測，給越多越好" }
+    ],
+    "answer": "A",
+    "explanation": "COPD 可能有慢性高碳酸血症；急性惡化給氧目標通常 88–92% 以兼顧氧合與避免過度給氧導致 CO2 retention/酸中毒風險。"
+  },
+  {
+    "id": "MED3_V1_DER_COPD_Q0008",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丙 COPD｜氧氣與通氣" },
+    "stem": "AECOPD 何者最符合啟動非侵襲性正壓通氣（NIV）的典型指徵？",
+    "options": [
+      { "key": "A", "text": "呼吸性酸中毒（如 pH < 7.35）且 PaCO2 升高" },
+      { "key": "B", "text": "單純鼻塞" },
+      { "key": "C", "text": "單純發燒但呼吸正常" },
+      { "key": "D", "text": "pH 7.50（呼吸性鹼中毒）且 PaCO2 下降" }
+    ],
+    "answer": "A",
+    "explanation": "NIV 對 AECOPD 合併高碳酸血症與呼吸性酸中毒最有實證效益，可降低插管率與死亡率。"
+  },
+  {
+    "id": "MED3_V1_DER_COPD_Q0009",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丙 COPD｜長期治療" },
+    "stem": "長期氧療（LTOT）在穩定 COPD 的典型適應症為何？",
+    "options": [
+      { "key": "A", "text": "PaO2 ≤ 55 mmHg 或 SaO2 ≤ 88%（穩定狀態），或 PaO2 56–59 合併肺高壓/右心衰/紅血球增多" },
+      { "key": "B", "text": "只要有喘就應該 24 小時給氧" },
+      { "key": "C", "text": "只要 DLCO 下降就必須 LTOT" },
+      { "key": "D", "text": "只要 FEV1 < 80% 就必須 LTOT" }
+    ],
+    "answer": "A",
+    "explanation": "LTOT 的死亡率獲益主要在嚴重慢性低氧血症族群；條件通常以 PaO2/SaO2 門檻（及合併右心衰/肺高壓/紅血球增多等）判定。"
+  },
+  {
+    "id": "MED3_V1_DER_COPD_Q0010",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丙 COPD｜特殊病因" },
+    "stem": "年輕（<45 歲）或下葉為主之肺氣腫、非典型吸菸史者，應考慮哪個可檢驗的特殊病因？",
+    "options": [
+      { "key": "A", "text": "α1-antitrypsin deficiency" },
+      { "key": "B", "text": "G6PD deficiency" },
+      { "key": "C", "text": "sickle cell disease" },
+      { "key": "D", "text": "Gilbert syndrome" }
+    ],
+    "answer": "A",
+    "explanation": "α1-antitrypsin deficiency 會造成較早發的肺氣腫（常為 panacinar，偏下葉），遇到年輕或不符吸菸量的病人要想到並檢驗。"
+  },
+  {
+    "id": "MED3_V1_DER_COPD_Q0011",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丙 COPD｜藥物策略" },
+    "stem": "下列哪一項最符合 roflumilast 的典型使用情境？",
+    "options": [
+      { "key": "A", "text": "慢性支氣管炎表現、重度氣流受限且反覆急性惡化者（作為降低惡化策略之一）" },
+      { "key": "B", "text": "急性發作第一線立即救急用藥" },
+      { "key": "C", "text": "所有 COPD 病人都必須使用" },
+      { "key": "D", "text": "只用於肺炎的抗生素替代品" }
+    ],
+    "answer": "A",
+    "explanation": "Roflumilast（PDE-4 inhibitor）主要用在部分高風險 COPD（特別慢性支氣管炎表型、重度、反覆惡化）以降低惡化頻率；不是急性救急藥。"
+  },
+  {
+    "id": "MED3_V1_DER_COPD_Q0012",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丙 COPD｜ICS 適應症概念" },
+    "stem": "COPD 長期治療中，何者較支持加用吸入型類固醇（ICS）（通常以 ICS/LABA 或 triple therapy）？",
+    "options": [
+      { "key": "A", "text": "反覆惡化且嗜酸性球偏高／或有明顯氣喘重疊特徵" },
+      { "key": "B", "text": "只有單次輕微咳嗽" },
+      { "key": "C", "text": "沒有惡化史且症狀很輕" },
+      { "key": "D", "text": "只因為 DLCO 下降" }
+    ],
+    "answer": "A",
+    "explanation": "ICS 在 COPD 的主要角色是降低部分病人的惡化風險，特別是反覆惡化且血嗜酸性球較高、或有氣喘重疊者；單純輕症或無惡化史不一定需要，且 ICS 會增加肺炎風險。"
+  },
+  {
+    "id": "MED3_V1_DER_COPD_Q0013",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丙 COPD｜非藥物治療" },
+    "stem": "下列何者是 COPD 具有最大長期預後效益、且所有吸菸者都應積極執行的介入？",
+    "options": [
+      { "key": "A", "text": "戒菸（含行為治療與藥物輔助）" },
+      { "key": "B", "text": "每日預防性口服類固醇" },
+      { "key": "C", "text": "每週靜脈抗生素" },
+      { "key": "D", "text": "長期使用短效 β2 刺激劑單方" }
+    ],
+    "answer": "A",
+    "explanation": "戒菸是 COPD 最關鍵的疾病修正介入，可降低肺功能下降速度並改善長期預後；其他選項不是標準或風險遠大於獲益。"
+  },
+  {
+    "id": "MED3_V1_DER_COPD_Q0014",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丙 COPD｜併發症" },
+    "stem": "COPD 併發肺高壓/右心衰（cor pulmonale）時，較可能出現下列哪個臨床表現？",
+    "options": [
+      { "key": "A", "text": "下肢水腫、頸靜脈怒張、肝腫大" },
+      { "key": "B", "text": "侷限性右下腹反跳痛" },
+      { "key": "C", "text": "黃疸合併灰白便" },
+      { "key": "D", "text": "腦膜刺激徵" }
+    ],
+    "answer": "A",
+    "explanation": "慢性缺氧導致肺血管收縮與重塑可形成肺高壓，進而造成右心負荷增加與右心衰，典型表現為 JVD、周邊水腫、肝腫大等。"
+  },
+  {
+    "id": "MED3_V1_DER_COPD_Q0015",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜丙 COPD｜鑑別與影像" },
+    "stem": "下列哪一項胸部影像/生理特徵較符合肺氣腫（emphysema）而非慢性支氣管炎（chronic bronchitis）？",
+    "options": [
+      { "key": "A", "text": "過度充氣、橫膈變平、DLCO 下降較明顯" },
+      { "key": "B", "text": "長期咳痰為主，DLCO 多正常" },
+      { "key": "C", "text": "一定合併大量胸水" },
+      { "key": "D", "text": "一定合併雙側肺門淋巴結腫大" }
+    ],
+    "answer": "A",
+    "explanation": "肺氣腫常見 air trapping/過度充氣與橫膈變平，且因肺泡-毛細血管床破壞導致 DLCO 下降；慢性支氣管炎則以咳痰為主、DLCO 常較保留。"
   }
+
 
 
 ]
