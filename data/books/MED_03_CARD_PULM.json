@@ -1147,6 +1147,180 @@
     "answer": "A",
     "explanation": "典型線索包括突發撕裂樣胸背痛、脈搏/血壓不對稱、胸部 X 光縱隔增寬；確診多依 CTA/TEE/MRI 視情況選用。",
     "tags": ["aortic dissection", "clinical"]
+  },
+
+  
+  {
+    "id": "MED3_V1_ORIG_PULM_BASIC_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜甲 胸腔科基本知識｜胸部X光判讀" },
+    "stem": "要診斷肺尖 (lung apices) 上的病灶，下列何種 X 光片的照法最為適當？",
+    "options": [
+      { "key": "A", "text": "PA view" },
+      { "key": "B", "text": "lateral view" },
+      { "key": "C", "text": "lateral decubitus view" },
+      { "key": "D", "text": "lordotic view" }
+    ],
+    "answer": "D",
+    "explanation": "Lordotic view 可減少鎖骨與第一、二肋骨對肺尖的遮蔽，提升肺尖病灶辨識度，因此最適合用來看肺尖病灶。 [oai_citation:4‡三(1)：心內、胸內.pdf](sediment://file_00000000ec107206b1b91d397c0efbac)"
+  },
+  {
+    "id": "MED3_V1_ORIG_PULM_BASIC_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜甲 胸腔科基本知識｜胸部X光判讀" },
+    "stem": "50 歲男性主訴胸痛和咳嗽，胸部影像如圖（題本），最可能的診斷為下列何者？",
+    "options": [
+      { "key": "A", "text": "肺癌" },
+      { "key": "B", "text": "侷限性肋膜積液" },
+      { "key": "C", "text": "葉間積液 (interlobar effusion)" },
+      { "key": "D", "text": "肺動脈栓塞 (pulmonary embolism)" }
+    ],
+    "answer": "A",
+    "explanation": "題本詳解指出：可見 mass lesion 壓迫支氣管造成不規則狹窄；積液較不會造成此型態；肺栓塞梗塞較常呈外側 wedge-shaped 影像表現，因此選肺癌。 [oai_citation:5‡三(1)：心內、胸內.pdf](sediment://file_00000000ec107206b1b91d397c0efbac)"
+  },
+  {
+    "id": "MED3_V1_DER_PULM_BASIC_Q0003",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜甲 胸腔科基本知識｜症狀學鑑別" },
+    "stem": "胸痛病患的初步鑑別診斷，下列哪一組屬於本書強調需優先排除的『四大急症』？",
+    "options": [
+      { "key": "A", "text": "心肌梗塞、主動脈剝離、高張性氣胸、心包膜填塞" },
+      { "key": "B", "text": "肺癌、胃食道逆流、肋軟骨炎、帶狀皰疹" },
+      { "key": "C", "text": "肺結核、COPD、氣喘、支氣管擴張" },
+      { "key": "D", "text": "肺炎、肋膜積液、肺水腫、肺栓塞" }
+    ],
+    "answer": "A",
+    "explanation": "本書在胸痛鑑別中明確提到需先排除四大急症：心肌梗塞、主動脈剝離、高張性氣胸、心包膜填塞。 [oai_citation:6‡三(1)：心內、胸內.pdf](sediment://file_00000000ec107206b1b91d397c0efbac)",
+    "tags": ["chest pain", "emergency", "differential"]
+  },
+  {
+    "id": "MED3_V1_DER_PFT_Q0004",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜甲 胸腔科基本知識｜肺功能" },
+    "stem": "下列何者為本書對 COPD 的肺功能診斷門檻？",
+    "options": [
+      { "key": "A", "text": "FEV1/FVC < 70%" },
+      { "key": "B", "text": "FEV1/FVC < 90%" },
+      { "key": "C", "text": "TLC < 70% predicted" },
+      { "key": "D", "text": "DLCO > 120% predicted" }
+    ],
+    "answer": "A",
+    "explanation": "書中在肺量計段落寫明：阻塞性氣道阻塞與 COPD 的定義可用 FEV1/FVC < 70% 作為門檻。 [oai_citation:7‡三(1)：心內、胸內.pdf](sediment://file_00000000ec107206b1b91d397c0efbac)",
+    "tags": ["spirometry", "COPD", "diagnosis"]
+  },
+  {
+    "id": "MED3_V1_DER_DLCO_Q0005",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜甲 胸腔科基本知識｜肺功能" },
+    "stem": "依本書：DLCO 下降較常見於下列哪一組情況？",
+    "options": [
+      { "key": "A", "text": "肺氣腫、間質性肺病、肺血管栓塞" },
+      { "key": "B", "text": "肥胖、肺出血、心衰竭早期、氣喘" },
+      { "key": "C", "text": "單純焦慮過度換氣" },
+      { "key": "D", "text": "上呼吸道感染（鼻炎）" }
+    ],
+    "answer": "A",
+    "explanation": "書中列舉：DLCO 在肺氣腫、間質性肺病、肺血管栓塞時會下降；在肥胖、肺出血、心衰竭早期、氣喘等血流量增加情境可上升。 [oai_citation:8‡三(1)：心內、胸內.pdf](sediment://file_00000000ec107206b1b91d397c0efbac)",
+    "tags": ["DLCO", "PFT", "differential"]
+  },
+  {
+    "id": "MED3_V1_DER_ASTHMA_Q0006",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜乙 氣喘｜肺功能" },
+    "stem": "支氣管擴張劑可逆性試驗（bronchodilator reversibility test）陽性，依本書最符合的條件是？",
+    "options": [
+      { "key": "A", "text": "FEV1 增加 > 12% 且 > 200 mL" },
+      { "key": "B", "text": "FEV1 增加 > 5% 且 > 50 mL" },
+      { "key": "C", "text": "FEV1/FVC < 70% 即可視為陽性" },
+      { "key": "D", "text": "DLCO 增加 > 10% 即可視為陽性" }
+    ],
+    "answer": "A",
+    "explanation": "書中氣喘診斷段落：支氣管擴張劑可逆性試驗陽性為 FEV1 增加 >12% 且 >200 mL；若 >15% 且 >400 mL 更能確認診斷。 [oai_citation:9‡三(1)：心內、胸內.pdf](sediment://file_00000000ec107206b1b91d397c0efbac)",
+    "tags": ["asthma", "spirometry", "reversibility"]
+  },
+  {
+    "id": "MED3_V1_ORIG_ASTHMA_Q0007",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜乙 氣喘｜題目" },
+    "stem": "對於急性氣喘發作，下列何者藥物不是第一線的治療選項？",
+    "options": [
+      { "key": "A", "text": "β2 adrenergic agents" },
+      { "key": "B", "text": "Anticholinergics" },
+      { "key": "C", "text": "Corticosteroids" },
+      { "key": "D", "text": "Theophylline" }
+    ],
+    "answer": "D",
+    "explanation": "題本將急性發作第一線放在吸入型支氣管擴張劑（SABA）、抗膽鹼藥（視嚴重度加用）與全身性類固醇；theophylline 因治療窗窄、副作用與交互作用較多，通常不作急性發作第一線。題幹出處同題組。 [oai_citation:10‡三(1)：心內、胸內.pdf](sediment://file_00000000ec107206b1b91d397c0efbac)"
+  },
+  {
+    "id": "MED3_V1_ORIG_ASTHMA_Q0008",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜乙 氣喘｜題目" },
+    "stem": "下列關於氣喘 (bronchial asthma) 疾病的敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "呼吸道慢性發炎反應 (chronic inflammation)" },
+      { "key": "B", "text": "呼吸道過度反應 (hyperresponsiveness)" },
+      { "key": "C", "text": "多屬不可逆性的氣道阻塞 (irreversible airway obstruction)" },
+      { "key": "D", "text": "屬異質性 (heterogeneous) 疾病，常是基因與環境因素交互作用所致" }
+    ],
+    "answer": "C",
+    "explanation": "氣喘典型特徵是可變且多數可逆的氣流受限（尤其在早期/適當治療下），並非『多屬不可逆』；A、B、D 符合氣喘核心特徵（慢性發炎、氣道高反應、異質性與基因×環境交互）。 [oai_citation:11‡三(1)：心內、胸內.pdf](sediment://file_00000000ec107206b1b91d397c0efbac)"
+  },
+  {
+    "id": "MED3_V1_ORIG_ASTHMA_Q0009",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜乙 氣喘｜題目" },
+    "stem": "評估支氣管哮喘病患急性發作時，下列何種理學檢查結果不能作為哮喘嚴重度指標？",
+    "options": [
+      { "key": "A", "text": "使用輔助肌吸氣 (accessory muscle use)" },
+      { "key": "B", "text": "使用噘嘴呼吸 (pursed-lip breathing)" },
+      { "key": "C", "text": "胸腔過度充氣 (hyperinflation)" },
+      { "key": "D", "text": "有奇異脈 (paradoxical pulse)" }
+    ],
+    "answer": "B",
+    "explanation": "題本詳解：噘嘴呼吸屬於氣喘/COPD 的呼吸訓練技巧，並非急性惡化的嚴重度表徵；其餘如輔助肌使用、過度充氣、奇異脈可見於嚴重發作評估情境。 [oai_citation:12‡三(1)：心內、胸內.pdf](sediment://file_00000000ec107206b1b91d397c0efbac)"
+  },
+  {
+    "id": "MED3_V1_DER_ASTHMA_Q0010",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜乙 氣喘｜病史詢問" },
+    "stem": "下列哪一項病史特徵『較不像』典型氣喘？",
+    "options": [
+      { "key": "A", "text": "症狀在半夜或清晨惡化" },
+      { "key": "B", "text": "症狀隨時間變化，且可被病毒感染/運動/過敏原誘發" },
+      { "key": "C", "text": "只有咳嗽、沒有其他呼吸道症狀" },
+      { "key": "D", "text": "咳、喘、胸悶、喘鳴多種症狀並存" }
+    ],
+    "answer": "C",
+    "explanation": "書中指出：只有咳嗽而無其他呼吸道症狀時，需優先考慮 post-nasal drip 或 GERD；其餘選項皆是偏向氣喘的典型病史特徵。 [oai_citation:13‡三(1)：心內、胸內.pdf](sediment://file_00000000ec107206b1b91d397c0efbac)",
+    "tags": ["asthma", "history", "differential"]
+  },
+  {
+    "id": "MED3_V1_DER_ASTHMA_Q0011",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜乙 氣喘｜病史詢問" },
+    "stem": "慢性痰多（chronic sputum production）合併呼吸道症狀時，依本書較應優先考慮哪一組診斷？",
+    "options": [
+      { "key": "A", "text": "COPD 或支氣管擴張" },
+      { "key": "B", "text": "單純氣喘" },
+      { "key": "C", "text": "心因性過度換氣" },
+      { "key": "D", "text": "急性肺栓塞" }
+    ],
+    "answer": "A",
+    "explanation": "書中在『較不像氣喘』的病史列出：慢性痰多需考慮 COPD 或支氣管擴張。 [oai_citation:14‡三(1)：心內、胸內.pdf](sediment://file_00000000ec107206b1b91d397c0efbac)",
+    "tags": ["sputum", "COPD", "bronchiectasis"]
   }
+
 
 ]
