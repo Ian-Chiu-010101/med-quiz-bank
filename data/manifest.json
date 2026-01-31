@@ -2,6 +2,6 @@
   "version": 1,
   "sources": [
     { "id": "TEST", "title": "測試題庫", "path": "./data/questions.json", "enabled": true },
-    { "id": "MED3_CARD", "title": "三(1) 心內、胸內", "path": "./data/books/MED3_V1.json", "enabled": true }
+    { "id": "MED3_V1", "title": "三(1) 心內、胸內", "path": "./data/books/MED3_V1.json", "enabled": true }
   ]
 }
