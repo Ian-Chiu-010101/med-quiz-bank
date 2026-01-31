@@ -797,4 +797,356 @@
       "hypertension"
     ]
   }
+],
+[
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0014",
+    "source_type": "original",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "page": 26 },
+    "stem": "下列何者不是寬的脈搏壓（wide pulse pressure）要考慮的鑑別診斷？",
+    "options": [
+      { "key": "A", "text": "主動脈瓣狹窄 (aortic stenosis)" },
+      { "key": "B", "text": "甲狀腺毒症 (thyrotoxicosis)" },
+      { "key": "C", "text": "感染發燒" },
+      { "key": "D", "text": "開放性動脈導管 (patent ductus arteriosus)" }
+    ],
+    "answer": "A",
+    "explanation": "主動脈瓣狹窄通常造成『窄』脈搏壓，因射出受限使收縮壓不易上升。相反地，甲亢、發燒、PDA 等高心輸出/低周邊阻力或增加收縮壓情境較常見 wide pulse pressure。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0015",
+    "source_type": "original",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "page": 26 },
+    "stem": "一位 26 歲女性患高血壓半年，近 3 個月出現心悸、頭痛、流汗。若欲給藥治療其高血壓，下列何者最適當？（疑嗜鉻細胞瘤）",
+    "options": [
+      { "key": "A", "text": "僅使用 α 阻斷劑 (alpha-adrenergic blocker)" },
+      { "key": "B", "text": "僅使用 β 阻斷劑 (beta-adrenergic blocker)" },
+      { "key": "C", "text": "鈣離子阻斷劑" },
+      { "key": "D", "text": "先 α 阻斷，再加 β 阻斷" }
+    ],
+    "answer": "B",
+    "explanation": "嗜鉻細胞瘤若單獨先給 β 阻斷劑，會造成未被抑制的 α 作用『相對占優勢』而使血壓更劇烈上升。正確原則是先 α 阻斷後必要時再加 β 阻斷。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0016",
+    "source_type": "original",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "page": 27 },
+    "stem": "一位 27 歲女性長期追蹤高血壓，為育齡/可能懷孕族群。下列何者最不適合？",
+    "options": [
+      { "key": "A", "text": "methyldopa" },
+      { "key": "B", "text": "長效型 calcium channel blocker" },
+      { "key": "C", "text": "labetalol" },
+      { "key": "D", "text": "ACE inhibitor" }
+    ],
+    "answer": "D",
+    "explanation": "ACEI/ARB 具胎兒腎毒性與致畸胎風險，育齡女性/妊娠應避免；methyldopa、labetalol、部分 CCB（如 nifedipine）較常作為妊娠期可用選項。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0017",
+    "source_type": "original",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "page": 27 },
+    "stem": "25 歲男性疑嗜鉻細胞瘤即將接受手術治療，下列處置何者最正確？",
+    "options": [
+      { "key": "A", "text": "立刻安排緊急手術切除" },
+      { "key": "B", "text": "儘快安排 CT 導引腎上腺腫瘤切片" },
+      { "key": "C", "text": "手術前 7–10 天先給予適量 α 阻斷劑並補充水分" },
+      { "key": "D", "text": "立即給予體抑素類似物 (somatostatin analogue)" }
+    ],
+    "answer": "C",
+    "explanation": "嗜鉻細胞瘤手術前需充分準備：先以 α 阻斷劑控制血壓並擴充血容量（補液），必要時再加 β 阻斷以控制心搏過速；避免穿刺活檢誘發兒茶酚胺危象。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0018",
+    "source_type": "original",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "page": 28 },
+    "stem": "下列何種狀況不是使用 ACE inhibitor 的禁忌？",
+    "options": [
+      { "key": "A", "text": "腎功能持續惡化" },
+      { "key": "B", "text": "低血鉀" },
+      { "key": "C", "text": "懷孕" },
+      { "key": "D", "text": "雙側腎動脈狹窄" }
+    ],
+    "answer": "B",
+    "explanation": "ACEI 常見問題是『高血鉀』而不是低血鉀；懷孕、雙側腎動脈狹窄、腎功能惡化等需避免或慎用。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0019",
+    "source_type": "original",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "page": 28 },
+    "stem": "當高血壓病人合併下列狀況時，何者較不支持次發性高血壓？",
+    "options": [
+      { "key": "A", "text": "抽血發現低血鉀" },
+      { "key": "B", "text": "頭痛、心悸、盜汗" },
+      { "key": "C", "text": "睡覺打鼾且白天嗜睡" },
+      { "key": "D", "text": "高血脂症" }
+    ],
+    "answer": "D",
+    "explanation": "低血鉀（考慮原發性醛固酮增多症）、三聯症狀（考慮嗜鉻細胞瘤）、打鼾嗜睡（考慮 OSA）都支持次發性高血壓；高血脂並非典型次發性線索。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0020",
+    "source_type": "original",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "page": 29 },
+    "stem": "26 歲患者 BMI 20，健檢發現高血壓、低血鉀。評估次發性高血壓的檢查何者最適當？",
+    "options": [
+      { "key": "A", "text": "aldosterone 與 plasma renin activity" },
+      { "key": "B", "text": "ACTH 與 cortisol" },
+      { "key": "C", "text": "24 小時尿 VMA 與 catecholamines" },
+      { "key": "D", "text": "free T4 與 TSH" }
+    ],
+    "answer": "A",
+    "explanation": "高血壓合併低血鉀優先考慮原發性醛固酮增多症；初步檢查為 aldosterone/renin（比值）評估。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0021",
+    "source_type": "original",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "page": 29 },
+    "stem": "測量血壓時由近心端往周邊逐次測量，下列敘述何者正確？",
+    "options": [
+      { "key": "A", "text": "收縮壓上升、舒張壓下降" },
+      { "key": "B", "text": "收縮壓上升、舒張壓上升" },
+      { "key": "C", "text": "收縮壓不變、舒張壓下降" },
+      { "key": "D", "text": "收縮壓上升、舒張壓不變" }
+    ],
+    "answer": "A",
+    "explanation": "越往周邊血管阻力與反射波影響增加，收縮壓通常較高；舒張壓受大血管回彈影響，往周邊相對較低。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0022",
+    "source_type": "original",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "page": 29 },
+    "stem": "40 歲糖尿病患者，eGFR 59 mL/min/1.73m² 且尿蛋白 1.5 g/day，血壓 138/86 mmHg。下列處置何者最恰當？",
+    "options": [
+      { "key": "A", "text": "輔以低劑量長效型胰島素" },
+      { "key": "B", "text": "使用紅血球生成素以減緩腎功能惡化" },
+      { "key": "C", "text": "加用 ACEi/ARB（RAS blockade）" },
+      { "key": "D", "text": "低蛋白飲食合併胺基酸補充品" }
+    ],
+    "answer": "C",
+    "explanation": "糖尿病合併蛋白尿/CKD 者，優先使用 RAS blockade（ACEi 或 ARB）以降低蛋白尿並延緩腎功能惡化，血壓目標常較嚴格（依指南與個案）。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0023",
+    "source_type": "original",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "page": 30 },
+    "stem": "65 歲男性換藥後出現腹脹與便秘，最可能使用下列何種降壓藥？",
+    "options": [
+      { "key": "A", "text": "Valsartan" },
+      { "key": "B", "text": "Renitec (enalapril)" },
+      { "key": "C", "text": "Labetalol" },
+      { "key": "D", "text": "Amlodipine" }
+    ],
+    "answer": "D",
+    "explanation": "鈣離子阻斷劑常見副作用包括便秘、周邊水腫等；臨床題幹以 amlodipine 作為選項。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0024",
+    "source_type": "original",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "page": 30 },
+    "stem": "55 歲女性高血壓與糖尿病，近 3 個月乾咳，無呼吸道警訊，胸部 X 光正常。下列何者最重要？",
+    "options": [
+      { "key": "A", "text": "肺功能檢查" },
+      { "key": "B", "text": "鼻竇 X 光檢查" },
+      { "key": "C", "text": "詢問/確認是否使用 ACE inhibitor 等降壓藥" }
+    ],
+    "answer": "C",
+    "explanation": "ACE inhibitor 典型副作用為乾咳；在排除警訊與影像正常時，需優先回顧用藥史。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0025",
+    "source_type": "original",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "page": 32 },
+    "stem": "60 歲女性血壓 170/100 mmHg、BMI 27.1，平日睡前紅酒 30 mL。下列何者屬建議的生活型態改變？",
+    "options": [
+      { "key": "A", "text": "減輕體重" },
+      { "key": "B", "text": "每日鈉攝取量控制（例如減鹽）" },
+      { "key": "C", "text": "降低酒精攝取量" },
+      { "key": "D", "text": "生活型態對血壓無實證支持" }
+    ],
+    "answer": "A",
+    "explanation": "生活型態（體重、飲食鈉、酒精、運動）均與血壓有實證關聯；選項中以減重作為最佳單選答案（其餘亦屬可建議）。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0026",
+    "source_type": "original",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "page": 34 },
+    "stem": "55 歲糖尿病男性，血壓 160/100 mmHg，尿蛋白 (+)，creatinine 1.0 mg/dL。起始降壓藥物何者較適當？",
+    "options": [
+      { "key": "A", "text": "利尿劑" },
+      { "key": "B", "text": "ACEi/ARB" },
+      { "key": "C", "text": "β 阻斷劑" },
+      { "key": "D", "text": "methyldopa" }
+    ],
+    "answer": "B",
+    "explanation": "糖尿病合併蛋白尿者，ACEi/ARB 可降低蛋白尿並提供腎保護效益，常作為優先選擇。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0027",
+    "source_type": "original",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "page": 34 },
+    "stem": "下列何者是次發性高血壓最常見原因？",
+    "options": [
+      { "key": "A", "text": "腎實質疾病 (renal parenchymal disease)" },
+      { "key": "B", "text": "原發性醛固酮增多症" },
+      { "key": "C", "text": "嗜鉻細胞瘤" },
+      { "key": "D", "text": "庫欣氏症候群" }
+    ],
+    "answer": "A",
+    "explanation": "次發性高血壓最常見原因為腎實質疾病；其他如腎血管性、原發性醛固酮增多症、OSA 等亦常見但相對次之。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0028",
+    "source_type": "original",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "page": 34 },
+    "stem": "58 歲男性無糖尿病/CKD，血壓 172/102 mmHg。血壓控制目標何者較適當？",
+    "options": [
+      { "key": "A", "text": "160/90 mmHg" },
+      { "key": "B", "text": "140/90 mmHg" },
+      { "key": "C", "text": "130/80 mmHg" },
+      { "key": "D", "text": "120/80 mmHg" }
+    ],
+    "answer": "B",
+    "explanation": "依題目所用教材/考題版本（台灣常見教法），無 DM/CKD 且未滿 60 歲之一般族群，目標多以 <140/90 mmHg 為基準（不同指南年份可能略有差異）。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0029",
+    "source_type": "original",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "page": 34 },
+    "stem": "下列關於次發性高血壓的敘述，何者正確？",
+    "options": [
+      { "key": "A", "text": "原發性醛固酮增多症常合併高血鉀" },
+      { "key": "B", "text": "最常見的次發性高血壓為腎實質病變" },
+      { "key": "C", "text": "嗜鉻細胞瘤亦可發生於腎上腺外組織" },
+      { "key": "D", "text": "睡眠呼吸障礙亦為次發性高血壓原因之一" }
+    ],
+    "answer": "A",
+    "explanation": "原發性醛固酮增多症典型是低血鉀而非高血鉀；其餘敘述（腎實質病變最常見、嗜鉻細胞瘤可腎上腺外、OSA 相關）皆為正確概念，因此本題以 A 為錯誤選項。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0030",
+    "source_type": "original",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "page": 35 },
+    "stem": "高血壓婦女懷孕時，下列哪項降壓藥不適合使用？",
+    "options": [
+      { "key": "A", "text": "α-methyldopa" },
+      { "key": "B", "text": "labetalol" },
+      { "key": "C", "text": "captopril" },
+      { "key": "D", "text": "nifedipine" }
+    ],
+    "answer": "C",
+    "explanation": "ACE inhibitor（如 captopril）為妊娠禁忌；methyldopa、labetalol、nifedipine 常作為妊娠期可用選項。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0031",
+    "source_type": "original",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "page": 35 },
+    "stem": "24 歲女性早發且難控制高血壓，合併低血鉀。下列何者最可能？",
+    "options": [
+      { "key": "A", "text": "嗜鉻細胞瘤" },
+      { "key": "B", "text": "庫欣氏症候群" },
+      { "key": "C", "text": "先天性腎上腺增生" },
+      { "key": "D", "text": "康氏症候群（Conn syndrome，原發性醛固酮增多症）" }
+    ],
+    "answer": "D",
+    "explanation": "早發高血壓合併低血鉀應優先考慮原發性醛固酮增多症。庫欣/CAH 常伴雄性素或皮質醇相關表現；嗜鉻細胞瘤則以陣發性頭痛、心悸、盜汗較典型。"
+  },
+
+  {
+    "id": "MED_03_CARD_PULM_DER_AORTA_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "section": "Aortic disease", "note": "derived from text" },
+    "stem": "關於腹主動脈瘤（AAA）篩檢，下列何者最符合常見建議？",
+    "options": [
+      { "key": "A", "text": "所有 40 歲以上成人每年超音波篩檢" },
+      { "key": "B", "text": "65–75 歲曾吸菸男性可考慮一次性腹部超音波篩檢" },
+      { "key": "C", "text": "僅女性需要篩檢，男性不需" },
+      { "key": "D", "text": "AAA 篩檢首選檢查是胸部 X 光" }
+    ],
+    "answer": "B",
+    "explanation": "AAA 篩檢常見建議為：65–75 歲曾吸菸男性接受一次性腹部超音波（不同指南對女性/家族史族群有延伸建議）。超音波是首選篩檢工具。",
+    "tags": ["aorta", "AAA", "screening"]
+  },
+  {
+    "id": "MED_03_CARD_PULM_DER_AORTA_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "section": "Aortic disease", "note": "derived from text" },
+    "stem": "急性主動脈剝離的降壓治療策略，下列何者正確？",
+    "options": [
+      { "key": "A", "text": "先用血管擴張劑降壓，再視需要加 β 阻斷劑" },
+      { "key": "B", "text": "優先 β 阻斷劑降低心率與 dP/dt，再視血壓加血管擴張劑" },
+      { "key": "C", "text": "優先利尿劑降低後負荷" },
+      { "key": "D", "text": "以短效 nifedipine 舌下含服作為標準處置" }
+    ],
+    "answer": "B",
+    "explanation": "剝離急性期核心是降低剪力：先 β 阻斷降低心率與 dP/dt，再用血管擴張劑輔助降壓；避免單獨先給擴張劑造成反射性心搏過速。",
+    "tags": ["aortic dissection", "emergency", "blood pressure"]
+  },
+  {
+    "id": "MED_03_CARD_PULM_DER_AORTA_Q0003",
+    "source_type": "derived",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "section": "Aortic disease", "note": "derived from text" },
+    "stem": "胸主動脈瘤（TAA）或 AAA 的破裂風險因子，下列何者最直接相關？",
+    "options": [
+      { "key": "A", "text": "瘤體直徑越大" },
+      { "key": "B", "text": "血鈣越低" },
+      { "key": "C", "text": "TSH 越高" },
+      { "key": "D", "text": "血小板越多" }
+    ],
+    "answer": "A",
+    "explanation": "主動脈瘤破裂風險最重要的臨床指標之一是直徑（以及成長速度）；直徑越大，破裂風險越高。",
+    "tags": ["aneurysm", "risk"]
+  },
+  {
+    "id": "MED_03_CARD_PULM_DER_AORTA_Q0004",
+    "source_type": "derived",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "section": "Aortic disease", "note": "derived from text" },
+    "stem": "主動脈剝離 Stanford 分型的描述，下列何者正確？",
+    "options": [
+      { "key": "A", "text": "Type A：不涉及升主動脈；Type B：涉及升主動脈" },
+      { "key": "B", "text": "Type A：涉及升主動脈；Type B：不涉及升主動脈" },
+      { "key": "C", "text": "Type A/B 只以是否合併高血壓區分" },
+      { "key": "D", "text": "Type A/B 與 DeBakey 分型完全無關" }
+    ],
+    "answer": "B",
+    "explanation": "Stanford Type A 只要涉及升主動脈即屬 Type A；Type B 為不涉及升主動脈的剝離（通常自左鎖骨下動脈遠端開始）。",
+    "tags": ["aortic dissection", "classification"]
+  },
+  {
+    "id": "MED_03_CARD_PULM_DER_AORTA_Q0005",
+    "source_type": "derived",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "section": "Aortic disease", "note": "derived from text" },
+    "stem": "急性主動脈剝離時常見的『影像/臨床線索』，下列何者較典型？",
+    "options": [
+      { "key": "A", "text": "撕裂樣胸背痛、兩側血壓差、縱隔增寬" },
+      { "key": "B", "text": "黃疸合併茶色尿" },
+      { "key": "C", "text": "慢性乾咳持續 3 個月" },
+      { "key": "D", "text": "侷限性右下腹痛合併反跳痛" }
+    ],
+    "answer": "A",
+    "explanation": "典型線索包括突發撕裂樣胸背痛、脈搏/血壓不對稱、胸部 X 光縱隔增寬；確診多依 CTA/TEE/MRI 視情況選用。",
+    "tags": ["aortic dissection", "clinical"]
+  }
 ]
