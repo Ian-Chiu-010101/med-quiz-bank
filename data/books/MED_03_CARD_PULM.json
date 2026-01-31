@@ -1,1 +1,1152 @@
-[]
+[
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0001",
+    "source_type": "original",
+    "book": {
+      "code": "MED_03_CARD_PULM",
+      "title": "三(1) 心內、胸內"
+    },
+    "location": {
+      "page": 24
+    },
+    "stem": "下列有關血壓測量的敘述，何者錯誤?",
+    "options": [
+      {
+        "key": "A",
+        "text": "小腿與上臂的血壓差增加常見於重度主動脈閉鎖不 全 (aortic regur郾tation) 或嚴重下肢周邊血管疾病"
+      },
+      {
+        "key": "B",
+        "text": "小腿的收縮壓通常比上臂的收縮壓高 20 m1nHg"
+      },
+      {
+        "key": "C",
+        "text": "血壓袖帶的長度和寬度應分別為手臂圓周的 80% 和 40% 。 使用不合適的小袖帶，會導致對 實際血塵值明顯低估"
+      },
+      {
+        "key": "D",
+        "text": "兩側上臂的收縮血壓差距，正常應在 !OnunHg 以內"
+      }
+    ],
+    "answer": "C",
+    "explanation": "若袖帶過小，通常會使所測得的血壓高估（因為需要更高壓\n力才能完全壓迫動脈），而非低估 。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0002",
+    "source_type": "original",
+    "book": {
+      "code": "MED_03_CARD_PULM",
+      "title": "三(1) 心內、胸內"
+    },
+    "location": {
+      "page": 25
+    },
+    "stem": "下列有關糖尿病與高血壓的敘述，何者錯誤？",
+    "options": [
+      {
+        "key": "A",
+        "text": "糖尿病病人的高血壓盛行率較沒有糖尿病者高"
+      },
+      {
+        "key": "B",
+        "text": "糖尿病病人罹患高血壓的首選控制血壓藥物為 angiotensin-converting enzyme inh心tors 或是an giotensin receptor blockers"
+      },
+      {
+        "key": "C",
+        "text": "糖尿病病人的血壓控制目標通常建議比沒有糖 尿病的患者來得寬鬆"
+      },
+      {
+        "key": "D",
+        "text": "高血糜會促進糖尿病的大血管與小血管病變的 發生及惡化"
+      }
+    ],
+    "answer": "C",
+    "explanation": "糖尿病患者的血壓控制目標通常較一般人嚴格 ，以減少大血\n管和微血管併發症的風險。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0003",
+    "source_type": "original",
+    "book": {
+      "code": "MED_03_CARD_PULM",
+      "title": "三(1) 心內、胸內"
+    },
+    "location": {
+      "page": 25
+    },
+    "stem": "下列針對主動脈縮窄 (coarctation of the aorta) 的敘述，何者錯誤？",
+    "options": [
+      {
+        "key": "A",
+        "text": "狹窄處最常見於左鎖骨下動脈後方、動脈導管 (ductus arteriosus) 開口對側"
+      },
+      {
+        "key": "B",
+        "text": "年幼嬰兒可表現為心衰竭或 shock，常合併 PDA"
+      },
+      {
+        "key": "C",
+        "text": "可造成上肢高血壓、下肢血壓較低與股動脈搏動減弱"
+      },
+      {
+        "key": "D",
+        "text": "典型胸部 X 光可見 rib notching 與 figure of 3 sign"
+      }
+    ],
+    "answer": "A",
+    "explanation": "主動脈縮窄典型狹窄位於左鎖骨下動脈分支處附近，常在動\n脈導管附著區域；題目 A 的描述位置不恰當。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0004",
+    "source_type": "original",
+    "book": {
+      "code": "MED_03_CARD_PULM",
+      "title": "三(1) 心內、胸內"
+    },
+    "location": {
+      "page": 26
+    },
+    "stem": "下列對於高血壓急症 (hypertensive emergency) 的敘述，何者正確？",
+    "options": [
+      {
+        "key": "A",
+        "text": "只要血壓大於 180/120 mmHg 即可診斷，不需終末器官傷害"
+      },
+      {
+        "key": "B",
+        "text": "應在數分鐘內將血壓降至正常，以避免腦出血"
+      },
+      {
+        "key": "C",
+        "text": "需要合併急性終末器官傷害，通常需靜脈降壓並監測"
+      },
+      {
+        "key": "D",
+        "text": "可使用舌下短效 nifedipine 作為常規急救用藥"
+      }
+    ],
+    "answer": "C",
+    "explanation": "高血壓急症重點在於「急性終末器官傷害」(如腦、心、腎、\n主動脈剝離等)；需靜脈降壓並監測，避免過快降壓與避免短效\nnifedipine。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0005",
+    "source_type": "original",
+    "book": {
+      "code": "MED_03_CARD_PULM",
+      "title": "三(1) 心內、胸內"
+    },
+    "location": {
+      "page": 27
+    },
+    "stem": "下列何者不是原發性醛固酮增多症 (primary aldosteronism) 常見特徵？",
+    "options": [
+      {
+        "key": "A",
+        "text": "高血壓合併低血鉀"
+      },
+      {
+        "key": "B",
+        "text": "代謝性鹼中毒"
+      },
+      {
+        "key": "C",
+        "text": "血漿腎素活性上升"
+      },
+      {
+        "key": "D",
+        "text": "可對 MRA（如 spironolactone）反應良好"
+      }
+    ],
+    "answer": "C",
+    "explanation": "原發性醛固酮增多症常見：高血壓、低血鉀、代謝性鹼中毒、\n腎素被抑制（低），且對 MRA 有效。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0006",
+    "source_type": "original",
+    "book": {
+      "code": "MED_03_CARD_PULM",
+      "title": "三(1) 心內、胸內"
+    },
+    "location": {
+      "page": 28
+    },
+    "stem": "關於 24 小時動態血壓監測 (ABPM) 的敘述，下列何者正確？",
+    "options": [
+      {
+        "key": "A",
+        "text": "ABPM 無法評估夜間血壓"
+      },
+      {
+        "key": "B",
+        "text": "夜間血壓下降 10-20% 稱為 dipper，屬正常生理"
+      },
+      {
+        "key": "C",
+        "text": "non-dipper 代表較低的心血管風險"
+      },
+      {
+        "key": "D",
+        "text": "ABPM 僅能用於已確診高血壓者，不適用於白袍高血壓評估"
+      }
+    ],
+    "answer": "B",
+    "explanation": "ABPM 可監測夜間血壓與節律；正常人夜間血壓下降 10-20%\n（dipper）。non-dipper 反而與較高心血管併發症風險相關；\nABPM 也可用於白袍/隱匿性高血壓評估。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0007",
+    "source_type": "original",
+    "book": {
+      "code": "MED_03_CARD_PULM",
+      "title": "三(1) 心內、胸內"
+    },
+    "location": {
+      "page": 29
+    },
+    "stem": "下列何者為妊娠期高血壓治療中應避免使用的藥物？",
+    "options": [
+      {
+        "key": "A",
+        "text": "Methyldopa"
+      },
+      {
+        "key": "B",
+        "text": "Labetalol"
+      },
+      {
+        "key": "C",
+        "text": "ACE inhibitor / ARB"
+      },
+      {
+        "key": "D",
+        "text": "Hydralazine"
+      }
+    ],
+    "answer": "C",
+    "explanation": "妊娠期高血壓常用 methyldopa/labetalol/hydralazine；ACEi/ARB\n（以及 DRI）為妊娠禁忌（胎兒腎毒性/畸胎風險）。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0008",
+    "source_type": "original",
+    "book": {
+      "code": "MED_03_CARD_PULM",
+      "title": "三(1) 心內、胸內"
+    },
+    "location": {
+      "page": 30
+    },
+    "stem": "下列關於 resistant hypertension 的敘述，何者最恰當？",
+    "options": [
+      {
+        "key": "A",
+        "text": "定義為使用 1 種降壓藥仍無法達標"
+      },
+      {
+        "key": "B",
+        "text": "常與鹽皮質激素（醛固酮）機轉相關，加用 MRA 可能有效"
+      },
+      {
+        "key": "C",
+        "text": "與生活型態無關"
+      },
+      {
+        "key": "D",
+        "text": "不需評估繼發性高血壓原因"
+      }
+    ],
+    "answer": "B",
+    "explanation": "頑固型高血壓需考慮服藥依從性、白袍效應、生活型態與繼發性\n原因；不少患者與醛固酮相關，MRA（如 spironolactone）常有效。"
+  },
+
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0009",
+    "source_type": "original",
+    "book": {
+      "code": "MED_03_CARD_PULM",
+      "title": "三(1) 心內、胸內"
+    },
+    "location": {
+      "page": 31
+    },
+    "stem": "下列何者最符合高血壓治療中 thiazide 類利尿劑的特性？",
+    "options": [
+      {
+        "key": "A",
+        "text": "常造成高血鉀"
+      },
+      {
+        "key": "B",
+        "text": "可增加尿酸，可能誘發痛風"
+      },
+      {
+        "key": "C",
+        "text": "主要用於急性肺水腫第一線"
+      },
+      {
+        "key": "D",
+        "text": "對骨質沒有影響"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Thiazide 可能造成低血鉀、低鈉、增加尿酸（痛風風險）、高血糖等；\n在高血壓為常用第一線之一。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0010",
+    "source_type": "original",
+    "book": {
+      "code": "MED_03_CARD_PULM",
+      "title": "三(1) 心內、胸內"
+    },
+    "location": {
+      "page": 32
+    },
+    "stem": "下列何者最符合 ACE inhibitor 可能造成的不良反應？",
+    "options": [
+      {
+        "key": "A",
+        "text": "乾咳與血管性水腫"
+      },
+      {
+        "key": "B",
+        "text": "嚴重低血鈣"
+      },
+      {
+        "key": "C",
+        "text": "甲狀腺機能亢進"
+      },
+      {
+        "key": "D",
+        "text": "嚴重中性球增多"
+      }
+    ],
+    "answer": "A",
+    "explanation": "ACEi 常見副作用：乾咳、血管性水腫、高血鉀、腎功能惡化（特別是雙側腎動脈狹窄）。"
+  },
+
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0011",
+    "source_type": "original",
+    "book": {
+      "code": "MED_03_CARD_PULM",
+      "title": "三(1) 心內、胸內"
+    },
+    "location": {
+      "page": 33
+    },
+    "stem": "關於 dihydropyridine (DHP) 類 CCB，下列何者較正確？",
+    "options": [
+      {
+        "key": "A",
+        "text": "以抑制房室結傳導為主"
+      },
+      {
+        "key": "B",
+        "text": "較常造成周邊水腫與反射性心搏過速"
+      },
+      {
+        "key": "C",
+        "text": "可用於控制心房顫動心室率為首選"
+      },
+      {
+        "key": "D",
+        "text": "對血管平滑肌作用很弱"
+      }
+    ],
+    "answer": "B",
+    "explanation": "DHP 類以血管擴張為主，常見副作用包括周邊水腫、潮紅、頭痛，\n短效製劑更容易引起反射性心搏過速。"
+  },
+
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0012",
+    "source_type": "original",
+    "book": {
+      "code": "MED_03_CARD_PULM",
+      "title": "三(1) 心內、胸內"
+    },
+    "location": {
+      "page": 34
+    },
+    "stem": "下列何者最適合描述 non-DHP 類 CCB（verapamil/diltiazem）的作用？",
+    "options": [
+      {
+        "key": "A",
+        "text": "主要增加心肌收縮力"
+      },
+      {
+        "key": "B",
+        "text": "主要降低心率並抑制房室結傳導"
+      },
+      {
+        "key": "C",
+        "text": "主要用於治療低血壓"
+      },
+      {
+        "key": "D",
+        "text": "與心臟傳導無關"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Non-DHP 類 CCB 主要影響心臟傳導系統（尤其 AV node），可降心率、\n抑制傳導，並具有負性變力作用。"
+  },
+
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0013",
+    "source_type": "original",
+    "book": {
+      "code": "MED_03_CARD_PULM",
+      "title": "三(1) 心內、胸內"
+    },
+    "location": {
+      "page": 35
+    },
+    "stem": "下列何者最符合 β 阻斷劑具有 ISA (intrinsic sympathomimetic activity) 的意義？",
+    "options": [
+      {
+        "key": "A",
+        "text": "具有部分致效作用，靜息心率下降較少"
+      },
+      {
+        "key": "B",
+        "text": "完全沒有心臟相關副作用"
+      },
+      {
+        "key": "C",
+        "text": "更適合心肌梗塞後長期預後改善"
+      },
+      {
+        "key": "D",
+        "text": "可作為急性肺水腫首選"
+      }
+    ],
+    "answer": "A",
+    "explanation": "ISA 代表部分致效活性，因此靜息時心率下降較少；在需強力交感抑制（如 MI 後）通常偏好無 ISA 的 β 阻斷劑。"
+  },
+
+  {
+    "id": "MED_03_CARD_PULM_DER_HTN_Q0001",
+    "source_type": "derived",
+    "book": {
+      "code": "MED_03_CARD_PULM",
+      "title": "三(1) 心內、胸內"
+    },
+    "location": {
+      "section": "HTN",
+      "note": "derived from text"
+    },
+    "stem": "關於 24 小時動態血壓監測（ABPM）之夜間血壓節律（dipping），下列何者最正確？",
+    "options": [
+      {
+        "key": "A",
+        "text": "正常人夜間血壓通常上升 10–20%（dipper）"
+      },
+      {
+        "key": "B",
+        "text": "夜間血壓下降 10–20% 稱為 dipper，與較低心血管風險相關"
+      },
+      {
+        "key": "C",
+        "text": "non-dipper（夜間未下降）通常代表較低心血管風險"
+      },
+      {
+        "key": "D",
+        "text": "ABPM 無法評估夜間血壓"
+      }
+    ],
+    "answer": "B",
+    "explanation": "ABPM 可監測夜間血壓；正常生理為夜間相對日間下降約 10–20%（dipper）。若夜間未下降（non-dipper）代表節律異常，與較高心血管併發症風險相關。",
+    "tags": [
+      "hypertension",
+      "ABPM"
+    ]
+  },
+  {
+    "id": "MED_03_CARD_PULM_DER_HTN_Q0002",
+    "source_type": "derived",
+    "book": {
+      "code": "MED_03_CARD_PULM",
+      "title": "三(1) 心內、胸內"
+    },
+    "location": {
+      "section": "HTN",
+      "note": "derived from text"
+    },
+    "stem": "量測血壓時袖帶（cuff）尺寸的原則，下列何者正確？",
+    "options": [
+      {
+        "key": "A",
+        "text": "袖帶寬度約為上臂圓周的 10%，長度約為 20%"
+      },
+      {
+        "key": "B",
+        "text": "袖帶寬度與長度分別約為上臂圓周的 40% 與 80%"
+      },
+      {
+        "key": "C",
+        "text": "袖帶過小會使量到的血壓偏低估"
+      },
+      {
+        "key": "D",
+        "text": "袖帶過大會使量到的血壓偏高估"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正確袖帶尺寸：寬度約為上臂圓周 40%，長度約為 80%。袖帶過小通常會高估血壓（需要更高壓力才能壓迫動脈），過大則可能低估。",
+    "tags": [
+      "hypertension",
+      "blood pressure measurement"
+    ]
+  },
+  {
+    "id": "MED_03_CARD_PULM_DER_HTN_Q0003",
+    "source_type": "derived",
+    "book": {
+      "code": "MED_03_CARD_PULM",
+      "title": "三(1) 心內、胸內"
+    },
+    "location": {
+      "section": "HTN",
+      "note": "derived from text"
+    },
+    "stem": "妊娠高血壓/子癲前症需要降壓治療時，下列何者較符合常用且相對安全的降壓藥選擇？",
+    "options": [
+      {
+        "key": "A",
+        "text": "ACE inhibitor"
+      },
+      {
+        "key": "B",
+        "text": "ARB"
+      },
+      {
+        "key": "C",
+        "text": "Methyldopa"
+      },
+      {
+        "key": "D",
+        "text": "Direct renin inhibitor (aliskiren)"
+      }
+    ],
+    "answer": "C",
+    "explanation": "妊娠相關高血壓常用 methyldopa、labetalol、hydralazine。ACEi/ARB/DRI 具胎兒腎毒性與畸胎風險，為妊娠禁忌。",
+    "tags": [
+      "hypertension",
+      "pregnancy",
+      "pharmacology"
+    ]
+  },
+  {
+    "id": "MED_03_CARD_PULM_DER_HTN_Q0004",
+    "source_type": "derived",
+    "book": {
+      "code": "MED_03_CARD_PULM",
+      "title": "三(1) 心內、胸內"
+    },
+    "location": {
+      "section": "HTN",
+      "note": "derived from text"
+    },
+    "stem": "下列哪一項最符合 ACE inhibitor 在心血管系統的臨床益處（除降壓外）？",
+    "options": [
+      {
+        "key": "A",
+        "text": "促進心室重塑（remodeling）"
+      },
+      {
+        "key": "B",
+        "text": "降低前負荷與後負荷、減少心肌梗塞後不良重塑"
+      },
+      {
+        "key": "C",
+        "text": "增加交感活性以維持心輸出量"
+      },
+      {
+        "key": "D",
+        "text": "主要作用為增加血小板聚集"
+      }
+    ],
+    "answer": "B",
+    "explanation": "ACEi 可減少 preload/afterload，並在 MI 後減少不良心室重塑、保留左心室功能、延緩心衰進展，故常作為具適應症患者的重要藥物。",
+    "tags": [
+      "hypertension",
+      "ACEi",
+      "heart failure",
+      "post-MI"
+    ]
+  },
+  {
+    "id": "MED_03_CARD_PULM_DER_HTN_Q0005",
+    "source_type": "derived",
+    "book": {
+      "code": "MED_03_CARD_PULM",
+      "title": "三(1) 心內、胸內"
+    },
+    "location": {
+      "section": "HTN",
+      "note": "derived from text"
+    },
+    "stem": "對於『頑固型高血壓（resistant hypertension）』或懷疑原發性醛固酮增多症患者，加用下列何種藥物最有證據支持？",
+    "options": [
+      {
+        "key": "A",
+        "text": "Spironolactone"
+      },
+      {
+        "key": "B",
+        "text": "Digoxin"
+      },
+      {
+        "key": "C",
+        "text": "Short-acting nifedipine"
+      },
+      {
+        "key": "D",
+        "text": "Isosorbide dinitrate"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Resistant HTN 常與醛固酮相關機轉有關；MRA（如 spironolactone）在頑固型高血壓與原發性醛固酮增多症常有效。",
+    "tags": [
+      "hypertension",
+      "resistant hypertension",
+      "MRA"
+    ]
+  },
+  {
+    "id": "MED_03_CARD_PULM_DER_HTN_Q0006",
+    "source_type": "derived",
+    "book": {
+      "code": "MED_03_CARD_PULM",
+      "title": "三(1) 心內、胸內"
+    },
+    "location": {
+      "section": "HTN",
+      "note": "derived from text"
+    },
+    "stem": "下列何者屬於 dihydropyridine（DHP）類鈣離子阻斷劑（CCB），且相對較偏血管擴張作用？",
+    "options": [
+      {
+        "key": "A",
+        "text": "Verapamil"
+      },
+      {
+        "key": "B",
+        "text": "Diltiazem"
+      },
+      {
+        "key": "C",
+        "text": "Amlodipine"
+      },
+      {
+        "key": "D",
+        "text": "Ivabradine"
+      }
+    ],
+    "answer": "C",
+    "explanation": "DHP 類（如 amlodipine、felodipine、nifedipine）以血管擴張為主；verapamil、diltiazem 為 non-DHP，較偏抑制心傳導/降心率。",
+    "tags": [
+      "hypertension",
+      "CCB",
+      "pharmacology"
+    ]
+  },
+  {
+    "id": "MED_03_CARD_PULM_DER_HTN_Q0007",
+    "source_type": "derived",
+    "book": {
+      "code": "MED_03_CARD_PULM",
+      "title": "三(1) 心內、胸內"
+    },
+    "location": {
+      "section": "HTN",
+      "note": "derived from text"
+    },
+    "stem": "非二氫吡啶（non-DHP）類 CCB 的共同特徵，下列何者正確？",
+    "options": [
+      {
+        "key": "A",
+        "text": "主要降低心率與房室結傳導"
+      },
+      {
+        "key": "B",
+        "text": "完全沒有負性變力作用"
+      },
+      {
+        "key": "C",
+        "text": "主要用於急性主動脈剝離第一線"
+      },
+      {
+        "key": "D",
+        "text": "常造成反射性心搏過速為主要副作用"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Non-DHP（verapamil、diltiazem）可降低心率並抑制 AV node 傳導，具有負性變力作用；反射性心搏過速更常見於 DHP 類。",
+    "tags": [
+      "CCB",
+      "arrhythmia",
+      "pharmacology"
+    ]
+  },
+  {
+    "id": "MED_03_CARD_PULM_DER_HTN_Q0008",
+    "source_type": "derived",
+    "book": {
+      "code": "MED_03_CARD_PULM",
+      "title": "三(1) 心內、胸內"
+    },
+    "location": {
+      "section": "HTN",
+      "note": "derived from text"
+    },
+    "stem": "關於 β 阻斷劑的 intrinsic sympathomimetic activity（ISA），下列敘述何者正確？",
+    "options": [
+      {
+        "key": "A",
+        "text": "有 ISA 的 β 阻斷劑通常更適合心肌梗塞後二級預防"
+      },
+      {
+        "key": "B",
+        "text": "ISA 代表藥物同時具有部分致效劑活性，較不會造成靜息心率過低"
+      },
+      {
+        "key": "C",
+        "text": "所有 β1 選擇性阻斷劑都具有 ISA"
+      },
+      {
+        "key": "D",
+        "text": "ISA 會增加死亡率因此臨床完全禁用"
+      }
+    ],
+    "answer": "B",
+    "explanation": "ISA 表示部分致效活性，靜息心率下降較少；在需強力抑制交感（如 MI 後）通常偏好無 ISA 的 β 阻斷劑。",
+    "tags": [
+      "beta blocker",
+      "pharmacology"
+    ]
+  },
+  {
+    "id": "MED_03_CARD_PULM_DER_HTN_Q0009",
+    "source_type": "derived",
+    "book": {
+      "code": "MED_03_CARD_PULM",
+      "title": "三(1) 心內、胸內"
+    },
+    "location": {
+      "section": "HTN",
+      "note": "derived from text"
+    },
+    "stem": "關於『兩側上臂收縮壓差（inter-arm difference）』的臨床意義，下列何者較恰當？",
+    "options": [
+      {
+        "key": "A",
+        "text": "差距越大越代表量測正常"
+      },
+      {
+        "key": "B",
+        "text": "一般而言差距若明顯增大，需考慮周邊動脈疾病或主動脈弓分支病變"
+      },
+      {
+        "key": "C",
+        "text": "只要舒張壓相同就不需理會"
+      },
+      {
+        "key": "D",
+        "text": "只與情緒緊張有關，無臨床意義"
+      }
+    ],
+    "answer": "B",
+    "explanation": "兩側上臂血壓差若明顯（常以 >10–15 mmHg 作為警訊），需考慮血管狹窄/周邊動脈疾病等。臨床上會以較高的一側作後續追蹤基準。",
+    "tags": [
+      "blood pressure measurement",
+      "vascular disease"
+    ]
+  },
+  {
+    "id": "MED_03_CARD_PULM_DER_HTN_Q0010",
+    "source_type": "derived",
+    "book": {
+      "code": "MED_03_CARD_PULM",
+      "title": "三(1) 心內、胸內"
+    },
+    "location": {
+      "section": "HTN",
+      "note": "derived from text"
+    },
+    "stem": "急性主動脈剝離（aortic dissection）初始藥物處置的核心原則為何？",
+    "options": [
+      {
+        "key": "A",
+        "text": "先給血管擴張劑降低血壓，β 阻斷劑可延後"
+      },
+      {
+        "key": "B",
+        "text": "先控制心率/收縮力（β 阻斷）以降低 dP/dt，再視需要加血管擴張劑"
+      },
+      {
+        "key": "C",
+        "text": "以利尿劑為第一線降低後負荷"
+      },
+      {
+        "key": "D",
+        "text": "以短效 nifedipine 舌下含服快速降壓"
+      }
+    ],
+    "answer": "B",
+    "explanation": "主動脈剝離急性期重點是降低剪力（shear stress）：先用 β 阻斷劑降低心率與 dP/dt，再視血壓加硝普鈉等血管擴張劑；避免單獨先給擴張劑造成反射性心搏過速。",
+    "tags": [
+      "aortic disease",
+      "emergency",
+      "hypertension"
+    ]
+  },
+  
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0014",
+    "source_type": "original",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "page": 26 },
+    "stem": "下列何者不是寬的脈搏壓（wide pulse pressure）要考慮的鑑別診斷？",
+    "options": [
+      { "key": "A", "text": "主動脈瓣狹窄 (aortic stenosis)" },
+      { "key": "B", "text": "甲狀腺毒症 (thyrotoxicosis)" },
+      { "key": "C", "text": "感染發燒" },
+      { "key": "D", "text": "開放性動脈導管 (patent ductus arteriosus)" }
+    ],
+    "answer": "A",
+    "explanation": "主動脈瓣狹窄通常造成『窄』脈搏壓，因射出受限使收縮壓不易上升。相反地，甲亢、發燒、PDA 等高心輸出/低周邊阻力或增加收縮壓情境較常見 wide pulse pressure。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0015",
+    "source_type": "original",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "page": 26 },
+    "stem": "一位 26 歲女性患高血壓半年，近 3 個月出現心悸、頭痛、流汗。若欲給藥治療其高血壓，下列何者最適當？（疑嗜鉻細胞瘤）",
+    "options": [
+      { "key": "A", "text": "僅使用 α 阻斷劑 (alpha-adrenergic blocker)" },
+      { "key": "B", "text": "僅使用 β 阻斷劑 (beta-adrenergic blocker)" },
+      { "key": "C", "text": "鈣離子阻斷劑" },
+      { "key": "D", "text": "先 α 阻斷，再加 β 阻斷" }
+    ],
+    "answer": "B",
+    "explanation": "嗜鉻細胞瘤若單獨先給 β 阻斷劑，會造成未被抑制的 α 作用『相對占優勢』而使血壓更劇烈上升。正確原則是先 α 阻斷後必要時再加 β 阻斷。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0016",
+    "source_type": "original",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "page": 27 },
+    "stem": "一位 27 歲女性長期追蹤高血壓，為育齡/可能懷孕族群。下列何者最不適合？",
+    "options": [
+      { "key": "A", "text": "methyldopa" },
+      { "key": "B", "text": "長效型 calcium channel blocker" },
+      { "key": "C", "text": "labetalol" },
+      { "key": "D", "text": "ACE inhibitor" }
+    ],
+    "answer": "D",
+    "explanation": "ACEI/ARB 具胎兒腎毒性與致畸胎風險，育齡女性/妊娠應避免；methyldopa、labetalol、部分 CCB（如 nifedipine）較常作為妊娠期可用選項。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0017",
+    "source_type": "original",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "page": 27 },
+    "stem": "25 歲男性疑嗜鉻細胞瘤即將接受手術治療，下列處置何者最正確？",
+    "options": [
+      { "key": "A", "text": "立刻安排緊急手術切除" },
+      { "key": "B", "text": "儘快安排 CT 導引腎上腺腫瘤切片" },
+      { "key": "C", "text": "手術前 7–10 天先給予適量 α 阻斷劑並補充水分" },
+      { "key": "D", "text": "立即給予體抑素類似物 (somatostatin analogue)" }
+    ],
+    "answer": "C",
+    "explanation": "嗜鉻細胞瘤手術前需充分準備：先以 α 阻斷劑控制血壓並擴充血容量（補液），必要時再加 β 阻斷以控制心搏過速；避免穿刺活檢誘發兒茶酚胺危象。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0018",
+    "source_type": "original",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "page": 28 },
+    "stem": "下列何種狀況不是使用 ACE inhibitor 的禁忌？",
+    "options": [
+      { "key": "A", "text": "腎功能持續惡化" },
+      { "key": "B", "text": "低血鉀" },
+      { "key": "C", "text": "懷孕" },
+      { "key": "D", "text": "雙側腎動脈狹窄" }
+    ],
+    "answer": "B",
+    "explanation": "ACEI 常見問題是『高血鉀』而不是低血鉀；懷孕、雙側腎動脈狹窄、腎功能惡化等需避免或慎用。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0019",
+    "source_type": "original",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "page": 28 },
+    "stem": "當高血壓病人合併下列狀況時，何者較不支持次發性高血壓？",
+    "options": [
+      { "key": "A", "text": "抽血發現低血鉀" },
+      { "key": "B", "text": "頭痛、心悸、盜汗" },
+      { "key": "C", "text": "睡覺打鼾且白天嗜睡" },
+      { "key": "D", "text": "高血脂症" }
+    ],
+    "answer": "D",
+    "explanation": "低血鉀（考慮原發性醛固酮增多症）、三聯症狀（考慮嗜鉻細胞瘤）、打鼾嗜睡（考慮 OSA）都支持次發性高血壓；高血脂並非典型次發性線索。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0020",
+    "source_type": "original",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "page": 29 },
+    "stem": "26 歲患者 BMI 20，健檢發現高血壓、低血鉀。評估次發性高血壓的檢查何者最適當？",
+    "options": [
+      { "key": "A", "text": "aldosterone 與 plasma renin activity" },
+      { "key": "B", "text": "ACTH 與 cortisol" },
+      { "key": "C", "text": "24 小時尿 VMA 與 catecholamines" },
+      { "key": "D", "text": "free T4 與 TSH" }
+    ],
+    "answer": "A",
+    "explanation": "高血壓合併低血鉀優先考慮原發性醛固酮增多症；初步檢查為 aldosterone/renin（比值）評估。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0021",
+    "source_type": "original",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "page": 29 },
+    "stem": "測量血壓時由近心端往周邊逐次測量，下列敘述何者正確？",
+    "options": [
+      { "key": "A", "text": "收縮壓上升、舒張壓下降" },
+      { "key": "B", "text": "收縮壓上升、舒張壓上升" },
+      { "key": "C", "text": "收縮壓不變、舒張壓下降" },
+      { "key": "D", "text": "收縮壓上升、舒張壓不變" }
+    ],
+    "answer": "A",
+    "explanation": "越往周邊血管阻力與反射波影響增加，收縮壓通常較高；舒張壓受大血管回彈影響，往周邊相對較低。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0022",
+    "source_type": "original",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "page": 29 },
+    "stem": "40 歲糖尿病患者，eGFR 59 mL/min/1.73m² 且尿蛋白 1.5 g/day，血壓 138/86 mmHg。下列處置何者最恰當？",
+    "options": [
+      { "key": "A", "text": "輔以低劑量長效型胰島素" },
+      { "key": "B", "text": "使用紅血球生成素以減緩腎功能惡化" },
+      { "key": "C", "text": "加用 ACEi/ARB（RAS blockade）" },
+      { "key": "D", "text": "低蛋白飲食合併胺基酸補充品" }
+    ],
+    "answer": "C",
+    "explanation": "糖尿病合併蛋白尿/CKD 者，優先使用 RAS blockade（ACEi 或 ARB）以降低蛋白尿並延緩腎功能惡化，血壓目標常較嚴格（依指南與個案）。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0023",
+    "source_type": "original",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "page": 30 },
+    "stem": "65 歲男性換藥後出現腹脹與便秘，最可能使用下列何種降壓藥？",
+    "options": [
+      { "key": "A", "text": "Valsartan" },
+      { "key": "B", "text": "Renitec (enalapril)" },
+      { "key": "C", "text": "Labetalol" },
+      { "key": "D", "text": "Amlodipine" }
+    ],
+    "answer": "D",
+    "explanation": "鈣離子阻斷劑常見副作用包括便秘、周邊水腫等；臨床題幹以 amlodipine 作為選項。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0024",
+    "source_type": "original",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "page": 30 },
+    "stem": "55 歲女性高血壓與糖尿病，近 3 個月乾咳，無呼吸道警訊，胸部 X 光正常。下列何者最重要？",
+    "options": [
+      { "key": "A", "text": "肺功能檢查" },
+      { "key": "B", "text": "鼻竇 X 光檢查" },
+      { "key": "C", "text": "詢問/確認是否使用 ACE inhibitor 等降壓藥" }
+    ],
+    "answer": "C",
+    "explanation": "ACE inhibitor 典型副作用為乾咳；在排除警訊與影像正常時，需優先回顧用藥史。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0025",
+    "source_type": "original",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "page": 32 },
+    "stem": "60 歲女性血壓 170/100 mmHg、BMI 27.1，平日睡前紅酒 30 mL。下列何者屬建議的生活型態改變？",
+    "options": [
+      { "key": "A", "text": "減輕體重" },
+      { "key": "B", "text": "每日鈉攝取量控制（例如減鹽）" },
+      { "key": "C", "text": "降低酒精攝取量" },
+      { "key": "D", "text": "生活型態對血壓無實證支持" }
+    ],
+    "answer": "A",
+    "explanation": "生活型態（體重、飲食鈉、酒精、運動）均與血壓有實證關聯；選項中以減重作為最佳單選答案（其餘亦屬可建議）。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0026",
+    "source_type": "original",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "page": 34 },
+    "stem": "55 歲糖尿病男性，血壓 160/100 mmHg，尿蛋白 (+)，creatinine 1.0 mg/dL。起始降壓藥物何者較適當？",
+    "options": [
+      { "key": "A", "text": "利尿劑" },
+      { "key": "B", "text": "ACEi/ARB" },
+      { "key": "C", "text": "β 阻斷劑" },
+      { "key": "D", "text": "methyldopa" }
+    ],
+    "answer": "B",
+    "explanation": "糖尿病合併蛋白尿者，ACEi/ARB 可降低蛋白尿並提供腎保護效益，常作為優先選擇。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0027",
+    "source_type": "original",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "page": 34 },
+    "stem": "下列何者是次發性高血壓最常見原因？",
+    "options": [
+      { "key": "A", "text": "腎實質疾病 (renal parenchymal disease)" },
+      { "key": "B", "text": "原發性醛固酮增多症" },
+      { "key": "C", "text": "嗜鉻細胞瘤" },
+      { "key": "D", "text": "庫欣氏症候群" }
+    ],
+    "answer": "A",
+    "explanation": "次發性高血壓最常見原因為腎實質疾病；其他如腎血管性、原發性醛固酮增多症、OSA 等亦常見但相對次之。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0028",
+    "source_type": "original",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "page": 34 },
+    "stem": "58 歲男性無糖尿病/CKD，血壓 172/102 mmHg。血壓控制目標何者較適當？",
+    "options": [
+      { "key": "A", "text": "160/90 mmHg" },
+      { "key": "B", "text": "140/90 mmHg" },
+      { "key": "C", "text": "130/80 mmHg" },
+      { "key": "D", "text": "120/80 mmHg" }
+    ],
+    "answer": "B",
+    "explanation": "依題目所用教材/考題版本（台灣常見教法），無 DM/CKD 且未滿 60 歲之一般族群，目標多以 <140/90 mmHg 為基準（不同指南年份可能略有差異）。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0029",
+    "source_type": "original",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "page": 34 },
+    "stem": "下列關於次發性高血壓的敘述，何者正確？",
+    "options": [
+      { "key": "A", "text": "原發性醛固酮增多症常合併高血鉀" },
+      { "key": "B", "text": "最常見的次發性高血壓為腎實質病變" },
+      { "key": "C", "text": "嗜鉻細胞瘤亦可發生於腎上腺外組織" },
+      { "key": "D", "text": "睡眠呼吸障礙亦為次發性高血壓原因之一" }
+    ],
+    "answer": "A",
+    "explanation": "原發性醛固酮增多症典型是低血鉀而非高血鉀；其餘敘述（腎實質病變最常見、嗜鉻細胞瘤可腎上腺外、OSA 相關）皆為正確概念，因此本題以 A 為錯誤選項。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0030",
+    "source_type": "original",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "page": 35 },
+    "stem": "高血壓婦女懷孕時，下列哪項降壓藥不適合使用？",
+    "options": [
+      { "key": "A", "text": "α-methyldopa" },
+      { "key": "B", "text": "labetalol" },
+      { "key": "C", "text": "captopril" },
+      { "key": "D", "text": "nifedipine" }
+    ],
+    "answer": "C",
+    "explanation": "ACE inhibitor（如 captopril）為妊娠禁忌；methyldopa、labetalol、nifedipine 常作為妊娠期可用選項。"
+  },
+  {
+    "id": "MED_03_CARD_PULM_ORIG_HTN_Q0031",
+    "source_type": "original",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "page": 35 },
+    "stem": "24 歲女性早發且難控制高血壓，合併低血鉀。下列何者最可能？",
+    "options": [
+      { "key": "A", "text": "嗜鉻細胞瘤" },
+      { "key": "B", "text": "庫欣氏症候群" },
+      { "key": "C", "text": "先天性腎上腺增生" },
+      { "key": "D", "text": "康氏症候群（Conn syndrome，原發性醛固酮增多症）" }
+    ],
+    "answer": "D",
+    "explanation": "早發高血壓合併低血鉀應優先考慮原發性醛固酮增多症。庫欣/CAH 常伴雄性素或皮質醇相關表現；嗜鉻細胞瘤則以陣發性頭痛、心悸、盜汗較典型。"
+  },
+
+  {
+    "id": "MED_03_CARD_PULM_DER_AORTA_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "section": "Aortic disease", "note": "derived from text" },
+    "stem": "關於腹主動脈瘤（AAA）篩檢，下列何者最符合常見建議？",
+    "options": [
+      { "key": "A", "text": "所有 40 歲以上成人每年超音波篩檢" },
+      { "key": "B", "text": "65–75 歲曾吸菸男性可考慮一次性腹部超音波篩檢" },
+      { "key": "C", "text": "僅女性需要篩檢，男性不需" },
+      { "key": "D", "text": "AAA 篩檢首選檢查是胸部 X 光" }
+    ],
+    "answer": "B",
+    "explanation": "AAA 篩檢常見建議為：65–75 歲曾吸菸男性接受一次性腹部超音波（不同指南對女性/家族史族群有延伸建議）。超音波是首選篩檢工具。",
+    "tags": ["aorta", "AAA", "screening"]
+  },
+  {
+    "id": "MED_03_CARD_PULM_DER_AORTA_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "section": "Aortic disease", "note": "derived from text" },
+    "stem": "急性主動脈剝離的降壓治療策略，下列何者正確？",
+    "options": [
+      { "key": "A", "text": "先用血管擴張劑降壓，再視需要加 β 阻斷劑" },
+      { "key": "B", "text": "優先 β 阻斷劑降低心率與 dP/dt，再視血壓加血管擴張劑" },
+      { "key": "C", "text": "優先利尿劑降低後負荷" },
+      { "key": "D", "text": "以短效 nifedipine 舌下含服作為標準處置" }
+    ],
+    "answer": "B",
+    "explanation": "剝離急性期核心是降低剪力：先 β 阻斷降低心率與 dP/dt，再用血管擴張劑輔助降壓；避免單獨先給擴張劑造成反射性心搏過速。",
+    "tags": ["aortic dissection", "emergency", "blood pressure"]
+  },
+  {
+    "id": "MED_03_CARD_PULM_DER_AORTA_Q0003",
+    "source_type": "derived",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "section": "Aortic disease", "note": "derived from text" },
+    "stem": "胸主動脈瘤（TAA）或 AAA 的破裂風險因子，下列何者最直接相關？",
+    "options": [
+      { "key": "A", "text": "瘤體直徑越大" },
+      { "key": "B", "text": "血鈣越低" },
+      { "key": "C", "text": "TSH 越高" },
+      { "key": "D", "text": "血小板越多" }
+    ],
+    "answer": "A",
+    "explanation": "主動脈瘤破裂風險最重要的臨床指標之一是直徑（以及成長速度）；直徑越大，破裂風險越高。",
+    "tags": ["aneurysm", "risk"]
+  },
+  {
+    "id": "MED_03_CARD_PULM_DER_AORTA_Q0004",
+    "source_type": "derived",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "section": "Aortic disease", "note": "derived from text" },
+    "stem": "主動脈剝離 Stanford 分型的描述，下列何者正確？",
+    "options": [
+      { "key": "A", "text": "Type A：不涉及升主動脈；Type B：涉及升主動脈" },
+      { "key": "B", "text": "Type A：涉及升主動脈；Type B：不涉及升主動脈" },
+      { "key": "C", "text": "Type A/B 只以是否合併高血壓區分" },
+      { "key": "D", "text": "Type A/B 與 DeBakey 分型完全無關" }
+    ],
+    "answer": "B",
+    "explanation": "Stanford Type A 只要涉及升主動脈即屬 Type A；Type B 為不涉及升主動脈的剝離（通常自左鎖骨下動脈遠端開始）。",
+    "tags": ["aortic dissection", "classification"]
+  },
+  {
+    "id": "MED_03_CARD_PULM_DER_AORTA_Q0005",
+    "source_type": "derived",
+    "book": { "code": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內" },
+    "location": { "section": "Aortic disease", "note": "derived from text" },
+    "stem": "急性主動脈剝離時常見的『影像/臨床線索』，下列何者較典型？",
+    "options": [
+      { "key": "A", "text": "撕裂樣胸背痛、兩側血壓差、縱隔增寬" },
+      { "key": "B", "text": "黃疸合併茶色尿" },
+      { "key": "C", "text": "慢性乾咳持續 3 個月" },
+      { "key": "D", "text": "侷限性右下腹痛合併反跳痛" }
+    ],
+    "answer": "A",
+    "explanation": "典型線索包括突發撕裂樣胸背痛、脈搏/血壓不對稱、胸部 X 光縱隔增寬；確診多依 CTA/TEE/MRI 視情況選用。",
+    "tags": ["aortic dissection", "clinical"]
+  }
+
+]
