@@ -3322,6 +3322,144 @@
     "explanation": "MDR-TB 定義為至少對 INH 與 rifampin 抗藥，治療需第二線藥物並由專家管理。"
   }
 
+,
+  
+  {
+    "id": "MED3_V1_ORIG_LCA_Q0010",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜辛 肺癌｜分型" },
+    "stem": "肺癌在臨床決策上最重要的兩大分型為何？",
+    "options": [
+      { "key": "A", "text": "非小細胞肺癌（NSCLC）與小細胞肺癌（SCLC）" },
+      { "key": "B", "text": "腺癌與鱗狀細胞癌" },
+      { "key": "C", "text": "原位癌與轉移癌" },
+      { "key": "D", "text": "良性與惡性" }
+    ],
+    "answer": "A",
+    "explanation": "NSCLC 與 SCLC 的生物行為與治療策略差異最大，為臨床決策的首要分型。"
+  },
+  {
+    "id": "MED3_V1_ORIG_LCA_Q0011",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜辛 肺癌｜流行病學" },
+    "stem": "下列何者最符合肺腺癌（adenocarcinoma）的典型特徵？",
+    "options": [
+      { "key": "A", "text": "最常見的肺癌型態，常位於周邊肺野" },
+      { "key": "B", "text": "幾乎只發生在中央氣道" },
+      { "key": "C", "text": "極少發生遠端轉移" },
+      { "key": "D", "text": "僅見於重度吸菸男性" }
+    ],
+    "answer": "A",
+    "explanation": "肺腺癌為最常見型態，常位於周邊，與非吸菸者亦相關。"
+  },
+  {
+    "id": "MED3_V1_ORIG_LCA_Q0012",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜辛 肺癌｜影像與分期" },
+    "stem": "肺癌完整分期最重要的影像檢查組合為何？",
+    "options": [
+      { "key": "A", "text": "胸部 CT（含對比）± PET-CT，必要時加腦部 MRI" },
+      { "key": "B", "text": "單純胸部 X 光" },
+      { "key": "C", "text": "腹部超音波即可" },
+      { "key": "D", "text": "心電圖" }
+    ],
+    "answer": "A",
+    "explanation": "CT 為基礎，PET-CT 評估遠端轉移；疑似腦轉移需腦部 MRI。"
+  },
+  {
+    "id": "MED3_V1_ORIG_LCA_Q0013",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜辛 肺癌｜TNM" },
+    "stem": "TNM 分期中的 T 主要代表何者？",
+    "options": [
+      { "key": "A", "text": "腫瘤大小與局部侵犯程度" },
+      { "key": "B", "text": "淋巴結轉移" },
+      { "key": "C", "text": "遠端轉移" },
+      { "key": "D", "text": "病人年齡" }
+    ],
+    "answer": "A",
+    "explanation": "T 為原發腫瘤大小與侵犯；N 為淋巴結；M 為遠端轉移。"
+  },
+  {
+    "id": "MED3_V1_ORIG_LCA_Q0014",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜辛 肺癌｜SCLC" },
+    "stem": "下列何者最符合小細胞肺癌（SCLC）的特性？",
+    "options": [
+      { "key": "A", "text": "生長快速、早期轉移、對化療與放療敏感" },
+      { "key": "B", "text": "多為周邊型、以手術為主" },
+      { "key": "C", "text": "極少與吸菸相關" },
+      { "key": "D", "text": "幾乎不會有副腫瘤症候群" }
+    ],
+    "answer": "A",
+    "explanation": "SCLC 侵襲性高、早期轉移，治療以化療/放療為主，且常見副腫瘤症候群。"
+  },
+  {
+    "id": "MED3_V1_ORIG_LCA_Q0015",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜辛 肺癌｜副腫瘤症候群" },
+    "stem": "下列哪一項最常與小細胞肺癌相關？",
+    "options": [
+      { "key": "A", "text": "SIADH" },
+      { "key": "B", "text": "高血鈣（PTHrP）" },
+      { "key": "C", "text": "紅血球增多" },
+      { "key": "D", "text": "血小板減少" }
+    ],
+    "answer": "A",
+    "explanation": "SCLC 常見 SIADH 或異位 ACTH；高血鈣較常見於鱗狀細胞癌。"
+  },
+  {
+    "id": "MED3_V1_ORIG_LCA_Q0016",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜辛 肺癌｜分子檢測" },
+    "stem": "對於 NSCLC（特別是腺癌），下列何者最重要以決定標靶治療？",
+    "options": [
+      { "key": "A", "text": "Driver mutation（如 EGFR、ALK）檢測" },
+      { "key": "B", "text": "單次胸部 X 光" },
+      { "key": "C", "text": "血清電解質" },
+      { "key": "D", "text": "肺功能檢查" }
+    ],
+    "answer": "A",
+    "explanation": "分子檢測可指引標靶治療選擇，對腺癌尤其重要。"
+  },
+  {
+    "id": "MED3_V1_ORIG_LCA_Q0017",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜辛 肺癌｜治療策略" },
+    "stem": "早期（I–II 期）NSCLC 且病人可耐受手術時，首選治療為何？",
+    "options": [
+      { "key": "A", "text": "手術切除 ± 輔助治療" },
+      { "key": "B", "text": "直接全身化療" },
+      { "key": "C", "text": "只給支持性治療" },
+      { "key": "D", "text": "長期抗生素" }
+    ],
+    "answer": "A",
+    "explanation": "早期 NSCLC 若可手術，手術切除為首選，視分期與病理加輔助治療。"
+  },
+  {
+    "id": "MED3_V1_ORIG_LCA_Q0018",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜辛 肺癌｜特殊型態" },
+    "stem": "Pancoast tumor 最典型的臨床表現為何？",
+    "options": [
+      { "key": "A", "text": "肩痛、上肢神經症狀、Horner syndrome" },
+      { "key": "B", "text": "腹瀉與低鈉血症" },
+      { "key": "C", "text": "急性高燒與膿痰" },
+      { "key": "D", "text": "僅乾咳" }
+    ],
+    "answer": "A",
+    "explanation": "肺尖腫瘤侵犯臂叢與交感神經鏈，造成肩臂痛與 Horner syndrome。"
+  }
+
 
 
 
