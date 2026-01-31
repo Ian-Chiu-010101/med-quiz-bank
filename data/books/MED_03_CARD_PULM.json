@@ -2383,6 +2383,189 @@
     "explanation": "密切接觸者需評估是否感染（TST/IGRA）與是否有活動性疾病，必要時給予 LTBI 治療以降低未來發病風險。"
   }
 
+,
+  
+  {
+    "id": "MED3_V1_DER_LCA_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜肺癌｜分型" },
+    "stem": "肺癌的兩大臨床分型為何？",
+    "options": [
+      { "key": "A", "text": "非小細胞肺癌（NSCLC）與小細胞肺癌（SCLC）" },
+      { "key": "B", "text": "鱗狀細胞癌與腺癌（僅此兩型）" },
+      { "key": "C", "text": "原位癌與轉移癌" },
+      { "key": "D", "text": "良性與惡性" }
+    ],
+    "answer": "A",
+    "explanation": "臨床決策上最重要的分類為 NSCLC 與 SCLC；NSCLC 再細分為腺癌、鱗狀細胞癌與大型細胞癌等。"
+  },
+  {
+    "id": "MED3_V1_DER_LCA_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜肺癌｜流行病學" },
+    "stem": "下列何者最符合肺腺癌（adenocarcinoma）的典型特徵？",
+    "options": [
+      { "key": "A", "text": "最常見的肺癌型態，常位於周邊肺野，與非吸菸者亦相關" },
+      { "key": "B", "text": "幾乎只發生在中央氣道" },
+      { "key": "C", "text": "幾乎不會發生遠端轉移" },
+      { "key": "D", "text": "只發生在重度吸菸男性" }
+    ],
+    "answer": "A",
+    "explanation": "肺腺癌為最常見肺癌型態，常見周邊分布，與非吸菸者、女性及特定 driver mutation 相關。"
+  },
+  {
+    "id": "MED3_V1_DER_LCA_Q0003",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜肺癌｜影像" },
+    "stem": "肺癌影像評估與分期中，最核心的影像組合為何？",
+    "options": [
+      { "key": "A", "text": "胸部 CT（含對比）± PET-CT，必要時加腦部 MRI" },
+      { "key": "B", "text": "單純胸部 X 光即可完整分期" },
+      { "key": "C", "text": "腹部超音波即可取代所有檢查" },
+      { "key": "D", "text": "心電圖" }
+    ],
+    "answer": "A",
+    "explanation": "肺癌分期以 CT 為基礎，PET-CT 用於遠端轉移評估，疑似腦轉移需腦部 MRI。"
+  },
+  {
+    "id": "MED3_V1_DER_LCA_Q0004",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜肺癌｜TNM 分期" },
+    "stem": "肺癌 TNM 分期中，T 分期主要反映下列何者？",
+    "options": [
+      { "key": "A", "text": "腫瘤大小與局部侵犯程度" },
+      { "key": "B", "text": "是否有遠端轉移" },
+      { "key": "C", "text": "病人的體能狀態" },
+      { "key": "D", "text": "是否接受過化療" }
+    ],
+    "answer": "A",
+    "explanation": "TNM 中 T 代表腫瘤大小與局部侵犯，N 代表淋巴結，M 代表遠端轉移。"
+  },
+  {
+    "id": "MED3_V1_DER_LCA_Q0005",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜肺癌｜SCLC" },
+    "stem": "下列何者最符合小細胞肺癌（SCLC）的臨床特性？",
+    "options": [
+      { "key": "A", "text": "生長快速、早期轉移、對化療與放療敏感" },
+      { "key": "B", "text": "多為周邊型、早期可手術治癒" },
+      { "key": "C", "text": "幾乎不會產生副腫瘤症候群" },
+      { "key": "D", "text": "通常不吸菸者為主" }
+    ],
+    "answer": "A",
+    "explanation": "SCLC 具高度侵襲性、早期轉移，治療以化療/放療為主，手術角色有限，且常與吸菸相關。"
+  },
+  {
+    "id": "MED3_V1_DER_LCA_Q0006",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜肺癌｜副腫瘤症候群" },
+    "stem": "下列哪一組『肺癌型態—副腫瘤症候群』配對最正確？",
+    "options": [
+      { "key": "A", "text": "SCLC — SIADH / ectopic ACTH" },
+      { "key": "B", "text": "腺癌 — Lambert-Eaton syndrome" },
+      { "key": "C", "text": "鱗狀細胞癌 — SIADH" },
+      { "key": "D", "text": "大型細胞癌 — 重症肌無力" }
+    ],
+    "answer": "A",
+    "explanation": "SCLC 常見副腫瘤症候群包含 SIADH、ectopic ACTH；鱗狀細胞癌較常見 PTHrP 導致高血鈣。"
+  },
+  {
+    "id": "MED3_V1_DER_LCA_Q0007",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜肺癌｜Driver mutations" },
+    "stem": "NSCLC（特別是腺癌）常見、且會影響標靶治療選擇的 driver mutation 包含下列何者？",
+    "options": [
+      { "key": "A", "text": "EGFR、ALK、ROS1、BRAF" },
+      { "key": "B", "text": "HLA-B27、APOE" },
+      { "key": "C", "text": "BRCA1 只見於乳癌" },
+      { "key": "D", "text": "沒有任何分子檢測價值" }
+    ],
+    "answer": "A",
+    "explanation": "腺癌需評估多種 driver mutation（EGFR、ALK、ROS1、BRAF 等），以決定是否使用標靶治療。"
+  },
+  {
+    "id": "MED3_V1_DER_LCA_Q0008",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜肺癌｜免疫治療" },
+    "stem": "肺癌免疫治療常評估的腫瘤指標為何？",
+    "options": [
+      { "key": "A", "text": "PD-L1 表現量" },
+      { "key": "B", "text": "HbA1c" },
+      { "key": "C", "text": "D-dimer" },
+      { "key": "D", "text": "TSH" }
+    ],
+    "answer": "A",
+    "explanation": "PD-L1 表現量常用於評估免疫檢查點抑制劑（如 anti–PD-1/PD-L1）的適用性。"
+  },
+  {
+    "id": "MED3_V1_DER_LCA_Q0009",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜肺癌｜治療策略" },
+    "stem": "早期（I–II 期）NSCLC、病人可耐受手術時，最優先的治療策略為何？",
+    "options": [
+      { "key": "A", "text": "手術切除 ± 輔助治療" },
+      { "key": "B", "text": "只給支持性治療" },
+      { "key": "C", "text": "直接全身化療，不需手術" },
+      { "key": "D", "text": "長期抗生素" }
+    ],
+    "answer": "A",
+    "explanation": "早期 NSCLC 若可手術，手術切除為首選，依分期與病理考慮輔助化療/放療。"
+  },
+  {
+    "id": "MED3_V1_DER_LCA_Q0010",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜肺癌｜鑑別" },
+    "stem": "肺部結節的鑑別中，下列哪一項較支持惡性而非良性？",
+    "options": [
+      { "key": "A", "text": "邊緣不規則、spiculated、隨時間增大" },
+      { "key": "B", "text": "長期大小不變、邊緣平滑" },
+      { "key": "C", "text": "明顯鈣化呈中央爆米花樣" },
+      { "key": "D", "text": "感染後迅速消退" }
+    ],
+    "answer": "A",
+    "explanation": "不規則或 spiculated 邊緣、隨時間成長支持惡性；穩定、平滑或特徵性鈣化較偏良性。"
+  },
+  {
+    "id": "MED3_V1_DER_LCA_Q0011",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜肺癌｜併發症" },
+    "stem": "Pancoast tumor 最典型的臨床表現為何？",
+    "options": [
+      { "key": "A", "text": "肩痛、上肢疼痛/無力、Horner syndrome" },
+      { "key": "B", "text": "大量腹瀉" },
+      { "key": "C", "text": "急性腹痛" },
+      { "key": "D", "text": "單純咳嗽無其他症狀" }
+    ],
+    "answer": "A",
+    "explanation": "肺尖腫瘤（Pancoast）可侵犯臂叢神經與交感神經鏈，造成肩臂痛與 Horner syndrome。"
+  },
+  {
+    "id": "MED3_V1_DER_LCA_Q0012",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜肺癌｜篩檢" },
+    "stem": "高風險族群肺癌篩檢的建議工具為何？",
+    "options": [
+      { "key": "A", "text": "低劑量胸部電腦斷層（LDCT）" },
+      { "key": "B", "text": "每年胸部 X 光" },
+      { "key": "C", "text": "腫瘤標記抽血" },
+      { "key": "D", "text": "痰液細胞學即可" }
+    ],
+    "answer": "A",
+    "explanation": "對高風險族群（年齡與吸菸史）建議以低劑量 CT 篩檢，可降低肺癌死亡率。"
+  }
+
 
 
 
