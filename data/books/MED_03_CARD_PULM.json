@@ -2998,6 +2998,330 @@
     "explanation": "ILD 治療須依病因與型態（如 IPF vs 發炎性 ILD）決定；IPF 有抗纖維化藥物，並非一律類固醇。"
   }
 
+,
+  
+  {
+    "id": "MED3_V1_ORIG_PE_Q0010",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜戊 肺栓塞｜臨床表現" },
+    "stem": "下列哪一組最符合急性肺栓塞（PE）的典型臨床表現？",
+    "options": [
+      { "key": "A", "text": "突發呼吸困難、胸膜性胸痛、心搏過速" },
+      { "key": "B", "text": "慢性咳痰、清晨喘鳴" },
+      { "key": "C", "text": "高燒合併大量膿痰" },
+      { "key": "D", "text": "長期體重減輕、夜間盜汗" }
+    ],
+    "answer": "A",
+    "explanation": "急性 PE 常見突發呼吸困難、胸膜性胸痛與心搏過速；其餘選項較符合其他肺部疾病。"
+  },
+  {
+    "id": "MED3_V1_ORIG_PE_Q0011",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜戊 肺栓塞｜危險因子" },
+    "stem": "下列何者不是肺栓塞的典型危險因子？",
+    "options": [
+      { "key": "A", "text": "近期手術或長期臥床" },
+      { "key": "B", "text": "惡性腫瘤" },
+      { "key": "C", "text": "口服避孕藥或妊娠" },
+      { "key": "D", "text": "單純高血脂" }
+    ],
+    "answer": "D",
+    "explanation": "PE 危險因子包含 Virchow triad 相關因素；單純高血脂並非典型 PE 危險因子。"
+  },
+  {
+    "id": "MED3_V1_ORIG_PE_Q0012",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜戊 肺栓塞｜診斷流程" },
+    "stem": "疑似肺栓塞病人的診斷策略，下列何者最合理？",
+    "options": [
+      { "key": "A", "text": "先評估臨床前測機率，必要時再做 D-dimer 或影像" },
+      { "key": "B", "text": "所有病人一律直接做溶栓治療" },
+      { "key": "C", "text": "僅靠胸部 X 光即可確診或排除" },
+      { "key": "D", "text": "D-dimer 陽性即可確診 PE" }
+    ],
+    "answer": "A",
+    "explanation": "PE 診斷需先評估臨床前測機率（如 Wells），再依風險選擇 D-dimer 或影像檢查。"
+  },
+  {
+    "id": "MED3_V1_ORIG_PE_Q0013",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜戊 肺栓塞｜影像" },
+    "stem": "血流動力學穩定的疑似 PE 病人，最常用以確認診斷的影像為何？",
+    "options": [
+      { "key": "A", "text": "CT pulmonary angiography（CTPA）" },
+      { "key": "B", "text": "胸部 X 光" },
+      { "key": "C", "text": "腹部 CT" },
+      { "key": "D", "text": "肺功能檢查" }
+    ],
+    "answer": "A",
+    "explanation": "在腎功能許可與無顯著禁忌時，CTPA 為確認 PE 的主要影像工具。"
+  },
+  {
+    "id": "MED3_V1_ORIG_PE_Q0014",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜戊 肺栓塞｜心電圖" },
+    "stem": "關於肺栓塞的心電圖表現，下列何者最常見？",
+    "options": [
+      { "key": "A", "text": "竇性心搏過速" },
+      { "key": "B", "text": "ST elevation 於多導程" },
+      { "key": "C", "text": "完全性房室傳導阻滯" },
+      { "key": "D", "text": "持續性心房顫動為必然" }
+    ],
+    "answer": "A",
+    "explanation": "PE 最常見 ECG 表現為竇性心搏過速；S1Q3T3 為經典但非高敏感度。"
+  },
+  {
+    "id": "MED3_V1_ORIG_PE_Q0015",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜戊 肺栓塞｜治療" },
+    "stem": "血流動力學穩定的肺栓塞病人，治療的基石為何？",
+    "options": [
+      { "key": "A", "text": "抗凝治療" },
+      { "key": "B", "text": "立即全數接受溶栓" },
+      { "key": "C", "text": "僅給氧即可" },
+      { "key": "D", "text": "長期類固醇" }
+    ],
+    "answer": "A",
+    "explanation": "多數穩定 PE 病人以抗凝為治療基石；溶栓保留給高風險（massive）PE。"
+  },
+  {
+    "id": "MED3_V1_ORIG_PH_Q0016",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜戊 肺高壓｜診斷" },
+    "stem": "確立肺高壓（PH）診斷的金標準為何？",
+    "options": [
+      { "key": "A", "text": "右心導管檢查" },
+      { "key": "B", "text": "心臟超音波" },
+      { "key": "C", "text": "胸部 X 光" },
+      { "key": "D", "text": "肺功能檢查" }
+    ],
+    "answer": "A",
+    "explanation": "心臟超音波可做篩檢，但 PH 的確診與血流動力學分型需右心導管。"
+  },
+  {
+    "id": "MED3_V1_ORIG_PH_Q0017",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜戊 肺高壓｜臨床" },
+    "stem": "下列何者為肺高壓常見的臨床表現？",
+    "options": [
+      { "key": "A", "text": "漸進性運動喘、暈厥或右心衰徵象" },
+      { "key": "B", "text": "急性高燒與膿痰" },
+      { "key": "C", "text": "單側胸膜性胸痛" },
+      { "key": "D", "text": "僅夜間咳嗽" }
+    ],
+    "answer": "A",
+    "explanation": "PH 典型表現為漸進性運動喘，嚴重時可暈厥，晚期出現右心衰竭徵象。"
+  }
+
+,
+  
+  {
+    "id": "MED3_V1_ORIG_PNA_Q0010",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜己 肺部感染｜定義" },
+    "stem": "下列何者最符合社區型肺炎（CAP）的定義？",
+    "options": [
+      { "key": "A", "text": "入院 48 小時後才發生的肺炎" },
+      { "key": "B", "text": "長期插管後出現的肺炎" },
+      { "key": "C", "text": "在社區獲得或入院早期即存在的肺炎" },
+      { "key": "D", "text": "只要是病毒感染即為 CAP" }
+    ],
+    "answer": "C",
+    "explanation": "CAP 指在醫療機構外獲得，或入院早期即存在的肺炎；入院 ≥48 小時後新發者較符合 HAP/VAP。"
+  },
+  {
+    "id": "MED3_V1_ORIG_PNA_Q0011",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜己 肺部感染｜病原" },
+    "stem": "社區型肺炎（CAP）最常見的致病菌為何？",
+    "options": [
+      { "key": "A", "text": "Streptococcus pneumoniae" },
+      { "key": "B", "text": "Pseudomonas aeruginosa" },
+      { "key": "C", "text": "Mycobacterium tuberculosis" },
+      { "key": "D", "text": "Candida albicans" }
+    ],
+    "answer": "A",
+    "explanation": "肺炎鏈球菌是 CAP 最常見的典型致病菌；Pseudomonas 多見於 HAP/VAP 或特定高風險族群。"
+  },
+  {
+    "id": "MED3_V1_ORIG_PNA_Q0012",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜己 肺部感染｜嚴重度" },
+    "stem": "評估 CAP 是否需要住院治療時，常用的臨床評分工具為何？",
+    "options": [
+      { "key": "A", "text": "CURB-65 或 PSI" },
+      { "key": "B", "text": "Wells score" },
+      { "key": "C", "text": "APGAR score" },
+      { "key": "D", "text": "CHADS2 score" }
+    ],
+    "answer": "A",
+    "explanation": "CURB-65 與 PSI 為 CAP 常用的嚴重度評估工具，用以協助門診或住院決策。"
+  },
+  {
+    "id": "MED3_V1_ORIG_PNA_Q0013",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜己 肺部感染｜治療" },
+    "stem": "免疫正常、無重大共病的 CAP 病人，門診經驗性抗生素治療何者最合適？",
+    "options": [
+      { "key": "A", "text": "Amoxicillin 或 doxycycline（依抗藥性調整）" },
+      { "key": "B", "text": "Vancomycin + anti-pseudomonal β-lactam" },
+      { "key": "C", "text": "僅給吸入型支氣管擴張劑" },
+      { "key": "D", "text": "預防性抗生素長期使用" }
+    ],
+    "answer": "A",
+    "explanation": "低風險 CAP 門診治療以窄譜為主；廣譜（含 MRSA/綠膿桿菌）需有特定風險因子。"
+  },
+  {
+    "id": "MED3_V1_ORIG_PNA_Q0014",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜己 肺部感染｜住院治療" },
+    "stem": "一般病房住院 CAP 的經驗性治療，下列何者較合理？",
+    "options": [
+      { "key": "A", "text": "β-lactam + macrolide，或 respiratory fluoroquinolone 單用" },
+      { "key": "B", "text": "只用 penicillin G" },
+      { "key": "C", "text": "固定加 vancomycin 不論風險" },
+      { "key": "D", "text": "完全不需抗生素" }
+    ],
+    "answer": "A",
+    "explanation": "住院 CAP 常需涵蓋典型與非典型病原；β-lactam 合併 macrolide 或 respiratory FQ 為常見策略。"
+  },
+  {
+    "id": "MED3_V1_ORIG_PNA_Q0015",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜己 肺部感染｜HAP/VAP" },
+    "stem": "關於 HAP/VAP 的敘述，下列何者正確？",
+    "options": [
+      { "key": "A", "text": "較 CAP 更需考慮抗藥性菌（如 MRSA、Pseudomonas）" },
+      { "key": "B", "text": "致病菌與 CAP 完全相同" },
+      { "key": "C", "text": "不需要取得培養" },
+      { "key": "D", "text": "抗生素選擇不需依當地 antibiogram" }
+    ],
+    "answer": "A",
+    "explanation": "HAP/VAP 抗藥性風險較高，需依 MDR 風險與院內 antibiogram 選擇經驗性抗生素。"
+  },
+  {
+    "id": "MED3_V1_ORIG_PNA_Q0016",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜己 肺部感染｜Aspiration" },
+    "stem": "下列關於吸入性肺炎（aspiration pneumonia）的敘述，何者正確？",
+    "options": [
+      { "key": "A", "text": "常需涵蓋口腔厭氧菌的抗生素" },
+      { "key": "B", "text": "一定由病毒造成" },
+      { "key": "C", "text": "只發生在年輕健康者" },
+      { "key": "D", "text": "影像分佈與體位無關" }
+    ],
+    "answer": "A",
+    "explanation": "吸入性肺炎常與口腔菌叢相關，需涵蓋厭氧菌；影像分佈常與體位相關。"
+  }
+
+,
+  
+  {
+    "id": "MED3_V1_ORIG_TB_Q0010",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜庚 肺結核｜臨床表現" },
+    "stem": "下列何者最典型為活動性肺結核的臨床表現？",
+    "options": [
+      { "key": "A", "text": "慢性咳嗽、夜間盜汗、體重減輕" },
+      { "key": "B", "text": "突發高燒合併膿痰，數日內痊癒" },
+      { "key": "C", "text": "反覆喘鳴且完全可逆" },
+      { "key": "D", "text": "僅鼻塞流鼻水" }
+    ],
+    "answer": "A",
+    "explanation": "活動性 TB 為慢性消耗性疾病，典型症狀包含慢性咳嗽、低度發燒、夜間盜汗與體重減輕。"
+  },
+  {
+    "id": "MED3_V1_ORIG_TB_Q0011",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜庚 肺結核｜影像" },
+    "stem": "免疫正常成人再活化型肺結核最常見的影像分佈為何？",
+    "options": [
+      { "key": "A", "text": "上肺葉或肺尖為主，可能合併空洞" },
+      { "key": "B", "text": "僅右下肺葉" },
+      { "key": "C", "text": "單純肺門淋巴結腫大" },
+      { "key": "D", "text": "廣泛實變伴氣支氣管徵" }
+    ],
+    "answer": "A",
+    "explanation": "再活化 TB 偏好高氧分壓區域，典型位於上肺葉或肺尖，常見空洞形成。"
+  },
+  {
+    "id": "MED3_V1_ORIG_TB_Q0012",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜庚 肺結核｜檢驗" },
+    "stem": "下列何者屬於結核感染的免疫學檢驗？",
+    "options": [
+      { "key": "A", "text": "痰抗酸菌塗片" },
+      { "key": "B", "text": "痰培養" },
+      { "key": "C", "text": "IGRA 或 TST" },
+      { "key": "D", "text": "核酸放大檢驗（NAAT）" }
+    ],
+    "answer": "C",
+    "explanation": "IGRA/TST 反映宿主對結核菌的免疫反應；塗片、培養與 NAAT 為病原學檢驗。"
+  },
+  {
+    "id": "MED3_V1_ORIG_TB_Q0013",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜庚 肺結核｜治療" },
+    "stem": "藥物敏感性肺結核的標準治療為何？",
+    "options": [
+      { "key": "A", "text": "2 個月 HRZE + 4 個月 HR" },
+      { "key": "B", "text": "單用 isoniazid 9 個月" },
+      { "key": "C", "text": "2 週廣效抗生素即可" },
+      { "key": "D", "text": "終身治療" }
+    ],
+    "answer": "A",
+    "explanation": "標準療程為 2HRZE/4HR，共 6 個月，可有效降低復發與抗藥性。"
+  },
+  {
+    "id": "MED3_V1_ORIG_TB_Q0014",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜庚 肺結核｜感染管制" },
+    "stem": "疑似或確診活動性肺結核病人，最適當的感染管制措施為何？",
+    "options": [
+      { "key": "A", "text": "負壓隔離與空氣傳染防護" },
+      { "key": "B", "text": "僅需一般外科口罩" },
+      { "key": "C", "text": "不需任何隔離" },
+      { "key": "D", "text": "只要塗片陰性即可立即解除隔離" }
+    ],
+    "answer": "A",
+    "explanation": "活動性 TB 需空氣傳染防護；解除隔離須依臨床改善與微生物學結果綜合判斷。"
+  },
+  {
+    "id": "MED3_V1_ORIG_TB_Q0015",
+    "source_type": "original",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "第二篇 胸腔內科｜庚 肺結核｜抗藥性" },
+    "stem": "MDR-TB 的定義為何？",
+    "options": [
+      { "key": "A", "text": "對 isoniazid 與 rifampin 皆具抗藥性" },
+      { "key": "B", "text": "只對 ethambutol 抗藥" },
+      { "key": "C", "text": "治療超過 6 個月即為 MDR-TB" },
+      { "key": "D", "text": "僅發生於 HIV 病人" }
+    ],
+    "answer": "A",
+    "explanation": "MDR-TB 定義為至少對 INH 與 rifampin 抗藥，治療需第二線藥物並由專家管理。"
+  }
+
 
 
 
