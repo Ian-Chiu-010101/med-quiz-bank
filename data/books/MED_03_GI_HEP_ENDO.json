@@ -638,6 +638,190 @@
     "answer": "C",
     "explanation": "EHEC 疑似時一般避免常規抗生素（可能增加毒素釋放與 HUS 風險）；重點為支持性治療與併發症監測。"
   }
+,
+  
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_GIB_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜丁 腸胃道出血" },
+    "stem": "病房中的一位56歲女性病人突然開始解大量黑便及頭暈，您是值班醫師前去處理病情。下列急性上消化道出血之處理方式，何者最不恰當？",
+    "options": [
+      { "key": "A", "text": "詳細詢問病人之病史，以了解病人可能為何處出血" },
+      { "key": "B", "text": "評估病人之心跳與血壓，以得知是否為臨床上有意義的嚴重出血" },
+      { "key": "C", "text": "馬上抽血評估血色素。若血色素數值正常，則可以判斷病人無嚴重出血的可能性" },
+      { "key": "D", "text": "病人接受內視鏡檢查，若發現有正在出血之潰瘍或潰瘍處可見血管，則內視鏡止血術可降低病人之再出血、住院天數及死亡率" }
+    ],
+    "answer": "C",
+    "explanation": "急性出血早期 Hb 可能仍正常（尚未因體液稀釋而下降），不能用『Hb 正常』排除嚴重出血；處置首要仍是穩定生命徵象與後續內視鏡評估/止血。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_GIB_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜丁 腸胃道出血" },
+    "stem": "下列何者不是胃上皮細胞的攻擊因子？",
+    "options": [
+      { "key": "A", "text": "前列腺素 (prostaglandin)" },
+      { "key": "B", "text": "酒精" },
+      { "key": "C", "text": "Helicobacter pylori" },
+      { "key": "D", "text": "膽鹽 (bile salt)" }
+    ],
+    "answer": "A",
+    "explanation": "前列腺素（特別是 PGE2 等）屬於黏膜保護因子，可促進黏液/碳酸氫鹽、維持血流並抑制酸分泌；酒精、H. pylori、膽鹽可傷害黏膜。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_GIB_Q0003",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜丁 腸胃道出血" },
+    "stem": "一位51歲男性主訴3天前黑便兩次，生命跡象正常，血液檢查：Hb 11.2 g/dL。此病人之上腸胃道內視鏡檢查，何者可以讓我們告訴病人3天內再出血之機會不大？",
+    "options": [
+      { "key": "A", "text": "胃潰瘍上有黏附之血塊，但未見出血" },
+      { "key": "B", "text": "胃潰瘍底部有未出血之血管" },
+      { "key": "C", "text": "胃潰瘍合併乾淨之潰瘍底部" },
+      { "key": "D", "text": "無消化潰瘍，但在胃體部上方有一小段可見之動靜脈畸生血管 (arteriovenous malformation)" }
+    ],
+    "answer": "C",
+    "explanation": "Forrest 分類中「乾淨潰瘍底部」屬最低再出血風險（常 <5%）；可見血管或黏附血塊風險較高。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_GIB_Q0004",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜丁 腸胃道出血｜憩室" },
+    "stem": "關於大腸憩室症 (diverticular disease)，下列敘述何者正確？",
+    "options": [
+      { "key": "A", "text": "大部分的大腸憩室炎必須外科手術" },
+      { "key": "B", "text": "診斷最好的工具是 plain abdominal film" },
+      { "key": "C", "text": "服用抗發炎藥物如 mesalazine 可以減少症狀性憩室疾病的復發" },
+      { "key": "D", "text": "抽菸並非大腸憩室炎的危險因子" }
+    ],
+    "answer": "C",
+    "explanation": "急性憩室炎多以內科治療（NPO/抗生素等）為主；診斷工具以 CT 最佳；抽菸被視為憩室疾病/憩室炎的危險因子之一。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_GIB_Q0005",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜丁 腸胃道出血｜內視鏡處置" },
+    "stem": "下列關於消化道內視鏡處置之敘述，何者正確？",
+    "options": [
+      { "key": "A", "text": "如果病人解大量鮮血便 (hematochezia)，必為下消化道的大量出血，要緊急安排大腸鏡" },
+      { "key": "B", "text": "施行內視鏡前，假如有服用低劑量阿斯匹靈則必須先停藥一週" },
+      { "key": "C", "text": "所有黃疸病患都是施行逆行性膽胰鏡 (ERCP) 的適應症" },
+      { "key": "D", "text": "消化道早期表淺癌，逐漸有以內視鏡切除 (endoscopic/endoluminal resection) 之趨勢" }
+    ],
+    "answer": "D",
+    "explanation": "大量血便也可能是『大量上消化道出血』，需先排除；一般診斷性胃鏡多不需因低劑量 aspirin 而停藥一週；ERCP 主要用於阻塞性黃疸等需診斷/治療者；表淺癌（T0–T1a 等）可考慮內視鏡切除。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_GIB_Q0006",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜丁 腸胃道出血" },
+    "stem": "30歲男性在大量喝酒後嘔吐，嘔吐物中有鮮血，胃鏡結果在食道胃交接處有出血並做止血夾治療，其診斷最有可能為下列何者？",
+    "options": [
+      { "key": "A", "text": "esophageal varices" },
+      { "key": "B", "text": "peptic ulcer" },
+      { "key": "C", "text": "Mallory-Weiss tear" },
+      { "key": "D", "text": "gastroesophageal reflux disease" }
+    ],
+    "answer": "C",
+    "explanation": "劇烈嘔吐後在 GE junction 出血，最典型為 Mallory–Weiss tear（黏膜裂傷），多為自限性，必要時內視鏡止血。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_GIB_Q0007",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜丁 腸胃道出血" },
+    "stem": "40歲男性主訴吐鮮血 (hematemesis)，吐血前曾飲酒應酬並有劇烈嘔吐。面對此病人首先要做的事是？",
+    "options": [
+      { "key": "A", "text": "插鼻胃管看有無胃出血" },
+      { "key": "B", "text": "量 vital signs，打上點滴輸液" },
+      { "key": "C", "text": "趕快抽血檢驗血色素看有無貧血" },
+      { "key": "D", "text": "趕快打電話會診胃腸科醫師" }
+    ],
+    "answer": "B",
+    "explanation": "急性消化道出血的第一步是評估與穩定 ABC/生命徵象（含輸液/輸血評估）；抽血與後續內視鏡在穩定後進行。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_GIB_Q0008",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜丁 腸胃道出血" },
+    "stem": "承上題，病人無慢性肝病徵象，腹部超音波肝膽胰脾無異常，此病人最可能之診斷為？",
+    "options": [
+      { "key": "A", "text": "食道靜脈曲張出血" },
+      { "key": "B", "text": "胃癌出血" },
+      { "key": "C", "text": "Mallory-Weiss 症候群" },
+      { "key": "D", "text": "十二指腸潰瘍出血" }
+    ],
+    "answer": "C",
+    "explanation": "吐血前有劇烈嘔吐、且缺乏肝硬化/門脈高壓線索，最符合 Mallory–Weiss；多為自癒性，嚴重出血才需積極止血。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_GIB_Q0009",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜丁 腸胃道出血｜下消化道" },
+    "stem": "下列有關下消化道出血的敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "出血源不明(obscure)之消化道出血，病變常在小腸，須先排除上消化道及大腸直腸病變；上消化道內視鏡及大腸鏡檢查常需至少兩次" },
+      { "key": "B", "text": "嚴重出血病例可安排血管攝影(angiography)，找到出血源時可注射 vasopressin 或以血管栓塞(embolization)止血" },
+      { "key": "C", "text": "核醫紅血球掃描(RBC scan)偵測出血較血管攝影敏感，可以精確定位，幫助治療" },
+      { "key": "D", "text": "如無活動性出血，除非是血管豐富腫瘤或血管發育不良(angiodysplasia)，否則血管攝影術幫助不大" }
+    ],
+    "answer": "C",
+    "explanation": "RBC scan 偵測門檻低、較敏感，但『定位不精確』，通常只能大略區域定位；要治療仍需 CTA/血管攝影/內視鏡等。"
+  },
+
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_GIB_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜丁 腸胃道出血｜Forrest" },
+    "stem": "上消化道潰瘍出血的再出血風險評估常用 Forrest 分類。下列何者屬低風險，可考慮較早出院/門診追蹤？",
+    "options": [
+      { "key": "A", "text": "Spurting bleeding（噴射出血）" },
+      { "key": "B", "text": "Visible vessel（可見血管）" },
+      { "key": "C", "text": "Clean-based ulcer（乾淨潰瘍底部）" },
+      { "key": "D", "text": "Adherent clot（黏附血塊）" }
+    ],
+    "answer": "C",
+    "explanation": "乾淨潰瘍底部為 Forrest III，屬最低再出血風險；可見血管/活動性出血/黏附血塊風險較高，通常需內視鏡止血與住院觀察。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_GIB_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜丁 腸胃道出血｜Variceal" },
+    "stem": "疑似食道靜脈瘤急性出血時，除了內視鏡治療外，下列何者最符合急性期藥物處置重點？",
+    "options": [
+      { "key": "A", "text": "給予 octreotide/血管收縮藥以降低門脈壓" },
+      { "key": "B", "text": "常規給予 NSAID 止痛" },
+      { "key": "C", "text": "只要 Hb 正常即可不處置" },
+      { "key": "D", "text": "立刻使用強力止瀉藥減少黑便" }
+    ],
+    "answer": "A",
+    "explanation": "靜脈瘤出血急性期常合併使用血管活性藥（如 octreotide）降低門脈壓，並配合內視鏡結紮/硬化治療；另常需評估抗生素以降低感染與再出血風險。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_GIB_Q0003",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜丁 腸胃道出血｜LGIB 檢查" },
+    "stem": "下消化道出血量大且持續、腸鏡準備不易或視野被血遮蔽時，較合適用來『定位並可立即介入治療』的檢查為何？",
+    "options": [
+      { "key": "A", "text": "核醫 RBC scan" },
+      { "key": "B", "text": "血管攝影（angiography）" },
+      { "key": "C", "text": "糞便潛血" },
+      { "key": "D", "text": "腹部 plain film" }
+    ],
+    "answer": "B",
+    "explanation": "血管攝影可在定位後進行栓塞/灌注治療；RBC scan 較敏感但定位不精確且不能治療。"
+  }
+
 
 
 
