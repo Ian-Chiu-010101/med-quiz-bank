@@ -2357,6 +2357,221 @@
     ],
     "answer": "B",
     "explanation": "庫欣初篩常見選項包含低劑量 dexamethasone 抑制試驗、夜間唾液 cortisol、24 小時尿游離 cortisol（依情境選擇）。"
+  },
+
+
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_LIPID_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜己 血脂異常｜治療核心" },
+    "stem": "血脂治療策略中，下列何者最符合『降 LDL 為核心、以 statin 為主、依 ASCVD 風險分層』的概念？",
+    "options": [
+      { "key": "A", "text": "任何人 LDL 稍高都必須立刻用 PCSK9" },
+      { "key": "B", "text": "以 LDL 降幅與絕對風險作為用藥強度的主要依據" },
+      { "key": "C", "text": "只要 TG 正常就不需要治療 LDL" },
+      { "key": "D", "text": "血脂藥只看總膽固醇，不看 LDL" }
+    ],
+    "answer": "B",
+    "explanation": "現代血脂治療以 LDL 為核心，首選 statin，治療強度與是否加藥取決於病人的 ASCVD 風險與 LDL 降幅目標概念。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_LIPID_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜己 血脂異常｜Statin 不良反應" },
+    "stem": "使用 statin 後出現對稱性肌肉痠痛但 CK 正常或輕度上升，下列處置何者最合理？",
+    "options": [
+      { "key": "A", "text": "永久停藥且此後禁止任何降脂治療" },
+      { "key": "B", "text": "評估其他原因與藥物交互作用，調整劑量/換藥或間歇給藥" },
+      { "key": "C", "text": "立刻改用高劑量類固醇" },
+      { "key": "D", "text": "不需理會，繼續原劑量直到無法行走" }
+    ],
+    "answer": "B",
+    "explanation": "Statin-associated muscle symptoms 常需排除甲低、維生素 D 缺乏、交互作用等，再以降劑量/換不同 statin/間歇給藥等方式維持心血管獲益。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_LIPID_Q0003",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜己 血脂異常｜高三酸甘油脂" },
+    "stem": "高三酸甘油脂（TG）患者主要擔心急性胰臟炎風險的區間通常是？",
+    "options": [
+      { "key": "A", "text": "TG 80 mg/dL" },
+      { "key": "B", "text": "TG 150 mg/dL" },
+      { "key": "C", "text": "TG 500 mg/dL 以上（特別是更高時）" },
+      { "key": "D", "text": "TG 200 mg/dL 以下" }
+    ],
+    "answer": "C",
+    "explanation": "TG 顯著升高（常以 ≥500 mg/dL，尤其更高如 ≥1,000）會增加胰臟炎風險；治療會優先降 TG 並處理次發原因（酒精、未控制糖尿病等）。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_LIPID_Q0004",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜己 血脂異常｜次發原因" },
+    "stem": "下列何者是高 TG 的常見次發原因？",
+    "options": [
+      { "key": "A", "text": "未控制糖尿病" },
+      { "key": "B", "text": "急性闌尾炎" },
+      { "key": "C", "text": "細菌性肺炎" },
+      { "key": "D", "text": "痔瘡" }
+    ],
+    "answer": "A",
+    "explanation": "高 TG 的次發原因包含未控制糖尿病、酒精、某些藥物、甲狀腺功能低下、腎病症候群等，需優先排除與處理。"
+  },
+
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_METAB_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜庚 代謝症候群" },
+    "stem": "代謝症候群的概念核心為何？",
+    "options": [
+      { "key": "A", "text": "單一器官疾病（只限肝臟）" },
+      { "key": "B", "text": "以胰島素阻抗相關的風險群聚，增加心血管與糖尿病風險" },
+      { "key": "C", "text": "與感染無關，因此完全不需治療" },
+      { "key": "D", "text": "只要 BMI 正常就不可能有代謝症候群" }
+    ],
+    "answer": "B",
+    "explanation": "代謝症候群是多項代謝風險因子群聚（中心型肥胖、血壓、血糖、TG、HDL 等），代表 ASCVD 與 T2DM 風險上升。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_METAB_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜庚 代謝症候群｜治療" },
+    "stem": "代謝症候群的基礎治療策略，下列何者最正確？",
+    "options": [
+      { "key": "A", "text": "只要補充維他命即可" },
+      { "key": "B", "text": "生活型態介入（體重、飲食、運動）為核心，並針對血壓/血脂/血糖個別化控制" },
+      { "key": "C", "text": "只要先把 TG 降到正常即可" },
+      { "key": "D", "text": "避免運動以免心臟負擔" }
+    ],
+    "answer": "B",
+    "explanation": "代謝症候群處理核心是減重與生活型態，並依個別風險處理 HTN、dyslipidemia、hyperglycemia。"
+  },
+
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_OBESITY_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜辛 肥胖｜評估" },
+    "stem": "肥胖評估中，下列何者除了 BMI 外，也常用來反映內臟脂肪與心代謝風險？",
+    "options": [
+      { "key": "A", "text": "腰圍" },
+      { "key": "B", "text": "瞳孔大小" },
+      { "key": "C", "text": "指甲厚度" },
+      { "key": "D", "text": "耳垂長度" }
+    ],
+    "answer": "A",
+    "explanation": "腰圍可反映中心型肥胖與心代謝風險；單看 BMI 可能低估內臟脂肪負荷。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_OBESITY_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜辛 肥胖｜治療核心" },
+    "stem": "肥胖治療的第一線核心通常為何？",
+    "options": [
+      { "key": "A", "text": "直接手術，不需要生活型態介入" },
+      { "key": "B", "text": "生活型態介入（飲食、運動、行為治療），必要時再加藥物或手術" },
+      { "key": "C", "text": "只做斷食，不需其他調整" },
+      { "key": "D", "text": "只做按摩" }
+    ],
+    "answer": "B",
+    "explanation": "生活型態介入是基礎；藥物與手術為加強策略，取決於 BMI、共病與既往治療反應。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_OBESITY_Q0003",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜辛 肥胖｜藥物基本" },
+    "stem": "下列哪一類抗糖尿病藥物也常被用來協助體重下降（視適應症與個別風險）？",
+    "options": [
+      { "key": "A", "text": "GLP-1 receptor agonist" },
+      { "key": "B", "text": "Sulfonylurea" },
+      { "key": "C", "text": "NPH insulin" },
+      { "key": "D", "text": "Meglitinide" }
+    ],
+    "answer": "A",
+    "explanation": "GLP-1 RA 類藥物具有體重下降效果，部分在體重管理亦有適應症；促泌劑與胰島素常使體重上升。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_OBESITY_Q0004",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜辛 肥胖｜手術概念" },
+    "stem": "下列何者最符合減重手術（bariatric surgery）的定位？",
+    "options": [
+      { "key": "A", "text": "只是一種美容手術，與代謝疾病無關" },
+      { "key": "B", "text": "對部分重度肥胖合併共病者，可帶來體重下降與代謝改善，但需長期追蹤" },
+      { "key": "C", "text": "做完後不需再追蹤營養" },
+      { "key": "D", "text": "做完後必定立刻停用所有慢性病藥物" }
+    ],
+    "answer": "B",
+    "explanation": "減重手術可改善 T2DM、HTN 等，但需要長期營養與代謝追蹤，且並非人人適用。"
+  },
+
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_GOUT_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜壬 高尿酸／痛風｜診斷" },
+    "stem": "急性痛風（gout flare）最具特異性的確診方式為何？",
+    "options": [
+      { "key": "A", "text": "只看血清尿酸高低" },
+      { "key": "B", "text": "關節液檢查見負雙折射的針狀尿酸鹽結晶" },
+      { "key": "C", "text": "尿液酮體" },
+      { "key": "D", "text": "血清 AFP" }
+    ],
+    "answer": "B",
+    "explanation": "關節液偏光顯微鏡看到單鈉尿酸鹽結晶（針狀、負雙折射）是確診關鍵；血清尿酸在急性期可正常。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_GOUT_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜壬 高尿酸／痛風｜急性治療" },
+    "stem": "急性痛風發作的一線治療選項，下列何者最常見？",
+    "options": [
+      { "key": "A", "text": "NSAID、colchicine 或類固醇（依共病/禁忌選擇）" },
+      { "key": "B", "text": "立即開始 allopurinol 並快速加到最大劑量" },
+      { "key": "C", "text": "只給抗生素" },
+      { "key": "D", "text": "只補鈣" }
+    ],
+    "answer": "A",
+    "explanation": "急性期重點是抗發炎止痛：NSAID、colchicine、或類固醇；降尿酸藥的啟動與調整需依情境，避免處置不當惡化急性期。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_GOUT_Q0003",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜壬 高尿酸／痛風｜降尿酸策略" },
+    "stem": "下列哪一項是長期降尿酸治療（ULT）常見的臨床策略之一？",
+    "options": [
+      { "key": "A", "text": "只要不痛就永遠不需要處理尿酸" },
+      { "key": "B", "text": "以目標導向（treat-to-target）方式逐步調整藥物達到目標尿酸" },
+      { "key": "C", "text": "所有人都固定吃同一劑量，不需追蹤" },
+      { "key": "D", "text": "降尿酸藥一定要和高劑量利尿劑併用" }
+    ],
+    "answer": "B",
+    "explanation": "長期治療常採目標導向逐步調整（並依病人共病/腎功能選藥）；起始或調整 ULT 時常需合併短期預防 flare 的策略（如低劑量 colchicine）。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_GOUT_Q0004",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜壬 高尿酸／痛風｜次發原因" },
+    "stem": "下列何者是高尿酸/痛風常見的藥物相關危險因子？",
+    "options": [
+      { "key": "A", "text": "Thiazide 類利尿劑" },
+      { "key": "B", "text": "PPI" },
+      { "key": "C", "text": "Penicillin" },
+      { "key": "D", "text": "Acetaminophen" }
+    ],
+    "answer": "A",
+    "explanation": "Thiazide/loop 利尿劑可降低尿酸排泄而提高尿酸；需在臨床上納入次發原因評估。"
   }
 
 
