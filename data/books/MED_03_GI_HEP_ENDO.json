@@ -3324,6 +3324,98 @@
     ],
     "answer": "C",
     "explanation": "PPI 透過抑制胃壁細胞的質子幫浦以降低胃酸分泌，是 GERD 的主要藥物治療。臨床上通常建議餐前服用以達最佳效果。"
+  },
+
+
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_PUD_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜己 胃炎與消化性潰瘍" },
+    "stem": "下列何者為造成消化性潰瘍最常見的原因？",
+    "options": [
+      { "key": "A", "text": "幽門螺旋桿菌感染（Helicobacter pylori）" },
+      { "key": "B", "text": "病毒感染" },
+      { "key": "C", "text": "自體免疫疾病" },
+      { "key": "D", "text": "食物過敏" }
+    ],
+    "answer": "A",
+    "explanation": "H. pylori 感染與 NSAID 使用是消化性潰瘍最常見的兩大原因，其中 H. pylori 為全球最主要致病因子。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_PUD_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜己 胃炎與消化性潰瘍" },
+    "stem": "關於 NSAID 造成消化性潰瘍的機轉，下列何者正確？",
+    "options": [
+      { "key": "A", "text": "增加胃酸分泌" },
+      { "key": "B", "text": "抑制 COX 造成前列腺素減少，降低胃黏膜保護" },
+      { "key": "C", "text": "刺激胃黏液分泌" },
+      { "key": "D", "text": "促進幽門螺旋桿菌增生" }
+    ],
+    "answer": "B",
+    "explanation": "NSAID 抑制 COX，導致前列腺素合成減少，使胃黏膜血流、黏液與碳酸氫鹽分泌下降，增加潰瘍風險。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_PUD_Q0003",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜己 胃炎與消化性潰瘍" },
+    "stem": "關於胃潰瘍與十二指腸潰瘍的臨床特徵比較，下列何者正確？",
+    "options": [
+      { "key": "A", "text": "胃潰瘍多在空腹時疼痛，進食後改善" },
+      { "key": "B", "text": "十二指腸潰瘍多在進食後疼痛加重" },
+      { "key": "C", "text": "胃潰瘍與十二指腸潰瘍疼痛時序通常相反" },
+      { "key": "D", "text": "兩者疼痛型態完全相同" }
+    ],
+    "answer": "C",
+    "explanation": "胃潰瘍常在進食後疼痛加重；十二指腸潰瘍多在空腹或夜間疼痛，進食後緩解，兩者疼痛時序相反。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_PUD_Q0004",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜己 胃炎與消化性潰瘍" },
+    "stem": "診斷幽門螺旋桿菌感染的非侵入性檢查，下列何者最適合用於治療後確認是否根除？",
+    "options": [
+      { "key": "A", "text": "血清抗體檢測" },
+      { "key": "B", "text": "尿液抗體檢測" },
+      { "key": "C", "text": "13C 尿素呼氣試驗（urea breath test）" },
+      { "key": "D", "text": "腹部超音波" }
+    ],
+    "answer": "C",
+    "explanation": "尿素呼氣試驗可反映現存感染，適合用於治療後確認是否根除；血清抗體可能長期陽性，不適合追蹤療效。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_PUD_Q0005",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜己 胃炎與消化性潰瘍" },
+    "stem": "幽門螺旋桿菌相關消化性潰瘍的標準治療原則為何？",
+    "options": [
+      { "key": "A", "text": "單獨使用制酸劑即可" },
+      { "key": "B", "text": "僅使用抗生素，不需抑酸" },
+      { "key": "C", "text": "抑酸藥物合併抗生素進行根除治療" },
+      { "key": "D", "text": "除非出血，否則不需治療" }
+    ],
+    "answer": "C",
+    "explanation": "H. pylori 潰瘍需進行根除治療，通常包含 PPI 合併兩種抗生素（依當地抗藥性調整）。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_PUD_Q0006",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜己 胃炎與消化性潰瘍" },
+    "stem": "下列何者為消化性潰瘍可能發生的併發症？",
+    "options": [
+      { "key": "A", "text": "上消化道出血" },
+      { "key": "B", "text": "胃穿孔" },
+      { "key": "C", "text": "胃出口阻塞" },
+      { "key": "D", "text": "以上皆是" }
+    ],
+    "answer": "D",
+    "explanation": "消化性潰瘍常見併發症包含出血、穿孔與阻塞，皆屬臨床急症或重要處置指標。"
   }
 
 
