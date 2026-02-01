@@ -3262,6 +3262,68 @@
     ],
     "answer": "B",
     "explanation": "減重、運動、控制血糖血脂是 NAFLD/NASH 的基石治療。"
+  },
+
+
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_GERD_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜戊 胃食道逆流" },
+    "stem": "下列何者不是胃食道逆流疾病（GERD）常見的臨床表現？",
+    "options": [
+      { "key": "A", "text": "胸口灼熱感（heartburn）" },
+      { "key": "B", "text": "酸水逆流" },
+      { "key": "C", "text": "吞嚥困難" },
+      { "key": "D", "text": "黑便" }
+    ],
+    "answer": "D",
+    "explanation": "GERD 的典型症狀為胸口灼熱感與酸水逆流；吞嚥困難屬警訊症狀，可能與狹窄或嚴重食道炎相關。黑便則代表上消化道出血，並非 GERD 的典型表現，需考慮潰瘍或出血性病灶。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_GERD_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜戊 胃食道逆流" },
+    "stem": "關於胃食道逆流疾病（GERD）的診斷，下列敘述何者正確？",
+    "options": [
+      { "key": "A", "text": "一定要靠胃鏡看到食道糜爛才能診斷" },
+      { "key": "B", "text": "所有病人都應先接受 24 小時食道 pH 監測" },
+      { "key": "C", "text": "典型症狀且無警訊者可先給予 PPI 試驗治療" },
+      { "key": "D", "text": "胸部 X 光是最重要的診斷工具" }
+    ],
+    "answer": "C",
+    "explanation": "GERD 可為非糜爛型（NERD），不一定在胃鏡看到病灶。對於典型症狀且無警訊的病人，臨床上可先給予 PPI 試驗治療作為診斷與治療策略。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_GERD_Q0003",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜戊 胃食道逆流" },
+    "stem": "下列哪一項屬於胃食道逆流疾病的警訊症狀（alarm symptom），應考慮進一步檢查？",
+    "options": [
+      { "key": "A", "text": "餐後打嗝" },
+      { "key": "B", "text": "胸口灼熱感" },
+      { "key": "C", "text": "吞嚥困難" },
+      { "key": "D", "text": "平躺時逆流加重" }
+    ],
+    "answer": "C",
+    "explanation": "吞嚥困難、吞嚥疼痛、體重減輕、貧血或出血等屬 GERD 警訊症狀，需考慮胃鏡以排除狹窄、腫瘤或嚴重食道炎。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_GERD_Q0004",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜戊 胃食道逆流" },
+    "stem": "關於質子幫浦抑制劑（PPI）治療胃食道逆流疾病，下列何者正確？",
+    "options": [
+      { "key": "A", "text": "應於餐後立即服用效果最佳" },
+      { "key": "B", "text": "可有效促進下食道括約肌收縮" },
+      { "key": "C", "text": "為抑制胃酸分泌的主要藥物" },
+      { "key": "D", "text": "主要副作用為嚴重低血糖" }
+    ],
+    "answer": "C",
+    "explanation": "PPI 透過抑制胃壁細胞的質子幫浦以降低胃酸分泌，是 GERD 的主要藥物治療。臨床上通常建議餐前服用以達最佳效果。"
   }
 
 
