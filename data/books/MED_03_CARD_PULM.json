@@ -5860,6 +5860,497 @@
     ],
     "answer": "A",
     "explanation": "術後不張常因痰栓、淺呼吸與疼痛抑制咳嗽導致；處置包括呼吸治療、拍痰、支氣管鏡清除等，並處理誘因。"
+  },
+
+  {
+    "id": "MED3_01_DER_C01_Q0002",
+    "unit": "心內-甲 高血壓/大動脈疾病",
+    "stem": "72 歲女性突發撕裂樣胸背痛、血壓右臂 190/100 左臂 160/90，心跳 110，冒冷汗。聽診可疑新發舒張期雜音。下列何者最符合初始處置優先順序？",
+    "options": [
+      { "key": "A", "text": "先給硝化甘油降壓，待疼痛改善再考慮影像" },
+      { "key": "B", "text": "先以 β 阻斷劑控制心跳/剪切力，再視血壓追加血管擴張劑並安排急診影像" },
+      { "key": "C", "text": "先給利尿劑減少前負荷以降低主動脈壁張力" },
+      { "key": "D", "text": "先給雙抗血小板與抗凝，視為急性冠症候群處理" }
+    ],
+    "answer": "B",
+    "explanation": "高度懷疑主動脈夾層：先降剪切力（HR/收縮壓上升速度）以 β 阻斷劑為主，再補血管擴張劑達標並同步急診影像與外科會診。A 若未先控 HR 可能反射性心搏加速；C 非首要；D 可能加重出血/夾層風險。",
+    "tags": ["aortic dissection", "beta-blocker", "emergency"]
+  },
+  {
+    "id": "MED3_01_DER_C02_Q0001",
+    "unit": "心內-乙 高血脂/動脈粥狀硬化",
+    "stem": "55 歲男性，LDL-C 172 mg/dL，無糖尿病、無臨床 ASCVD，父親 52 歲心肌梗塞。血壓控制一般，抽菸已戒。下列何者最合理作為「起始」降脂策略？",
+    "options": [
+      { "key": "A", "text": "先生活型態 3–6 個月，除非 LDL > 190 才用藥" },
+      { "key": "B", "text": "以中高強度 statin 起始，並以整體風險與家族史作為加強依據" },
+      { "key": "C", "text": "直接用 PCSK9 抑制劑作為第一線以快速降 LDL" },
+      { "key": "D", "text": "只要 HDL 正常即可不治療，追蹤即可" }
+    ],
+    "answer": "B",
+    "explanation": "LDL 172 且具早發家族史屬風險增強因子，常見作法是以 statin 起始並依反應/風險調整。A、D 過度簡化；C 多保留給極高風險或 statin/ezetimibe 不足者。",
+    "tags": ["lipid", "statin", "risk enhancer"]
+  },
+  {
+    "id": "MED3_01_DER_C02_Q0002",
+    "unit": "心內-乙 高血脂/動脈粥狀硬化",
+    "stem": "48 歲女性，TG 720 mg/dL、LDL 98、HbA1c 8.9%，近期開始口服雌激素治療更年期症狀。無腹痛。下列何者最符合近期主要風險與處置重點？",
+    "options": [
+      { "key": "A", "text": "主要風險是腦中風，應先加強抗血小板" },
+      { "key": "B", "text": "主要近期風險是急性胰臟炎，需先處理高 TG（停用誘因、控糖、考慮 fibrate/omega-3）" },
+      { "key": "C", "text": "TG 對急性事件影響不大，先以高強度 statin 即可" },
+      { "key": "D", "text": "立即安排冠狀動脈造影以排除無症狀 CAD" }
+    ],
+    "answer": "B",
+    "explanation": "TG > 500（尤其 > 1000）急性胰臟炎風險上升；常見誘因包含控糖不佳與雌激素等。先移除誘因、強化血糖與降 TG（必要時 fibrate/omega-3），再評估 LDL/ASCVD 風險。A、D 失焦；C 可能不足以處理急性胰臟炎風險。",
+    "tags": ["hypertriglyceridemia", "pancreatitis risk", "secondary causes"]
+  },
+  {
+    "id": "MED3_01_DER_C04_Q0001",
+    "unit": "心內-丁 心電圖/心律不整",
+    "stem": "74 歲女性，心房顫動，CHA2DS2-VASc = 4。近期因跌倒造成硬腦膜下血腫已處理，現詢問抗凝是否應永久停用。下列何者最符合風險溝通與策略？",
+    "options": [
+      { "key": "A", "text": "因曾出血，抗凝永遠禁忌" },
+      { "key": "B", "text": "需個別化評估再出血風險與腦中風風險，討論恢復抗凝時機或替代策略（如左心耳封堵）" },
+      { "key": "C", "text": "改成雙抗血小板可等效取代抗凝" },
+      { "key": "D", "text": "只要心律控制成功即可不需任何血栓預防" }
+    ],
+    "answer": "B",
+    "explanation": "AF 中風預防核心是抗凝；曾出血不等於永久禁忌，臨床常做個別化（出血原因可逆性、出血型態、神經外科意見）並討論恢復時機或替代方案。C 通常不足以等效；D 與中風風險無直接等價關係。",
+    "tags": ["AF", "anticoagulation", "shared decision"]
+  },
+  {
+    "id": "MED3_01_DER_C04_Q0002",
+    "unit": "心內-丁 心電圖/心律不整",
+    "stem": "40 歲男性突發心悸、頭暈，血壓 82/50，心電圖規則寬 QRS 心搏過速 190/min。意識尚可但冒冷汗。下列何者最適當的初始處置？",
+    "options": [
+      { "key": "A", "text": "先給 adenosine 作診斷性治療，觀察反應" },
+      { "key": "B", "text": "立即同步電擊復律（synchronized cardioversion）" },
+      { "key": "C", "text": "給予 β 阻斷劑靜注以控制心室率" },
+      { "key": "D", "text": "先抽高敏肌鈣蛋白，待結果回報再處理" }
+    ],
+    "answer": "B",
+    "explanation": "血行動力學不穩定的規則寬 QRS tachycardia，優先同步電擊。A 可能延誤；C 在不穩定時不優先且可能惡化；D 不應延後處置。",
+    "tags": ["VT", "unstable tachycardia", "cardioversion"]
+  },
+  {
+    "id": "MED3_01_DER_C05_Q0001",
+    "unit": "心內-戊 瓣膜性心臟病",
+    "stem": "68 歲男性，勞動性呼吸喘，胸痛偶發。體檢：右上胸骨緣收縮期噴射性雜音放射至頸動脈，脈搏上升緩慢且幅度偏小。下列何者最符合其血流動力學與臨床對應？",
+    "options": [
+      { "key": "A", "text": "主動脈瓣狹窄，典型為 pulsus parvus et tardus" },
+      { "key": "B", "text": "主動脈瓣逆流，典型為脈壓變窄與脈搏上升緩慢" },
+      { "key": "C", "text": "僧帽瓣狹窄，典型為頸動脈搏動增強" },
+      { "key": "D", "text": "三尖瓣逆流，典型為固定分裂第二心音" }
+    ],
+    "answer": "A",
+    "explanation": "AS：收縮期噴射性雜音放射至頸動脈，並可見脈搏小且遲（parvus et tardus）。B 的典型是寬脈壓、bounding pulse；C 為低量脈；D 固定分裂 S2 常見於 ASD 等。",
+    "tags": ["AS", "physical exam", "pulse"]
+  },
+  {
+    "id": "MED3_01_DER_C05_Q0002",
+    "unit": "心內-戊 瓣膜性心臟病",
+    "stem": "26 歲女性，產後 3 週出現呼吸喘與端坐呼吸。聽診心尖部全收縮期雜音，吸氣不明顯變化。超音波：LVEF 30%，左心室擴大。下列何者較可能解釋該雜音的機轉？",
+    "options": [
+      { "key": "A", "text": "瓣葉黏液樣變性造成原發性 MR" },
+      { "key": "B", "text": "左心室擴大導致瓣環擴張與乳突肌牽拉，產生功能性 MR" },
+      { "key": "C", "text": "肺高壓造成的功能性 TR" },
+      { "key": "D", "text": "心包摩擦音被誤認為雜音" }
+    ],
+    "answer": "B",
+    "explanation": "產後心肌病變/擴張型心肌病常造成 LV 擴大 → 瓣環擴張、tethering → 功能性 MR。A 多見於 MVP；C 多在胸骨左下緣且吸氣增強；D 會有典型摩擦音性質與體位關聯。",
+    "tags": ["functional MR", "DCM", "postpartum"]
+  },
+  {
+    "id": "MED3_01_DER_C06_Q0001",
+    "unit": "心內-己 感染性心內膜炎",
+    "stem": "45 歲男性，靜脈注射藥癮，發燒 7 天。心超：三尖瓣贅生物。血培養：革蘭陽性球菌成簇。下列何者最可能是致病菌與經驗性抗生素方向？",
+    "options": [
+      { "key": "A", "text": "Viridans streptococci；penicillin 單用即可" },
+      { "key": "B", "text": "Staphylococcus aureus；考慮涵蓋 MRSA 的經驗性治療" },
+      { "key": "C", "text": "Enterococcus faecalis；以第三代頭孢菌素單用" },
+      { "key": "D", "text": "HACEK；以 metronidazole 為主" }
+    ],
+    "answer": "B",
+    "explanation": "IVDU + 右心 IE 高度聯想 S. aureus，且需考慮 MRSA 覆蓋。A 多見於牙源性；C 單用頭孢不足；D HACEK 以頭孢/氟喹諾酮等為主，metronidazole 不適當。",
+    "tags": ["IE", "IVDU", "MRSA"]
+  },
+  {
+    "id": "MED3_01_DER_C06_Q0002",
+    "unit": "心內-己 感染性心內膜炎",
+    "stem": "62 歲男性置換機械瓣 2 年，近 3 週低燒與倦怠，血培養多次陰性。經食道心超顯示瓣周圍疑似膿瘍。下列何者最符合「血培養陰性」情境下的下一步？",
+    "options": [
+      { "key": "A", "text": "因血培陰性可排除 IE，改以退燒藥處理" },
+      { "key": "B", "text": "追問抗生素使用史並送特定病原檢測（如 Coxiella、Bartonella 等），同時依臨床高疑慮處理" },
+      { "key": "C", "text": "改以單次血培養即可，避免污染" },
+      { "key": "D", "text": "只要 TEE 有膿瘍就不需任何微生物證據直接停抗生素準備出院" }
+    ],
+    "answer": "B",
+    "explanation": "血培陰性常見因先用抗生素或特殊病原；瓣周膿瘍屬高危徵象，需擴增檢測與跨團隊治療/評估手術。A、D 不合理；C 反而降低敏感度。",
+    "tags": ["culture-negative IE", "prosthetic valve", "TEE"]
+  },
+  {
+    "id": "MED3_01_DER_C07_Q0001",
+    "unit": "心內-庚 心肌症",
+    "stem": "19 歲男性籃球場上暈厥，家族史：叔叔 35 歲猝死。體檢：收縮期雜音在 Valsalva 變大。下列何者最符合診斷與危險分層？",
+    "options": [
+      { "key": "A", "text": "擴張型心肌病；主要死因為心衰竭惡化" },
+      { "key": "B", "text": "肥厚型心肌病；運動中暈厥與家族猝死提示猝死高風險" },
+      { "key": "C", "text": "限制型心肌病；Valsalva 使雜音變大不具意義" },
+      { "key": "D", "text": "酒精性心肌病；建議戒酒即可" }
+    ],
+    "answer": "B",
+    "explanation": "運動中暈厥 + 家族猝死 + Valsalva 增強雜音符合 HCM/LVOT obstruction；亦為猝死高風險特徵之一，需進一步評估（如 ICD 指標）。",
+    "tags": ["HCM", "SCD risk", "Valsalva"]
+  },
+  {
+    "id": "MED3_01_DER_C08_Q0001",
+    "unit": "心內-辛 心包疾病",
+    "stem": "32 歲男性胸痛，深吸氣加劇、前傾減輕。心電圖呈廣泛 ST elevation 合併 PR depression。下列何者最符合診斷與初始治療？",
+    "options": [
+      { "key": "A", "text": "急性心肌梗塞；立即雙抗血小板並啟動導管室" },
+      { "key": "B", "text": "急性心包炎；NSAID 合併 colchicine 並評估病因與心包積液" },
+      { "key": "C", "text": "肺栓塞；立即給予 tPA" },
+      { "key": "D", "text": "主動脈剝離；立即以 heparin 抗凝" }
+    ],
+    "answer": "B",
+    "explanation": "典型胸痛姿勢/呼吸相關 + ECG 廣泛 ST 上升與 PR 下移支持急性心包炎；初始多 NSAID + colchicine，並以超音波評估積液/併發症。A、C、D 的治療方向可能造成傷害。",
+    "tags": ["pericarditis", "ECG", "NSAID", "colchicine"]
+  },
+  {
+    "id": "MED3_01_DER_C08_Q0002",
+    "unit": "心內-辛 心包疾病",
+    "stem": "56 歲女性，癌症化療中，低血壓 86/54、心跳 118，頸靜脈怒張，肺音清。心音偏小。下列何者最符合此情境的床邊超音波發現？",
+    "options": [
+      { "key": "A", "text": "左心室前壁節段性收縮差" },
+      { "key": "B", "text": "大量心包積液合併右心室舒張期塌陷" },
+      { "key": "C", "text": "右心室擴大合併 McConnell sign" },
+      { "key": "D", "text": "主動脈瓣重度逆流造成左室容量負荷" }
+    ],
+    "answer": "B",
+    "explanation": "Beck triad/臨床高度符合心包填塞；超音波典型為心包積液 + 右心室（或右心房）舒張期塌陷與呼吸變異等。C 偏向 PE，但肺音清也可見，需題幹整體判斷；本題更吻合填塞。",
+    "tags": ["tamponade", "POCUS", "cancer"]
+  },
+  {
+    "id": "MED3_01_DER_C09_Q0001",
+    "unit": "心內-壬 心臟衰竭",
+    "stem": "70 歲男性 HFrEF（LVEF 30%），近期因急性腎損傷停用 ACEi；目前 eGFR 38、K 4.9，血壓 108/66。下列何者最符合長期預後改善的藥物組合思維？",
+    "options": [
+      { "key": "A", "text": "僅以利尿劑控制水分即可，其他藥物以症狀為主" },
+      { "key": "B", "text": "盡量恢復/使用具預後效益的藥物（RAAS 抑制、β 阻斷、MRA、SGLT2i）並密切監測腎功能與血鉀" },
+      { "key": "C", "text": "避免所有 RAAS 相關藥物，因 eGFR < 60 即禁忌" },
+      { "key": "D", "text": "digoxin 作為第一線以降低死亡率" }
+    ],
+    "answer": "B",
+    "explanation": "HFrEF 核心在 GDMT 以降低死亡/住院；腎功能下降多需調整劑量與監測，而非一概禁用。A、C 過度簡化；D 可改善症狀/住院但不以降低死亡率為主。",
+    "tags": ["HFrEF", "GDMT", "renal monitoring"]
+  },
+  {
+    "id": "MED3_01_DER_C10_Q0001",
+    "unit": "心內-癸 暈厥",
+    "stem": "23 歲女性抽血時眼前發黑倒下，倒下前噁心、冒冷汗，倒地後很快清醒。平躺生命徵象穩，心電圖正常。下列何者最可能的診斷？",
+    "options": [
+      { "key": "A", "text": "心因性暈厥（心律不整）" },
+      { "key": "B", "text": "血管迷走性暈厥" },
+      { "key": "C", "text": "癲癇發作" },
+      { "key": "D", "text": "椎基底動脈循環不全" }
+    ],
+    "answer": "B",
+    "explanation": "典型誘因（抽血/情緒/疼痛）+ 前驅症狀（噁心、出汗）+ 快速恢復，最符合血管迷走性。A 需警訊（運動中、無前驅、家族猝死、ECG 異常）；C 常有抽搐、咬舌、混亂期；D 多為局灶神經症狀。",
+    "tags": ["syncope", "vasovagal", "risk stratification"]
+  },
+  {
+    "id": "MED3_01_DER_C11_Q0001",
+    "unit": "心內-子 其他",
+    "stem": "35 歲男性反覆胸痛，冠狀動脈造影正常。發作多在清晨，含 nitroglycerin 後改善。下列何者最可能的機轉與治療？",
+    "options": [
+      { "key": "A", "text": "微血管阻塞；首選高劑量利尿劑" },
+      { "key": "B", "text": "冠狀動脈痙攣（變異型心絞痛）；鈣離子阻斷劑為治療基石" },
+      { "key": "C", "text": "心包炎；以抗生素為主" },
+      { "key": "D", "text": "固定性粥狀斑塊；單純運動復健即可取代藥物" }
+    ],
+    "answer": "B",
+    "explanation": "清晨靜息胸痛、造影可正常、NTG 有效 → 考慮冠攣縮；治療以 CCB ± 長效硝酸鹽。其餘選項與題幹不合。",
+    "tags": ["vasospastic angina", "CCB", "Prinzmetal"]
+  },
+  {
+    "id": "MED3_01_DER_P01_Q0001",
+    "unit": "胸內-甲 基本知識（症狀鑑別/理學/低血氧/PFT/CXR）",
+    "stem": "58 歲男性呼吸困難，ABG：PaO2 55、PaCO2 30（室內空氣）。下列何者最可能對應到 A–a gradient 增加的機轉？",
+    "options": [
+      { "key": "A", "text": "單純低通氣（hypoventilation）" },
+      { "key": "B", "text": "擴散障礙或 V/Q mismatch" },
+      { "key": "C", "text": "高海拔造成吸入氧分壓下降" },
+      { "key": "D", "text": "呼吸性鹼中毒本身" }
+    ],
+    "answer": "B",
+    "explanation": "PaO2 低且 PaCO2 低（過度換氣）提示非單純低通氣；A–a gradient 增加常見於 V/Q mismatch、shunt、擴散障礙。A 多為 A–a gradient 正常；C 亦多為 A–a gradient 正常；D 不是主要分類機轉。",
+    "tags": ["hypoxemia", "A-a gradient", "VQ mismatch"]
+  },
+  {
+    "id": "MED3_01_DER_P01_Q0002",
+    "unit": "胸內-甲 基本知識（症狀鑑別/理學/低血氧/PFT/CXR）",
+    "stem": "65 歲男性長期吸菸，PFT：FEV1/FVC 0.55，FEV1 52% predicted；支氣管擴張劑後 FEV1 改善 8% 且 120 mL。下列何者較合理的解讀？",
+    "options": [
+      { "key": "A", "text": "可逆性明顯，偏向氣喘" },
+      { "key": "B", "text": "阻塞型通氣障礙，且可逆性不足以定義為顯著 reversibility" },
+      { "key": "C", "text": "限制型通氣障礙，需做 HRCT" },
+      { "key": "D", "text": "正常肺功能，症狀應為心因性" }
+    ],
+    "answer": "B",
+    "explanation": "FEV1/FVC 降低為阻塞型；一般以 FEV1 增加 ≥12% 且 ≥200 mL 才較符合顯著 reversibility。此例改善不足，較符合 COPD 或固定性阻塞為主。A、C、D 不符數據。",
+    "tags": ["PFT", "obstructive", "bronchodilator response"]
+  },
+  {
+    "id": "MED3_01_DER_P02_Q0001",
+    "unit": "胸內-乙 氣喘",
+    "stem": "28 歲女性夜間咳嗽與喘鳴，每週 3–4 天需用 SABA，夜間症狀每週 1 次。近 1 年無住院。下列何者最合理的長期控制用藥起始？",
+    "options": [
+      { "key": "A", "text": "只需 PRN SABA" },
+      { "key": "B", "text": "起始低至中劑量 ICS（或 ICS/LABA 依策略）並評估控制程度" },
+      { "key": "C", "text": "起始口服類固醇長期維持" },
+      { "key": "D", "text": "起始 LAMA 單藥即可" }
+    ],
+    "answer": "B",
+    "explanation": "症狀頻率與夜間症狀已非間歇型，需 controller（以 ICS 為核心）。A 不足；C 副作用大且非首選；D 多為加成療法而非一般起始單藥。",
+    "tags": ["asthma", "ICS", "step therapy"]
+  },
+  {
+    "id": "MED3_01_DER_P03_Q0001",
+    "unit": "胸內-丙 COPD",
+    "stem": "71 歲男性 COPD，近一年急性惡化 3 次需口服類固醇與抗生素。mMRC 2，FEV1 45% predicted。下列何者最符合降低急性惡化風險的吸入治療策略？",
+    "options": [
+      { "key": "A", "text": "SABA 單用即可" },
+      { "key": "B", "text": "以 LAMA 或 LABA 起始，若反覆惡化考慮升級至雙支氣管擴張劑或三合一（視嗜酸性球等）" },
+      { "key": "C", "text": "ICS 單用最能降低惡化且副作用最少" },
+      { "key": "D", "text": "長期口服類固醇維持可降低死亡率" }
+    ],
+    "answer": "B",
+    "explanation": "COPD 惡化風險高者通常需要長效支氣管擴張劑為核心並依惡化史/嗜酸性球等決定是否加 ICS 形成三合一。C 的 ICS 單用不建議且有肺炎風險；D 不建議。",
+    "tags": ["COPD", "exacerbation", "triple therapy"]
+  },
+  {
+    "id": "MED3_01_DER_P04_Q0001",
+    "unit": "胸內-丁 ILD",
+    "stem": "66 歲男性，漸進性呼吸喘與乾咳 1 年。HRCT：雙側基底部網狀陰影與蜂窩化（honeycombing），無明顯磨玻璃為主。下列何者較符合診斷與治療走向？",
+    "options": [
+      { "key": "A", "text": "典型 UIP/IPF 影像；抗纖維化治療可考慮" },
+      { "key": "B", "text": "典型急性嗜酸性肺炎；首選抗生素" },
+      { "key": "C", "text": "典型結核；以四合一抗結核治療" },
+      { "key": "D", "text": "典型心因性肺水腫；利尿劑即可完全逆轉" }
+    ],
+    "answer": "A",
+    "explanation": "基底部為主的網狀陰影 + honeycombing 支持 UIP pattern，臨床常聯想到 IPF，治療以抗纖維化與支持療法，免疫抑制需審慎。B/C/D 與影像型態不合。",
+    "tags": ["ILD", "UIP", "IPF"]
+  },
+  {
+    "id": "MED3_01_DER_P04_Q0002",
+    "unit": "胸內-丁 ILD",
+    "stem": "49 歲女性類風濕性關節炎，近半年乾咳與喘。HRCT：周邊磨玻璃與網狀混合，無明顯蜂窩化。下列何者較合理的鑑別與處置思路？",
+    "options": [
+      { "key": "A", "text": "一定是 IPF，免疫抑制完全無角色" },
+      { "key": "B", "text": "結締組織疾病相關 ILD 需與藥物毒性、感染共同評估，治療可能包含免疫調節或抗纖維化（依型態/進展）" },
+      { "key": "C", "text": "只要沒有蜂窩化就能排除 ILD" },
+      { "key": "D", "text": "一律給長期廣效抗生素直到影像改善" }
+    ],
+    "answer": "B",
+    "explanation": "CTD-ILD 常見，且需排除感染/藥物毒性；治療依影像型態、進展速度與肺功能變化個別化（免疫調節或抗纖維化皆可能）。A/C/D 皆過度武斷。",
+    "tags": ["CTD-ILD", "RA", "differential"]
+  },
+  {
+    "id": "MED3_01_DER_P05_Q0001",
+    "unit": "胸內-戊 感染（肺炎/支擴/肺膿瘍/黴菌等）",
+    "stem": "75 歲男性發燒咳嗽，CXR 右下葉浸潤。血壓穩，意識清楚，BUN 升高，呼吸 32/min。下列何者最符合你對「收治場所」的判斷工具使用？",
+    "options": [
+      { "key": "A", "text": "只要年齡 > 65 一律收 ICU" },
+      { "key": "B", "text": "可用 CURB-65/PSI 等工具輔助，並結合臨床判斷決定門診/住院/ICU" },
+      { "key": "C", "text": "只看白血球是否 > 15,000 即可決定住院" },
+      { "key": "D", "text": "CXR 有浸潤即必須住院 14 天靜脈抗生素" }
+    ],
+    "answer": "B",
+    "explanation": "CAP 收治場所常用 PSI/CURB-65 輔助，但仍需整合生命徵象、氧合、社會因素等。A/C/D 過度簡化且不符合實務。",
+    "tags": ["CAP", "CURB-65", "site of care"]
+  },
+  {
+    "id": "MED3_01_DER_P05_Q0002",
+    "unit": "胸內-戊 感染（肺炎/支擴/肺膿瘍/黴菌等）",
+    "stem": "52 歲男性長期牙周病，近 2 週發燒、咳大量惡臭痰，CXR 顯示右下葉空洞伴氣液平面。下列何者最可能的病原與抗生素涵蓋重點？",
+    "options": [
+      { "key": "A", "text": "典型肺炎鏈球菌；不需涵蓋厭氧菌" },
+      { "key": "B", "text": "吸入性/肺膿瘍；需考慮厭氧菌涵蓋" },
+      { "key": "C", "text": "肺結核；首選 oseltamivir" },
+      { "key": "D", "text": "黴菌球；首選短期 azithromycin" }
+    ],
+    "answer": "B",
+    "explanation": "惡臭痰 + 空洞氣液平面典型肺膿瘍/吸入性，常需涵蓋厭氧菌（並評估吸入風險）。其餘選項治療方向不符。",
+    "tags": ["lung abscess", "aspiration", "anaerobes"]
+  },
+  {
+    "id": "MED3_01_DER_P06_Q0001",
+    "unit": "胸內-己 結核",
+    "stem": "33 歲女性咳嗽 3 週、夜間盜汗。CXR 右上葉空洞。AFB smear 陽性。下列何者最符合初始公共衛生與院內感染管制？",
+    "options": [
+      { "key": "A", "text": "一般外科口罩即可，不需隔離" },
+      { "key": "B", "text": "空氣傳染隔離（負壓病房）並佩戴 N95 等級呼吸防護" },
+      { "key": "C", "text": "只要開始治療立刻解除隔離" },
+      { "key": "D", "text": "隔離只適用於肺外結核" }
+    ],
+    "answer": "B",
+    "explanation": "疑似具傳染力的肺結核需空氣隔離與適當呼吸防護；解除隔離通常需符合臨床改善與痰檢條件，不是一開始治療就立刻解除。A/C/D 不正確。",
+    "tags": ["TB", "airborne isolation", "infection control"]
+  },
+  {
+    "id": "MED3_01_DER_P06_Q0002",
+    "unit": "胸內-己 結核",
+    "stem": "結核治療 2 個月後痰培養陰轉，後續因肝功能上升調整用藥。下列何者較能描述「結核治療監測」的合理原則？",
+    "options": [
+      { "key": "A", "text": "只要症狀改善就不需追蹤痰檢或副作用" },
+      { "key": "B", "text": "需同時監測臨床、痰檢（或培養）與藥物毒性，並依耐藥風險/病灶調整療程" },
+      { "key": "C", "text": "肝功能上升一定要永久停掉所有一線藥" },
+      { "key": "D", "text": "任何結核都固定 2 個月療程即可" }
+    ],
+    "answer": "B",
+    "explanation": "結核治療需療效與毒性並重：症狀、影像、痰檢、肝毒性等需整合；並依耐藥、病灶型態與反應調整。A/D 過度簡化；C 需視嚴重度與替代方案。",
+    "tags": ["TB treatment", "monitoring", "hepatotoxicity"]
+  },
+  {
+    "id": "MED3_01_DER_P07_Q0001",
+    "unit": "胸內-庚 呼吸器（氧療/通氣支持等）",
+    "stem": "COPD 急性惡化，ABG：pH 7.29、PaCO2 68、PaO2 54（給氧後）。意識清醒但使用輔助呼吸肌。下列何者最合理的呼吸支持？",
+    "options": [
+      { "key": "A", "text": "立即插管機械通氣，因為 pH < 7.35" },
+      { "key": "B", "text": "優先嘗試 NIPPV（如 BiPAP）並密切監測，若失敗再考慮插管" },
+      { "key": "C", "text": "僅鼻導管低流量氧氣即可，不需通氣支持" },
+      { "key": "D", "text": "高流量氧氣拉到 SpO2 100% 最安全" }
+    ],
+    "answer": "B",
+    "explanation": "COPD 急性高碳酸血症酸中毒且可合作時，NIPPV 常可降低插管率；需監測失敗指標。A 過早；C 不足；D 過度給氧可能惡化 CO2 retention。",
+    "tags": ["COPD exacerbation", "NIPPV", "hypercapnia"]
+  },
+  {
+    "id": "MED3_01_DER_P08_Q0001",
+    "unit": "胸內-辛 敗血症/ARDS",
+    "stem": "54 歲男性敗血症，給氧後 PaO2/FiO2 = 120，CXR 雙側浸潤，超音波無明顯容量負荷，心臟超音波未見左心衰主導。下列何者最符合 ARDS 處置的核心通氣策略？",
+    "options": [
+      { "key": "A", "text": "大潮氣量以降低 PaCO2，避免呼吸性酸中毒" },
+      { "key": "B", "text": "肺保護通氣（低潮氣量）並依氧合調整 PEEP" },
+      { "key": "C", "text": "常規給予利尿劑即可逆轉肺浸潤" },
+      { "key": "D", "text": "只要提高 FiO2 到 1.0 即可，不需管 PEEP" }
+    ],
+    "answer": "B",
+    "explanation": "ARDS 核心為 lung-protective ventilation（低潮氣量）與適當 PEEP；A 會加重 VILI；C 不一定；D 長期高 FiO2 有毒性且不能取代 PEEP 策略。",
+    "tags": ["ARDS", "lung protective ventilation", "PEEP"]
+  },
+  {
+    "id": "MED3_01_DER_P09_Q0001",
+    "unit": "胸內-壬 肺血管栓塞",
+    "stem": "49 歲女性突發呼吸困難與肋膜痛，心跳 108，右小腿腫脹疼痛，無其他更可能診斷。依 Wells criteria 評分最可能落在下列哪一類？",
+    "options": [
+      { "key": "A", "text": "低機率（≤4 分）" },
+      { "key": "B", "text": "高機率（>4 分）" },
+      { "key": "C", "text": "Wells 不適用於有 DVT 徵象者" },
+      { "key": "D", "text": "只能用於住院病人" }
+    ],
+    "answer": "B",
+    "explanation": "Wells：DVT 臨床表現 +3；PE 最可能 +3；HR>100 +1.5，合計至少 7.5 → >4 分屬高機率，通常直接做 CTPA。 [oai_citation:3‡三(1)：心內、胸內.pdf](sediment://file_00000000ec107206b1b91d397c0efbac)",
+    "tags": ["PE", "Wells", "CTPA"]
+  },
+  {
+    "id": "MED3_01_DER_P09_Q0002",
+    "unit": "胸內-壬 肺血管栓塞",
+    "stem": "65 歲男性 PE 懷疑度低，D-dimer 陽性。下列何者最符合後續檢查流程？",
+    "options": [
+      { "key": "A", "text": "因 D-dimer 高敏感度，陽性即可直接診斷 PE 並治療" },
+      { "key": "B", "text": "需進一步影像學檢查（如 CTPA）以確認或排除" },
+      { "key": "C", "text": "D-dimer 在任何族群都高度特異，因此不需影像" },
+      { "key": "D", "text": "改做胸部 X 光即可確診 PE" }
+    ],
+    "answer": "B",
+    "explanation": "D-dimer 高敏感度但低特異：低臨床懷疑 + D-dimer 陽性 → 需影像學檢查；陰性才偏向排除。書中亦提到此流程概念。 [oai_citation:4‡三(1)：心內、胸內.pdf](sediment://file_00000000ec107206b1b91d397c0efbac)",
+    "tags": ["PE", "D-dimer", "diagnostic algorithm"]
+  },
+  {
+    "id": "MED3_01_DER_P10_Q0001",
+    "unit": "胸內-癸 肋膜疾病",
+    "stem": "70 歲男性呼吸喘，胸水穿刺：蛋白 3.8 g/dL（血清 6.0），LDH 240（血清 400）。下列何者最可能的分類與下一步？",
+    "options": [
+      { "key": "A", "text": "滲出液；應進一步追查原因（感染、惡性、PE 等）" },
+      { "key": "B", "text": "漏出液；一律放胸管引流" },
+      { "key": "C", "text": "滲出液；不需要做任何細胞學或培養" },
+      { "key": "D", "text": "漏出液；立即給抗結核藥" }
+    ],
+    "answer": "A",
+    "explanation": "依 Light’s criteria：蛋白比 3.8/6.0=0.63（>0.5）為滲出液，需釐清病因並安排相應檢驗（細胞學、培養等）。B/C/D 不合。",
+    "tags": ["pleural effusion", "Light criteria", "exudate"]
+  },
+  {
+    "id": "MED3_01_DER_P10_Q0002",
+    "unit": "胸內-癸 肋膜疾病",
+    "stem": "55 歲女性乳癌病史，胸水反覆快速累積造成呼吸困難。下列何者較符合症狀緩解與長期控制的策略？",
+    "options": [
+      { "key": "A", "text": "反覆診間少量抽胸水即可，其他處置無益" },
+      { "key": "B", "text": "可考慮胸膜固定術（pleurodesis）或留置胸腔導管等姑息策略" },
+      { "key": "C", "text": "一律做緊急開胸切除胸膜" },
+      { "key": "D", "text": "只要使用利尿劑即可避免再發" }
+    ],
+    "answer": "B",
+    "explanation": "惡性胸水反覆且症狀明顯者，常以 pleurodesis 或留置導管作症狀控制；是否合適需評估肺再擴張、預後等。A 不足；C 過度；D 多不足。",
+    "tags": ["malignant pleural effusion", "pleurodesis", "palliative"]
+  },
+  {
+    "id": "MED3_01_DER_P11_Q0001",
+    "unit": "胸內-子 OSA",
+    "stem": "52 歲男性，BMI 33，打鼾嚴重、白天嗜睡、晨起頭痛。血壓偏高。下列何者最能支持 OSA 對心血管風險的影響與治療方向？",
+    "options": [
+      { "key": "A", "text": "OSA 與高血壓關聯不明，治療僅改善睡眠品質" },
+      { "key": "B", "text": "OSA 常與高血壓/心律不整相關；CPAP 與減重可改善症狀並可能降低部分風險" },
+      { "key": "C", "text": "只要沒有低氧血症，OSA 不需治療" },
+      { "key": "D", "text": "治療首選長期鎮靜安眠藥以減少覺醒" }
+    ],
+    "answer": "B",
+    "explanation": "OSA 與高血壓、AF 等有關聯；治療以生活型態、減重與 CPAP 等為主。A/C/D 不恰當。",
+    "tags": ["OSA", "CPAP", "hypertension"]
+  },
+  {
+    "id": "MED3_01_DER_P12_Q0001",
+    "unit": "胸內-丑 肺癌",
+    "stem": "64 歲男性重度吸菸史，體重減輕、咳嗽，CXR 顯示右上肺葉腫塊。下列何者最符合「確診路徑」的優先順序概念？",
+    "options": [
+      { "key": "A", "text": "先給廣效抗生素 4–6 週，若未改善再評估" },
+      { "key": "B", "text": "先做胸部對比 CT 以評估病灶與縱膈，並規劃組織診斷途徑（支氣管鏡/穿刺等）" },
+      { "key": "C", "text": "直接化療，因為影像已高度疑似" },
+      { "key": "D", "text": "只要腫塊 > 3 cm 就可用腫瘤標記物確診，不需切片" }
+    ],
+    "answer": "B",
+    "explanation": "疑似肺癌需影像分期與可取得的組織診斷（CT/支氣管鏡/經皮穿刺等）來定型與分期後治療。A 可能延誤；C/D 不符標準流程。",
+    "tags": ["lung cancer", "CT staging", "tissue diagnosis"]
+  },
+  {
+    "id": "MED3_01_DER_P12_Q0002",
+    "unit": "胸內-丑 肺癌",
+    "stem": "58 歲女性從未吸菸，右上肺周邊結節，病理為 adenocarcinoma。下列何者較符合現代治療前的重要檢測方向？",
+    "options": [
+      { "key": "A", "text": "只要分期完成即可，分子檢測不影響治療" },
+      { "key": "B", "text": "進行驅動基因/PD-L1 等檢測以決定標靶或免疫治療策略（依分期與適應症）" },
+      { "key": "C", "text": "一律先給順鉑為主的化療，不需其他資訊" },
+      { "key": "D", "text": "先做抗酸染色以排除結核即可" }
+    ],
+    "answer": "B",
+    "explanation": "非吸菸者肺腺癌常需分子檢測以導引標靶/免疫治療策略（在適當分期/情境下）。A/C 過度簡化；D 與治療決策核心不符。",
+    "tags": ["NSCLC", "molecular testing", "PD-L1"]
+  },
+  {
+    "id": "MED3_01_DER_P13_Q0001",
+    "unit": "胸內-寅 其他",
+    "stem": "46 歲男性反覆咳血，CXR 正常，無感染症狀，凝血正常。下列何者較合理的下一步影像/檢查策略？",
+    "options": [
+      { "key": "A", "text": "既然 CXR 正常即可排除嚴重病因，不需再檢查" },
+      { "key": "B", "text": "評估咳血量與風險後，考慮胸部 CT（含血管）及/或支氣管鏡以定位" },
+      { "key": "C", "text": "直接使用止血藥並長期追蹤即可" },
+      { "key": "D", "text": "立即以 tPA 溶栓以避免血栓造成咳血" }
+    ],
+    "answer": "B",
+    "explanation": "CXR 正常仍可能有支氣管內病灶或血管性原因；需依咳血嚴重度與風險評估進一步 CT/支氣管鏡定位與處置。A/C 可能延誤；D 完全不合。",
+    "tags": ["hemoptysis", "CT", "bronchoscopy"]
   }
 
 
