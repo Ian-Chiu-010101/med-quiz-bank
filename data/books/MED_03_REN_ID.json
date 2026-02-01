@@ -245,6 +245,132 @@
     ],
     "answer": "C",
     "explanation": "高血鉀合併心電圖變化時，首要為靜脈注射鈣劑以穩定心肌細胞膜。"
+  },
+
+
+  {
+    "id": "MED3_RENAL_INF_ORI_INF_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜甲 發燒與敗血症" },
+    "stem": "下列何者最符合敗血症（sepsis）的定義？",
+    "options": [
+      { "key": "A", "text": "單純感染合併發燒" },
+      { "key": "B", "text": "感染合併器官功能障礙" },
+      { "key": "C", "text": "感染合併低血壓且需升壓劑" },
+      { "key": "D", "text": "任何血液培養陽性" }
+    ],
+    "answer": "B",
+    "explanation": "Sepsis 定義為感染導致的失調性宿主反應並造成器官功能障礙；C 描述較接近 septic shock。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_INF_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF" },
+    "location": { "section": "第二篇 感染科｜甲 發燒與敗血症" },
+    "stem": "疑似敗血症病人之初步處置，下列何者最優先？",
+    "options": [
+      { "key": "A", "text": "等待培養結果再給抗生素" },
+      { "key": "B", "text": "立即給予經驗性抗生素並補液" },
+      { "key": "C", "text": "先安排影像檢查" },
+      { "key": "D", "text": "僅給退燒藥" }
+    ],
+    "answer": "B",
+    "explanation": "敗血症治療核心為及早給予廣效經驗性抗生素與復甦補液，並同時取得培養。"
+  },
+
+  {
+    "id": "MED3_RENAL_INF_ORI_ABX_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF" },
+    "location": { "section": "第二篇 感染科｜乙 抗生素原則" },
+    "stem": "關於抗生素治療原則，下列何者正確？",
+    "options": [
+      { "key": "A", "text": "一開始即使用最窄效抗生素" },
+      { "key": "B", "text": "培養結果出來後應適度降階（de-escalation）" },
+      { "key": "C", "text": "症狀改善即可立刻停藥" },
+      { "key": "D", "text": "所有感染療程長度相同" }
+    ],
+    "answer": "B",
+    "explanation": "經驗性治療後，依培養與臨床反應進行降階可降低抗藥性與副作用。"
+  },
+
+  {
+    "id": "MED3_RENAL_INF_ORI_PNA_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF" },
+    "location": { "section": "第二篇 感染科｜丙 肺炎" },
+    "stem": "社區型肺炎（CAP）最常見的致病菌為何？",
+    "options": [
+      { "key": "A", "text": "Pseudomonas aeruginosa" },
+      { "key": "B", "text": "Streptococcus pneumoniae" },
+      { "key": "C", "text": "MRSA" },
+      { "key": "D", "text": "Candida albicans" }
+    ],
+    "answer": "B",
+    "explanation": "肺炎鏈球菌仍是 CAP 最常見致病菌。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_PNA_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF" },
+    "location": { "section": "第二篇 感染科｜丙 肺炎" },
+    "stem": "下列何者較符合院內型肺炎（HAP）的風險因子？",
+    "options": [
+      { "key": "A", "text": "未住院的健康成人" },
+      { "key": "B", "text": "住院超過 48 小時" },
+      { "key": "C", "text": "近期無抗生素使用" },
+      { "key": "D", "text": "門診追蹤病人" }
+    ],
+    "answer": "B",
+    "explanation": "HAP 定義為住院 ≥48 小時後發生的肺炎，致病菌與抗藥性風險較高。"
+  },
+
+  {
+    "id": "MED3_RENAL_INF_ORI_UTI_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF" },
+    "location": { "section": "第二篇 感染科｜丁 泌尿道感染" },
+    "stem": "造成社區型泌尿道感染最常見的致病菌為何？",
+    "options": [
+      { "key": "A", "text": "Enterococcus faecalis" },
+      { "key": "B", "text": "Escherichia coli" },
+      { "key": "C", "text": "Pseudomonas aeruginosa" },
+      { "key": "D", "text": "Staphylococcus aureus" }
+    ],
+    "answer": "B",
+    "explanation": "E. coli 為社區型 UTI 最常見致病菌。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_UTI_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF" },
+    "location": { "section": "第二篇 感染科｜丁 泌尿道感染" },
+    "stem": "關於單純性膀胱炎的治療，下列何者正確？",
+    "options": [
+      { "key": "A", "text": "一定需要靜脈抗生素" },
+      { "key": "B", "text": "口服抗生素即可，療程較短" },
+      { "key": "C", "text": "一律需住院治療" },
+      { "key": "D", "text": "不需治療可自癒" }
+    ],
+    "answer": "B",
+    "explanation": "單純性膀胱炎多可門診口服抗生素治療。"
+  },
+
+  {
+    "id": "MED3_RENAL_INF_ORI_SSTI_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF" },
+    "location": { "section": "第二篇 感染科｜戊 皮膚與軟組織感染" },
+    "stem": "下列何者最符合壞死性筋膜炎的臨床特徵？",
+    "options": [
+      { "key": "A", "text": "局部紅腫且疼痛程度與外觀不成比例" },
+      { "key": "B", "text": "僅有輕微搔癢" },
+      { "key": "C", "text": "慢性反覆發作" },
+      { "key": "D", "text": "不影響全身狀態" }
+    ],
+    "answer": "A",
+    "explanation": "壞死性筋膜炎常見「疼痛與外觀不成比例」，需緊急手術與廣效抗生素。"
   }
 
 
