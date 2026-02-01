@@ -2,7 +2,7 @@
   "version": 1,
   "sources": [
     { "id": "MED_03_CARD_PULM", "title": "三(1) 心內、胸內", "path": "data/books/MED_03_CARD_PULM.json", "enabled": true },
-    { "id": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝", "path": "data/books/MED_03_GI_HEP_ENDO.json", "enabled": false },
+    { "id": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝", "path": "data/books/MED_03_GI_HEP_ENDO.json", "enabled": true },
     { "id": "MED_03_REN_ID", "title": "三(3) 腎內、感染", "path": "data/books/MED_03_REN_ID.json", "enabled": false },
     { "id": "MED_03_RHE_HEM_ONC_FM", "title": "三(4) 風免、血液、腫瘤、家醫", "path": "data/books/MED_03_RHE_HEM_ONC_FM.json", "enabled": false },
 
