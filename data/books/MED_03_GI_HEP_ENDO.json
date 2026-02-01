@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "MED3_V2_ORIG_ESO_Q0010",
+    "source_type": "original",
+    "book": { "code": "MED3_V2", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "腸胃內科｜食道｜GERD" },
+    "stem": "下列何者最支持胃食道逆流症（GERD）的診斷？",
+    "options": [
+      { "key": "A", "text": "典型燒心，PPI 治療後症狀明顯改善" },
+      { "key": "B", "text": "單次胸部 X 光異常" },
+      { "key": "C", "text": "胃鏡一定要看到糜爛" },
+      { "key": "D", "text": "一定合併體重減輕" }
+    ],
+    "answer": "A",
+    "explanation": "典型症狀對 PPI 的治療反應本身即具診斷意義；GERD 可為非糜爛型，體重減輕屬警訊而非必要條件。"
+  },
+  {
+    "id": "MED3_V2_ORIG_ESO_Q0011",
+    "source_type": "original",
+    "book": { "code": "MED3_V2", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "腸胃內科｜食道｜Alarm features" },
+    "stem": "下列何者屬於 GERD 的警訊（alarm features），應安排內視鏡？",
+    "options": [
+      { "key": "A", "text": "吞嚥困難" },
+      { "key": "B", "text": "典型燒心 < 2 週" },
+      { "key": "C", "text": "餐後打嗝" },
+      { "key": "D", "text": "年輕族群、症狀穩定" }
+    ],
+    "answer": "A",
+    "explanation": "吞嚥困難、體重減輕、出血、貧血等屬警訊，需內視鏡評估以排除惡性或併發症。"
+  },
+  {
+    "id": "MED3_V2_ORIG_ESO_Q0012",
+    "source_type": "original",
+    "book": { "code": "MED3_V2", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "腸胃內科｜食道｜Barrett esophagus" },
+    "stem": "關於 Barrett 食道，下列何者正確？",
+    "options": [
+      { "key": "A", "text": "為食道下段鱗狀上皮被柱狀上皮取代" },
+      { "key": "B", "text": "與鱗狀細胞癌高度相關" },
+      { "key": "C", "text": "僅發生於女性" },
+      { "key": "D", "text": "不需追蹤" }
+    ],
+    "answer": "A",
+    "explanation": "Barrett 食道與腺癌風險增加相關，需依是否有異生（dysplasia）進行監測。"
+  },
+  {
+    "id": "MED3_V2_ORIG_ESO_Q0013",
+    "source_type": "original",
+    "book": { "code": "MED3_V2", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "腸胃內科｜食道｜Achalasia" },
+    "stem": "下列何者最符合賁門失弛緩症（achalasia）的特徵？",
+    "options": [
+      { "key": "A", "text": "下食道括約肌放鬆不全，蠕動消失" },
+      { "key": "B", "text": "胃酸分泌過多" },
+      { "key": "C", "text": "對 PPI 反應良好" },
+      { "key": "D", "text": "主要造成吞嚥疼痛" }
+    ],
+    "answer": "A",
+    "explanation": "Achalasia 為神經退化造成 LES 放鬆不全與蠕動消失，常見吞嚥困難（固體與液體）。"
+  }
+]
