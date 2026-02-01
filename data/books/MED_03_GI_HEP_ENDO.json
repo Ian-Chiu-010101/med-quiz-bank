@@ -2818,6 +2818,281 @@
     ],
     "answer": "B",
     "explanation": "慢性高鈉時腦細胞已適應高滲環境，矯正過快可導致腦水腫與神經症狀；需緩慢補自由水並密切監測。"
+  },
+
+
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_CA_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜卯 鈣代謝｜校正鈣" },
+    "stem": "下列何者最能描述「低白蛋白血症時為何需要校正血鈣（corrected calcium）」？",
+    "options": [
+      { "key": "A", "text": "血鈣完全不受白蛋白影響" },
+      { "key": "B", "text": "總血鈣包含與白蛋白結合的部分；白蛋白低會讓總鈣偏低但游離鈣可能正常" },
+      { "key": "C", "text": "白蛋白低會讓游離鈣一定升高" },
+      { "key": "D", "text": "校正鈣只適用於高血鈣，不適用於低血鈣" }
+    ],
+    "answer": "B",
+    "explanation": "總鈣受白蛋白影響；臨床上需用校正鈣或直接測 ionized Ca 以判斷是否真正低鈣。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_CA_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜卯 鈣代謝｜高血鈣鑑別" },
+    "stem": "高血鈣的鑑別中，第一個關鍵分流檢驗通常是？",
+    "options": [
+      { "key": "A", "text": "PTH" },
+      { "key": "B", "text": "AFP" },
+      { "key": "C", "text": "血清胰島素" },
+      { "key": "D", "text": "糞便潛血" }
+    ],
+    "answer": "A",
+    "explanation": "先看 PTH 可快速分成「PTH 介導」與「PTH 非介導」高血鈣，後續檢查路徑不同。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_CA_Q0003",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜卯 鈣代謝｜PTH 介導" },
+    "stem": "若病人高血鈣且 PTH 仍偏高或在不適當的正常範圍（inappropriately normal），最可能的病因分類為？",
+    "options": [
+      { "key": "A", "text": "PTH 介導（例如原發性副甲狀腺亢進）" },
+      { "key": "B", "text": "PTHrP 介導惡性腫瘤" },
+      { "key": "C", "text": "維生素 D 中毒一定是主因" },
+      { "key": "D", "text": "腎上腺功能不全" }
+    ],
+    "answer": "A",
+    "explanation": "高血鈣時 PTH 應被抑制；若不抑制，代表 PTH 介導（常見 PHPT 或 FHH）。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_CA_Q0004",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜卯 鈣代謝｜PTH 非介導" },
+    "stem": "高血鈣且 PTH 明顯被抑制時，下列何者是典型需要考慮的原因？",
+    "options": [
+      { "key": "A", "text": "惡性腫瘤相關高血鈣（如 PTHrP）" },
+      { "key": "B", "text": "原發性副甲狀腺亢進" },
+      { "key": "C", "text": "家族性低尿鈣性高血鈣（FHH）" },
+      { "key": "D", "text": "假性副甲狀腺低下（pseudohypoparathyroidism）" }
+    ],
+    "answer": "A",
+    "explanation": "PTH 被抑制代表非 PTH 介導，常見是惡性腫瘤（PTHrP、骨轉移）、維生素 D 過多、肉芽腫疾病等。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_CA_Q0005",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜卯 鈣代謝｜FHH vs PHPT" },
+    "stem": "用來區分家族性低尿鈣性高血鈣（FHH）與原發性副甲狀腺亢進（PHPT）最有用的檢查方向為何？",
+    "options": [
+      { "key": "A", "text": "24 小時尿鈣/尿鈣排泄程度（或 Ca/Cr clearance ratio）" },
+      { "key": "B", "text": "尿液酮體" },
+      { "key": "C", "text": "血清澱粉酶" },
+      { "key": "D", "text": "糞便脂肪" }
+    ],
+    "answer": "A",
+    "explanation": "FHH 的尿鈣通常偏低；PHPT 多為尿鈣正常或偏高（需依腎功能與飲食解讀）。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_CA_Q0006",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜卯 鈣代謝｜低血鈣" },
+    "stem": "低血鈣常見神經肌肉興奮症狀，下列何者最典型？",
+    "options": [
+      { "key": "A", "text": "手足搐搦、口周麻木、抽搐" },
+      { "key": "B", "text": "灰白便與深茶色尿" },
+      { "key": "C", "text": "血痰與胸痛" },
+      { "key": "D", "text": "大量水樣腹瀉但無其他症狀" }
+    ],
+    "answer": "A",
+    "explanation": "低鈣會提高神經肌肉興奮性，典型為 paresthesia、tetany、carpopedal spasm、甚至 seizure。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_CA_Q0007",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜卯 鈣代謝｜低血鈣原因" },
+    "stem": "下列何者是常見造成低血鈣的原因？",
+    "options": [
+      { "key": "A", "text": "維生素 D 缺乏或吸收不良" },
+      { "key": "B", "text": "原發性副甲狀腺亢進" },
+      { "key": "C", "text": "FHH" },
+      { "key": "D", "text": "惡性腫瘤 PTHrP" }
+    ],
+    "answer": "A",
+    "explanation": "低鈣常見因子包含 Vit D 缺乏、甲狀旁腺功能低下、低鎂、急性胰臟炎、輸血（枸櫞酸）等。"
+  },
+
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_PTH_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜辰 副甲狀腺｜原發性副甲亢" },
+    "stem": "原發性副甲狀腺亢進（PHPT）典型的檢驗組合為何？",
+    "options": [
+      { "key": "A", "text": "Ca 低、PTH 低" },
+      { "key": "B", "text": "Ca 高、PTH 高（或不適當正常）" },
+      { "key": "C", "text": "Ca 高、PTH 低" },
+      { "key": "D", "text": "Ca 正常、PTH 一定為 0" }
+    ],
+    "answer": "B",
+    "explanation": "PHPT 的核心是 PTH 驅動高血鈣；PTH 在高鈣下不應偏高。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_PTH_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜辰 副甲狀腺｜繼發性副甲亢" },
+    "stem": "慢性腎臟病（CKD）相關繼發性副甲狀腺亢進最典型的礦物代謝方向為何？",
+    "options": [
+      { "key": "A", "text": "磷上升、活性維生素 D 下降、PTH 上升" },
+      { "key": "B", "text": "磷下降、活性維生素 D 上升、PTH 下降" },
+      { "key": "C", "text": "磷上升、PTH 下降" },
+      { "key": "D", "text": "所有指標都一定正常" }
+    ],
+    "answer": "A",
+    "explanation": "CKD 造成磷排泄下降與 1α-hydroxylation 減少（活性 Vit D↓），導致低鈣刺激 PTH 上升。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_PTH_Q0003",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜辰 副甲狀腺｜Hypoparathyroidism" },
+    "stem": "甲狀旁腺功能低下（hypoparathyroidism）最可能的檢驗組合為何？",
+    "options": [
+      { "key": "A", "text": "Ca 低、PTH 低、磷偏高" },
+      { "key": "B", "text": "Ca 高、PTH 高、磷偏低" },
+      { "key": "C", "text": "Ca 高、PTH 低、磷偏低" },
+      { "key": "D", "text": "Ca 低、PTH 高、磷一定正常" }
+    ],
+    "answer": "A",
+    "explanation": "PTH 不足會導致低鈣；同時腎臟對磷排泄減少而磷偏高。常見原因包括甲狀腺/頸部手術後。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_PTH_Q0004",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜辰 副甲狀腺｜高血鈣急症" },
+    "stem": "重度症狀性高血鈣（如意識改變、嚴重脫水）急性處置最核心的第一步通常是？",
+    "options": [
+      { "key": "A", "text": "大量輸液補正脫水（通常用等張液），再視病因加上其他治療" },
+      { "key": "B", "text": "立即限制水分" },
+      { "key": "C", "text": "立即給大量口服鈣片" },
+      { "key": "D", "text": "先給 3% NaCl" }
+    ],
+    "answer": "A",
+    "explanation": "高鈣常合併腎性濃縮能力下降造成脫水；補液可促進腎排鈣並穩定循環，後續才接雙磷酸鹽等病因導向治療。"
+  },
+
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_OSTEO_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜巳 骨質疏鬆｜診斷" },
+    "stem": "骨質疏鬆症以 DXA 測量骨密度時，WHO 診斷骨質疏鬆的 T-score 門檻為何？",
+    "options": [
+      { "key": "A", "text": "T-score ≥ -1.0" },
+      { "key": "B", "text": "-1.0 > T-score > -2.5" },
+      { "key": "C", "text": "T-score ≤ -2.5" },
+      { "key": "D", "text": "T-score ≥ +2.5" }
+    ],
+    "answer": "C",
+    "explanation": "T-score ≤ -2.5 定義骨質疏鬆；介於 -1.0 到 -2.5 為 osteopenia。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_OSTEO_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜巳 骨質疏鬆｜用藥一線" },
+    "stem": "治療骨質疏鬆的一線藥物類別最常見為何？",
+    "options": [
+      { "key": "A", "text": "Bisphosphonate" },
+      { "key": "B", "text": "PPI" },
+      { "key": "C", "text": "β 阻斷劑" },
+      { "key": "D", "text": "抗生素" }
+    ],
+    "answer": "A",
+    "explanation": "多數病人在風險評估後，常以 bisphosphonate 作為一線抗骨吸收治療（需考量腎功能、口服耐受與禁忌）。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_OSTEO_Q0003",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜巳 骨質疏鬆｜Bisphosphonate 使用" },
+    "stem": "口服 bisphosphonate 正確使用方式下列何者最正確？",
+    "options": [
+      { "key": "A", "text": "睡前配牛奶吞服，立刻平躺" },
+      { "key": "B", "text": "清晨空腹用白開水吞服，服後保持直立一段時間並避免立即進食" },
+      { "key": "C", "text": "與鈣片同時吞服以增加吸收" },
+      { "key": "D", "text": "任何 GERD 病人都最適合口服，不需注意" }
+    ],
+    "answer": "B",
+    "explanation": "口服 bisphosphonate 吸收差且會刺激食道；需空腹白水、服後直立並暫緩進食/補充品，以降低食道炎風險。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_OSTEO_Q0004",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜巳 骨質疏鬆｜Denosumab" },
+    "stem": "使用 denosumab 治療骨質疏鬆時，下列何者是重要注意事項？",
+    "options": [
+      { "key": "A", "text": "停藥後骨折風險可能反彈上升，需有後續銜接策略" },
+      { "key": "B", "text": "一定會造成甲狀腺風暴" },
+      { "key": "C", "text": "只要開始使用就不需要補充鈣與維生素 D" },
+      { "key": "D", "text": "與所有抗生素嚴重交互作用因此禁用" }
+    ],
+    "answer": "A",
+    "explanation": "Denosumab 停用後骨轉換可反彈，椎體骨折風險可能上升；臨床常需規劃停藥後改用其他抗骨吸收藥銜接。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_VITD_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜巳 維生素D" },
+    "stem": "維生素 D 缺乏可能造成的典型代謝變化，下列何者較符合？",
+    "options": [
+      { "key": "A", "text": "低鈣傾向 + PTH 代償性上升（繼發性副甲亢）" },
+      { "key": "B", "text": "高鈣 + PTH 上升" },
+      { "key": "C", "text": "高鈣 + PTH 下降 + 尿鈣極低一定是 FHH" },
+      { "key": "D", "text": "與鈣磷代謝完全無關" }
+    ],
+    "answer": "A",
+    "explanation": "Vit D 缺乏降低腸道鈣吸收，導致 PTH 代償性上升以維持血鈣，長期影響骨代謝。"
+  },
+
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_CKD_MBD_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜午 腎性骨病（CKD-MBD）" },
+    "stem": "CKD-MBD 的核心概念，下列何者最正確？",
+    "options": [
+      { "key": "A", "text": "僅是骨密度下降，與鈣磷/PTH 無關" },
+      { "key": "B", "text": "CKD 下的礦物代謝異常（Ca/P/VitD/PTH）與骨異常、血管鈣化風險的整體問題" },
+      { "key": "C", "text": "只要補充蛋白質就可完全逆轉" },
+      { "key": "D", "text": "只在末期腎衰竭才會出現任何變化" }
+    ],
+    "answer": "B",
+    "explanation": "CKD-MBD 強調：礦物代謝失衡＋骨病變＋血管/軟組織鈣化的系統性問題，與心血管風險密切相關。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_CKD_MBD_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜午 腎性骨病（CKD-MBD）｜治療概念" },
+    "stem": "CKD 合併高磷血症的處理方向，下列何者較符合一般治療概念？",
+    "options": [
+      { "key": "A", "text": "大量補充含磷飲食以改善營養" },
+      { "key": "B", "text": "飲食磷限制＋必要時使用磷結合劑（依個別狀況）" },
+      { "key": "C", "text": "常規給 3% NaCl" },
+      { "key": "D", "text": "只要尿量還有就不用處理磷" }
+    ],
+    "answer": "B",
+    "explanation": "CKD 高磷是重要驅動因子之一；常以飲食限制與磷結合劑處理，並整合 PTH、Vit D 與鈣的管理。"
   }
 
 
