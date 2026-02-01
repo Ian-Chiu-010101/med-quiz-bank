@@ -58,5 +58,145 @@
     ],
     "answer": "A",
     "explanation": "Achalasia 為神經退化造成 LES 放鬆不全與蠕動消失，常見吞嚥困難（固體與液體）。"
+  },
+
+  
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_DYSPH_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜甲 吞嚥困難" },
+    "stem": "有關下列疾病所選用的影像學檢查，其中何者最不適宜？",
+    "options": [
+      { "key": "A", "text": "鋇劑吞嚥食道攝影 (barium esophagogram) 可以偵測急性胰臟炎 (acute pancreatitis)" },
+      { "key": "B", "text": "電腦斷層 (CT) 或超音波 (US) 可以用於胰臟假性囊腫 (pancreatic pseudocyst) 的追蹤" },
+      { "key": "C", "text": "鋇劑吞嚥食道攝影 (barium esophagogram) 可用於偵測食道阻塞或吞嚥困難 (dysphagia)" },
+      { "key": "D", "text": "注射對比劑的腹部電腦斷層檢查 (CT of abdomen with contrast) 可用於偵測嚴重胰臟炎" }
+    ],
+    "answer": "A",
+    "explanation": "鋇劑吞嚥食道攝影主要用於評估食道功能與解剖異常（吞嚥困難、食道阻塞、GERD 等），不適合用來偵測急性胰臟炎。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_DYSPH_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜甲 吞嚥困難" },
+    "stem": "有關上腸胃道鋇劑檢查，下列敘述何者最不恰當？",
+    "options": [
+      { "key": "A", "text": "主動脈弓會在食道右側形成壓跡" },
+      { "key": "B", "text": "左主支氣管會在食道左側形成壓跡" },
+      { "key": "C", "text": "胃食道交界可在食道穿過橫膈膜的位置辨認" },
+      { "key": "D", "text": "吞嚥會引發食道蠕動波，推動食糜往下排空" }
+    ],
+    "answer": "A",
+    "explanation": "主動脈弓位於食道左側，因此鋇劑檢查中應在食道左側形成壓跡，而非右側。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_DYSPH_Q0003",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜甲 吞嚥困難" },
+    "stem": "病人在門診自訴吞嚥困難已有一年之久，且常伴隨中段胸骨後方有東西卡住的感覺。吞嚥困難僅限於固態食物，喝流質東西則沒有困難，但並非每餐都會出現，時好時壞。病人也沒有體重減輕之現象。身體診察沒有異常發現。關於這位病人之診斷，下列各項敘述何者正確？",
+    "options": [
+      { "key": "A", "text": "本病人之診斷，很可能是 achalasia" },
+      { "key": "B", "text": "本病人之致病機轉可能在於食道蠕動異常" },
+      { "key": "C", "text": "鋇劑攝影 (barium meal study) 對本病人之診斷很有效益" },
+      { "key": "D", "text": "此等病人雖非食道癌，其治療仍以手術為主" }
+    ],
+    "answer": "C",
+    "explanation": "僅固體吞嚥困難應優先考慮機械性阻塞（狹窄/腫瘤等），鋇劑攝影可幫助評估是否為狹窄或蠕動異常；亦可進一步安排上消化道內視鏡或胸部斷層檢查。"
+  },
+
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_DYSPH_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜甲 吞嚥困難｜鑑別診斷" },
+    "stem": "吞嚥困難僅發生於固體食物，最符合下列何種機轉？",
+    "options": [
+      { "key": "A", "text": "機械性阻塞造成管腔狹窄，蠕動相對保留" },
+      { "key": "B", "text": "神經肌肉疾病造成蠕動功能受損" },
+      { "key": "C", "text": "下食道括約肌（LES）無法放鬆導致液體更容易通過" },
+      { "key": "D", "text": "主要為胃酸逆流導致吞嚥疼痛" }
+    ],
+    "answer": "A",
+    "explanation": "只卡固體典型提示機械性阻塞（腫瘤、狹窄等）；若固體與液體都困難更偏向蠕動/神經肌肉問題。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_DYSPH_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜甲 吞嚥困難｜鑑別診斷" },
+    "stem": "固體與液體吞嚥都困難，較支持下列何類問題？",
+    "options": [
+      { "key": "A", "text": "神經肌肉疾病或食道蠕動異常" },
+      { "key": "B", "text": "單純食道環（ring）" },
+      { "key": "C", "text": "單一食道腫瘤造成固定狹窄" },
+      { "key": "D", "text": "吞嚥誘發食道蠕動波過強" }
+    ],
+    "answer": "A",
+    "explanation": "固液皆困難多提示蠕動功能障礙（achalasia、diffuse spasm、scleroderma 等）而非單純固定狹窄。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_DYSPH_Q0003",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜甲 吞嚥困難｜Achalasia" },
+    "stem": "食道弛緩不能（achalasia）的關鍵病理生理為何？",
+    "options": [
+      { "key": "A", "text": "遠端食道蠕動消失＋下食道括約肌無法舒張" },
+      { "key": "B", "text": "胃酸分泌過多導致黏膜破損" },
+      { "key": "C", "text": "LES 無法收縮導致嚴重逆流為主" },
+      { "key": "D", "text": "單純食道黏膜水腫" }
+    ],
+    "answer": "A",
+    "explanation": "Achalasia 的核心是遠端食道無蠕動、LES 高壓且放鬆不全，因此固液皆可出現吞嚥困難。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_DYSPH_Q0004",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜甲 吞嚥困難｜影像" },
+    "stem": "下列何者為 achalasia 在鋇劑攝影常見的典型表現？",
+    "options": [
+      { "key": "A", "text": "遠端食道鳥嘴狀狹窄（bird-beak）合併近端擴張" },
+      { "key": "B", "text": "跳躍性分節狹窄合併『串珠狀』" },
+      { "key": "C", "text": "胃竇部僵硬不蠕動" },
+      { "key": "D", "text": "食道單一圓形充盈缺損" }
+    ],
+    "answer": "A",
+    "explanation": "Bird-beak + 近端擴張為 achalasia 經典影像；而 diffuse esophageal spasm 常見 corkscrew。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_DYSPH_Q0005",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜甲 吞嚥困難｜Diffuse esophageal spasm" },
+    "stem": "鋇劑吞嚥食道攝影呈現『corkscrew appearance』最典型提示下列何者？",
+    "options": [
+      { "key": "A", "text": "Diffuse esophageal spasm" },
+      { "key": "B", "text": "Achalasia" },
+      { "key": "C", "text": "Scleroderma esophagus" },
+      { "key": "D", "text": "食道癌" }
+    ],
+    "answer": "A",
+    "explanation": "Corkscrew appearance 是 diffuse esophageal spasm 的典型影像表現；achalasia 則偏 bird-beak。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_DYSPH_Q0006",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜甲 吞嚥困難｜Scleroderma" },
+    "stem": "硬皮症（scleroderma）相關食道病變，最合理的描述為何？",
+    "options": [
+      { "key": "A", "text": "食道肌肉纖維化導致蠕動差，且 LES 張力下降→易逆流" },
+      { "key": "B", "text": "LES 高壓且放鬆不全" },
+      { "key": "C", "text": "只影響口咽期吞嚥" },
+      { "key": "D", "text": "典型影像為 bird-beak" }
+    ],
+    "answer": "A",
+    "explanation": "硬皮症可造成食道蠕動降低且 LES 無法有效收縮，故常合併 GERD/heartburn；與 achalasia（LES 放鬆不全）相反。"
   }
+
+
 ]
