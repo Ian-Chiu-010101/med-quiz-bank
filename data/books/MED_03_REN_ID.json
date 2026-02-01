@@ -527,6 +527,188 @@
     ],
     "answer": "B",
     "explanation": "膿瘍的關鍵是排膿（I&D）；抗生素是輔助，依嚴重度、全身症狀或高風險族群決定是否加用。"
+  },
+
+
+  {
+    "id": "MED3_RENAL_INF_ORI_ACIDBASE_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜甲 酸鹼平衡" },
+    "stem": "下列那一種藥物或狀況最不可能造成呼吸性鹼中毒？",
+    "options": [
+      { "key": "A", "text": "水楊酸鹽（salicylates）" },
+      { "key": "B", "text": "高山" },
+      { "key": "C", "text": "懷孕" },
+      { "key": "D", "text": "嗎啡（morphine）" }
+    ],
+    "answer": "D",
+    "explanation": "呼吸性鹼中毒多由過度換氣造成（如高山、懷孕、早期水楊酸鹽刺激呼吸中樞）。嗎啡會抑制呼吸、導致 CO2 retention，較可能造成呼吸性酸中毒。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_ACIDBASE_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜甲 酸鹼平衡" },
+    "stem": "56 歲男性糖尿病人，Cr 2.0 mg/dL、K+ 5.8、Na+ 139、Cl− 116、HCO3− 18，尿滲透壓高，最可能的診斷為何？",
+    "options": [
+      { "key": "A", "text": "第二型腎小管酸血症（type 2 RTA）" },
+      { "key": "B", "text": "Metformin 引發酸血症（metformin related acidosis）" },
+      { "key": "C", "text": "低腎素低醛固酮血症（hyporeninemic hypoaldosteronism）" },
+      { "key": "D", "text": "糖尿病酮酸血症（DKA）" }
+    ],
+    "answer": "C",
+    "explanation": "糖尿病相關的低腎素低醛固酮血症屬於 type 4 RTA，典型為高血鉀合併非陰離子間隙代謝性酸中毒（HCO3− 下降）。DKA 通常為高陰離子間隙代謝酸且常伴酮體；type 2 RTA 常見低血鉀。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_ACIDBASE_Q0003",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜甲 酸鹼平衡" },
+    "stem": "35 歲女性因最近血壓升高就診，檢查多數正常但血清 K+ 2.5 mmol/L。下列哪一個診斷最不可能考慮？",
+    "options": [
+      { "key": "A", "text": "單側腎動脈狹窄（unilateral renal artery stenosis）" },
+      { "key": "B", "text": "服用甘草（licorice）" },
+      { "key": "C", "text": "Gordon 症候群（Gordon syndrome）" },
+      { "key": "D", "text": "原發性皮質醛固酮症（primary aldosteronism）" }
+    ],
+    "answer": "C",
+    "explanation": "低血鉀合併高血壓常見於高醛固酮或類醛固酮狀態（原發性醛固酮症、腎動脈狹窄造成 RAAS 活化、甘草造成 apparent mineralocorticoid excess）。Gordon syndrome（pseudohypoaldosteronism type 2）典型為高血壓合併高血鉀與高氯性代謝性酸中毒，與本題低血鉀不符。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_ACIDBASE_Q0004",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜甲 酸鹼平衡" },
+    "stem": "65 歲男性嘔吐兩天、血壓 85/50、ABG pH 7.49、PaCO2 47、HCO3− 32。下列對此病人的敘述何者最正確？",
+    "options": [
+      { "key": "A", "text": "血清滲透壓應該 > 310 mOsm/kg H2O" },
+      { "key": "B", "text": "尿液鉀離子應該 < 10 mmol/L" },
+      { "key": "C", "text": "尿液滲透壓應該 > 500 mOsm/kg H2O" },
+      { "key": "D", "text": "尿液氯離子應該 > 20 mmol/L" }
+    ],
+    "answer": "C",
+    "explanation": "嘔吐與容量不足常見代謝性鹼中毒，且因脫水尿液會濃縮（尿滲透壓上升）。容量不足時血清滲透壓不一定升高；代謝性鹼中毒常促進尿鉀流失（不一定低）；嘔吐造成的 chloride-depletion metabolic alkalosis 通常尿 Cl− 低（chloride responsive），不會 >20。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_ACIDBASE_Q0005",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜甲 酸鹼平衡" },
+    "stem": "下列哪一個病例較符合下列 ABG/電解質：pH 7.32、PaCO2 33、HCO3− 18、Na+ 138、Cl− 109？",
+    "options": [
+      { "key": "A", "text": "第一型糖尿病熬夜兩天忘記打胰島素" },
+      { "key": "B", "text": "服用作用於遠端腎小管之利尿劑減重" },
+      { "key": "C", "text": "第五期慢性腎臟病" },
+      { "key": "D", "text": "腹瀉三天" }
+    ],
+    "answer": "D",
+    "explanation": "此為代謝性酸中毒且陰離子間隙不高（non-anion gap metabolic acidosis），常見原因為 HCO3− 流失（如腹瀉）或 RTA。DKA/末期腎衰竭較偏高陰離子間隙代謝酸；多數利尿劑（loop/thiazide）傾向代謝性鹼中毒。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_ACIDBASE_Q0006",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜甲 酸鹼平衡" },
+    "stem": "血陰離子隙（anion gap）主要反應下列何項離子的多寡？",
+    "options": [
+      { "key": "A", "text": "未測量之陽離子（unmeasured cations）" },
+      { "key": "B", "text": "鈉離子＋鉀離子（Na+ + K+）" },
+      { "key": "C", "text": "未測量之陰離子（unmeasured anions）" },
+      { "key": "D", "text": "重碳酸離子＋氯離子（HCO3− + Cl−）" }
+    ],
+    "answer": "C",
+    "explanation": "anion gap 概念上代表「未測量陰離子 − 未測量陽離子」。臨床上當乳酸、酮酸、毒物代謝物等未測量陰離子增加時，anion gap 上升。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_ACIDBASE_Q0007",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜甲 酸鹼平衡" },
+    "stem": "下列哪一個病例最不符合：pH 7.49、PaCO2 43、HCO3− 28、Na+ 139、K+ 3.0、Cl− 89？",
+    "options": [
+      { "key": "A", "text": "長期使用利尿劑" },
+      { "key": "B", "text": "急性腹瀉三天" },
+      { "key": "C", "text": "原發性皮質醛固酮症" },
+      { "key": "D", "text": "噁心嘔吐兩天" }
+    ],
+    "answer": "B",
+    "explanation": "此組數據為代謝性鹼中毒（HCO3− 上升）且呈低氯低鉀的型態。利尿劑、嘔吐、醛固酮過多皆可造成代謝性鹼中毒；腹瀉典型是 HCO3− 流失造成 non-anion gap 代謝性酸中毒。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_ACIDBASE_Q0008",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜甲 酸鹼平衡" },
+    "stem": "病人 ABG：pH 7.51、PaCO2 49 mmHg、HCO3− 38 mmol/L。下列何者正確？",
+    "options": [
+      { "key": "A", "text": "代謝性酸中毒" },
+      { "key": "B", "text": "代謝性鹼中毒" },
+      { "key": "C", "text": "呼吸性酸中毒" },
+      { "key": "D", "text": "呼吸性鹼中毒" }
+    ],
+    "answer": "B",
+    "explanation": "pH 偏鹼且 HCO3− 明顯上升，符合代謝性鹼中毒；PaCO2 上升可視為代償性通氣下降。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_ACIDBASE_Q0009",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜甲 酸鹼平衡" },
+    "stem": "承上題（pH 7.49、PaCO2 43、HCO3− 28、Na+ 139、K+ 3.0、Cl− 89），下列哪一個病例不符合該檢查結果？",
+    "options": [
+      { "key": "A", "text": "高血壓、間歇性下肢無力，醛固酮濃度升高（原發性醛固酮相關）" },
+      { "key": "B", "text": "Sjogren syndrome，腎盂鈣化跡象（考慮 RTA）" },
+      { "key": "C", "text": "急性胰臟炎住院，鼻胃管引流每日約 3000 mL" },
+      { "key": "D", "text": "長期服用 thiazide diuretics 減肥" }
+    ],
+    "answer": "B",
+    "explanation": "此題檢驗組合偏代謝性鹼中毒；A（醛固酮過多）、C（胃酸流失）、D（thiazide）均可造成代謝性鹼中毒。Sjogren syndrome 相關的遠端（type 1）RTA 則更典型為 non-anion gap 代謝性酸中毒，與題幹不符。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_ACIDBASE_Q0010",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜甲 酸鹼平衡" },
+    "stem": "承上題，若尿液氯離子濃度為 10 mmol/L，何者最符合此結果？",
+    "options": [
+      { "key": "A", "text": "甲病人（原發性醛固酮相關）" },
+      { "key": "B", "text": "乙病人（Sjogren/RTA）" },
+      { "key": "C", "text": "丙病人（鼻胃管引流大量胃液）" },
+      { "key": "D", "text": "丁病人（持續使用 thiazide）" }
+    ],
+    "answer": "C",
+    "explanation": "尿 Cl− < 20 mmol/L 支持 chloride-responsive metabolic alkalosis（如嘔吐/胃液流失、鼻胃管引流），補生理食鹽水可改善。原發性醛固酮與持續利尿劑使用多屬 chloride-resistant（尿 Cl− 常較高）。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_ACIDBASE_Q0011",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜甲 酸鹼平衡" },
+    "stem": "下列何者不是高陰離子間隙代謝性酸中毒（high anion gap metabolic acidosis）的原因？",
+    "options": [
+      { "key": "A", "text": "Lactic acidosis" },
+      { "key": "B", "text": "Ketoacidosis" },
+      { "key": "C", "text": "Diarrhea（腹瀉）" },
+      { "key": "D", "text": "Salicylate intoxication" }
+    ],
+    "answer": "C",
+    "explanation": "高陰離子間隙代謝酸常見可用 Lactic、Keto、Toxins/Drugs、Renal failure 來記；腹瀉多為 HCO3− 流失造成 non-anion gap（高氯性）代謝酸。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_ACIDBASE_Q0012",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜甲 酸鹼平衡" },
+    "stem": "下列有關低腎素醛固酮分泌不足症（hyporeninemic hypoaldosteronism）的特徵敘述，何者正確？",
+    "options": [
+      { "key": "A", "text": "代謝性鹼中毒和高鉀血症" },
+      { "key": "B", "text": "代謝性酸中毒和高鉀血症" },
+      { "key": "C", "text": "代謝性鹼中毒和低鉀血症" },
+      { "key": "D", "text": "代謝性酸中毒和低鈉血症" }
+    ],
+    "answer": "B",
+    "explanation": "醛固酮作用為留鈉、排鉀、排酸；低腎素低醛固酮狀態會造成鉀與酸排不出去，典型呈現高血鉀合併代謝性酸中毒（type 4 RTA）。"
   }
 
 
