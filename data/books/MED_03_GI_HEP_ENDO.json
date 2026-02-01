@@ -425,6 +425,220 @@
     "answer": "A",
     "explanation": "抗生素僅在感染性壞死、膽管炎或明確感染時使用；多數急性胰臟炎初期以支持性治療為主。"
   }
+,
+  
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_DIARR_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜丙 腹瀉" },
+    "stem": "一位病人因腹瀉而來就醫。他自 3 天前開始腹瀉，大多為水狀排泄物，每天至少十次，偶而伴有腹痛，同時發燒至 38.6°C，acetaminophen 可稍退燒，但會再燒。他沒有噁心、嘔吐，但因怕腹瀉而不敢進食及喝水。下列各項敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "他可能有感染性腹瀉（infectious diarrhea），應趕快檢查其病因" },
+      { "key": "B", "text": "其大便應送檢，包括 pus cells 及 parasites ova，甚至細菌及病毒培養" },
+      { "key": "C", "text": "除了補充水份，應立即給予強力止瀉藥以遏止腹瀉" },
+      { "key": "D", "text": "若大便檢查發現 pus cells，在正式病原尚未確定之前，試用抗生素（如 quinolone 或 metronidazole）是合宜的" }
+    ],
+    "answer": "C",
+    "explanation": "感染性腹瀉一般不建議使用強力止瀉藥（尤其懷疑侵襲性/發炎性腹瀉時），可能導致毒素與病原滯留、腹脹甚至併發症。補液為首要；是否經驗性抗生素需視嚴重度與風險而定。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_DIARR_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜丙 腹瀉" },
+    "stem": "下列哪一種微生物導致腹瀉所需之致病原數量最大？",
+    "options": [
+      { "key": "A", "text": "Shigella" },
+      { "key": "B", "text": "Entamoeba histolytica" },
+      { "key": "C", "text": "Giardia lamblia" },
+      { "key": "D", "text": "Vibrio cholerae" }
+    ],
+    "answer": "D",
+    "explanation": "霍亂弧菌通常需要較大的接種量才致病（受胃酸影響較大）；相對地 Shigella 的致病原數量極低。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_DIARR_Q0003",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜丙 腹瀉" },
+    "stem": "一位 30 歲健康男性準備到國外旅遊，有關旅行者腹瀉（traveler's diarrhea）的敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "應該使用抗生素預防旅行者腹瀉" },
+      { "key": "B", "text": "細菌感染是旅行者腹瀉最常見之致病原因" },
+      { "key": "C", "text": "如發生腹瀉，治療上以補充液體最重要" },
+      { "key": "D", "text": "大部分感染性腹瀉會自己好（self-limited）" }
+    ],
+    "answer": "A",
+    "explanation": "旅行者腹瀉多為自限性，少數才需藥物治療；一般不建議常規使用抗生素做預防。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_DIARR_Q0004",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜丙 腹瀉｜C. difficile" },
+    "stem": "65 歲男性因嚴重肺炎合併呼吸衰竭入住加護病房，投予廣效抗生素三天後退燒，但第五天出現腹痛、腹脹及水便（每日至少五次）。下列敘述何者最為適當？",
+    "options": [
+      { "key": "A", "text": "糞便中 Clostridium difficile toxin 毒素檢測陰性，可排除 C. difficile 相關腹瀉" },
+      { "key": "B", "text": "糞便培養長出 Clostridium difficile，可確診 C. difficile 相關腹瀉" },
+      { "key": "C", "text": "如腹瀉症狀明顯，可先使用 loperamide 來緩和症狀" },
+      { "key": "D", "text": "可用口服 metronidazole 治療" }
+    ],
+    "answer": "D",
+    "explanation": "本題情境高度懷疑抗生素相關 C. difficile 感染。單次毒素陰性不一定能完全排除；培養陽性可能為定植而非感染；疑似 C. difficile 時不建議單用止瀉藥。治療方面傳統上可用口服 metronidazole（現行多數指引更偏好口服 vancomycin 或 fidaxomicin 作為第一線）。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_DIARR_Q0005",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜丙 腹瀉｜乳糖不耐" },
+    "stem": "下列有關乳糖不耐症（lactose intolerance）的敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "臨床可出現腹脹、腹瀉、腹痛、脹氣、放屁等症狀" },
+      { "key": "B", "text": "亞洲人約 90% 有此困擾，而白種人則不到 25%" },
+      { "key": "C", "text": "腹瀉屬於分泌性（secretory）腹瀉，停用乳糖製品可改善" },
+      { "key": "D", "text": "補充乳糖酵素可改善；含活的乳酸菌之優酪乳（yogurt）因可產生乳糖酵素，病人可能可接受" }
+    ],
+    "answer": "C",
+    "explanation": "乳糖不耐屬於滲透性（osmotic）腹瀉：未吸收的乳糖提高腸腔滲透壓而導致腹瀉；禁食/停乳糖後會改善。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_DIARR_Q0006",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜丙 腹瀉｜大腸鏡" },
+    "stem": "一位 75 歲男性肺炎患者住院治療中出現發燒、腹瀉不止，且糞便檢查有白血球及紅血球，大腸鏡結果如圖，造成腹瀉的原因最可能為下列何者？",
+    "options": [
+      { "key": "A", "text": "Vibrio cholerae" },
+      { "key": "B", "text": "Clostridium difficile" },
+      { "key": "C", "text": "hemorrhagic E. coli" },
+      { "key": "D", "text": "Salmonella" }
+    ],
+    "answer": "B",
+    "explanation": "住院抗生素暴露後腹瀉，若大腸鏡呈偽膜性變化（pseudomembranes），最典型為 C. difficile 相關性結腸炎。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_DIARR_Q0007",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜丙 腹瀉｜食物中毒" },
+    "stem": "國小學童於學校食用營養午餐後一至六小時，陸續出現多位學童噁心、嘔吐及腹瀉之食物中毒群聚事件。鑑別診斷中，除考慮 Staphylococcus aureus 外，下列何者亦是最可能病原？",
+    "options": [
+      { "key": "A", "text": "Bacillus cereus" },
+      { "key": "B", "text": "Campylobacter jejuni" },
+      { "key": "C", "text": "Salmonella spp." },
+      { "key": "D", "text": "Vibrio parahaemolyticus" }
+    ],
+    "answer": "A",
+    "explanation": "1–6 小時快速發作、以噁心嘔吐為主提示「先前形成毒素」型食物中毒；除 S. aureus 外，B. cereus 亦常見此類型。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_DIARR_Q0008",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜丙 腹瀉｜偽膜性大腸炎" },
+    "stem": "偽膜性大腸炎（pseudomembranous colitis）和以下哪種致病菌有關？",
+    "options": [
+      { "key": "A", "text": "Clostridium difficile" },
+      { "key": "B", "text": "Campylobacter jejuni" },
+      { "key": "C", "text": "E. coli O157:H7" },
+      { "key": "D", "text": "Cryptosporidium" }
+    ],
+    "answer": "A",
+    "explanation": "偽膜性大腸炎典型與 C. difficile toxin 造成的結腸黏膜損傷相關。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_DIARR_Q0009",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜丙 腹瀉｜分類" },
+    "stem": "下列有關腹瀉（diarrhea）的敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "滲透性（osmotic）腹瀉，禁食後症狀會改善" },
+      { "key": "B", "text": "分泌性（secretory）腹瀉，禁食後症狀不會改善" },
+      { "key": "C", "text": "脂肪痢性（steatorrhea）腹瀉，糞便脂肪超過正常量（1 天 7 公克）" },
+      { "key": "D", "text": "超過 4 個月的腹瀉，稱為慢性腹瀉" }
+    ],
+    "answer": "D",
+    "explanation": "慢性腹瀉臨床上通常以「>4 週」為界，不是 4 個月；其餘為常見分類重點。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_DIARR_Q0010",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜丙 腹瀉｜寄生蟲" },
+    "stem": "杜先生 26 歲，自俄羅斯遊學 1 個月返國後發生持續 6 週之腹部絞痛、打嗝、過度排氣及水瀉，期間無發燒但體重減輕 5 公斤。下列何者最可能的致病原？",
+    "options": [
+      { "key": "A", "text": "enterotoxigenic E. coli" },
+      { "key": "B", "text": "Giardia lamblia" },
+      { "key": "C", "text": "Salmonella enteritidis" },
+      { "key": "D", "text": "Shigella sonnei" }
+    ],
+    "answer": "B",
+    "explanation": "Giardia 常造成慢性水瀉、腹脹、打嗝/排氣增多與體重減輕，較符合本案例的時間軸與症狀。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_DIARR_Q0011",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜丙 腹瀉｜旅遊醫學" },
+    "stem": "一位 24 歲男性準備出國旅遊至門診諮詢，擔心旅遊期間在國外生病。下列何者是國際旅遊者最常見的疾病？",
+    "options": [
+      { "key": "A", "text": "旅遊者腹瀉" },
+      { "key": "B", "text": "性傳染病" },
+      { "key": "C", "text": "寄生蟲感染" },
+      { "key": "D", "text": "瘧疾" }
+    ],
+    "answer": "A",
+    "explanation": "國際旅遊最常見的健康問題為旅遊者腹瀉；多與飲食/水源暴露相關。"
+  },
+
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_DIARR_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜丙 腹瀉｜鑑別" },
+    "stem": "急性腹瀉合併高燒、血便或糞便白血球陽性，最支持下列哪一類型？",
+    "options": [
+      { "key": "A", "text": "發炎性／侵襲性腹瀉（inflammatory diarrhea）" },
+      { "key": "B", "text": "單純滲透性腹瀉" },
+      { "key": "C", "text": "功能性腹瀉" },
+      { "key": "D", "text": "脂肪痢為主" }
+    ],
+    "answer": "A",
+    "explanation": "發燒、血便、糞便 WBC/ RBC 提示腸黏膜發炎與侵犯，常見於 Shigella、Salmonella、Campylobacter 等。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_DIARR_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜丙 腹瀉｜C. difficile" },
+    "stem": "疑似 C. difficile 感染時，下列何者最不恰當？",
+    "options": [
+      { "key": "A", "text": "優先停用不必要的抗生素並評估脫水" },
+      { "key": "B", "text": "可考慮以糞便毒素/核酸檢測輔助診斷" },
+      { "key": "C", "text": "在懷疑嚴重結腸炎時，避免單用止瀉藥" },
+      { "key": "D", "text": "把糞便培養長出 C. difficile 視為『一定確診感染』" }
+    ],
+    "answer": "D",
+    "explanation": "培養陽性可能是定植（colonization），需結合臨床腹瀉症狀與毒素/核酸檢驗判讀。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_DIARR_Q0003",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜丙 腹瀉｜EHEC" },
+    "stem": "血便腹瀉且高度懷疑 E. coli O157:H7（EHEC）時，治療上最應避免下列何者？",
+    "options": [
+      { "key": "A", "text": "積極補液與監測腎功能" },
+      { "key": "B", "text": "不必要的止瀉藥" },
+      { "key": "C", "text": "常規使用抗生素" },
+      { "key": "D", "text": "追蹤是否出現溶血性尿毒症候群（HUS）" }
+    ],
+    "answer": "C",
+    "explanation": "EHEC 疑似時一般避免常規抗生素（可能增加毒素釋放與 HUS 風險）；重點為支持性治療與併發症監測。"
+  }
+
 
 
 
