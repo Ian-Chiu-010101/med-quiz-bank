@@ -1777,11 +1777,281 @@
     ],
     "answer": "D",
     "explanation": "女性飲酒與乳癌風險上升有關；酒精性肝病常見 AST>ALT；酗酒較常見巨球性（macrocytosis）；CAGE 為常用篩檢工具。"
+  },
+  
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_CIRR_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜戊 肝硬化與門脈高壓" },
+    "stem": "肝硬化患者出現腹水，最重要的第一步診斷處置（在無禁忌下）為何？",
+    "options": [
+      { "key": "A", "text": "直接給予高劑量利尿劑，不需檢查" },
+      { "key": "B", "text": "診斷性腹水穿刺（含細胞計數/培養與白蛋白）" },
+      { "key": "C", "text": "先給強力止痛藥觀察" },
+      { "key": "D", "text": "先做 ERCP" }
+    ],
+    "answer": "B",
+    "explanation": "新發腹水或住院中的腹水惡化，應先做診斷性腹水穿刺以排除 SBP 並判定 SAAG/蛋白等，這一步會直接改變治療策略。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_CIRR_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜戊 肝硬化與門脈高壓｜SBP" },
+    "stem": "自發性細菌性腹膜炎（SBP）的診斷最常用的腹水指標為何？",
+    "options": [
+      { "key": "A", "text": "腹水淋巴球 > 1,000/mm3" },
+      { "key": "B", "text": "腹水多形核白血球（PMN）≥ 250/mm3" },
+      { "key": "C", "text": "腹水 RBC ≥ 50,000/µL" },
+      { "key": "D", "text": "SAAG < 1.1 g/dL" }
+    ],
+    "answer": "B",
+    "explanation": "SBP 以腹水 PMN ≥ 250/mm3 為臨床上最常用的診斷閾值（合併症狀時尤其）。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_CIRR_Q0003",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜戊 肝硬化與門脈高壓｜SBP vs Secondary" },
+    "stem": "下列哪一項比較支持『次發性腹膜炎（secondary peritonitis）』而非 SBP？",
+    "options": [
+      { "key": "A", "text": "腹水培養單一腸道菌（單一菌種）" },
+      { "key": "B", "text": "腹水培養出多種菌（polymicrobial）" },
+      { "key": "C", "text": "腹水 PMN 300/mm3" },
+      { "key": "D", "text": "肝硬化合併腹水" }
+    ],
+    "answer": "B",
+    "explanation": "多菌種（polymicrobial）更要懷疑腸穿孔/腹腔內感染源的次發性腹膜炎，治療策略常需要外科或介入處置。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_CIRR_Q0004",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜戊 肝硬化與門脈高壓｜腹水治療" },
+    "stem": "肝硬化腹水的一線非藥物處置重點，下列何者最正確？",
+    "options": [
+      { "key": "A", "text": "嚴格限制蛋白質（避免腦病變）" },
+      { "key": "B", "text": "限制鈉攝取為核心（合併利尿劑視情況使用）" },
+      { "key": "C", "text": "強制大量飲水" },
+      { "key": "D", "text": "常規使用 NSAID 減少腹水" }
+    ],
+    "answer": "B",
+    "explanation": "腹水治療核心是限鈉；NSAID 會惡化腎血流與鈉水滯留，肝硬化患者通常應避免。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_CIRR_Q0005",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜戊 肝硬化與門脈高壓｜Variceal bleed" },
+    "stem": "疑似食道靜脈曲張急性出血時，除輸液與輸血評估外，下列何者最符合『早期就應啟動』的合併治療原則？",
+    "options": [
+      { "key": "A", "text": "單用強力止瀉藥減少黑便" },
+      { "key": "B", "text": "血管活性藥（如 octreotide 類）合併抗生素" },
+      { "key": "C", "text": "高劑量阿斯匹靈" },
+      { "key": "D", "text": "常規立即做 ERCP" }
+    ],
+    "answer": "B",
+    "explanation": "靜脈曲張出血急性期常合併使用血管活性藥降低門脈壓並給予抗生素以降低感染、再出血與死亡風險，並配合內視鏡結紮。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_CIRR_Q0006",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜戊 肝硬化與門脈高壓｜Variceal prophylaxis" },
+    "stem": "關於食道靜脈曲張『初級預防（primary prophylaxis）』，下列何者正確？",
+    "options": [
+      { "key": "A", "text": "只要有肝硬化就一定要做 TIPS" },
+      { "key": "B", "text": "非選擇性 β 阻斷劑或內視鏡結紮可用於高風險靜脈曲張" },
+      { "key": "C", "text": "常規給予抗凝血劑預防破裂" },
+      { "key": "D", "text": "所有小靜脈曲張都一定要立刻結紮" }
+    ],
+    "answer": "B",
+    "explanation": "高風險靜脈曲張可使用非選擇性 β 阻斷劑或內視鏡結紮作初級預防；TIPS 不是常規初級預防。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_CIRR_Q0007",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜戊 肝硬化｜肝性腦病變" },
+    "stem": "肝性腦病變（hepatic encephalopathy, HE）的治療策略，下列何者最正確？",
+    "options": [
+      { "key": "A", "text": "以 loperamide 為一線藥物" },
+      { "key": "B", "text": "重點包含找誘發因子並使用 lactulose（必要時加 rifaximin）" },
+      { "key": "C", "text": "必須長期完全禁蛋白" },
+      { "key": "D", "text": "不需要評估感染或出血等誘因" }
+    ],
+    "answer": "B",
+    "explanation": "HE 常由感染、出血、便秘、電解質異常、腎衰竭、鎮靜藥等誘發；治療以矯正誘因＋降低腸道氨負荷（lactulose ± rifaximin）為核心。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_CIRR_Q0008",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜戊 肝硬化｜HRS" },
+    "stem": "肝腎症候群（hepatorenal syndrome, HRS）的典型臨床脈絡為何？",
+    "options": [
+      { "key": "A", "text": "健康年輕人，單純肌肉量少導致 creatinine 低" },
+      { "key": "B", "text": "晚期肝硬化/門脈高壓背景下，出現進行性腎功能惡化且缺乏其他可解釋原因" },
+      { "key": "C", "text": "腎臟超音波顯示雙側腎萎縮是必要條件" },
+      { "key": "D", "text": "必定合併大量血尿與管型" }
+    ],
+    "answer": "B",
+    "explanation": "HRS 是嚴重肝病造成有效循環血量下降與腎血管收縮的功能性腎衰竭；通常尿沉渣相對乾淨、腎臟結構多無特異異常。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_CIRR_Q0009",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜戊 肝硬化｜Child-Pugh" },
+    "stem": "Child-Pugh 分級常用於評估肝硬化預後。下列哪一項不是其構成要素？",
+    "options": [
+      { "key": "A", "text": "bilirubin" },
+      { "key": "B", "text": "albumin" },
+      { "key": "C", "text": "INR/凝血功能" },
+      { "key": "D", "text": "血清肌酐（creatinine）" }
+    ],
+    "answer": "D",
+    "explanation": "Child-Pugh 包含 bilirubin、albumin、INR（或 PT）、腹水、肝性腦病變；creatinine 是 MELD 的重要構成。"
+  },
+
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_ABS_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜己 肝膿瘍" },
+    "stem": "化膿性肝膿瘍（pyogenic liver abscess）最常見的臨床表現組合為何？",
+    "options": [
+      { "key": "A", "text": "無症狀，只有間接型黃疸" },
+      { "key": "B", "text": "發燒、右上腹痛（或壓痛）、白血球/CRP 升高" },
+      { "key": "C", "text": "典型為大量血痰" },
+      { "key": "D", "text": "以顯著神經學局灶症狀為主" }
+    ],
+    "answer": "B",
+    "explanation": "肝膿瘍常見為感染症狀（發燒）合併右上腹不適與發炎指標上升；影像（超音波/CT）是確診關鍵。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_ABS_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜己 肝膿瘍｜Amebic vs Pyogenic" },
+    "stem": "阿米巴性肝膿瘍（amebic liver abscess）與化膿性肝膿瘍的鑑別，下列何者較支持阿米巴性？",
+    "options": [
+      { "key": "A", "text": "膿液培養常見多菌種" },
+      { "key": "B", "text": "膿液呈『anchovy paste』樣且細菌培養常陰性" },
+      { "key": "C", "text": "明顯膽道阻塞史" },
+      { "key": "D", "text": "常合併膽管擴張" }
+    ],
+    "answer": "B",
+    "explanation": "阿米巴性肝膿瘍膿液可呈棕紅色糊狀（anchovy paste），細菌培養常陰性；診斷可合併血清學與流行病史。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_ABS_Q0003",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜己 肝膿瘍｜治療" },
+    "stem": "化膿性肝膿瘍治療通常包含下列哪兩大核心？",
+    "options": [
+      { "key": "A", "text": "PPI + 止瀉藥" },
+      { "key": "B", "text": "抗生素 +（視大小/位置/反應）經皮引流或手術處置" },
+      { "key": "C", "text": "長期類固醇單用" },
+      { "key": "D", "text": "只要退燒即可停治療，不需追蹤影像" }
+    ],
+    "answer": "B",
+    "explanation": "肝膿瘍多需抗生素，且較大或反應不佳者常需經皮引流；是否需要手術取決於複雜度與感染源控制。"
+  },
+
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_HCC_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜庚 肝腫瘤／肝癌" },
+    "stem": "下列哪一項是肝細胞癌（HCC）的最重要背景危險因子之一？",
+    "options": [
+      { "key": "A", "text": "急性 A 型肝炎一次感染" },
+      { "key": "B", "text": "肝硬化（不論病因）" },
+      { "key": "C", "text": "單純 Gilbert syndrome" },
+      { "key": "D", "text": "胃食道逆流" }
+    ],
+    "answer": "B",
+    "explanation": "HCC 多發生於慢性肝病與肝硬化背景（HBV/HCV、酒精性肝病、NASH 等）。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_HCC_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜庚 肝腫瘤／肝癌｜監測" },
+    "stem": "對於高風險族群的 HCC 監測（surveillance），下列何者最符合常見臨床作法？",
+    "options": [
+      { "key": "A", "text": "每年做一次 ERCP" },
+      { "key": "B", "text": "以腹部超音波為主，定期追蹤（可視情況合併 AFP）" },
+      { "key": "C", "text": "只要 AFP 正常就不需要影像" },
+      { "key": "D", "text": "只在出現黃疸才開始監測" }
+    ],
+    "answer": "B",
+    "explanation": "高風險族群常以腹部超音波做定期監測；AFP 可作輔助但不能取代影像。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_HCC_Q0003",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜庚 肝腫瘤／肝癌｜典型影像" },
+    "stem": "在肝硬化背景下，HCC 的典型動態對比增強影像表現最常被描述為何？",
+    "options": [
+      { "key": "A", "text": "延遲期持續增強（persistent delayed enhancement）" },
+      { "key": "B", "text": "動脈期增強 + 門靜脈/延遲期洗出（washout）" },
+      { "key": "C", "text": "完全不增強" },
+      { "key": "D", "text": "只有膽管擴張" }
+    ],
+    "answer": "B",
+    "explanation": "典型 HCC 因動脈血供增加而呈動脈期增強，後續相對洗出；此為臨床常用的非侵入性診斷線索（需依系統與大小/條件判讀）。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_HCC_Q0004",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜庚 肝腫瘤／肝癌｜治療分層" },
+    "stem": "HCC 的治療選擇最核心的分層概念通常同時考慮哪些面向？",
+    "options": [
+      { "key": "A", "text": "只看 AFP 數值" },
+      { "key": "B", "text": "腫瘤負荷（大小/數量/血管侵犯）+ 肝功能（如 Child-Pugh）+ 病人表現狀態" },
+      { "key": "C", "text": "只看年齡" },
+      { "key": "D", "text": "只看是否黃疸" }
+    ],
+    "answer": "B",
+    "explanation": "HCC 治療決策需要同時評估腫瘤分期與肝儲備功能；同一腫瘤大小在不同肝功能下治療完全不同。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_HCC_Q0005",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜庚 肝腫瘤／肝癌｜AFP" },
+    "stem": "關於 AFP（alpha-fetoprotein）在 HCC 的應用，下列何者最正確？",
+    "options": [
+      { "key": "A", "text": "AFP 正常即可排除 HCC" },
+      { "key": "B", "text": "AFP 升高一定代表 HCC" },
+      { "key": "C", "text": "AFP 可作輔助，但不能取代影像與臨床分層" },
+      { "key": "D", "text": "AFP 只能用來診斷，不能追蹤" }
+    ],
+    "answer": "C",
+    "explanation": "AFP 敏感度與特異度都有限，可作輔助與追蹤參考，但不能單獨用來排除或確診。"
+  },
+
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_BILIARY_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜加碼｜急性膽管炎概念" },
+    "stem": "急性膽管炎最經典的臨床三聯徵（Charcot triad）為何？",
+    "options": [
+      { "key": "A", "text": "腹痛、腹瀉、嘔吐" },
+      { "key": "B", "text": "發燒、右上腹痛、黃疸" },
+      { "key": "C", "text": "胸痛、呼吸困難、咳血" },
+      { "key": "D", "text": "頭痛、頸僵、畏光" }
+    ],
+    "answer": "B",
+    "explanation": "Charcot triad：發燒（感染）+ 右上腹痛（膽道）+ 黃疸（阻塞）。嚴重者可進一步出現意識改變與低血壓（Reynolds pentad）。"
   }
-
-
-
-
 
 
 
