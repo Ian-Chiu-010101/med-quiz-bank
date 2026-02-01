@@ -3458,6 +3458,242 @@
     ],
     "answer": "A",
     "explanation": "肺尖腫瘤侵犯臂叢與交感神經鏈，造成肩臂痛與 Horner syndrome。"
+  },
+
+
+  {
+    "id": "MED3_V1_DER_ACS_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜急性冠心症｜初始處置" },
+    "stem": "58 歲男性胸痛 40 分鐘，出汗、噁心，心電圖顯示下壁 ST elevation。血壓 86/54，頸靜脈怒張，肺音清。此時最不應該立即給予的藥物是？",
+    "options": [
+      { "key": "A", "text": "Aspirin" },
+      { "key": "B", "text": "Heparin（或其他抗凝）" },
+      { "key": "C", "text": "Nitroglycerin" },
+      { "key": "D", "text": "儘速安排緊急 PCI（同時給予 P2Y12 抑制劑）" }
+    ],
+    "answer": "C",
+    "explanation": "下壁 STEMI 合併低血壓、頸靜脈怒張、肺音清要高度懷疑右心室梗塞（RVI）。RVI 依賴前負荷，硝酸甘油會降低前負荷導致休克惡化，應避免；優先補液、維持灌流並緊急再灌流。Aspirin/抗凝與緊急 PCI 仍為核心處置。"
+  },
+  {
+    "id": "MED3_V1_DER_ACS_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜急性冠心症｜鑑別" },
+    "stem": "45 歲男性突發撕裂樣胸背痛，血壓右手 180/90、左手 140/80，胸部 X 光縱膈增寬。最應優先安排的檢查是？",
+    "options": [
+      { "key": "A", "text": "運動心電圖" },
+      { "key": "B", "text": "冠狀動脈 CT" },
+      { "key": "C", "text": "胸部 CTA（含主動脈）" },
+      { "key": "D", "text": "心肌灌注掃描" }
+    ],
+    "answer": "C",
+    "explanation": "臨床高度懷疑主動脈剝離（撕裂痛、雙側血壓差、縱膈增寬）。首選影像為胸部 CTA（主動脈 CTA），用以確認診斷與分型並決定外科/內科處置。"
+  },
+  {
+    "id": "MED3_V1_DER_ACS_Q0003",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜胸痛｜致命鑑別" },
+    "stem": "胸痛病人到急診，若要快速排除最致命的胸痛原因，以下哪一組「優先鑑別」最恰當？",
+    "options": [
+      { "key": "A", "text": "GERD、肋軟骨炎、焦慮" },
+      { "key": "B", "text": "急性冠心症、主動脈剝離、肺栓塞、張力性氣胸" },
+      { "key": "C", "text": "肺炎、氣喘、支氣管炎" },
+      { "key": "D", "text": "膽結石、胰臟炎、胃潰瘍" }
+    ],
+    "answer": "B",
+    "explanation": "急診胸痛要先排除立即致命疾病（ACS、主動脈剝離、肺栓塞、張力性氣胸等），再考慮常見良性原因。"
+  },
+
+  {
+    "id": "MED3_V1_DER_HF_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜心衰竭｜急性肺水腫" },
+    "stem": "72 歲女性急性呼吸困難、粉紅泡沫痰、雙肺濕囉音，血壓 190/110。最符合的初始治療組合為何？",
+    "options": [
+      { "key": "A", "text": "大量輸液 + 升壓劑" },
+      { "key": "B", "text": "利尿劑 + 血管擴張（如 nitrate）+ 正壓通氣（NIPPV）" },
+      { "key": "C", "text": "只給抗生素" },
+      { "key": "D", "text": "立即使用高劑量 β 阻斷劑" }
+    ],
+    "answer": "B",
+    "explanation": "高血壓型急性心衰竭/肺水腫重點是降低前後負荷與改善氧合：NIPPV（CPAP/BiPAP）＋血管擴張（nitrate，若無禁忌）＋利尿劑。大量輸液會惡化肺水腫；急性期不會以高劑量 β 阻斷劑作為立即穩定手段。"
+  },
+  {
+    "id": "MED3_V1_DER_HF_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜心衰竭｜HFpEF vs HFrEF" },
+    "stem": "65 歲女性有高血壓與肥胖，運動喘，超音波 LVEF 60%，左心房擴大、E/e' 上升。最符合下列何種心衰竭類型與主要病理？",
+    "options": [
+      { "key": "A", "text": "HFrEF；主要為收縮功能障礙" },
+      { "key": "B", "text": "HFpEF；主要為舒張功能障礙/充盈壓上升" },
+      { "key": "C", "text": "心包填塞；主要為心包積液" },
+      { "key": "D", "text": "肺動脈高壓；主要為右心衰竭" }
+    ],
+    "answer": "B",
+    "explanation": "HFpEF 常見於高血壓、肥胖、老年；LVEF 保留但舒張功能差、左房壓/充盈壓上升（E/e' 上升、左房擴大）。"
+  },
+
+  {
+    "id": "MED3_V1_DER_AF_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜心房顫動｜急診處置" },
+    "stem": "78 歲男性心房顫動（AF）心室率 160，血壓 78/40、意識改變、肺水腫。最適當的下一步是？",
+    "options": [
+      { "key": "A", "text": "先口服 β 阻斷劑慢慢降速" },
+      { "key": "B", "text": "先給 digoxin 等待數小時起效" },
+      { "key": "C", "text": "立即同步電擊（synchronized cardioversion）" },
+      { "key": "D", "text": "只要抗凝即可，節律/心率可觀察" }
+    ],
+    "answer": "C",
+    "explanation": "AF 合併血流動力學不穩（低血壓、意識改變、缺血、肺水腫）→ 立即同步電擊。藥物控速起效較慢且可能惡化灌流。"
+  },
+  {
+    "id": "MED3_V1_DER_AF_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜心房顫動｜抗凝決策" },
+    "stem": "70 歲女性 AF，病史：高血壓、糖尿病、曾中風。腎功能可。最符合抗凝建議的是？",
+    "options": [
+      { "key": "A", "text": "CHADS2/CHA2DS2-VASc 分數低，不需抗凝" },
+      { "key": "B", "text": "建議長期口服抗凝（如 DOAC 或 warfarin，依狀況選擇）" },
+      { "key": "C", "text": "只需 aspirin" },
+      { "key": "D", "text": "只有做過電燒才需要抗凝" }
+    ],
+    "answer": "B",
+    "explanation": "年齡 65–74（1 分）、高血壓（1）、糖尿病（1）、中風/TIA（2）→ CHA2DS2-VASc 高分，明確需要口服抗凝以降低中風風險。"
+  },
+
+  {
+    "id": "MED3_V1_DER_AVBLOCK_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜心律不整｜緩脈處置" },
+    "stem": "55 歲男性暈厥，心電圖顯示完全房室阻斷（third-degree AV block），血壓 82/50。下一步最適當處置？",
+    "options": [
+      { "key": "A", "text": "觀察即可" },
+      { "key": "B", "text": "靜脈 adenosine" },
+      { "key": "C", "text": "經皮或經靜脈暫時性心臟節律器（temporary pacing）" },
+      { "key": "D", "text": "立即給予高劑量 β 阻斷劑" }
+    ],
+    "answer": "C",
+    "explanation": "不穩定的高度傳導阻滯（低血壓/暈厥）→ 優先暫時性 pacing；adenosine 用於某些上心室性心搏過速，會惡化 AV block。"
+  },
+
+  {
+    "id": "MED3_V1_DER_VALVE_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜瓣膜｜主動脈瓣狹窄" },
+    "stem": "76 歲男性運動時胸痛與暈厥，聽診右上胸骨緣粗糙收縮期雜音放射到頸動脈。最符合的診斷與下一步檢查？",
+    "options": [
+      { "key": "A", "text": "二尖瓣狹窄；做心導管壓力測量為首選" },
+      { "key": "B", "text": "主動脈瓣狹窄；心臟超音波評估瓣口面積與壓力梯度" },
+      { "key": "C", "text": "肺動脈瓣狹窄；先做支氣管鏡" },
+      { "key": "D", "text": "主動脈瓣逆流；先做運動心電圖" }
+    ],
+    "answer": "B",
+    "explanation": "AS 典型三聯：胸痛、暈厥、心衰；雜音放射頸動脈。首選檢查為心臟超音波評估嚴重度（AVA、mean gradient、Vmax）。"
+  },
+
+  {
+    "id": "MED3_V1_DER_PE_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜肺栓塞｜診斷策略" },
+    "stem": "36 歲女性口服避孕藥，突發呼吸困難與胸痛，生命徵象穩定。臨床評估為低到中度懷疑肺栓塞。最適當的下一步檢查策略？",
+    "options": [
+      { "key": "A", "text": "直接做肺動脈 CTA，不需任何前測" },
+      { "key": "B", "text": "先做 D-dimer，若陽性再做肺動脈 CTA" },
+      { "key": "C", "text": "先做胸部 X 光即可排除" },
+      { "key": "D", "text": "先做支氣管鏡" }
+    ],
+    "answer": "B",
+    "explanation": "低/中度臨床懷疑 PE 時，常用 D-dimer 作為排除工具；若陰性可排除，陽性再進一步影像（CTPA）。高懷疑或不穩定則可直接影像/治療。"
+  },
+  {
+    "id": "MED3_V1_DER_PE_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜肺栓塞｜高風險處置" },
+    "stem": "肺栓塞病人出現持續性低血壓與休克表現，最符合的處置方向為何？",
+    "options": [
+      { "key": "A", "text": "只要口服止痛藥觀察" },
+      { "key": "B", "text": "抗凝即可，溶栓永遠禁忌" },
+      { "key": "C", "text": "屬高風險 PE，考慮系統性溶栓或介入取栓（依禁忌與資源）" },
+      { "key": "D", "text": "先做肺功能檢查再決定" }
+    ],
+    "answer": "C",
+    "explanation": "高風險（massive）PE 合併血流動力學不穩，除了抗凝外需考慮溶栓或介入/外科治療以快速降低阻塞與右心負荷（需評估出血禁忌）。"
+  },
+
+  {
+    "id": "MED3_V1_DER_ASTHMA_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜氣喘急性發作｜重症判斷" },
+    "stem": "急性氣喘發作治療後，若出現下列何者最提示「呼吸衰竭風險上升」而非改善？",
+    "options": [
+      { "key": "A", "text": "喘鳴變明顯" },
+      { "key": "B", "text": "呼吸音變得非常安靜（silent chest）" },
+      { "key": "C", "text": "心跳略快" },
+      { "key": "D", "text": "病人可完整說句子" }
+    ],
+    "answer": "B",
+    "explanation": "重度氣喘氣流極差時反而可能聽不到喘鳴（silent chest），是危險徵象，可能即將呼吸衰竭，需要更積極治療與可能插管。"
+  },
+
+  {
+    "id": "MED3_V1_DER_COPD_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜COPD 急性惡化｜氧療陷阱" },
+    "stem": "COPD 急性惡化病人給氧後出現嗜睡，ABG 顯示 PaCO2 上升。下列何者最恰當的氧療原則？",
+    "options": [
+      { "key": "A", "text": "給到 SpO2 100% 才安全" },
+      { "key": "B", "text": "目標 SpO2 約 88–92%，避免過度給氧" },
+      { "key": "C", "text": "完全不給氧" },
+      { "key": "D", "text": "只要 PaO2 正常就停氧，不需看臨床" }
+    ],
+    "answer": "B",
+    "explanation": "COPD 可能因 V/Q 失衡與 Haldane effect 等機轉，過度氧療可使 CO2 滯留惡化。常用目標 SpO2 88–92%（依個案調整），並密切監測 ABG。"
+  },
+
+  {
+    "id": "MED3_V1_DER_PLEURAL_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜胸水｜Light’s criteria" },
+    "stem": "下列哪一項最能支持胸水為滲出液（exudate）而非漏出液（transudate）？",
+    "options": [
+      { "key": "A", "text": "胸水蛋白/血清蛋白比值 > 0.5" },
+      { "key": "B", "text": "胸水外觀清澈" },
+      { "key": "C", "text": "病人有心衰竭" },
+      { "key": "D", "text": "胸水量很少" }
+    ],
+    "answer": "A",
+    "explanation": "Light’s criteria 用於判定滲出液；其中胸水蛋白/血清蛋白比值 >0.5 支持 exudate。心衰竭典型為 transudate（但利尿後可能「假性滲出」需用血清-胸水白蛋白梯度等再判讀）。"
+  },
+
+  {
+    "id": "MED3_V1_DER_PTX_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜氣胸｜張力性氣胸" },
+    "stem": "創傷後病人突發缺氧與低血壓，氣管偏移，患側呼吸音消失。最恰當的處置是？",
+    "options": [
+      { "key": "A", "text": "先照胸部 X 光確認再處理" },
+      { "key": "B", "text": "立即針刺減壓（needle decompression），再放胸管" },
+      { "key": "C", "text": "只給氧觀察" },
+      { "key": "D", "text": "先給利尿劑" }
+    ],
+    "answer": "B",
+    "explanation": "張力性氣胸是臨床診斷、立即致命，處置優先於影像確認：先針刺減壓解除張力，再放置胸管。"
   }
 
 
