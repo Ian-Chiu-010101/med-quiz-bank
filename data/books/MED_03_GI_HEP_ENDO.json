@@ -3416,6 +3416,98 @@
     ],
     "answer": "D",
     "explanation": "消化性潰瘍常見併發症包含出血、穿孔與阻塞，皆屬臨床急症或重要處置指標。"
+  },
+
+
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_UGIB_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜庚 上消化道出血" },
+    "stem": "下列何者最常見造成上消化道出血（upper GI bleeding）的原因？",
+    "options": [
+      { "key": "A", "text": "消化性潰瘍" },
+      { "key": "B", "text": "結腸憩室出血" },
+      { "key": "C", "text": "缺血性腸炎" },
+      { "key": "D", "text": "痔瘡" }
+    ],
+    "answer": "A",
+    "explanation": "消化性潰瘍是最常見的上消化道出血原因；其餘選項多屬下消化道出血來源。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_UGIB_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜庚 上消化道出血" },
+    "stem": "病人出現黑便（melena），其最可能代表的出血位置為何？",
+    "options": [
+      { "key": "A", "text": "食道或胃" },
+      { "key": "B", "text": "乙狀結腸" },
+      { "key": "C", "text": "直腸" },
+      { "key": "D", "text": "肛門" }
+    ],
+    "answer": "A",
+    "explanation": "黑便表示血液在腸道內被消化，最常見於上消化道出血（食道、胃或十二指腸）。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_UGIB_Q0003",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜庚 上消化道出血" },
+    "stem": "關於上消化道出血的初步處置，下列何者最優先？",
+    "options": [
+      { "key": "A", "text": "立即安排胃鏡檢查" },
+      { "key": "B", "text": "評估並穩定生命徵象（ABC）" },
+      { "key": "C", "text": "先口服止血藥物" },
+      { "key": "D", "text": "先做糞便潛血反應" }
+    ],
+    "answer": "B",
+    "explanation": "急性出血時首要任務為維持呼吸道、呼吸與循環穩定（ABC），再進行診斷與止血處置。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_UGIB_Q0004",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜庚 上消化道出血" },
+    "stem": "下列何者為食道靜脈曲張出血最重要的危險因子？",
+    "options": [
+      { "key": "A", "text": "長期 NSAID 使用" },
+      { "key": "B", "text": "肝硬化造成門脈高壓" },
+      { "key": "C", "text": "幽門螺旋桿菌感染" },
+      { "key": "D", "text": "胃食道逆流疾病" }
+    ],
+    "answer": "B",
+    "explanation": "食道靜脈曲張源於門脈高壓，最常見於肝硬化病人，是致命性上消化道出血的重要原因。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_UGIB_Q0005",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜庚 上消化道出血" },
+    "stem": "懷疑食道靜脈曲張出血時，下列何種藥物治療可於內視鏡前先行給予？",
+    "options": [
+      { "key": "A", "text": "Proton pump inhibitor" },
+      { "key": "B", "text": "Octreotide 或其他血管收縮藥物" },
+      { "key": "C", "text": "促腸胃蠕動藥" },
+      { "key": "D", "text": "口服止吐藥" }
+    ],
+    "answer": "B",
+    "explanation": "懷疑靜脈曲張出血時，應及早給予血管收縮藥物（如 octreotide）以降低門脈壓力並減少出血。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_UGIB_Q0006",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜庚 上消化道出血" },
+    "stem": "關於上消化道出血接受胃鏡檢查的時機，下列敘述何者最恰當？",
+    "options": [
+      { "key": "A", "text": "所有病人都必須立刻做，不需先穩定" },
+      { "key": "B", "text": "穩定後儘早進行胃鏡評估與治療" },
+      { "key": "C", "text": "僅在出血停止後才可進行" },
+      { "key": "D", "text": "只有黑便病人才需要" }
+    ],
+    "answer": "B",
+    "explanation": "在生命徵象穩定後，應儘早進行胃鏡以確定出血來源並進行內視鏡止血。"
   }
 
 
