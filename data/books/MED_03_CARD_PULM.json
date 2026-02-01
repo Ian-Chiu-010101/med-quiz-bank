@@ -5259,7 +5259,609 @@
     ],
     "answer": "A",
     "explanation": "Kerley B lines 與中央分布浸潤常提示間質性水腫/肺水腫，需結合臨床（JVD、S3、BNP、心超）判斷心因性可能。"
+  },
+
+
+  {
+    "id": "MED3_V1_DER_HTN_Q0086",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜甲 高血壓｜急症 vs 緊急" },
+    "stem": "病人血壓 210/120，但無胸痛、無神經學症狀、無腎衰惡化、無肺水腫。最符合的分類與處置概念為？",
+    "options": [
+      { "key": "A", "text": "高血壓急症：需立刻靜脈降壓到正常" },
+      { "key": "B", "text": "高血壓緊急（urgency）：可口服藥逐步降壓並密切追蹤" },
+      { "key": "C", "text": "必為主動脈剝離：需立刻手術" },
+      { "key": "D", "text": "不需要任何處置" }
+    ],
+    "answer": "B",
+    "explanation": "無目標器官急性傷害者較符合 hypertensive urgency，重點是口服藥調整與近端追蹤；急症（emergency）才需要靜脈降壓與器官支持。"
+  },
+  {
+    "id": "MED3_V1_DER_HTN_Q0087",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜甲 高血壓｜降壓速度陷阱" },
+    "stem": "高血壓急症處置時，下列哪一項降壓原則較合理？",
+    "options": [
+      { "key": "A", "text": "越快越好，立刻降到 120/80" },
+      { "key": "B", "text": "避免過快降壓造成灌流不足，採漸進式且依目標器官狀況調整" },
+      { "key": "C", "text": "只要給利尿劑即可" },
+      { "key": "D", "text": "不需監測血壓趨勢" }
+    ],
+    "answer": "B",
+    "explanation": "高血壓急症需靜脈降壓，但過快降壓可能造成腦/腎/心灌流不足；降壓速度與目標依器官受損類型個案化。"
+  },
+  {
+    "id": "MED3_V1_DER_AAD_Q0088",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜甲 大動脈疾病｜Stanford 分型" },
+    "stem": "下列何者最符合 Stanford A 主動脈剝離的定義與一般處置方向？",
+    "options": [
+      { "key": "A", "text": "僅侵犯降主動脈；多以藥物為主" },
+      { "key": "B", "text": "侵犯升主動脈；通常需緊急外科評估（合併嚴格降剪力）" },
+      { "key": "C", "text": "只要沒有胸痛就不是剝離" },
+      { "key": "D", "text": "一律先溶栓" }
+    ],
+    "answer": "B",
+    "explanation": "Stanford A（升主動脈受累）死亡風險高，通常需緊急外科處置；同時以 β 阻斷等方式降心跳/降剪力並控制血壓。"
+  },
+  {
+    "id": "MED3_V1_DER_AAD_Q0089",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜甲 大動脈疾病｜影像選擇" },
+    "stem": "高度懷疑主動脈剝離且血流動力學穩定。下列哪一項影像最常作為快速評估選擇之一？",
+    "options": [
+      { "key": "A", "text": "胸主動脈 CTA" },
+      { "key": "B", "text": "運動心電圖" },
+      { "key": "C", "text": "胃鏡" },
+      { "key": "D", "text": "骨掃描" }
+    ],
+    "answer": "A",
+    "explanation": "穩定病人常以 CTA 作為快速且高敏感度的評估工具；不穩定者則依可及性考量床邊 TEE 等替代策略。"
+  },
+
+  {
+    "id": "MED3_V1_DER_PLEURAL_Q0090",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜癸 肋膜｜Light's criteria 概念" },
+    "stem": "胸水分析用於區分滲出液/漏出液。下列何者較符合「滲出液」的概念？",
+    "options": [
+      { "key": "A", "text": "主要機轉為靜水壓上升（如心衰）" },
+      { "key": "B", "text": "主要機轉為發炎/通透性增加（如肺炎、惡性、結核）" },
+      { "key": "C", "text": "永遠不需要抽胸水" },
+      { "key": "D", "text": "只看胸水顏色即可確診" }
+    ],
+    "answer": "B",
+    "explanation": "滲出液反映發炎/腫瘤等造成的通透性增加或淋巴回流受阻；漏出液多為靜水壓/膠體滲透壓改變。"
+  },
+  {
+    "id": "MED3_V1_DER_PLEURAL_Q0091",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜癸 肋膜｜乳糜胸" },
+    "stem": "胸水外觀乳白，TG 高，最符合哪一種胸水類型？",
+    "options": [
+      { "key": "A", "text": "乳糜胸（chylothorax）" },
+      { "key": "B", "text": "單純漏出液胸水" },
+      { "key": "C", "text": "氣胸" },
+      { "key": "D", "text": "血胸" }
+    ],
+    "answer": "A",
+    "explanation": "乳糜胸常呈乳白色，胸水 TG 升高（並可見 chylomicrons），病因可為外傷、腫瘤（如淋巴瘤）或胸導管受損/阻塞。"
+  },
+  {
+    "id": "MED3_V1_DER_PLEURAL_Q0092",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜癸 肋膜｜pneumothorax 影像" },
+    "stem": "胸部 X 光看到一條清晰的 visceral pleural line，外側無肺紋理。最可能診斷？",
+    "options": [
+      { "key": "A", "text": "肺炎" },
+      { "key": "B", "text": "氣胸" },
+      { "key": "C", "text": "肺水腫" },
+      { "key": "D", "text": "肋膜積液" }
+    ],
+    "answer": "B",
+    "explanation": "visceral pleural line 外側缺乏肺血管紋理是典型氣胸影像線索；若合併縱膈偏移與血流不穩需考慮張力性氣胸。"
+  },
+  {
+    "id": "MED3_V1_DER_PLEURAL_Q0093",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜癸 肋膜｜胸水抽吸併發症" },
+    "stem": "胸腔穿刺抽胸水後，病人突然胸痛與呼吸困難，X 光顯示新發氣胸。最合理的解釋為？",
+    "options": [
+      { "key": "A", "text": "抽胸水與氣胸無關" },
+      { "key": "B", "text": "胸腔穿刺可能造成 iatrogenic pneumothorax" },
+      { "key": "C", "text": "一定是肺栓塞" },
+      { "key": "D", "text": "一定是心肌梗塞" }
+    ],
+    "answer": "B",
+    "explanation": "胸腔穿刺常見併發症之一是醫源性氣胸；需依症狀與氣胸大小決定觀察、給氧或胸管處置。"
+  },
+
+  {
+    "id": "MED3_V1_DER_SEPSIS_Q0094",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜辛 敗血症｜定義與休克" },
+    "stem": "敗血性休克（septic shock）概念上最符合下列哪一項描述？",
+    "options": [
+      { "key": "A", "text": "所有感染都算 septic shock" },
+      { "key": "B", "text": "感染相關循環/代謝異常，需升壓藥維持灌流壓，且常伴乳酸升高（在充分輸液後仍低血壓）" },
+      { "key": "C", "text": "只要 WBC 上升就是 septic shock" },
+      { "key": "D", "text": "一定會出現胸痛" }
+    ],
+    "answer": "B",
+    "explanation": "septic shock 是 sepsis 中較嚴重的循環與代謝異常狀態：在充分輸液後仍低血壓需 vasopressor，且常見乳酸升高，死亡率高。"
+  },
+  {
+    "id": "MED3_V1_DER_SEPSIS_Q0095",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜辛 敗血症｜初期處置 bundle" },
+    "stem": "疑似敗血症合併低血壓與乳酸升高。下列何者最符合初期處置概念？",
+    "options": [
+      { "key": "A", "text": "等培養結果出來再給抗生素" },
+      { "key": "B", "text": "早期給予廣效抗生素、抽血培養、快速輸液復甦並評估升壓藥需求" },
+      { "key": "C", "text": "只要退燒藥即可" },
+      { "key": "D", "text": "避免輸液以免肺水腫" }
+    ],
+    "answer": "B",
+    "explanation": "敗血症治療強調時間敏感：早期抗生素（並先採血培養不延誤）、輸液復甦與必要時升壓藥，並同步尋找感染源控制。"
+  },
+  {
+    "id": "MED3_V1_DER_SEPSIS_Q0096",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜辛 敗血症｜升壓藥選擇" },
+    "stem": "敗血性休克在充分輸液後仍低血壓，需開始升壓藥。下列何者最符合一般第一線選擇概念？",
+    "options": [
+      { "key": "A", "text": "norepinephrine" },
+      { "key": "B", "text": "digoxin" },
+      { "key": "C", "text": "nitroglycerin" },
+      { "key": "D", "text": "furosemide" }
+    ],
+    "answer": "A",
+    "explanation": "敗血性休克常以 norepinephrine 作為第一線升壓藥以維持灌流壓；其餘藥物不屬第一線升壓用途。"
+  },
+  {
+    "id": "MED3_V1_DER_ARDS_Q0097",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜辛 ARDS｜定義核心" },
+    "stem": "ARDS 的核心概念最符合下列哪一項？",
+    "options": [
+      { "key": "A", "text": "心因性肺水腫造成的氧合障礙" },
+      { "key": "B", "text": "急性、瀰漫性肺泡損傷造成非心因性肺水腫與嚴重氧合障礙" },
+      { "key": "C", "text": "慢性肺纖維化造成的呼吸衰竭" },
+      { "key": "D", "text": "單純氣胸" }
+    ],
+    "answer": "B",
+    "explanation": "ARDS 是急性瀰漫性肺泡/微血管損傷造成的非心因性肺水腫與氧合障礙；診斷需整合急性起病、影像雙側浸潤、非心因性主因與氧合指標等概念。"
+  },
+  {
+    "id": "MED3_V1_DER_ARDS_Q0098",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜辛 ARDS｜俯臥" },
+    "stem": "中重度 ARDS 氧合仍差且已採肺保護通氣。下列哪一介入最可能改善氧合並具重要臨床角色（依情境選用）？",
+    "options": [
+      { "key": "A", "text": "俯臥位（prone positioning）" },
+      { "key": "B", "text": "一律停用 PEEP" },
+      { "key": "C", "text": "一律給溶栓" },
+      { "key": "D", "text": "一律大幅提高潮氣量" }
+    ],
+    "answer": "A",
+    "explanation": "俯臥位可改善背側肺泡通氣/灌流匹配與招募，常用於中重度 ARDS 的氧合改善策略之一（須配合監測與禁忌評估）。"
+  },
+  {
+    "id": "MED3_V1_DER_ARDS_Q0099",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜辛 ARDS｜心因性鑑別" },
+    "stem": "下列哪一組資訊較支持 ARDS 而非心因性肺水腫？",
+    "options": [
+      { "key": "A", "text": "BNP 高、S3、頸靜脈怒張、利尿後快速改善" },
+      { "key": "B", "text": "明顯容量超負荷與擴大的心影" },
+      { "key": "C", "text": "嚴重低氧、P/F ratio 顯著下降且缺乏左心衰證據" },
+      { "key": "D", "text": "既往嚴重瓣膜病史且近期鹽水輸注過量" }
+    ],
+    "answer": "C",
+    "explanation": "ARDS 的關鍵是非心因性、通透性肺水腫造成氧合障礙；缺乏左心衰/容量超負荷證據時更支持 ARDS。"
+  },
+
+  {
+    "id": "MED3_V1_DER_SEPSIS_Q0100",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜辛 敗血症｜感染源控制" },
+    "stem": "敗血症治療中「感染源控制」的意義最符合下列何者？",
+    "options": [
+      { "key": "A", "text": "只要抗生素就夠了，不必處理感染源" },
+      { "key": "B", "text": "移除或處理感染來源（如引流膿瘍、移除感染導管）是降低死亡風險的重要環節" },
+      { "key": "C", "text": "只要退燒就算控制感染" },
+      { "key": "D", "text": "感染源控制只在病毒感染需要" }
+    ],
+    "answer": "B",
+    "explanation": "敗血症除了早期抗生素與復甦，感染源控制（drainage、手術、移除感染裝置等）常是決定性步驟，延誤會增加不良預後。"
+  },
+
+  
+  {
+    "id": "MED3_V1_DER_HTN_Q0101",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜甲 高血壓｜妊娠用藥" },
+    "stem": "懷孕婦女需控制血壓。下列何者最不建議（或應避免）作為妊娠期間降壓藥？",
+    "options": [
+      { "key": "A", "text": "ACEi/ARB" },
+      { "key": "B", "text": "labetalol" },
+      { "key": "C", "text": "nifedipine" },
+      { "key": "D", "text": "methyldopa" }
+    ],
+    "answer": "A",
+    "explanation": "ACEi/ARB 於妊娠（尤其第二、三孕期）與胎兒腎發育/羊水過少等風險相關，一般應避免；其餘多為常見可用選項（仍需個案化）。"
+  },
+  {
+    "id": "MED3_V1_DER_HTN_Q0102",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜甲 高血壓｜二級性高血壓" },
+    "stem": "年輕病人高血壓合併低血鉀與代謝性鹼中毒。最應優先懷疑哪一類二級性高血壓？",
+    "options": [
+      { "key": "A", "text": "原發性醛固酮增多症（primary aldosteronism）" },
+      { "key": "B", "text": "甲狀腺低下" },
+      { "key": "C", "text": "肺炎" },
+      { "key": "D", "text": "氣胸" }
+    ],
+    "answer": "A",
+    "explanation": "高血壓合併低血鉀與代謝性鹼中毒典型提示醛固酮過多；臨床需進一步檢驗（如 aldosterone/renin 比值）與定位評估。"
+  },
+  {
+    "id": "MED3_V1_DER_HTN_Q0103",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜甲 高血壓｜腎血管性" },
+    "stem": "高血壓病人使用 ACEi 後腎功能急遽惡化，且腹部可聽到雜音。最應懷疑？",
+    "options": [
+      { "key": "A", "text": "腎動脈狹窄（renovascular HTN）" },
+      { "key": "B", "text": "主動脈瓣狹窄" },
+      { "key": "C", "text": "單純焦慮" },
+      { "key": "D", "text": "肺結核" }
+    ],
+    "answer": "A",
+    "explanation": "ACEi 可能降低腎絲球過濾壓；若有雙側腎動脈狹窄（或單腎狹窄）可能造成腎功能惡化，合併腹部血管雜音更支持腎血管性高血壓。"
+  },
+  {
+    "id": "MED3_V1_DER_AAD_Q0104",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜甲 大動脈疾病｜降剪力" },
+    "stem": "主動脈剝離急性期控制血壓時，下列哪一項最符合「優先降低剪力（shear stress）」的概念？",
+    "options": [
+      { "key": "A", "text": "先用純血管擴張藥把血壓拉下來，心跳不用管" },
+      { "key": "B", "text": "優先控制心跳/收縮力（如 β 阻斷），再視需要加血管擴張藥降壓" },
+      { "key": "C", "text": "只用利尿劑" },
+      { "key": "D", "text": "只要給 aspirin" }
+    ],
+    "answer": "B",
+    "explanation": "剝離最怕 dP/dt；因此先用 β 阻斷降低心跳與收縮力，必要時再加血管擴張藥降壓，避免單用擴張藥造成反射性心搏過速而加重剪力。"
+  },
+  {
+    "id": "MED3_V1_DER_AAD_Q0105",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜甲 大動脈疾病｜臨床線索" },
+    "stem": "下列何者最支持主動脈剝離而非 ACS？",
+    "options": [
+      { "key": "A", "text": "胸痛放射到背部且出現左右上肢血壓差或脈搏不對稱" },
+      { "key": "B", "text": "運動後胸痛緩解" },
+      { "key": "C", "text": "胸痛可被按壓誘發" },
+      { "key": "D", "text": "噁心想吐" }
+    ],
+    "answer": "A",
+    "explanation": "撕裂樣胸背痛、脈搏缺失/血壓差、神經學缺損等是剝離的重要線索；需立即影像評估並避免不當抗凝/溶栓。"
+  },
+
+  {
+    "id": "MED3_V1_DER_PLEURAL_Q0106",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜癸 肋膜｜胸水何時要抽" },
+    "stem": "病人新出現不明原因單側胸水。下列何者最符合是否需要診斷性胸腔穿刺的概念？",
+    "options": [
+      { "key": "A", "text": "所有胸水都不需抽" },
+      { "key": "B", "text": "不明原因、單側或不典型胸水通常需要診斷性抽吸以釐清病因" },
+      { "key": "C", "text": "只要是心衰病人就永遠不能抽" },
+      { "key": "D", "text": "只看顏色就能決定病因，不需檢驗" }
+    ],
+    "answer": "B",
+    "explanation": "新發不明原因胸水（尤其單側、發燒、胸痛或影像不典型）多需要診斷性胸穿；若典型心衰雙側胸水且對利尿反應佳，可視情況不一定需抽。"
+  },
+  {
+    "id": "MED3_V1_DER_PLEURAL_Q0107",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜癸 肋膜｜血性胸水鑑別" },
+    "stem": "胸水呈血性（bloody pleural effusion），下列哪一項屬於典型重要鑑別之一？",
+    "options": [
+      { "key": "A", "text": "惡性腫瘤或肺栓塞/梗塞（亦可見外傷）" },
+      { "key": "B", "text": "單純過敏性鼻炎" },
+      { "key": "C", "text": "痛風" },
+      { "key": "D", "text": "單純偏頭痛" }
+    ],
+    "answer": "A",
+    "explanation": "血性胸水需考慮惡性、肺栓塞/肺梗塞、外傷、結核等；需整合病史、影像與胸水檢驗（含 Hct、cytology 等）。"
+  },
+  {
+    "id": "MED3_V1_DER_PLEURAL_Q0108",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜癸 肋膜｜pH 指標" },
+    "stem": "副肺炎性胸水若胸水 pH 顯著偏低，臨床意義最可能是？",
+    "options": [
+      { "key": "A", "text": "通常代表單純漏出液，可不治療" },
+      { "key": "B", "text": "提示複雜性胸水/膿胸風險較高，常需要引流介入" },
+      { "key": "C", "text": "代表抽錯了，必須忽略" },
+      { "key": "D", "text": "只要改成口服抗生素就會好" }
+    ],
+    "answer": "B",
+    "explanation": "副肺炎性胸水的低 pH（與低糖、高 LDH、分隔）提示複雜性胸水/膿胸，僅抗生素常不足，需要胸管引流或進一步介入。"
+  },
+
+  {
+    "id": "MED3_V1_DER_SEPSIS_Q0109",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜辛 敗血症｜乳酸解讀" },
+    "stem": "敗血症病人乳酸升高最恰當的解讀是？",
+    "options": [
+      { "key": "A", "text": "乳酸只代表肝病，與灌流無關" },
+      { "key": "B", "text": "可反映組織灌流不足/代謝壓力，需配合復甦與趨勢追蹤" },
+      { "key": "C", "text": "只要乳酸高就一定是心肌梗塞" },
+      { "key": "D", "text": "乳酸無臨床用途" }
+    ],
+    "answer": "B",
+    "explanation": "敗血症乳酸升高常與灌流不足、微循環障礙與代謝壓力相關；臨床常用於風險分層與復甦反應追蹤（看趨勢）。"
+  },
+  {
+    "id": "MED3_V1_DER_SEPSIS_Q0110",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜辛 敗血症｜輸液與再評估" },
+    "stem": "敗血症初期輸液後，下列何者最符合「動態再評估」概念？",
+    "options": [
+      { "key": "A", "text": "輸液一次給完就不需再評估" },
+      { "key": "B", "text": "根據血壓、尿量、乳酸趨勢、床邊超音波/被動抬腿測試等再決定是否續輸或改升壓藥" },
+      { "key": "C", "text": "只看體重" },
+      { "key": "D", "text": "只看胸部 X 光" }
+    ],
+    "answer": "B",
+    "explanation": "敗血症復甦強調動態評估液體反應性與灌流指標（BP、UO、乳酸、皮膚灌流、超音波、PLR 等），避免輸液不足或過量。"
+  },
+  {
+    "id": "MED3_V1_DER_ARDS_Q0111",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜辛 ARDS｜Permissive hypercapnia" },
+    "stem": "ARDS 採低潮氣量通氣後 PaCO2 上升但 pH 尚可接受。最符合的概念為？",
+    "options": [
+      { "key": "A", "text": "低潮氣量一定錯，必須立刻改回高潮氣量" },
+      { "key": "B", "text": "允許一定程度的高碳酸血症以減少肺傷（permissive hypercapnia），但需注意禁忌與 pH" },
+      { "key": "C", "text": "PaCO2 上升代表肺炎惡化，與通氣策略無關" },
+      { "key": "D", "text": "一律給溶栓" }
+    ],
+    "answer": "B",
+    "explanation": "肺保護通氣可能導致 PaCO2 上升；在可接受的 pH 範圍可容許 permissive hypercapnia，以降低 VILI。需留意顱壓升高、嚴重酸中毒等禁忌情境。"
+  },
+
+  {
+    "id": "MED3_V1_DER_THX_BASIC_Q0112",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜甲 胸腔基本｜COPD 過度充氣" },
+    "stem": "COPD 病人 CXR 常見過度充氣的影像線索，下列何者最典型？",
+    "options": [
+      { "key": "A", "text": "橫膈上抬、肺容積變小" },
+      { "key": "B", "text": "橫膈變平、胸腔前後徑增加、肺野透亮度增加" },
+      { "key": "C", "text": "心影顯著變大且有 Kerley B lines" },
+      { "key": "D", "text": "單側 meniscus sign" }
+    ],
+    "answer": "B",
+    "explanation": "COPD 過度充氣常見橫膈變平、胸腔前後徑增加、肺野透亮度增加；與心因性肺水腫或胸水影像不同。"
+  },
+  {
+    "id": "MED3_V1_DER_THX_BASIC_Q0113",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜甲 胸腔基本｜肺栓塞 CXR" },
+    "stem": "肺栓塞的胸部 X 光常見的現實情況是？",
+    "options": [
+      { "key": "A", "text": "一定會看到典型三角形肺梗塞影" },
+      { "key": "B", "text": "可完全正常或僅非特異性變化，因此不能用正常 CXR 排除 PE" },
+      { "key": "C", "text": "一定有 meniscus sign" },
+      { "key": "D", "text": "一定有大量氣胸" }
+    ],
+    "answer": "B",
+    "explanation": "PE 的 CXR 常正常或非特異性；特徵性徵象（如 Hampton hump、Westermark sign）不常見，臨床仍需依前測機率與檢查策略評估。"
+  },
+
+
+  {
+    "id": "MED3_V1_DER_LIPID_Q0114",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜乙 高血脂｜Lp(a) 與風險" },
+    "stem": "病人 LDL-C 控制尚可，但家族早發 ASCVD，評估到 Lp(a) 偏高。下列何者最符合臨床意義？",
+    "options": [
+      { "key": "A", "text": "Lp(a) 與動脈粥樣硬化無關" },
+      { "key": "B", "text": "Lp(a) 偏高屬於額外風險增強因子，可能需要更積極整體風險控管" },
+      { "key": "C", "text": "只要 HDL 高就可忽略 Lp(a)" },
+      { "key": "D", "text": "Lp(a) 只和感染有關" }
+    ],
+    "answer": "B",
+    "explanation": "Lp(a) 偏高可增加 ASCVD 風險，常被視為 risk-enhancing factor；臨床上會促使更積極控制 LDL 與其他可調整危險因子（治療仍需依可用藥物與個案化）。"
+  },
+  {
+    "id": "MED3_V1_DER_LIPID_Q0115",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜乙 高血脂｜次發性原因" },
+    "stem": "下列哪一項屬於常見可造成高三酸甘油脂（TG）或混合型血脂異常的次發性原因之一？",
+    "options": [
+      { "key": "A", "text": "未控制的糖尿病或大量飲酒" },
+      { "key": "B", "text": "單純近視" },
+      { "key": "C", "text": "扁平足" },
+      { "key": "D", "text": "外耳炎" }
+    ],
+    "answer": "A",
+    "explanation": "血脂異常需評估次發性原因（如糖尿病控制不佳、飲酒、甲狀腺低下、腎病症候群、藥物等），因為處理病因可顯著改善。"
+  },
+
+  {
+    "id": "MED3_V1_DER_CMP_RCM_Q0116",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜庚 心肌症｜RCM vs constrictive pericarditis" },
+    "stem": "限制型心肌病（RCM）與縮窄性心包炎（constrictive pericarditis）臨床表現相似。下列何者是縮窄性心包炎相對更支持的線索？",
+    "options": [
+      { "key": "A", "text": "心包鈣化或厚度增加的影像線索" },
+      { "key": "B", "text": "典型急性 ST elevation 在多導程" },
+      { "key": "C", "text": "明顯低血鉀" },
+      { "key": "D", "text": "單純 LDL 偏高" }
+    ],
+    "answer": "A",
+    "explanation": "縮窄性心包炎可見心包增厚/鈣化，且在呼吸相位的充盈變化更明顯；RCM 多為心肌本身 infiltrative/纖維化。兩者鑑別常需整合心超、CT/MRI 與血流動力學。"
+  },
+  {
+    "id": "MED3_V1_DER_CMP_AMYLOID_Q0117",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜庚 心肌症｜amyloidosis 線索" },
+    "stem": "疑似心臟類澱粉沉積（cardiac amyloidosis）。下列哪一組表現最能支持此診斷方向？",
+    "options": [
+      { "key": "A", "text": "心衰以舒張障礙為主，心超顯示壁厚增加但 ECG 電位偏低" },
+      { "key": "B", "text": "純粹竇性心搏過速" },
+      { "key": "C", "text": "單純高血脂" },
+      { "key": "D", "text": "急性腹痛合併反彈痛" }
+    ],
+    "answer": "A",
+    "explanation": "心臟 amyloidosis 常呈現限制型生理與壁厚增加（看似肥厚），但 ECG 可能低電位；臨床也常合併周邊神經病變、蛋白尿等系統性表現，需進一步檢驗與分型。"
+  },
+
+  {
+    "id": "MED3_V1_DER_VENT_Q0118",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜庚 呼吸器｜Plateau pressure" },
+    "stem": "ARDS 通氣中監測 plateau pressure 的主要目的為何？",
+    "options": [
+      { "key": "A", "text": "估算氣道阻力" },
+      { "key": "B", "text": "反映肺泡/胸壁系統的靜態壓力，避免肺泡過度膨脹造成 VILI" },
+      { "key": "C", "text": "評估腎功能" },
+      { "key": "D", "text": "用來診斷肺栓塞" }
+    ],
+    "answer": "B",
+    "explanation": "plateau pressure（吸氣末暫停）較接近肺泡靜態壓，有助於限制過度膨脹與 VILI 風險；與 peak pressure（含氣道阻力成分）不同。"
+  },
+  {
+    "id": "MED3_V1_DER_VENT_Q0119",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜庚 呼吸器｜Peak vs Plateau" },
+    "stem": "機械通氣病人 peak pressure 上升，但 plateau pressure 幾乎不變。最可能原因是？",
+    "options": [
+      { "key": "A", "text": "氣道阻力增加（如痰栓、支氣管痙攣、管路扭曲）" },
+      { "key": "B", "text": "肺順應性突然大幅下降（如 ARDS 惡化）" },
+      { "key": "C", "text": "胸腔大量胸水一定造成這種型態" },
+      { "key": "D", "text": "自發性氣胸一定不會影響壓力" }
+    ],
+    "answer": "A",
+    "explanation": "peak pressure = 阻力 + 彈性成分；plateau pressure 主要反映彈性/順應性。peak 升高但 plateau 不變 → 阻力問題（痰栓、bronchospasm、管路問題）。"
+  },
+  {
+    "id": "MED3_V1_DER_VENT_Q0120",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜庚 呼吸器｜順應性下降" },
+    "stem": "機械通氣病人 peak pressure 與 plateau pressure 同時上升。最可能代表？",
+    "options": [
+      { "key": "A", "text": "肺/胸壁順應性下降（如 ARDS、肺水腫、張力性氣胸、腹壓上升）" },
+      { "key": "B", "text": "單純痰栓" },
+      { "key": "C", "text": "管路漏氣" },
+      { "key": "D", "text": "純粹焦慮" }
+    ],
+    "answer": "A",
+    "explanation": "peak 與 plateau 同升高提示彈性負荷增加（順應性下降），需鑑別 ARDS/肺水腫、張力性氣胸、腹內壓升高、胸壁僵硬等。"
+  },
+
+  {
+    "id": "MED3_V1_DER_SEPSIS_Q0121",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜辛 敗血症｜抗生素降階" },
+    "stem": "敗血症病人初期給廣效抗生素後，血培與病灶培養顯示特定敏感菌，臨床亦改善。最合理的後續策略為？",
+    "options": [
+      { "key": "A", "text": "維持原廣效直到療程結束以避免復發" },
+      { "key": "B", "text": "依培養與臨床反應降階至窄效抗生素" },
+      { "key": "C", "text": "立刻停掉所有抗生素" },
+      { "key": "D", "text": "改用更廣效藥物以求保險" }
+    ],
+    "answer": "B",
+    "explanation": "敗血症仍需抗菌，但在病原明確與臨床改善時應降階，降低抗藥性、腸道菌相破壞與藥物毒性。"
+  },
+  {
+    "id": "MED3_V1_DER_SEPSIS_Q0122",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜辛 敗血症｜血流動力學型態" },
+    "stem": "敗血性休克早期常見高心輸出、低周邊阻力。下列哪個臨床表現最符合此型態？",
+    "options": [
+      { "key": "A", "text": "四肢冰冷、脈壓小、皮膚蒼白" },
+      { "key": "B", "text": "四肢溫暖、脈壓大、皮膚潮紅" },
+      { "key": "C", "text": "單側呼吸音消失" },
+      { "key": "D", "text": "固定分裂第二心音" }
+    ],
+    "answer": "B",
+    "explanation": "早期分布性休克（warm shock）呈周邊血管擴張，四肢溫暖、潮紅與脈壓增大；晚期或合併心肌抑制時可轉為冷休克表現。"
+  },
+
+  {
+    "id": "MED3_V1_DER_THX_BASIC_Q0123",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜甲 胸腔基本｜肺容積變化判讀" },
+    "stem": "胸部 X 光顯示右上肺野白影，並伴隨氣管向右偏移、右側肺門上移。最合理解讀為？",
+    "options": [
+      { "key": "A", "text": "右上葉不張（volume loss pattern）" },
+      { "key": "B", "text": "右側大量胸水" },
+      { "key": "C", "text": "單純肺栓塞" },
+      { "key": "D", "text": "心因性肺水腫" }
+    ],
+    "answer": "A",
+    "explanation": "容積減少造成結構往病灶牽移（氣管偏移、肺門上移、裂隙位移）支持肺不張；大量胸水多推移縱膈到對側。"
+  },
+  {
+    "id": "MED3_V1_DER_THX_BASIC_Q0124",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜甲 胸腔基本｜支氣管阻塞" },
+    "stem": "術後病人突然低氧，胸部 X 光顯示局部肺葉不張。下列哪一項是常見且可立即處置的原因？",
+    "options": [
+      { "key": "A", "text": "痰栓/支氣管阻塞" },
+      { "key": "B", "text": "甲狀腺低下" },
+      { "key": "C", "text": "痛風" },
+      { "key": "D", "text": "偏頭痛" }
+    ],
+    "answer": "A",
+    "explanation": "術後不張常因痰栓、淺呼吸與疼痛抑制咳嗽導致；處置包括呼吸治療、拍痰、支氣管鏡清除等，並處理誘因。"
   }
 
 
+  
 ]
