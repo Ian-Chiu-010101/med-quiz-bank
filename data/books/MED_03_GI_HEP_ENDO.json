@@ -2572,6 +2572,252 @@
     ],
     "answer": "A",
     "explanation": "Thiazide/loop 利尿劑可降低尿酸排泄而提高尿酸；需在臨床上納入次發原因評估。"
+  },
+
+
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_PIT_PRL_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜癸 腦下垂體｜高泌乳素血症" },
+    "stem": "評估高泌乳素血症（hyperprolactinemia）時，下列哪一項是最基本且必做的初步排除項目之一？",
+    "options": [
+      { "key": "A", "text": "立即做腦血管攝影" },
+      { "key": "B", "text": "驗孕（β-hCG）" },
+      { "key": "C", "text": "先開抗生素" },
+      { "key": "D", "text": "先做 ERCP" }
+    ],
+    "answer": "B",
+    "explanation": "懷孕是常見生理性泌乳素上升原因；評估高泌乳素首先需排除懷孕，並同時回顧藥物與甲狀腺功能等。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_PIT_PRL_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜癸 腦下垂體｜高泌乳素血症｜病因" },
+    "stem": "下列何者是造成高泌乳素血症的常見原因？",
+    "options": [
+      { "key": "A", "text": "Dopamine antagonist 類藥物（如某些抗精神病藥）" },
+      { "key": "B", "text": "β 阻斷劑一定造成泌乳素暴增" },
+      { "key": "C", "text": "短期 PPI 會造成泌乳素高度上升" },
+      { "key": "D", "text": "單純高尿酸" }
+    ],
+    "answer": "A",
+    "explanation": "Dopamine 抑制泌乳素分泌；拮抗 dopamine（常見於抗精神病藥、部分止吐藥）可導致高泌乳素血症。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_PIT_PRL_Q0003",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜癸 腦下垂體｜泌乳素瘤｜治療" },
+    "stem": "泌乳素瘤（prolactinoma）的一線治療通常為何？",
+    "options": [
+      { "key": "A", "text": "Dopamine agonist（如 cabergoline 或 bromocriptine）" },
+      { "key": "B", "text": "常規先做放射線治療" },
+      { "key": "C", "text": "常規先做甲狀腺全切" },
+      { "key": "D", "text": "只做利尿治療" }
+    ],
+    "answer": "A",
+    "explanation": "多數泌乳素瘤可用 dopamine agonist 使 PRL 下降並縮小腫瘤；手術多為藥物無效/不耐或壓迫症狀等特定情境。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_PIT_PRL_Q0004",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜癸 腦下垂體｜高泌乳素血症｜臨床表現" },
+    "stem": "高泌乳素血症在女性常見表現，下列何者最典型？",
+    "options": [
+      { "key": "A", "text": "月經不規則/停經 + 乳溢（galactorrhea）" },
+      { "key": "B", "text": "黃疸 + 灰白便" },
+      { "key": "C", "text": "血痰 + 胸痛" },
+      { "key": "D", "text": "急性腹膜炎" }
+    ],
+    "answer": "A",
+    "explanation": "泌乳素升高可抑制 GnRH，造成低性腺功能表現（停經/不孕），並可能出現乳溢。"
+  },
+
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_PIT_ACRO_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜癸 腦下垂體｜肢端肥大症" },
+    "stem": "肢端肥大症（acromegaly）最常見的致病原因為何？",
+    "options": [
+      { "key": "A", "text": "腦下垂體生長激素腺瘤（GH-secreting pituitary adenoma）" },
+      { "key": "B", "text": "甲狀腺髓質癌" },
+      { "key": "C", "text": "胰臟外分泌不足" },
+      { "key": "D", "text": "腎上腺危象" }
+    ],
+    "answer": "A",
+    "explanation": "絕大多數 acromegaly 由 GH 分泌性腦下垂體腺瘤造成，導致 IGF-1 上升與典型臨床表現。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_PIT_ACRO_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜癸 腦下垂體｜肢端肥大症｜初篩" },
+    "stem": "懷疑肢端肥大症時，最常用的初步篩檢檢驗為何？",
+    "options": [
+      { "key": "A", "text": "IGF-1" },
+      { "key": "B", "text": "AFP" },
+      { "key": "C", "text": "CEA" },
+      { "key": "D", "text": "血清胰島素抗體" }
+    ],
+    "answer": "A",
+    "explanation": "IGF-1 相對穩定，適合作為初篩；確診常以口服葡萄糖抑制試驗（OGTT）看 GH 是否可被抑制。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_PIT_ACRO_Q0003",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜癸 腦下垂體｜肢端肥大症｜確診概念" },
+    "stem": "下列何者最符合肢端肥大症的確診測試概念？",
+    "options": [
+      { "key": "A", "text": "OGTT 後 GH 無法被抑制" },
+      { "key": "B", "text": "OGTT 後 GH 一定上升" },
+      { "key": "C", "text": "禁食後 GH 一定下降到 0" },
+      { "key": "D", "text": "只看單次隨機 GH 即可確診" }
+    ],
+    "answer": "A",
+    "explanation": "正常人葡萄糖負荷會抑制 GH；acromegaly 常呈『抑制失敗』。單次隨機 GH 波動大，不適合單獨確診。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_PIT_ACRO_Q0004",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜癸 腦下垂體｜肢端肥大症｜共病" },
+    "stem": "肢端肥大症常見共病，下列何者最常見且需要評估？",
+    "options": [
+      { "key": "A", "text": "糖耐受異常/第二型糖尿病與高血壓" },
+      { "key": "B", "text": "急性闌尾炎" },
+      { "key": "C", "text": "腦膜炎" },
+      { "key": "D", "text": "痔瘡" }
+    ],
+    "answer": "A",
+    "explanation": "GH/IGF-1 過多會造成胰島素阻抗與心血管負擔，臨床需評估代謝與心血管共病（亦常見睡眠呼吸中止）。"
+  },
+
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_WATER_BAL_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜子 水分平衡｜DI vs SIADH" },
+    "stem": "中樞性尿崩症（central DI）最典型的實驗室/尿液表現為何？",
+    "options": [
+      { "key": "A", "text": "低血鈉 + 尿液滲透壓高（濃縮尿）" },
+      { "key": "B", "text": "高血鈉傾向 + 尿量多 + 尿液滲透壓低（稀釋尿）" },
+      { "key": "C", "text": "低血鈉 + 尿鈉低（<10）一定是 DI" },
+      { "key": "D", "text": "只有血糖升高" }
+    ],
+    "answer": "B",
+    "explanation": "DI 因 ADH 缺乏/抵抗導致無法濃縮尿：大量稀釋尿、尿滲透壓低，若補水不足可出現高鈉/高滲。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_WATER_BAL_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜子 水分平衡｜SIADH" },
+    "stem": "SIADH 的典型組合（在排除甲低與腎上腺功能不全後）最符合下列何者？",
+    "options": [
+      { "key": "A", "text": "低血鈉 + 低血清滲透壓 + 尿液滲透壓不適當偏高" },
+      { "key": "B", "text": "高血鈉 + 高血清滲透壓 + 尿液極稀" },
+      { "key": "C", "text": "低血鈉 + 高血清滲透壓" },
+      { "key": "D", "text": "高血鈉 + 尿鈉極低一定是 SIADH" }
+    ],
+    "answer": "A",
+    "explanation": "SIADH 造成稀釋性低鈉（hypotonic hyponatremia），且 ADH 不適當分泌使尿液偏濃（尿滲透壓高、尿鈉常不低）。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_WATER_BAL_Q0003",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜子 水分平衡｜鑑別" },
+    "stem": "用去氨加壓素（desmopressin, DDAVP）鑑別 DI 時，下列何者最符合中樞性 DI 的反應？",
+    "options": [
+      { "key": "A", "text": "給 DDAVP 後尿液滲透壓上升（尿變濃）" },
+      { "key": "B", "text": "給 DDAVP 後完全沒有變化一定是正常" },
+      { "key": "C", "text": "給 DDAVP 後血糖上升" },
+      { "key": "D", "text": "給 DDAVP 後必定高血鉀" }
+    ],
+    "answer": "A",
+    "explanation": "中樞性 DI 是 ADH 缺乏，補 DDAVP 後可濃縮尿；腎性 DI 因腎臟對 ADH 抵抗，反應較差。"
+  },
+
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_HYPO_NA_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜丑 低血鈉｜第一步" },
+    "stem": "面對低血鈉（hyponatremia），最關鍵的第一步分類通常是？",
+    "options": [
+      { "key": "A", "text": "先做腦部 MRI" },
+      { "key": "B", "text": "先判斷血清滲透壓（是否為 hypotonic hyponatremia）" },
+      { "key": "C", "text": "先開抗生素" },
+      { "key": "D", "text": "先給利尿劑" }
+    ],
+    "answer": "B",
+    "explanation": "低鈉首先要分辨是否為低滲性（真正稀釋性低鈉）或偽低鈉/高滲性低鈉（如嚴重高血糖），流程會完全不同。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_HYPO_NA_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜丑 低血鈉｜急症處置" },
+    "stem": "嚴重症狀性低血鈉（如抽搐、昏迷）時，最適當的立即治療方向通常為何？",
+    "options": [
+      { "key": "A", "text": "限制水分即可，不需其他處置" },
+      { "key": "B", "text": "高張食鹽水（3% NaCl）謹慎矯正，同時處理病因" },
+      { "key": "C", "text": "大量輸注 D5W" },
+      { "key": "D", "text": "立即透析，所有人都需要" }
+    ],
+    "answer": "B",
+    "explanation": "嚴重神經症狀表示腦水腫風險，需要高張鹽水提升血鈉以穩定神經症狀；之後再進入病因導向處理。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_HYPO_NA_Q0003",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜丑 低血鈉｜矯正風險" },
+    "stem": "下列何者是低血鈉矯正過快最擔心的嚴重併發症？",
+    "options": [
+      { "key": "A", "text": "急性胰臟炎" },
+      { "key": "B", "text": "滲透性脫髓鞘症候群（osmotic demyelination syndrome）" },
+      { "key": "C", "text": "急性闌尾炎" },
+      { "key": "D", "text": "尿路感染" }
+    ],
+    "answer": "B",
+    "explanation": "慢性低鈉若矯正過快會造成腦細胞滲透壓調節失衡，引發中樞橋腦/橋外脫髓鞘（ODS）。"
+  },
+
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_HYPER_NA_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜寅 高血鈉｜核心概念" },
+    "stem": "高血鈉（hypernatremia）最核心的病理生理概念通常是？",
+    "options": [
+      { "key": "A", "text": "鈉一定攝取過多" },
+      { "key": "B", "text": "相對水分缺乏（free water deficit）比單純鈉過多更常見" },
+      { "key": "C", "text": "一定是 SIADH" },
+      { "key": "D", "text": "一定是腎病症候群" }
+    ],
+    "answer": "B",
+    "explanation": "高鈉多數是水分不足/水分流失（腸胃道、皮膚、腎臟，如 DI），而非單純鈉攝取過多。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_HYPER_NA_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜寅 高血鈉｜矯正原則" },
+    "stem": "慢性高血鈉（>48 小時）矯正時，下列原則何者最正確？",
+    "options": [
+      { "key": "A", "text": "越快越好，幾小時內降到正常" },
+      { "key": "B", "text": "需緩慢矯正（避免腦水腫），並依臨床狀態選擇補水方式" },
+      { "key": "C", "text": "只能用 3% NaCl" },
+      { "key": "D", "text": "不需要監測血鈉" }
+    ],
+    "answer": "B",
+    "explanation": "慢性高鈉時腦細胞已適應高滲環境，矯正過快可導致腦水腫與神經症狀；需緩慢補自由水並密切監測。"
   }
 
 
