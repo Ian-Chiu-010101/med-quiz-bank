@@ -927,7 +927,344 @@
     ],
     "answer": "D",
     "explanation": "偽膜性大腸炎與 C. difficile 相關，非 GERD 併發症；其餘為 GERD 常見食道併發症。"
+  },
+
+  
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_PUD_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜己 胃疾病－胃潰瘍" },
+    "stem": "幽門螺旋桿菌感染會造成胃潰瘍、胃癌及胃淋巴瘤之風險增加，因此必須選擇適當且高成功率之幽門螺旋桿菌除菌方法。下列除菌療法在 clarithromycin 抗藥比例小於 15% 之地區，何者目前不推薦使用？",
+    "options": [
+      { "key": "A", "text": "七日療程之 clarithromycin triple therapy (PPI + clarithromycin + amoxicillin)" },
+      { "key": "B", "text": "十四日療程之 clarithromycin triple therapy (PPI + clarithromycin + amoxicillin)" },
+      { "key": "C", "text": "十至十四日療程之 concomitant therapy (PPI + clarithromycin + amoxicillin + metronidazole)" },
+      { "key": "D", "text": "十至十四日療程之 bismuth quadruple therapy (PPI + bismuth + tetracycline + metronidazole)" }
+    ],
+    "answer": "A",
+    "explanation": "七日療程療效多已低於目前常用的成功率門檻，尤其在 clarithromycin 抗藥性上升地區，故不再推薦。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_PUD_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜己 胃疾病－胃潰瘍" },
+    "stem": "病人因胃潰瘍需要接受藥物治療，關於胃藥之機轉與使用下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "制酸劑 (antacid) 透過酸鹼中和之方法提高胃部酸鹼值" },
+      { "key": "B", "text": "H2 receptor antagonist 透過抑制胃部 chief cell 上之 histamine receptor 達到阻斷胃酸之功能" },
+      { "key": "C", "text": "PPI 以共價鍵結方式不可逆地結合於 H+/K+-ATPase" },
+      { "key": "D", "text": "GERD 病人停用 PPI 後可能出現反彈性胃酸過度分泌" }
+    ],
+    "answer": "B",
+    "explanation": "H2 receptor antagonist 是抑制 parietal cell（壁細胞）上的 histamine receptor，不是 chief cell。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_PUD_Q0003",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜己 胃疾病－胃潰瘍" },
+    "stem": "十二指腸潰瘍在癒合過程中會造成十二指腸球部的變形，此變形符合下列何者？",
+    "options": [
+      { "key": "A", "text": "幸運草（三葉草）變形 (cloverleaf deformity)" },
+      { "key": "B", "text": "雙壁徵象 (double wall sign)" },
+      { "key": "C", "text": "足球徵象 (football sign)" },
+      { "key": "D", "text": "倒 V 徵象 (inverted V sign)" }
+    ],
+    "answer": "A",
+    "explanation": "Cloverleaf deformity 是典型球部潰瘍瘢痕造成的多腔室外觀。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_PUD_Q0004",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜己 胃疾病－胃潰瘍" },
+    "stem": "關於胃酸的分泌，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "parietal cell 分泌胃酸的主要幫浦為 H+/K+-ATPase" },
+      { "key": "B", "text": "parietal cell 因靠離子濃度差異進行胃酸分泌，因此粒線體數目很少" },
+      { "key": "C", "text": "胃酸分泌受 gastrin receptor、acetylcholine receptor、histamine receptor 調控" },
+      { "key": "D", "text": "parietal cell apical membrane 會隨 resting/stimulated 狀態改變" }
+    ],
+    "answer": "B",
+    "explanation": "胃酸分泌非常耗能，壁細胞含大量粒線體以供能。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_PUD_Q0005",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜己 胃疾病－胃潰瘍" },
+    "stem": "慢性胃炎 (chronic gastritis) 為上消化道內視鏡檢查下常見的現象，下列敘述何者正確？",
+    "options": [
+      { "key": "A", "text": "可依範圍分為 type A: body-predominant gastritis；type B: antral-predominant gastritis" },
+      { "key": "B", "text": "body-predominant 主要導因為 H. pylori；antral-predominant 主要導因為 autoimmune" },
+      { "key": "C", "text": "autoimmune gastritis 病程依循 multifocal atrophic gastritis→atrophy→metaplasia，最後導致 gastric adenocarcinoma" },
+      { "key": "D", "text": "antral-predominant gastritis 與 pernicious anemia 有關，且有 anti-parietal cell 與 anti-intrinsic factor 抗體" }
+    ],
+    "answer": "A",
+    "explanation": "Type A（autoimmune）多為 body-predominant；Type B（bacterial/H. pylori）多為 antral-predominant。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_PUD_Q0006",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜己 胃疾病－胃潰瘍" },
+    "stem": "幽門螺旋桿菌 (Helicobacter pylori) 感染不會造成下列何者疾病？",
+    "options": [
+      { "key": "A", "text": "消化性潰瘍" },
+      { "key": "B", "text": "胃食道逆流性疾病" },
+      { "key": "C", "text": "胃腺癌" },
+      { "key": "D", "text": "胃黏膜相關淋巴組織淋巴癌" }
+    ],
+    "answer": "B",
+    "explanation": "H. pylori 與消化性潰瘍、胃腺癌、MALT lymphoma 有實證關聯；與 GERD 並非典型因果關聯。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_PUD_Q0007",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜己 胃疾病－胃潰瘍" },
+    "stem": "關於 Helicobacter pylori 的藥物治療，下列何者正確？",
+    "options": [
+      { "key": "A", "text": "若消化性潰瘍已由 PPI 痊癒，H. pylori 無需治療，因不影響復發率" },
+      { "key": "B", "text": "早期胃癌病灶切除後仍需治療 H. pylori，可降低 metachronous 胃癌" },
+      { "key": "C", "text": "除菌期間是否使用 PPI 不影響除菌效果" },
+      { "key": "D", "text": "除菌後慣例要在 7 天內做 urea breath test 確認成功" }
+    ],
+    "answer": "B",
+    "explanation": "H. pylori 是潰瘍復發危險因子；除菌療程需搭配 PPI；確認除菌通常需至少 4 週後再檢測。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_PUD_Q0008",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜己 胃疾病－胃潰瘍" },
+    "stem": "下列何種因子的分泌可減少胃酸的產生？",
+    "options": [
+      { "key": "A", "text": "acetylcholine" },
+      { "key": "B", "text": "somatostatin" },
+      { "key": "C", "text": "gastrin" },
+      { "key": "D", "text": "histamine" }
+    ],
+    "answer": "B",
+    "explanation": "Somatostatin 可抑制胃泌素/抑制壁細胞分泌，降低胃酸；其餘多促進胃酸。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_PUD_Q0009",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜己 胃疾病－胃潰瘍" },
+    "stem": "39 歲女性經診斷有十二指腸潰瘍及幽門螺旋桿菌感染，接受第一線殺菌藥物治療後，評估是否殺菌成功，下列何種檢查最簡便正確？",
+    "options": [
+      { "key": "A", "text": "C13-urea breath test" },
+      { "key": "B", "text": "血清幽門螺旋桿菌抗體檢查" },
+      { "key": "C", "text": "胃鏡切片組織學檢查" },
+      { "key": "D", "text": "尿液幽門螺旋桿菌抗體檢查" }
+    ],
+    "answer": "A",
+    "explanation": "確認除菌最常用且方便的是 urea breath test（需在療程結束後適當間隔再做，避免假陰性）。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_PUD_Q0010",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜己 胃疾病－胃潰瘍" },
+    "stem": "下列有關消化性潰瘍治療藥物之敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "制酸劑 (antacid) 宜與 H2 receptor antagonist 併用以增加療效" },
+      { "key": "B", "text": "長期服用 H2 receptor antagonist 可能有陽痿、男性女乳症、月經失調等不良反應" },
+      { "key": "C", "text": "長期服用 PPI 可能增加骨質疏鬆與髖骨骨折風險" },
+      { "key": "D", "text": "制酸劑會抑制 tetracycline 在胃腸道的吸收" }
+    ],
+    "answer": "A",
+    "explanation": "H2RA 與制酸劑作用終點類似，常規併用不一定增加療效且無必要；其餘為常見考點。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_PUD_Q0011",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜己 胃疾病－胃潰瘍" },
+    "stem": "幽門螺旋桿菌感染不會增加下列何項疾病的風險？",
+    "options": [
+      { "key": "A", "text": "reflux esophagitis" },
+      { "key": "B", "text": "non-cardiac gastric cancer" },
+      { "key": "C", "text": "gastric MALT lymphoma" },
+      { "key": "D", "text": "gastric ulcer" }
+    ],
+    "answer": "A",
+    "explanation": "H. pylori 與胃潰瘍、非賁門胃癌、MALT lymphoma 風險增加相關；與 reflux esophagitis 非典型正相關。"
+  },
+
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_GAST_OTHER_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜庚 胃疾病－其他" },
+    "stem": "下列何者不是營養不良 (malnutrition) 高危險群之特徵？",
+    "options": [
+      { "key": "A", "text": "敗血症 (sepsis)，高燒不退" },
+      { "key": "B", "text": "老年人" },
+      { "key": "C", "text": "長期酗酒 (alcohol abuse)" },
+      { "key": "D", "text": "好喝汽水可樂" }
+    ],
+    "answer": "D",
+    "explanation": "若總熱量與營養素攝取充足，單純喜好汽水並不必然造成營養不良；其餘皆是高風險族群常見特徵。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_GAST_OTHER_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜庚 胃疾病－其他" },
+    "stem": "關於胃息肉症 (gastric polyposis)，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "與息肉相關疾病包括 Peutz-Jeghers、Gardner、家族性大腸息肉症" },
+      { "key": "B", "text": "息肉越大惡性機率越小" },
+      { "key": "C", "text": "家族性大腸息肉症有很大的惡性機率" },
+      { "key": "D", "text": "以增生性息肉 (hyperplastic polyp) 最常見" }
+    ],
+    "answer": "B",
+    "explanation": "一般息肉越大惡性機率越高，常以 ≥1 cm 視為較高風險。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_GAST_OTHER_Q0003",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜庚 胃疾病－其他" },
+    "stem": "22 歲男性因胃腸息肉接受檢查，發現在嘴唇有許多黑色 pigmentation，其最可能的診斷為何？",
+    "options": [
+      { "key": "A", "text": "Osler-Weber-Rendu syndrome" },
+      { "key": "B", "text": "Peutz-Jeghers syndrome" },
+      { "key": "C", "text": "familial adenomatous polyposis" },
+      { "key": "D", "text": "Turcot's syndrome" }
+    ],
+    "answer": "B",
+    "explanation": "Peutz–Jeghers 典型為口唇/口腔黏膜周邊黑色素沉著合併多發 hamartomatous polyp，且整體癌症風險上升。"
+  },
+
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_BOWEL_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜辛 腸道疾病｜IBS" },
+    "stem": "關於腸躁症 (irritable bowel syndrome) 的敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "糞便檢查常見潛血反應，也可見到糞便中白血球過多" },
+      { "key": "B", "text": "可依照症狀分為便秘型、腹瀉型及混合型" },
+      { "key": "C", "text": "治療第一步是同理與支持病人，飲食上可避免易發酵寡糖及豆類等" },
+      { "key": "D", "text": "bulking agent、止瀉/瀉劑、抗痙攣藥、血清素相關藥、抗憂鬱劑、SSRI、益生菌等可用於治療" }
+    ],
+    "answer": "A",
+    "explanation": "IBS 為功能性疾病，通常不會有糞便白血球或潛血等發炎/出血證據。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_BOWEL_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜辛 腸道疾病｜IBS" },
+    "stem": "20 歲女性最近三個月早晨上班前，間歇性下腹絞痛，排便次數增加，糞便形態由正常變便秘但有時腹瀉；排便後腹痛減輕。下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "各年齡層都可能發作，女性較多" },
+      { "key": "B", "text": "糞便 calprotectin 為其診斷性生物標記" },
+      { "key": "C", "text": "常伴脹氣、消化不良、噁心、嘔吐感等" },
+      { "key": "D", "text": "可能與蠕動異常、腸道過度敏感、心理因素、菌叢改變或感染相關" }
+    ],
+    "answer": "B",
+    "explanation": "Calprotectin 為發炎性指標，常用於鑑別 IBS 與 IBD；IBS 通常正常。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_BOWEL_Q0003",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜辛 腸道疾病｜IBS" },
+    "stem": "下列關於大腸激躁症 (irritable bowel syndrome) 的敘述，何者正確？",
+    "options": [
+      { "key": "A", "text": "主要為腸道壁異常所致，與中樞神經較無關" },
+      { "key": "B", "text": "感染後 IBS 以男生多於女生" },
+      { "key": "C", "text": "患者以 45 歲以上者居多" },
+      { "key": "D", "text": "嚴重 IBS 以女性居多，約占 80%" }
+    ],
+    "answer": "D",
+    "explanation": "IBS 與腦腸軸/壓力關聯強，盛行率多為女性較高，且常見於較年輕族群。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_BOWEL_Q0004",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜辛 腸道疾病｜IBS" },
+    "stem": "下列關於大腸激躁症 (irritable bowel syndrome) 的敘述，何者正確？",
+    "options": [
+      { "key": "A", "text": "嚴重 IBS 與腸道生理相關性較強，與精神異常關聯性較小" },
+      { "key": "B", "text": "IBS 盛行率男性為女性的 2-3 倍" },
+      { "key": "C", "text": "某些抗生素如 rifaximin 對部分 IBS 病患有效" },
+      { "key": "D", "text": "抗憂鬱藥對 IBS 無幫助" }
+    ],
+    "answer": "C",
+    "explanation": "Rifaximin 對部分 IBS（特別是 IBS-D）可有效；IBS 多為女性較多，且與心理/壓力共病常見。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_IBD_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜辛 腸道疾病｜IBD" },
+    "stem": "有關潰瘍性大腸炎 (UC) 及克隆氏病 (Crohn's disease, CD) 之敘述，何者正確？",
+    "options": [
+      { "key": "A", "text": "抽菸可增加 CD 的發生" },
+      { "key": "B", "text": "口服避孕藥會增加 UC 的發生" },
+      { "key": "C", "text": "appendectomy 可預防 CD 的發生" },
+      { "key": "D", "text": "不論 UC 或 CD，亞洲人的發生率高於美國人" }
+    ],
+    "answer": "A",
+    "explanation": "抽菸與 CD 風險增加相關；appendectomy 對 UC 風險較具保護關聯；整體而言亞洲 IBD 盛行率通常低於歐美。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_IBD_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜辛 腸道疾病｜IBD" },
+    "stem": "以下關於潰瘍性大腸炎 (ulcerative colitis) 與克隆氏症 (Crohn's disease) 的描述，何者正確？",
+    "options": [
+      { "key": "A", "text": "潰瘍性大腸炎較容易有 skip lesion" },
+      { "key": "B", "text": "克隆氏症比較不容易有全身性症狀" },
+      { "key": "C", "text": "克隆氏症比較容易併發腸道狹窄" },
+      { "key": "D", "text": "潰瘍性大腸炎比較不會有黏液血便" }
+    ],
+    "answer": "C",
+    "explanation": "Crohn’s disease 為全層發炎，較易造成纖維化狹窄/阻塞與瘻管；UC 多為連續性黏膜層發炎，常見黏液血便。"
+  },
+
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_PUD_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜己 胃疾病－胃潰瘍｜衍生題" },
+    "stem": "幽門螺旋桿菌除菌治療後要確認成功，下列何者最不建議作為「治療後是否仍感染」的判定工具？",
+    "options": [
+      { "key": "A", "text": "Urea breath test（適當間隔後）" },
+      { "key": "B", "text": "Stool H. pylori antigen（適當間隔後）" },
+      { "key": "C", "text": "血清 H. pylori IgG 抗體" },
+      { "key": "D", "text": "（必要時）胃鏡切片快速尿素酶試驗/組織學" }
+    ],
+    "answer": "C",
+    "explanation": "血清 IgG 可能在除菌成功後仍長期陽性，不能用來確認是否「已清除」。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_IBD_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜辛 腸道疾病｜IBD｜衍生題" },
+    "stem": "要鑑別 IBS vs IBD，下列哪個檢查/指標最常用來支持「存在腸道發炎」？",
+    "options": [
+      { "key": "A", "text": "糞便 calprotectin 升高" },
+      { "key": "B", "text": "血清 H. pylori IgG 陽性" },
+      { "key": "C", "text": "糞便 pH 偏酸" },
+      { "key": "D", "text": "尿液酮體陽性" }
+    ],
+    "answer": "A",
+    "explanation": "糞便 calprotectin 為腸道發炎指標，常用於 IBS（通常正常）與 IBD（可能升高）的初步鑑別。"
   }
+
+
 
 
 
