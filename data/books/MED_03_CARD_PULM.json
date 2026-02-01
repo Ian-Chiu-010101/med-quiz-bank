@@ -4954,8 +4954,312 @@
     ],
     "answer": "B",
     "explanation": "OSA 與高血壓、心律不整等風險相關；處置包括睡眠檢查確認、CPAP、體重控制與相關共病管理。"
-  }
+  },
 
+
+  {
+    "id": "MED3_V1_DER_LIPID_Q0066",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜乙 高血脂｜二級預防" },
+    "stem": "50 歲男性曾有心肌梗塞（ASCVD），目前 LDL-C 仍偏高。下列哪一項最符合一般二級預防降脂策略？",
+    "options": [
+      { "key": "A", "text": "只要生活型態即可，藥物沒有角色" },
+      { "key": "B", "text": "以高強度 statin 為核心，若仍未達風險導向目標可加 ezetimibe，必要時再考慮 PCSK9 抑制劑" },
+      { "key": "C", "text": "fibrate 一定優於 statin" },
+      { "key": "D", "text": "只有 LDL-C >300 才需要治療" }
+    ],
+    "answer": "B",
+    "explanation": "已確診 ASCVD 屬高風險族群，二級預防以 statin（多為高強度）為核心；若 LDL-C 仍未充分下降，可加用 ezetimibe，再視風險與反應考慮 PCSK9 抑制劑。"
+  },
+  {
+    "id": "MED3_V1_DER_LIPID_Q0067",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜乙 高血脂｜原發性預防風險分層" },
+    "stem": "48 歲女性無 ASCVD 病史，但有糖尿病且多重危險因子。下列何者最符合降脂用藥的風險導向概念？",
+    "options": [
+      { "key": "A", "text": "糖尿病不影響心血管風險，不需考慮 statin" },
+      { "key": "B", "text": "糖尿病通常屬中高風險族群，常需要至少中等強度 statin；若危險因子多可考慮更積極策略" },
+      { "key": "C", "text": "只要 TG 正常就不需治療" },
+      { "key": "D", "text": "只要 HDL 高就不需治療" }
+    ],
+    "answer": "B",
+    "explanation": "糖尿病是重要心血管危險因子，原發性預防多採風險導向：通常至少中等強度 statin；若合併多重風險因子或高風險特徵，強度可再提升並個案化。"
+  },
+  {
+    "id": "MED3_V1_DER_LIPID_Q0068",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜乙 高血脂｜家族性高膽固醇血症" },
+    "stem": "25 歲男性 LDL-C 極高，家族多人早發 CAD。下列何者最符合家族性高膽固醇血症（FH）的處置概念？",
+    "options": [
+      { "key": "A", "text": "年輕所以不需治療" },
+      { "key": "B", "text": "早期積極降 LDL（高強度 statin ± 加成藥物），並進行家族篩檢" },
+      { "key": "C", "text": "只需補充魚油即可" },
+      { "key": "D", "text": "只治療 TG，不必理 LDL" }
+    ],
+    "answer": "B",
+    "explanation": "FH 為終生高 LDL 暴露、早發 ASCVD 風險高；治療強調早期且積極的 LDL 降幅（statin 為核心，必要時加用其他藥物），並建議家族成員篩檢。"
+  },
+  {
+    "id": "MED3_V1_DER_LIPID_Q0069",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜乙 高血脂｜高三酸甘油脂與胰臟炎" },
+    "stem": "45 歲男性 TG 980 mg/dL，無腹痛但有肥胖與糖尿病控制不佳。最重要的短期處置目標是？",
+    "options": [
+      { "key": "A", "text": "先不處理，等三個月後複檢" },
+      { "key": "B", "text": "降低 TG 以預防急性胰臟炎（控制血糖、限制酒精/精緻碳水、考慮 fibrate/omega-3 等）" },
+      { "key": "C", "text": "只要降低 LDL 就可以" },
+      { "key": "D", "text": "只要增加飽和脂肪攝取" }
+    ],
+    "answer": "B",
+    "explanation": "嚴重高 TG（常以 ≥500，尤其 ≥1000 mg/dL）顯著提高胰臟炎風險；短期重點是把 TG 降下來（生活型態、血糖控制、避免酒精，必要時藥物如 fibrate/高劑量 omega-3）。"
+  },
+  {
+    "id": "MED3_V1_DER_LIPID_Q0070",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜乙 高血脂｜statin 不良反應" },
+    "stem": "病人使用 statin 後出現對稱性近端肌肉酸痛，CK 輕度上升。最合理的處置策略為何？",
+    "options": [
+      { "key": "A", "text": "永久停用所有降脂藥，不再處理" },
+      { "key": "B", "text": "評估其他原因與嚴重度，必要時暫停/調整劑量或換另一種 statin，再逐步挑戰並監測" },
+      { "key": "C", "text": "立刻加倍 statin 劑量" },
+      { "key": "D", "text": "不需管 CK 與症狀" }
+    ],
+    "answer": "B",
+    "explanation": "statin 相關肌症狀需排除甲狀腺低下、藥物交互作用等；多數可透過暫停後再挑戰、換藥或調整強度/頻率達到可耐受的降脂策略；嚴重 CK 大幅上升或疑似橫紋肌溶解需立即停藥與處置。"
+  },
+  {
+    "id": "MED3_V1_DER_LIPID_Q0071",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜乙 高血脂｜禁忌" },
+    "stem": "下列哪一情境最不適合使用 statin？",
+    "options": [
+      { "key": "A", "text": "懷孕或計畫懷孕" },
+      { "key": "B", "text": "高血壓" },
+      { "key": "C", "text": "輕度脂肪肝但肝功能正常" },
+      { "key": "D", "text": "曾經吸菸" }
+    ],
+    "answer": "A",
+    "explanation": "懷孕（及通常含哺乳期）是 statin 的重要禁忌/避免使用情境；其他選項多非絕對禁忌，仍需個案化。"
+  },
+
+  {
+    "id": "MED3_V1_DER_CMP_DCM_Q0072",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜庚 心肌症｜擴張型心肌病" },
+    "stem": "擴張型心肌病（DCM）病人的重要可逆或需排除病因，下列何者最典型？",
+    "options": [
+      { "key": "A", "text": "酒精/毒性暴露、病毒性心肌炎、甲狀腺疾病" },
+      { "key": "B", "text": "只有先天性心臟病，其他不用查" },
+      { "key": "C", "text": "只要 BNP 高就是 DCM，無需找原因" },
+      { "key": "D", "text": "所有 DCM 都是細菌感染造成" }
+    ],
+    "answer": "A",
+    "explanation": "DCM 病因多元，需系統性排除可逆原因（毒性/酒精、心肌炎、代謝/內分泌、缺血性心臟病等），因為治療與預後會受影響。"
+  },
+  {
+    "id": "MED3_V1_DER_CMP_HCM_Q0073",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜庚 心肌症｜HCM 治療陷阱" },
+    "stem": "肥厚型心肌病（HCM）合併動態性左心室流出道阻塞，病人運動時暈厥。下列哪一項藥物方向最合理？",
+    "options": [
+      { "key": "A", "text": "首選擴血管（如 nitrates）以降低後負荷" },
+      { "key": "B", "text": "β 阻斷劑（或非 DHP CCB）以降低心跳與收縮力" },
+      { "key": "C", "text": "高劑量利尿以降低前負荷" },
+      { "key": "D", "text": "一律溶栓" }
+    ],
+    "answer": "B",
+    "explanation": "HCM 的動態性阻塞會因前負荷下降、收縮力上升而加重；β 阻斷劑或非 DHP CCB 可降低心跳與收縮力、改善症狀。過度利尿或強力血管擴張可能惡化阻塞。"
+  },
+  {
+    "id": "MED3_V1_DER_CMP_HCM_Q0074",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜庚 心肌症｜猝死風險" },
+    "stem": "HCM 病人的猝死風險評估，下列哪一項屬於重要高風險線索之一？",
+    "options": [
+      { "key": "A", "text": "家族猝死史或不明原因暈厥" },
+      { "key": "B", "text": "單純高 LDL" },
+      { "key": "C", "text": "輕微鼻塞" },
+      { "key": "D", "text": "偶發性胃痛" }
+    ],
+    "answer": "A",
+    "explanation": "HCM 猝死風險與家族猝死史、不明原因暈厥、非持續性 VT、極端壁厚等相關；風險高者可能需 ICD 評估。"
+  },
+  {
+    "id": "MED3_V1_DER_CMP_RCM_Q0075",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜庚 心肌症｜限制型心肌病" },
+    "stem": "限制型心肌病（RCM）常呈現以舒張功能障礙為主的心衰竭。下列何者最典型的病因之一？",
+    "options": [
+      { "key": "A", "text": "心肌類澱粉沉積（amyloidosis）" },
+      { "key": "B", "text": "單純高血脂" },
+      { "key": "C", "text": "急性闌尾炎" },
+      { "key": "D", "text": "單純貧血" }
+    ],
+    "answer": "A",
+    "explanation": "RCM 的典型病因包含 infiltrative disease（如 amyloidosis）等；臨床表現常像右心衰（水腫、肝鬱血）且心室不易擴張。"
+  },
+  {
+    "id": "MED3_V1_DER_CMP_STRESS_Q0076",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜庚 心肌症｜Takotsubo" },
+    "stem": "更年期女性重大情緒壓力後胸痛，troponin 輕度上升，冠狀動脈攝影無明顯阻塞，但心超顯示左心室局部運動異常不符合單一冠脈分布。最可能診斷？",
+    "options": [
+      { "key": "A", "text": "Takotsubo（壓力性心肌病）" },
+      { "key": "B", "text": "肺栓塞" },
+      { "key": "C", "text": "結核性胸膜炎" },
+      { "key": "D", "text": "主動脈瓣狹窄" }
+    ],
+    "answer": "A",
+    "explanation": "Takotsubo 常在壓力事件後出現類 ACS 表現，但冠脈無阻塞，且壁運動異常常超出單一冠脈灌流區；治療多以支持性與心衰處置為主並監測併發症。"
+  },
+  {
+    "id": "MED3_V1_DER_MYOCARDITIS_Q0077",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜庚 心肌症｜心肌炎評估" },
+    "stem": "疑似心肌炎（病毒後胸痛、troponin 上升、心律不整），下列哪一項檢查最能提供「心肌發炎/水腫」的組織層級線索？",
+    "options": [
+      { "key": "A", "text": "心臟 MRI" },
+      { "key": "B", "text": "單純胸部 X 光" },
+      { "key": "C", "text": "運動心電圖" },
+      { "key": "D", "text": "腹部超音波" }
+    ],
+    "answer": "A",
+    "explanation": "心臟 MRI 可提供心肌水腫、延遲增強等資訊，對心肌炎的非侵入性評估很有價值；是否需心肌切片則視病情嚴重度與治療決策而定。"
+  },
+
+  {
+    "id": "MED3_V1_DER_VENT_ARDS_Q0078",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜庚 呼吸器｜ARDS 通氣策略" },
+    "stem": "ARDS 侵入性通氣的核心策略，下列何者最符合？",
+    "options": [
+      { "key": "A", "text": "高 tidal volume 以洗掉 CO2，越高越好" },
+      { "key": "B", "text": "低 tidal volume（以預測體重計）並限制 plateau pressure" },
+      { "key": "C", "text": "完全不需要 PEEP" },
+      { "key": "D", "text": "PaCO2 一旦上升就一定立刻停止低潮氣量" }
+    ],
+    "answer": "B",
+    "explanation": "ARDS 採肺保護通氣：低潮氣量（常約 6 mL/kg PBW）與限制 plateau pressure（常以 <30 cmH2O 為目標概念），可降低 VILI。必要時允許一定程度 permissive hypercapnia（視禁忌）。"
+  },
+  {
+    "id": "MED3_V1_DER_VENT_ARDS_Q0079",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜庚 呼吸器｜PEEP 與氧合" },
+    "stem": "ARDS 病人氧合差，增加 PEEP 最主要的生理目的為何？",
+    "options": [
+      { "key": "A", "text": "增加肺泡塌陷" },
+      { "key": "B", "text": "促進肺泡招募、減少反覆張合造成的肺傷" },
+      { "key": "C", "text": "降低功能性殘氣量（FRC）" },
+      { "key": "D", "text": "一定會降低肺順應性" }
+    ],
+    "answer": "B",
+    "explanation": "適當 PEEP 可招募塌陷肺泡、改善 V/Q 與氧合，並降低 atelectrauma；但過高 PEEP 也可能導致過度膨脹與血流動力學影響，需要權衡。"
+  },
+  {
+    "id": "MED3_V1_DER_VENT_Q0080",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜庚 呼吸器｜Barotrauma" },
+    "stem": "插管通氣病人突然低血壓、氧合惡化、單側呼吸音消失。最合理的鑑別與處置是？",
+    "options": [
+      { "key": "A", "text": "張力性氣胸；立即減壓/胸管（依臨床判斷）" },
+      { "key": "B", "text": "單純焦慮；給鎮靜即可" },
+      { "key": "C", "text": "肺炎；改抗生素即可" },
+      { "key": "D", "text": "只要提高 FiO2 就會解決" }
+    ],
+    "answer": "A",
+    "explanation": "正壓通氣是 barotrauma 高風險；臨床符合張力性氣胸時需立即處置，不能等影像。"
+  },
+  {
+    "id": "MED3_V1_DER_VENT_Q0081",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜庚 呼吸器｜Auto-PEEP" },
+    "stem": "COPD 病人機械通氣後出現血壓下降、呼氣末仍有流速未回到 0（flow-time curve 未歸零）。最可能問題是？",
+    "options": [
+      { "key": "A", "text": "Auto-PEEP（動態過度充氣）" },
+      { "key": "B", "text": "低氧造成的癲癇" },
+      { "key": "C", "text": "肺水腫必然惡化" },
+      { "key": "D", "text": "主動脈剝離" }
+    ],
+    "answer": "A",
+    "explanation": "氣道阻塞病人若呼氣時間不足會造成 air trapping → auto-PEEP，影響回心血量導致低血壓；處置多包含降低 RR、延長呼氣、調整潮氣量與支氣管擴張等。"
+  },
+  {
+    "id": "MED3_V1_DER_VENT_WEAN_Q0082",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜庚 呼吸器｜撤機評估" },
+    "stem": "拔管/撤機前最重要的評估要點之一是？",
+    "options": [
+      { "key": "A", "text": "只看胸部 X 光" },
+      { "key": "B", "text": "病人是否能保護氣道、意識與咳嗽/分泌物處理能力、氧合/通氣穩定" },
+      { "key": "C", "text": "只要心跳正常就一定能拔管" },
+      { "key": "D", "text": "只要 PaCO2 偏高就一定不能拔管" }
+    ],
+    "answer": "B",
+    "explanation": "撤機不只看數值，還要看能否保護氣道（意識、咳嗽、分泌物）、呼吸功耗、氧合/通氣穩定與血流動力學，避免拔管失敗。"
+  },
+
+  {
+    "id": "MED3_V1_DER_THX_BASIC_Q0083",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜甲 胸腔基本｜CXR 鑑別" },
+    "stem": "胸部 X 光顯示一側下肺野均質性白影伴隨肋膈角鈍化與上緣弧形（meniscus sign）。最可能診斷為？",
+    "options": [
+      { "key": "A", "text": "肺葉不張" },
+      { "key": "B", "text": "肋膜積液（pleural effusion）" },
+      { "key": "C", "text": "氣胸" },
+      { "key": "D", "text": "肺栓塞" }
+    ],
+    "answer": "B",
+    "explanation": "meniscus sign 與肋膈角鈍化是典型胸水影像線索；肺不張則常見容積減少與縱膈牽移等。"
+  },
+  {
+    "id": "MED3_V1_DER_THX_BASIC_Q0084",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜甲 胸腔基本｜肺不張 vs 肺炎" },
+    "stem": "同為局部肺野白影，下列何者較支持肺不張（atelectasis）而非肺炎實變（consolidation）？",
+    "options": [
+      { "key": "A", "text": "容積減少、縱膈/裂隙朝病灶牽移" },
+      { "key": "B", "text": "氣管支氣象（air bronchogram）明顯" },
+      { "key": "C", "text": "高燒與膿痰一定存在" },
+      { "key": "D", "text": "白影區域永遠不會改變" }
+    ],
+    "answer": "A",
+    "explanation": "肺不張的核心是容積減少，常見縱膈牽移、裂隙位移、鄰近結構拉扯；肺炎實變多為容積保留甚至稍增，air bronchogram 常見但需綜合判讀。"
+  },
+  {
+    "id": "MED3_V1_DER_THX_BASIC_Q0085",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜甲 胸腔基本｜心因性肺水腫線索" },
+    "stem": "急性呼吸困難病人 CXR 顯示雙側肺門為主的蝴蝶狀浸潤合併 Kerley B lines。最支持哪一病因？",
+    "options": [
+      { "key": "A", "text": "心因性肺水腫" },
+      { "key": "B", "text": "單純氣胸" },
+      { "key": "C", "text": "肺結核" },
+      { "key": "D", "text": "肺栓塞" }
+    ],
+    "answer": "A",
+    "explanation": "Kerley B lines 與中央分布浸潤常提示間質性水腫/肺水腫，需結合臨床（JVD、S3、BNP、心超）判斷心因性可能。"
+  }
 
 
 ]
