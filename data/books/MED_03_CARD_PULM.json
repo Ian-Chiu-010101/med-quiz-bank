@@ -4384,9 +4384,577 @@
     ],
     "answer": "C",
     "explanation": "COPD 可能因 V/Q 失衡等機轉出現 CO2 滯留風險，常以 SpO2 88–92% 作為保守目標並配合 ABG 監測。"
+  },
+
+
+
+  {
+    "id": "MED3_V1_DER_ACS_Q0029",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜急性冠心症｜Inferior MI 併發症" },
+    "stem": "下壁 STEMI 病人第 2 天突發低血壓、肺音清、頸靜脈怒張，心音出現新收縮期雜音。下列哪一項最應優先鑑別？",
+    "options": [
+      { "key": "A", "text": "乳突肌斷裂造成急性二尖瓣逆流" },
+      { "key": "B", "text": "心室中隔破裂" },
+      { "key": "C", "text": "右心室梗塞或心包填塞/心破裂相關併發症" },
+      { "key": "D", "text": "單純焦慮症發作" }
+    ],
+    "answer": "C",
+    "explanation": "下壁 MI 後低血壓＋JVD＋肺音清提示「右心前負荷依賴」或機械性併發症造成的阻塞/充盈問題（右心室梗塞、心包填塞/心破裂）。新雜音也要警覺機械性併發症；需立即床邊心超確認（RV 功能、心包積液、VSD/MR）。"
+  },
+  {
+    "id": "MED3_V1_DER_ACS_Q0030",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜急性冠心症｜再灌流後心律" },
+    "stem": "STEMI 做完 PCI 後出現加速性室性節律（AIVR），血壓穩定、無胸痛。最恰當處置為何？",
+    "options": [
+      { "key": "A", "text": "立即電擊" },
+      { "key": "B", "text": "立即給大量 amiodarone" },
+      { "key": "C", "text": "多為再灌流心律，觀察並處理電解質即可" },
+      { "key": "D", "text": "立刻給 verapamil" }
+    ],
+    "answer": "C",
+    "explanation": "AIVR 常見於再灌流後，通常短暫且血流動力學穩定時不需積極治療；重點是監測、矯正 K/Mg、處理缺血或不穩定徵象。"
+  },
+  {
+    "id": "MED3_V1_DER_AF_Q0031",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜心房顫動｜電擊時機" },
+    "stem": "AF 已持續 4 天，病人血壓穩定但症狀明顯，想做電氣復律。下列何者最符合血栓風險控管原則？",
+    "options": [
+      { "key": "A", "text": "可直接電擊，不需要抗凝" },
+      { "key": "B", "text": "可先做 TEE 排除左心耳血栓再電擊，並在前後給予抗凝" },
+      { "key": "C", "text": "只要給 aspirin 就可電擊" },
+      { "key": "D", "text": "只要心跳快就一定可以直接電擊" }
+    ],
+    "answer": "B",
+    "explanation": "AF >48 小時或不明時間者，復律前需降低栓塞風險：常見策略為（1）足量抗凝一段時間後再電擊，或（2）TEE 排除血栓後進行電擊，且電擊後仍需持續抗凝（依中風風險與個案）。"
+  },
+  {
+    "id": "MED3_V1_DER_AF_Q0032",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜心房顫動｜節律/控速選擇" },
+    "stem": "新發 AF（<24 小時）病人血壓穩定但胸悶、心室率 150。以下哪一項最符合初始策略？",
+    "options": [
+      { "key": "A", "text": "不需控速，直接出院" },
+      { "key": "B", "text": "先控速（如 β 阻斷或非 DHP CCB，依禁忌），同時評估誘因與抗凝需求" },
+      { "key": "C", "text": "一律立即同步電擊" },
+      { "key": "D", "text": "只要給 digoxin，其他不用做" }
+    ],
+    "answer": "B",
+    "explanation": "穩定 AF 初始多以控速＋找誘因（感染、缺氧、甲亢、缺血等）並評估抗凝為核心；是否採節律控制（藥物/電擊）取決於症狀、時間窗、結構性心臟病與血栓風險。"
+  },
+  {
+    "id": "MED3_V1_DER_ARR_Q0033",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜心律不整｜Digoxin 中毒" },
+    "stem": "老年心衰病人使用 digoxin，合併 CKD。近期噁心、視覺偏黃，心電圖出現多形性心律不整。下列哪一項最可能促成中毒？",
+    "options": [
+      { "key": "A", "text": "低血鉀" },
+      { "key": "B", "text": "低血鈉" },
+      { "key": "C", "text": "高血鈣一定會保護" },
+      { "key": "D", "text": "高血壓" }
+    ],
+    "answer": "A",
+    "explanation": "低血鉀會增加 digoxin 與 Na/K ATPase 結合，顯著提高毒性與心律不整風險；CKD 亦會降低清除率。臨床需同時檢驗 K/Mg、藥物濃度並評估解毒治療（digoxin immune Fab 依嚴重度）。"
+  },
+  {
+    "id": "MED3_V1_DER_HF_Q0034",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜急性失代償心衰｜β 阻斷劑" },
+    "stem": "HFrEF 病人因感染誘發急性失代償心衰，出現肺水腫但血壓穩定。平時規律使用 β 阻斷劑。下列何者最符合一般用藥原則？",
+    "options": [
+      { "key": "A", "text": "急性期一律加倍 β 阻斷劑劑量" },
+      { "key": "B", "text": "除非有心因性休克/顯著低灌流，通常維持既有 β 阻斷劑並治療誘因與去充血" },
+      { "key": "C", "text": "所有急性心衰都必須停掉 β 阻斷劑" },
+      { "key": "D", "text": "β 阻斷劑可立即改善肺水腫，優先於利尿" }
+    ],
+    "answer": "B",
+    "explanation": "急性失代償心衰處置重點是去充血（利尿/NIPPV）與治療誘因。β 阻斷劑通常在血壓穩、無休克/嚴重低灌流時可維持；若休克、需 inotrope 或顯著低灌流才考慮暫停或下修。"
+  },
+  {
+    "id": "MED3_V1_DER_SHOCK_Q0035",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜休克鑑別｜冷/暖" },
+    "stem": "病人低血壓且四肢溫暖、脈壓大、皮膚潮紅，合併高乳酸與發燒。最符合的休克型態為？",
+    "options": [
+      { "key": "A", "text": "心因性休克" },
+      { "key": "B", "text": "阻塞性休克" },
+      { "key": "C", "text": "分布性休克（如 septic shock 的早期暖休克）" },
+      { "key": "D", "text": "失血性休克" }
+    ],
+    "answer": "C",
+    "explanation": "暖、潮紅、脈壓大提示周邊血管擴張的分布性休克（常見於敗血症早期），與心因性/失血性常見四肢冰冷相對。"
+  },
+  {
+    "id": "MED3_V1_DER_PERICARD_Q0036",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜心包填塞｜理學" },
+    "stem": "心包填塞的 pulsus paradoxus 指的是？",
+    "options": [
+      { "key": "A", "text": "吸氣時收縮壓上升 >10 mmHg" },
+      { "key": "B", "text": "吸氣時收縮壓下降 >10 mmHg" },
+      { "key": "C", "text": "呼氣時心跳變慢" },
+      { "key": "D", "text": "收縮壓與舒張壓差縮小" }
+    ],
+    "answer": "B",
+    "explanation": "pulsus paradoxus 是吸氣時收縮壓下降超過 10 mmHg，反映填塞時心室互相競爭與充盈受限，為重要理學提示。"
+  },
+  {
+    "id": "MED3_V1_DER_VALVE_Q0037",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜鑑別｜HCM vs AS" },
+    "stem": "病人收縮期雜音，做 Valsalva maneuver 時雜音變大。最支持下列哪一診斷？",
+    "options": [
+      { "key": "A", "text": "主動脈瓣狹窄（AS）" },
+      { "key": "B", "text": "肥厚型心肌病變（HCM）動態性流出道阻塞" },
+      { "key": "C", "text": "二尖瓣狹窄（MS）" },
+      { "key": "D", "text": "心包摩擦音" }
+    ],
+    "answer": "B",
+    "explanation": "Valsalva 降低前負荷會加重 HCM 的動態性阻塞，使雜音變大；AS 多在增加前負荷/回心血量時較明顯。"
+  },
+  {
+    "id": "MED3_V1_DER_PE_Q0038",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜肺栓塞｜妊娠影像" },
+    "stem": "懷孕婦女疑似肺栓塞且臨床懷疑度中高。下列何者最符合「降低胎兒/母體風險並兼顧診斷」的策略概念？",
+    "options": [
+      { "key": "A", "text": "不做任何影像，因為孕婦不能檢查" },
+      { "key": "B", "text": "以臨床前測機率結合檢驗與影像（如下肢超音波、必要時選擇合適胸部影像）做階梯式評估" },
+      { "key": "C", "text": "一律直接溶栓" },
+      { "key": "D", "text": "只做運動心電圖" }
+    ],
+    "answer": "B",
+    "explanation": "孕婦 PE 評估仍以「前測機率→階梯式檢查」降低不必要輻射與漏診風險：可先找 DVT（下肢超音波），必要時選擇合適胸部影像檢查，並依個案權衡。"
+  },
+  {
+    "id": "MED3_V1_DER_PE_Q0039",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜肺栓塞｜V/Q vs CTPA" },
+    "stem": "疑似肺栓塞，若胸部 X 光正常且病人無顯著肺實質病變風險，下列何者可作為較合適的核醫影像選項？",
+    "options": [
+      { "key": "A", "text": "V/Q scan" },
+      { "key": "B", "text": "腹部超音波" },
+      { "key": "C", "text": "胃鏡" },
+      { "key": "D", "text": "頭部 CT" }
+    ],
+    "answer": "A",
+    "explanation": "胸部 X 光正常時，V/Q scan 的判讀價值較高，可作為 PE 影像策略之一（實務仍需結合前測機率、腎功能、對比劑禁忌等）。"
+  },
+  {
+    "id": "MED3_V1_DER_COPD_Q0040",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜ABG｜急慢性呼吸性酸中毒" },
+    "stem": "COPD 病人 ABG：pH 7.34、PaCO2 60、HCO3- 32。最合理解讀為？",
+    "options": [
+      { "key": "A", "text": "急性呼吸性酸中毒，無代償" },
+      { "key": "B", "text": "慢性呼吸性酸中毒合併代償" },
+      { "key": "C", "text": "代謝性酸中毒" },
+      { "key": "D", "text": "呼吸性鹼中毒" }
+    ],
+    "answer": "B",
+    "explanation": "PaCO2 升高伴 HCO3- 明顯上升、pH 接近正常，符合慢性 CO2 滯留並有腎臟代償（典型 COPD）。"
+  },
+  {
+    "id": "MED3_V1_DER_ASTHMA_Q0041",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜氣喘急性發作｜沉默胸" },
+    "stem": "急性氣喘病人原本喘鳴明顯，治療後反而喘鳴消失、呼吸音變安靜，病人仍極喘。最合理解釋是？",
+    "options": [
+      { "key": "A", "text": "代表完全改善" },
+      { "key": "B", "text": "可能是 silent chest，提示氣流嚴重受限與呼吸衰竭風險上升" },
+      { "key": "C", "text": "代表病人裝病" },
+      { "key": "D", "text": "代表肺炎" }
+    ],
+    "answer": "B",
+    "explanation": "喘鳴消失不一定是好轉；若因氣流極差導致「聽不到」喘鳴（silent chest），是危險徵象，需警覺插管與重症處置。"
+  },
+  {
+    "id": "MED3_V1_DER_PNA_Q0042",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜肺炎｜抗生素升/降階" },
+    "stem": "HAP 病人先以廣效涵蓋治療，48–72 小時後臨床改善，培養結果顯示單一敏感菌。最符合後續策略為？",
+    "options": [
+      { "key": "A", "text": "維持原廣效直到療程結束" },
+      { "key": "B", "text": "依培養結果降階至窄效抗生素" },
+      { "key": "C", "text": "立刻停所有抗生素" },
+      { "key": "D", "text": "改用更廣效藥物避免復發" }
+    ],
+    "answer": "B",
+    "explanation": "抗生素 stewardship 強調：在臨床改善且培養/藥敏明確時，應降階以降低抗藥性壓力與副作用，同時維持療效。"
+  },
+  {
+    "id": "MED3_V1_DER_PLEURAL_Q0043",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜胸水｜結核性胸膜炎" },
+    "stem": "年輕人胸水，胸水分析：淋巴球為主、蛋白偏高、ADA 升高。最支持哪一類病因？",
+    "options": [
+      { "key": "A", "text": "心衰竭相關漏出液" },
+      { "key": "B", "text": "結核性胸膜炎（需結合臨床與進一步檢查）" },
+      { "key": "C", "text": "單純外傷血胸" },
+      { "key": "D", "text": "腎病症候群相關胸水" }
+    ],
+    "answer": "B",
+    "explanation": "淋巴球為主的滲出液胸水合併 ADA 升高常支持結核性胸膜炎（仍需整合影像、微生物/病理檢驗）。"
+  },
+  {
+    "id": "MED3_V1_DER_PLEURAL_Q0044",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜胸水｜惡性胸水" },
+    "stem": "疑似惡性胸水時，下列哪一項檢查最直接用於確認「腫瘤相關」？",
+    "options": [
+      { "key": "A", "text": "胸水細胞學（cytology）" },
+      { "key": "B", "text": "尿液分析" },
+      { "key": "C", "text": "運動心電圖" },
+      { "key": "D", "text": "凝血時間" }
+    ],
+    "answer": "A",
+    "explanation": "胸水 cytology 是鑑別惡性胸水的重要檢查之一；若陰性但高度懷疑，常需重複採樣或胸膜切片/胸腔鏡取樣。"
+  },
+  {
+    "id": "MED3_V1_DER_PTX_Q0045",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜氣胸｜機械通氣風險" },
+    "stem": "插管正壓通氣中的病人突然低血壓、氧合惡化、單側呼吸音消失。最適當處置為？",
+    "options": [
+      { "key": "A", "text": "立刻針刺減壓/放胸管（視臨床判斷）" },
+      { "key": "B", "text": "先等 CXR 才能確診" },
+      { "key": "C", "text": "只要提高 FiO2" },
+      { "key": "D", "text": "先做肺功能檢查" }
+    ],
+    "answer": "A",
+    "explanation": "正壓通氣是張力性氣胸高風險情境；臨床高度懷疑時需立即減壓/胸管，不能等影像延誤。"
+  },
+  {
+    "id": "MED3_V1_DER_HEMOPTYSIS_Q0046",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜咯血｜緊急處置" },
+    "stem": "大量咯血病人血氧下降、意識不清。最優先的處置目標為何？",
+    "options": [
+      { "key": "A", "text": "先安排 CT 找出病灶" },
+      { "key": "B", "text": "優先保護氣道與維持氧合（必要時插管），再進一步診斷止血" },
+      { "key": "C", "text": "只要止咳藥" },
+      { "key": "D", "text": "先做運動心電圖" }
+    ],
+    "answer": "B",
+    "explanation": "大量咯血最致命的問題常是窒息而非失血；ABC 優先，先保護氣道與氧合，再進一步影像/支氣管鏡與介入止血。"
+  },
+  {
+    "id": "MED3_V1_DER_CHESTPAIN_INT_Q0047",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜胸痛整合｜心肌炎" },
+    "stem": "年輕人病毒感染後胸痛，troponin 升高，心電圖變化不典型，冠狀動脈風險低。下列何者最符合下一步評估方向？",
+    "options": [
+      { "key": "A", "text": "直接溶栓" },
+      { "key": "B", "text": "考慮心肌炎/心包心肌炎，安排心臟超音波與必要時心臟 MRI" },
+      { "key": "C", "text": "只要當 GERD 治療" },
+      { "key": "D", "text": "一律運動心電圖" }
+    ],
+    "answer": "B",
+    "explanation": "病毒後胸痛＋troponin 升高需考慮心肌炎或心包心肌炎；心超可評估功能與積液，心臟 MRI 對發炎/水腫與鑑別有幫助。治療與 ACS 路徑不同。"
+  },
+  {
+    "id": "MED3_V1_DER_CAP_Q0048",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜CAP｜合併 COPD/心衰鑑別" },
+    "stem": "COPD 病人發燒、咳嗽、喘，X 光可疑浸潤但同時 BNP 明顯升高、JVD、下肢水腫。最合理的臨床策略是？",
+    "options": [
+      { "key": "A", "text": "只當 COPD 惡化，不需要影像/檢驗整合" },
+      { "key": "B", "text": "同時考慮 CAP 與心衰/容量問題，整合病史、影像、床邊超音波與反應決定治療" },
+      { "key": "C", "text": "一律只給利尿，不給抗生素" },
+      { "key": "D", "text": "一律只給抗生素，不處理容量" }
+    ],
+    "answer": "B",
+    "explanation": "臨床常重疊（COPD 惡化、CAP、心衰），需整合影像、實驗室與床邊超音波（肺 B-line、IVC、心功能）以及治療反應，避免只押單一診斷造成漏治。"
+  },
+
+
+  {
+    "id": "MED3_V1_DER_ACS_Q0049",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜急性冠心症｜STEMI 等同物" },
+    "stem": "胸痛病人 ECG 於 V2–V4 出現「J point 上斜型 ST depression」合併高尖對稱 T 波（de Winter pattern）。最恰當處置是？",
+    "options": [
+      { "key": "A", "text": "這不是 STEMI，不需緊急再灌流" },
+      { "key": "B", "text": "視為前壁梗塞等同（STEMI equivalent），啟動緊急再灌流流程" },
+      { "key": "C", "text": "先安排運動心電圖" },
+      { "key": "D", "text": "只要觀察並重抽 troponin" }
+    ],
+    "answer": "B",
+    "explanation": "de Winter pattern 是近端 LAD 阻塞的 STEMI equivalent，雖無典型 ST elevation 仍需緊急再灌流評估（如 primary PCI）。"
+  },
+  {
+    "id": "MED3_V1_DER_ACS_Q0050",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜急性冠心症｜STEMI 等同物" },
+    "stem": "心電圖顯示 aVR ST elevation 合併廣泛性 ST depression，病人胸痛且血流動力學不穩。最重要的臨床意涵是？",
+    "options": [
+      { "key": "A", "text": "典型急性心包炎" },
+      { "key": "B", "text": "高度懷疑左主幹或近端多條冠狀動脈嚴重缺血，需緊急侵入性評估" },
+      { "key": "C", "text": "通常是正常變異" },
+      { "key": "D", "text": "只要給止痛藥即可" }
+    ],
+    "answer": "B",
+    "explanation": "aVR ST elevation + 廣泛 ST depression 常提示左主幹/近端 LAD 或三條血管缺血，風險高，需緊急處置與侵入性評估。"
+  },
+
+  {
+    "id": "MED3_V1_DER_ACS_Q0051",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜心肌梗塞併發症｜VSD" },
+    "stem": "AMI 後第 3 天突發呼吸困難、低血壓，聽到新出現的粗糙全收縮期雜音（左胸骨緣）合併震顫。最可能為何種機械性併發症？",
+    "options": [
+      { "key": "A", "text": "心包炎" },
+      { "key": "B", "text": "心室中隔破裂（post-MI VSD）" },
+      { "key": "C", "text": "單純肺炎" },
+      { "key": "D", "text": "主動脈瓣狹窄" }
+    ],
+    "answer": "B",
+    "explanation": "AMI 後數天新出現粗糙全收縮期雜音與震顫、快速惡化的心衰/休克需高度懷疑 VSD；需床邊心超確認並緊急心臟科/外科處置。"
+  },
+  {
+    "id": "MED3_V1_DER_ACS_Q0052",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜心肌梗塞併發症｜乳突肌斷裂" },
+    "stem": "AMI 後第 2 天突發嚴重肺水腫與休克，心尖部新出現收縮期雜音但不一定很大。最應優先鑑別的併發症是？",
+    "options": [
+      { "key": "A", "text": "乳突肌斷裂造成急性嚴重二尖瓣逆流" },
+      { "key": "B", "text": "慢性二尖瓣狹窄" },
+      { "key": "C", "text": "心包炎" },
+      { "key": "D", "text": "心房中隔缺損" }
+    ],
+    "answer": "A",
+    "explanation": "乳突肌斷裂會導致急性嚴重 MR → 急性肺水腫與休克。雜音可能不大（因左房壓迅速升高使壓差減少），因此不能因雜音小而排除。"
+  },
+
+  {
+    "id": "MED3_V1_DER_PERICARD_Q0053",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜心包炎｜治療" },
+    "stem": "急性心包炎病人無禁忌且無高度疑慮細菌/結核/腫瘤。最典型的第一線治療組合為何？",
+    "options": [
+      { "key": "A", "text": "抗凝（heparin）為主" },
+      { "key": "B", "text": "NSAID（或 aspirin）合併 colchicine" },
+      { "key": "C", "text": "高劑量利尿劑" },
+      { "key": "D", "text": "溶栓" }
+    ],
+    "answer": "B",
+    "explanation": "多數急性心包炎第一線為 NSAID/aspirin + colchicine（降低復發），並處理病因；抗凝不是常規且在某些情境可能增加出血/填塞風險。"
+  },
+  {
+    "id": "MED3_V1_DER_PERICARD_Q0054",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜心包炎｜危險徵象" },
+    "stem": "急性心包炎病人下列何者屬於「高危險特徵」，通常需要住院或進一步評估？",
+    "options": [
+      { "key": "A", "text": "胸痛隨前傾緩解" },
+      { "key": "B", "text": "低度發燒 37.6°C" },
+      { "key": "C", "text": "發燒 >38°C 或免疫低下/抗凝使用/大型心包積液" },
+      { "key": "D", "text": "心電圖有 PR depression" }
+    ],
+    "answer": "C",
+    "explanation": "高危險特徵（如高燒、免疫低下、外傷、抗凝、疑似心肌炎、對 NSAID 無反應、巨大積液/填塞）通常需要住院與找二級病因。"
+  },
+
+  {
+    "id": "MED3_V1_DER_ENDOCARD_Q0055",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜感染性心內膜炎｜採血" },
+    "stem": "懷疑感染性心內膜炎（IE）且血流動力學穩定時，最符合的血液培養策略是？",
+    "options": [
+      { "key": "A", "text": "先給抗生素，再隨便抽 1 組培養" },
+      { "key": "B", "text": "不同靜脈穿刺抽取多組血液培養後再開始抗生素（不延誤必要治療）" },
+      { "key": "C", "text": "只需要尿液培養" },
+      { "key": "D", "text": "血液培養沒有任何意義" }
+    ],
+    "answer": "B",
+    "explanation": "IE 診斷仰賴血培與影像。穩定者應先抽取多組血培（不同穿刺點、足量血量）再開始抗生素；不穩定者則以救命治療優先但仍應盡可能先採血。"
+  },
+  {
+    "id": "MED3_V1_DER_ENDOCARD_Q0056",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜感染性心內膜炎｜TEE 指標" },
+    "stem": "懷疑 IE，TTE 未見明顯贅生物，但臨床高度懷疑且病人有人工瓣膜。下一步最適當檢查？",
+    "options": [
+      { "key": "A", "text": "停止評估，因為 TTE 陰性即可排除" },
+      { "key": "B", "text": "安排 TEE 以提高偵測率並評估瓣周併發症" },
+      { "key": "C", "text": "只做運動心電圖" },
+      { "key": "D", "text": "只做胸部 X 光" }
+    ],
+    "answer": "B",
+    "explanation": "人工瓣膜或臨床高度懷疑時，TEE 敏感度高於 TTE，亦能評估瓣周膿瘍等併發症；TTE 陰性不能排除。"
+  },
+
+  {
+    "id": "MED3_V1_DER_ARR_Q0057",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜心律不整｜高鉀心電圖" },
+    "stem": "慢性腎病病人胸悶無力，ECG 出現高尖 T 波、P 波變小、QRS 變寬。下一步最優先的處置是？",
+    "options": [
+      { "key": "A", "text": "立即靜脈注射 calcium（如 calcium gluconate）穩定心肌膜電位" },
+      { "key": "B", "text": "只要給利尿劑即可" },
+      { "key": "C", "text": "等抽血確認再處理" },
+      { "key": "D", "text": "只給 aspirin" }
+    ],
+    "answer": "A",
+    "explanation": "有高鉀造成的心電圖變化屬急症，第一優先是給 IV calcium 穩定心肌；再配合移鉀（insulin+glucose、β2 agonist）與排鉀（diuretics、resin、透析）等。"
+  },
+  {
+    "id": "MED3_V1_DER_ARR_Q0058",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "心內｜心律不整｜不規則寬 QRS" },
+    "stem": "ECG 顯示「不規則寬 QRS 心搏過速」，病人血壓尚可但心跳極快。下列何者最重要的鑑別與用藥陷阱？",
+    "options": [
+      { "key": "A", "text": "多為 AF with WPW；避免純 AV node blocker（如 verapamil/diltiazem、digoxin、adenosine）" },
+      { "key": "B", "text": "必為心房撲動；可放心用 verapamil" },
+      { "key": "C", "text": "必為竇性心搏過速；不需處理" },
+      { "key": "D", "text": "必為 torsades；只要給 magnesium 就會完全解決" }
+    ],
+    "answer": "A",
+    "explanation": "不規則寬 QRS 需高度懷疑 AF with WPW（旁路傳導）。此時禁用純 AV node blocker 以免促進旁路傳導誘發 VF；應依情境選擇適當抗心律不整藥或電擊。"
+  },
+
+  {
+    "id": "MED3_V1_DER_RESP_Q0059",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜酸鹼｜慢性高碳酸血症" },
+    "stem": "COPD 病人 ABG：pH 7.36、PaCO2 55、HCO3- 30。若此病人因鎮靜藥導致急性通氣變差，最可能的 ABG 變化趨勢為？",
+    "options": [
+      { "key": "A", "text": "PaCO2 下降且 pH 上升" },
+      { "key": "B", "text": "PaCO2 上升且 pH 下降（急性疊加）" },
+      { "key": "C", "text": "HCO3- 立刻大幅下降" },
+      { "key": "D", "text": "ABG 不會改變" }
+    ],
+    "answer": "B",
+    "explanation": "慢性 CO2 滯留有腎代償；若急性通氣惡化會造成 PaCO2 進一步上升且 pH 下降（急性 on chronic 呼吸性酸中毒）。HCO3- 上升的腎代償需要時間，不會立刻完成。"
+  },
+
+  {
+    "id": "MED3_V1_DER_CAP_Q0060",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜肺炎｜非典型與住院策略" },
+    "stem": "CAP 病人高燒、低鈉、腹瀉，合併相對性緩脈，影像多葉浸潤。最應優先考慮哪類致病菌與涵蓋方向？",
+    "options": [
+      { "key": "A", "text": "Legionella 等非典型菌；需納入能涵蓋非典型菌的方案" },
+      { "key": "B", "text": "Candida；抗黴菌為首選" },
+      { "key": "C", "text": "寄生蟲；驅蟲藥為首選" },
+      { "key": "D", "text": "全部是病毒；不需抗生素" }
+    ],
+    "answer": "A",
+    "explanation": "低鈉、腸胃症狀、多葉浸潤等可提示 Legionella；經驗性治療需涵蓋非典型菌（如 macrolide/doxycycline 或呼吸道 FQ，依嚴重度與風險）。"
+  },
+  {
+    "id": "MED3_V1_DER_HAP_Q0061",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜VAP｜診斷陷阱" },
+    "stem": "插管第 7 天出現發燒、白血球上升、分泌物增多，胸部影像新浸潤。下列哪一項最符合 VAP 評估與處置概念？",
+    "options": [
+      { "key": "A", "text": "一定等到痰培養回來才開始治療" },
+      { "key": "B", "text": "以臨床與影像判斷開始經驗性治療，同時取得適當呼吸道檢體培養並於後續降階" },
+      { "key": "C", "text": "VAP 不會造成死亡，不需治療" },
+      { "key": "D", "text": "只要改變鎮靜藥即可改善" }
+    ],
+    "answer": "B",
+    "explanation": "VAP 需及時經驗性抗生素（考量抗藥風險）並同時取得檢體；之後依培養與臨床反應調整/降階，避免延誤與過度用藥。"
+  },
+
+  {
+    "id": "MED3_V1_DER_TB_Q0062",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜結核｜隔離與檢體" },
+    "stem": "病人咳嗽兩個月、體重減輕、夜間盜汗，X 光上葉空洞。最適當的感染管制與檢體策略是？",
+    "options": [
+      { "key": "A", "text": "不需隔離；先給抗生素觀察" },
+      { "key": "B", "text": "空氣傳染隔離，並取得多次痰檢體做 AFB smear/culture（必要時 NAAT）" },
+      { "key": "C", "text": "只做血液培養即可" },
+      { "key": "D", "text": "只做 D-dimer 即可" }
+    ],
+    "answer": "B",
+    "explanation": "臨床高度疑似肺結核需空氣傳染隔離並取得適當痰檢體（多次、足量），做 AFB smear/culture 與分子檢驗以加速診斷與公共衛生處置。"
+  },
+
+  {
+    "id": "MED3_V1_DER_PLEURAL_Q0063",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜胸水｜血胸" },
+    "stem": "外傷後胸水呈血性，若胸管引流初次大量且持續出血，下列何者最符合處置概念？",
+    "options": [
+      { "key": "A", "text": "不需理會，等自然止血" },
+      { "key": "B", "text": "持續大量出血提示需要外科/介入止血評估（依出血量與生理狀態）" },
+      { "key": "C", "text": "只需口服止痛藥" },
+      { "key": "D", "text": "先做運動心電圖" }
+    ],
+    "answer": "B",
+    "explanation": "血胸若初次引流量大或持續出血，代表重大血管/肺實質出血風險，需外科/介入評估止血並同時復甦。"
+  },
+
+  {
+    "id": "MED3_V1_DER_PHTN_Q0064",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜肺高壓｜鑑別" },
+    "stem": "病人勞動喘，心超估測肺動脈壓升高，且有左心衰竭/瓣膜病史。最合理的病因分類與下一步概念為？",
+    "options": [
+      { "key": "A", "text": "一定是原發性 PAH；直接給 PAH 專用藥" },
+      { "key": "B", "text": "可能屬於左心疾病相關肺高壓（group 2）；優先處理左心問題並進一步評估" },
+      { "key": "C", "text": "一定是肺栓塞；不需其他評估" },
+      { "key": "D", "text": "一定是氣喘造成" }
+    ],
+    "answer": "B",
+    "explanation": "左心疾病（HF、瓣膜病）常導致 group 2 PH，治療核心是處理左心病因與充盈壓；PAH 專用藥不應在未分型前貿然使用。"
+  },
+
+  {
+    "id": "MED3_V1_DER_SA_Q0065",
+    "source_type": "derived",
+    "book": { "code": "MED3_V1", "title": "三(1) 心內、胸內" },
+    "location": { "section": "胸內｜睡眠呼吸中止｜心血管風險" },
+    "stem": "疑似阻塞型睡眠呼吸中止（OSA）病人合併難治型高血壓與白天嗜睡。下列哪一項最符合處置概念？",
+    "options": [
+      { "key": "A", "text": "OSA 不影響心血管風險，不需處理" },
+      { "key": "B", "text": "安排睡眠檢查評估，並考慮 CPAP 與生活型態介入以降低症狀與風險" },
+      { "key": "C", "text": "只要給抗生素" },
+      { "key": "D", "text": "只要止咳藥" }
+    ],
+    "answer": "B",
+    "explanation": "OSA 與高血壓、心律不整等風險相關；處置包括睡眠檢查確認、CPAP、體重控制與相關共病管理。"
   }
-
-
 
 
 
