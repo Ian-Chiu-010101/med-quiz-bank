@@ -3790,6 +3790,115 @@
     ],
     "answer": "A",
     "explanation": "Charcot triad 為急性膽管炎典型表現：發燒、黃疸、右上腹痛。"
+  },
+
+
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_DM_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜甲 糖尿病" },
+    "stem": "下列何者為糖尿病的診斷標準之一？",
+    "options": [
+      { "key": "A", "text": "空腹血糖 ≥ 126 mg/dL" },
+      { "key": "B", "text": "空腹血糖 ≥ 100 mg/dL" },
+      { "key": "C", "text": "隨機血糖 ≥ 160 mg/dL" },
+      { "key": "D", "text": "HbA1c ≥ 5.7%" }
+    ],
+    "answer": "A",
+    "explanation": "糖尿病診斷包含：空腹血糖 ≥126 mg/dL、HbA1c ≥6.5%、或 OGTT 2 小時 ≥200 mg/dL（需確認）。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_DM_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO" },
+    "location": { "section": "第三篇 新陳代謝｜甲 糖尿病" },
+    "stem": "下列何者最符合糖尿病酮酸中毒（DKA）的典型表現？",
+    "options": [
+      { "key": "A", "text": "高血糖、代謝性酸中毒、酮體上升" },
+      { "key": "B", "text": "低血糖、呼吸性酸中毒" },
+      { "key": "C", "text": "正常血糖、代謝性鹼中毒" },
+      { "key": "D", "text": "高血糖、無酸中毒" }
+    ],
+    "answer": "A",
+    "explanation": "DKA 的三要素為高血糖、代謝性酸中毒與酮血症，常見於第一型糖尿病或感染、停藥後。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_DM_Q0003",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO" },
+    "location": { "section": "第三篇 新陳代謝｜甲 糖尿病" },
+    "stem": "糖尿病最常見的慢性微血管併發症不包含下列何者？",
+    "options": [
+      { "key": "A", "text": "視網膜病變" },
+      { "key": "B", "text": "腎病變" },
+      { "key": "C", "text": "周邊神經病變" },
+      { "key": "D", "text": "冠狀動脈疾病" }
+    ],
+    "answer": "D",
+    "explanation": "視網膜、腎臟與神經屬微血管併發症；冠狀動脈疾病屬大血管併發症。"
+  },
+
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_THYROID_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO" },
+    "location": { "section": "第三篇 新陳代謝｜乙 甲狀腺疾病" },
+    "stem": "甲狀腺機能亢進常見的實驗室變化為何？",
+    "options": [
+      { "key": "A", "text": "TSH 升高、T4 降低" },
+      { "key": "B", "text": "TSH 降低、T4 升高" },
+      { "key": "C", "text": "TSH 與 T4 皆降低" },
+      { "key": "D", "text": "TSH 與 T4 皆正常" }
+    ],
+    "answer": "B",
+    "explanation": "原發性甲亢時，負回饋使 TSH 下降，而甲狀腺素（T4/T3）升高。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_THYROID_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO" },
+    "location": { "section": "第三篇 新陳代謝｜乙 甲狀腺疾病" },
+    "stem": "甲狀腺風暴（thyroid storm）最重要的治療原則為何？",
+    "options": [
+      { "key": "A", "text": "僅給退燒藥即可" },
+      { "key": "B", "text": "抑制甲狀腺素生成、抑制釋放並支持性治療" },
+      { "key": "C", "text": "立即給予甲狀腺素" },
+      { "key": "D", "text": "只需觀察" }
+    ],
+    "answer": "B",
+    "explanation": "甲狀腺風暴需多重治療：抗甲狀腺藥、β 阻斷劑、碘劑與支持性治療。"
+  },
+
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_PIT_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO" },
+    "location": { "section": "第三篇 新陳代謝｜丙 腦下垂體" },
+    "stem": "下列何者為高泌乳素血症最常見的原因？",
+    "options": [
+      { "key": "A", "text": "泌乳素分泌性腦下垂體腺瘤" },
+      { "key": "B", "text": "甲狀腺風暴" },
+      { "key": "C", "text": "腎上腺危象" },
+      { "key": "D", "text": "胰島素阻抗" }
+    ],
+    "answer": "A",
+    "explanation": "泌乳素瘤是高泌乳素血症最常見的病理性原因；治療以 dopamine agonist 為主。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_PIT_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO" },
+    "location": { "section": "第三篇 新陳代謝｜丙 腦下垂體" },
+    "stem": "肢端肥大症最常見的致病機轉為何？",
+    "options": [
+      { "key": "A", "text": "生長激素分泌性腦下垂體腺瘤" },
+      { "key": "B", "text": "甲狀腺素過多" },
+      { "key": "C", "text": "胰島素缺乏" },
+      { "key": "D", "text": "腎上腺皮質素過多" }
+    ],
+    "answer": "A",
+    "explanation": "肢端肥大症多由 GH 分泌性腦下垂體腺瘤造成，導致 IGF-1 升高與典型外觀改變。"
   }
 
 
