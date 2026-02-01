@@ -1,1 +1,128 @@
-[]
+[
+
+
+  {
+    "id": "MED3_RENAL_INF_ORI_AKI_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜甲 急性腎損傷（AKI）" },
+    "stem": "下列何者為急性腎損傷（AKI）最常見的原因分類？",
+    "options": [
+      { "key": "A", "text": "腎前性（prerenal）" },
+      { "key": "B", "text": "腎實質性（intrinsic）" },
+      { "key": "C", "text": "腎後性（postrenal）" },
+      { "key": "D", "text": "免疫性" }
+    ],
+    "answer": "A",
+    "explanation": "臨床上 AKI 最常見為腎前性原因（如低血容量、低灌流），其次才是腎實質性與腎後性。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_AKI_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF" },
+    "location": { "section": "第一篇 腎內科｜甲 急性腎損傷（AKI）" },
+    "stem": "下列何者最有助於區分腎前性 AKI 與急性腎小管壞死（ATN）？",
+    "options": [
+      { "key": "A", "text": "血清鈉濃度" },
+      { "key": "B", "text": "尿液鈉濃度與 FENa" },
+      { "key": "C", "text": "血紅素" },
+      { "key": "D", "text": "血清白蛋白" }
+    ],
+    "answer": "B",
+    "explanation": "腎前性 AKI 通常尿鈉低、FENa <1%；ATN 則尿鈉高、FENa >2%。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_AKI_Q0003",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF" },
+    "location": { "section": "第一篇 腎內科｜甲 急性腎損傷（AKI）" },
+    "stem": "關於急性腎小管壞死（ATN），下列何者正確？",
+    "options": [
+      { "key": "A", "text": "最常由尿路阻塞造成" },
+      { "key": "B", "text": "尿沈渣可見泥沙樣（muddy brown）圓柱" },
+      { "key": "C", "text": "FENa 通常小於 1%" },
+      { "key": "D", "text": "腎功能恢復通常非常迅速" }
+    ],
+    "answer": "B",
+    "explanation": "ATN 常見於缺血或毒性傷害，尿沈渣可見泥沙樣圓柱；FENa 多大於 2%。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_AKI_Q0004",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF" },
+    "location": { "section": "第一篇 腎內科｜甲 急性腎損傷（AKI）" },
+    "stem": "急性腎損傷病人出現下列哪一項情況時，最需要考慮緊急透析？",
+    "options": [
+      { "key": "A", "text": "輕度血尿" },
+      { "key": "B", "text": "代謝性酸中毒合併症狀" },
+      { "key": "C", "text": "血肌酸酐輕微上升" },
+      { "key": "D", "text": "尿量稍減少" }
+    ],
+    "answer": "B",
+    "explanation": "AKI 透析適應症包含難以控制的酸中毒、高鉀、肺水腫、尿毒症狀（AEIOU）。"
+  },
+
+  {
+    "id": "MED3_RENAL_INF_ORI_CKD_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF" },
+    "location": { "section": "第一篇 腎內科｜乙 慢性腎臟病（CKD）" },
+    "stem": "慢性腎臟病（CKD）的定義，下列何者正確？",
+    "options": [
+      { "key": "A", "text": "腎功能異常持續超過 2 週" },
+      { "key": "B", "text": "腎功能異常持續超過 1 個月" },
+      { "key": "C", "text": "腎功能異常持續超過 3 個月" },
+      { "key": "D", "text": "任何一次 eGFR 下降皆屬 CKD" }
+    ],
+    "answer": "C",
+    "explanation": "CKD 定義為腎臟結構或功能異常持續至少 3 個月，且具臨床意義。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_CKD_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF" },
+    "location": { "section": "第一篇 腎內科｜乙 慢性腎臟病（CKD）" },
+    "stem": "下列何者最常見為慢性腎臟病的病因？",
+    "options": [
+      { "key": "A", "text": "腎結石" },
+      { "key": "B", "text": "糖尿病" },
+      { "key": "C", "text": "急性腎炎" },
+      { "key": "D", "text": "腎腫瘤" }
+    ],
+    "answer": "B",
+    "explanation": "糖尿病為全球 CKD 與末期腎病最常見原因，其次為高血壓。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_CKD_Q0003",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF" },
+    "location": { "section": "第一篇 腎內科｜乙 慢性腎臟病（CKD）" },
+    "stem": "關於 CKD 併發症，下列何者正確？",
+    "options": [
+      { "key": "A", "text": "低血磷" },
+      { "key": "B", "text": "次發性副甲狀腺亢進" },
+      { "key": "C", "text": "高血鈣" },
+      { "key": "D", "text": "紅血球增多症" }
+    ],
+    "answer": "B",
+    "explanation": "CKD 常見高磷、低鈣與次發性副甲狀腺亢進，並伴隨腎性貧血。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_CKD_Q0004",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF" },
+    "location": { "section": "第一篇 腎內科｜乙 慢性腎臟病（CKD）" },
+    "stem": "關於 CKD 病人的用藥原則，下列何者最恰當？",
+    "options": [
+      { "key": "A", "text": "所有藥物皆可照一般劑量使用" },
+      { "key": "B", "text": "需依腎功能調整藥物劑量" },
+      { "key": "C", "text": "避免使用所有降壓藥" },
+      { "key": "D", "text": "只需注意抗生素" }
+    ],
+    "answer": "B",
+    "explanation": "CKD 病人多數藥物需依 eGFR 調整劑量，以避免藥物蓄積與毒性。"
+  }
+
+
+  
+]
