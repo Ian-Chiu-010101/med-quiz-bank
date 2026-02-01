@@ -1262,6 +1262,521 @@
     ],
     "answer": "A",
     "explanation": "糞便 calprotectin 為腸道發炎指標，常用於 IBS（通常正常）與 IBD（可能升高）的初步鑑別。"
+  },
+
+
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_LFTABN_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜甲 肝功能異常" },
+    "stem": "Aspartate aminotransferase (AST) 及 alanine aminotransferase (ALT) 血中數值的升高代表肝細胞的破壞，其上升幅度及 AST/ALT 比值能幫助我們做鑑別診斷。下列肝臟發炎性疾病何者較不會出現肝指數大幅升高 (aminotransferase > 1,000 IU/L) 的情形？",
+    "options": [
+      { "key": "A", "text": "自體免疫性肝炎" },
+      { "key": "B", "text": "缺血性肝炎" },
+      { "key": "C", "text": "脂肪性肝炎" },
+      { "key": "D", "text": "藥物性肝炎" }
+    ],
+    "answer": "C",
+    "explanation": "脂肪性肝炎相對較少出現 aminotransferase > 1,000 IU/L；多數患者上升幅度較低且進展較慢。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_LFTABN_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜甲 肝功能異常" },
+    "stem": "肝臟切片對評估肝損傷的嚴重程度和級別藉以推測其預後相當重要。在現今肝炎組織學的評分系統中最常用為肝炎組織學活動指數 (histologic activity index, HAI)。下列何者組織切片發現不屬於其評分系統？",
+    "options": [
+      { "key": "A", "text": "門脈周邊壞死 (periportal necrosis)" },
+      { "key": "B", "text": "漿細胞浸潤 (plasma cell infiltration)" },
+      { "key": "C", "text": "肝小葉區壞死 (intralobular necrosis)" },
+      { "key": "D", "text": "門脈發炎 (portal inflammation)" }
+    ],
+    "answer": "B",
+    "explanation": "漿細胞浸潤不是 HAI 的評分構成項目；它較偏向某些特定肝病（如自體免疫性肝炎）的病理特徵。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_LFTABN_Q0003",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜甲 肝功能異常" },
+    "stem": "林小姐最近因疲累、噁心、右上腹不適到門診求診。身體診察顯示鞏膜泛黃。抽血檢查：ALT 592 U/L、AST 204 U/L、total bilirubin 4.2 mg/dL、direct bilirubin 3.5 mg/dL、ALK-P 62 U/L、γ-GT 54 U/L。下列各項檢查，何者最不適合？",
+    "options": [
+      { "key": "A", "text": "HBsAg" },
+      { "key": "B", "text": "anti-nuclear antibody (ANA)" },
+      { "key": "C", "text": "perinuclear anti-neutrophil cytoplasmic antibody (pANCA)" },
+      { "key": "D", "text": "anti-HAV IgM" }
+    ],
+    "answer": "C",
+    "explanation": "整體偏急性肝細胞性損傷合併黃疸，常規會評估急性病毒性肝炎（如 HAV/HBV）與自體免疫性肝炎（ANA/ASMA 等）。pANCA 更偏向 IBD/PSC 等脈絡，與此處初步評估不符。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_LFTABN_Q0004",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜甲 肝功能異常" },
+    "stem": "28 歲女性主訴倦怠與茶色尿。檢查有黃疸，無明顯腹部壓痛。ALT 1,890 U/L、AST 1,568 U/L、ALP 108 U/L、bilirubin (total/direct) 7.5/4.3 mg/dL。下列何者最不可能導致此病人之肝異常？",
+    "options": [
+      { "key": "A", "text": "急性 A 型肝炎" },
+      { "key": "B", "text": "急性 B 型肝炎" },
+      { "key": "C", "text": "原發性膽汁性肝硬化" },
+      { "key": "D", "text": "藥物引起之肝炎" }
+    ],
+    "answer": "C",
+    "explanation": "此為劇烈肝細胞性損傷（轉氨酶極高），較符合急性病毒性肝炎或藥物性肝炎；PBC 多為膽汁鬱滯型（ALP 顯著升高）且慢性過程。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_LFTABN_Q0005",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜甲 肝功能異常" },
+    "stem": "35 歲男性二週疲倦、茶色尿、皮膚變黃，一個月前至中國大陸旅行。為了診斷是否患有急性 A 型肝炎，應做下列哪項檢驗？",
+    "options": [
+      { "key": "A", "text": "anti-HAV IgM" },
+      { "key": "B", "text": "anti-HAV IgG" },
+      { "key": "C", "text": "anti-HAV IgA" },
+      { "key": "D", "text": "anti-HAV IgE" }
+    ],
+    "answer": "A",
+    "explanation": "急性感染以 IgM anti-HAV 為主；IgG 多代表既往感染或疫苗後免疫。"
+  },
+
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_JAUNDICE_Q0003",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜乙 黃疸" },
+    "stem": "53 歲女性食慾不振與茶色尿 10 天。無發燒、無腹部壓痛，但有黃疸。bilirubin (total/direct) 8.2/5.8 mg/dL、ALT 148 U/L、WBC 5,600/mm3。下列進一步檢查何者對診斷沒有幫助？",
+    "options": [
+      { "key": "A", "text": "reticulocyte count" },
+      { "key": "B", "text": "alkaline phosphatase" },
+      { "key": "C", "text": "hepatitis B surface antigen" },
+      { "key": "D", "text": "abdominal sonography" }
+    ],
+    "answer": "A",
+    "explanation": "此例 direct bilirubin 佔比高，較像肝細胞/膽汁鬱滯或阻塞性黃疸；reticulocyte count 主要用於溶血評估（多為 indirect bilirubin）。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_JAUNDICE_Q0004",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜乙 黃疸" },
+    "stem": "20 歲男性無肝病史，健檢 bilirubin 2.9/0.5 mg/dL (Total/Direct)，其他肝功能正常，肝炎標誌陰性，理學檢查無異常且無搔癢。最可能診斷為何？",
+    "options": [
+      { "key": "A", "text": "肝內膽汁滯留 (Cholestasis)" },
+      { "key": "B", "text": "Dubin-Johnson syndrome" },
+      { "key": "C", "text": "Gilbert's syndrome" },
+      { "key": "D", "text": "Rotor syndrome" }
+    ],
+    "answer": "C",
+    "explanation": "以 unconjugated bilirubin 為主且其餘檢查正常，典型為 Gilbert's syndrome。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_JAUNDICE_Q0006",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜乙 黃疸" },
+    "stem": "阻塞性黃疸 (obstructive jaundice) 常見的病因不包括下列何者？",
+    "options": [
+      { "key": "A", "text": "膽道結石" },
+      { "key": "B", "text": "壺腹部癌症 (ampulla of Vater cancer)" },
+      { "key": "C", "text": "胰臟頭部腫瘤" },
+      { "key": "D", "text": "急性 A 型肝炎" }
+    ],
+    "answer": "D",
+    "explanation": "急性 A 型肝炎屬肝細胞性黃疸，非阻塞性（膽道阻塞）病因。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_JAUNDICE_Q0007",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜乙 黃疸" },
+    "stem": "病人意識不清與黃疸。total bilirubin 7.2、direct 4.0、AST 478、ALT 356、ALP 102、INR 3.1、albumin 3.6。下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "此病患可能發生 hepatocellular jaundice" },
+      { "key": "B", "text": "腹部超音波檢查膽管應無異常" },
+      { "key": "C", "text": "可能病因包括 virus、autoimmune、toxin、metabolic disorder 等" },
+      { "key": "D", "text": "最可能病因為急性膽管炎" }
+    ],
+    "answer": "D",
+    "explanation": "此例肝細胞性損傷與凝血異常明顯，較符合肝細胞性黃疸/急性肝衰竭路徑；急性膽管炎多見發炎/阻塞表現與膽道酵素更明顯上升。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_JAUNDICE_Q0008",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜乙 黃疸" },
+    "stem": "下列有關膽酸 (bile acid) 的敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "無法經食物攝取獲得" },
+      { "key": "B", "text": "由肝臟合成" },
+      { "key": "C", "text": "絕大部分在空腸 (jejunum) 再吸收" },
+      { "key": "D", "text": "原發性膽道肝硬化患者因膽酸分泌問題可能產生脂肪瀉，進而影響鈣與維生素 D 吸收" }
+    ],
+    "answer": "C",
+    "explanation": "膽酸主要在迴腸（terminal ileum）再吸收，不是在空腸。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_JAUNDICE_Q0009",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜乙 黃疸" },
+    "stem": "30 歲男性黃疸。total bilirubin 6、direct 1.5，尿液 bilirubin (+)。以下描述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "病史詢問應著重藥物史及溶血性疾病等" },
+      { "key": "B", "text": "身體診察可能發現脾臟腫大" },
+      { "key": "C", "text": "ineffective erythropoiesis 或 Gilbert's syndrome 也可能是病因" },
+      { "key": "D", "text": "尿液中測到之 bilirubin 是 unconjugated bilirubin" }
+    ],
+    "answer": "D",
+    "explanation": "尿中 bilirubin 只能是 conjugated bilirubin（未結合型與白蛋白結合，無法經腎排出）。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_JAUNDICE_Q0010",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜乙 黃疸" },
+    "stem": "茶色尿合併間歇性右上腹痛。AST 450、ALT 400、ALP 400、total bilirubin 5.4。最可能診斷為何？",
+    "options": [
+      { "key": "A", "text": "總膽管結石" },
+      { "key": "B", "text": "右側肝內膽管結石" },
+      { "key": "C", "text": "胰臟頭部癌" },
+      { "key": "D", "text": "急性肝炎" }
+    ],
+    "answer": "A",
+    "explanation": "疼痛型黃疸（RUQ colicky pain）合併膽道酵素上升，最典型是膽道結石/總膽管結石。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_JAUNDICE_Q0012",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜乙 黃疸" },
+    "stem": "30 歲男性食慾差倦怠，無腹痛。AST 650、ALT 600、total bilirubin 3.0、ALP 450、γ-GT 350、PT 11 秒，腹部超音波無異常。下列敘述何者正確？",
+    "options": [
+      { "key": "A", "text": "若 HBsAg (+)，應為 B 型肝炎急性發作" },
+      { "key": "B", "text": "若 anti-HCV (+)，應為 C 型肝炎" },
+      { "key": "C", "text": "很可能為藥物性肝炎" },
+      { "key": "D", "text": "很可能為膽管阻塞而導致肝炎" }
+    ],
+    "answer": "C",
+    "explanation": "超音波無膽道擴張，且呈混合型（AST/ALT 高且 ALP/γ-GT 也高），臨床上要高度懷疑藥物性肝損傷（DILI）。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_JAUNDICE_Q0013",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜乙 黃疸" },
+    "stem": "關於黃疸 (jaundice) 之敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "膽紅素主要是血紅素分解的代謝物" },
+      { "key": "B", "text": "未結合型膽紅素經由肝細胞作用變成結合型膽紅素，接著經由膽管排出" },
+      { "key": "C", "text": "膽紅素的半衰期約 4 小時，但與白蛋白結合的膽紅素半衰期約 3 天" },
+      { "key": "D", "text": "血清正常膽紅素小於 1 mg/dL，直接型膽紅素約占 30%" }
+    ],
+    "answer": "C",
+    "explanation": "此敘述的半衰期數值不正確；臨床上要掌握的是 unconjugated bilirubin 與白蛋白結合而不經腎排泄、以及直接/間接膽紅素對鑑別診斷的重要性。"
+  },
+
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_ASCITES_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜丙 腹水" },
+    "stem": "關於急性腹膜炎的敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "當腸道穿孔時，腸道內細菌會進入腹腔導致續發性腹膜炎" },
+      { "key": "B", "text": "血液白血球過低，是導致自發性細菌性腹膜炎 (SBP) 常見的重要因子" },
+      { "key": "C", "text": "身體檢查需注意壓痛位置與是否有木板樣僵直及反彈痛" },
+      { "key": "D", "text": "X 光若見 free air 代表腸穿孔可能性，需要緊急手術" }
+    ],
+    "answer": "B",
+    "explanation": "SBP 高風險因子是肝硬化合併腹水、且腹水蛋白濃度過低（免疫防禦差）。leukopenia 可能出現在嚴重感染，但不是 SBP 的典型致病因子。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_ASCITES_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜丙 腹水" },
+    "stem": "58 歲男性腹痛、發燒、畏寒。黃疸、腹部鼓脹、shifting dullness、rebound pain，並見 palmar erythema 與 flapping tremor。腹水：WBC 1,250/mm3、neutrophil 85%、lymphocyte 15%、RBC 40/mm3。最可能診斷？",
+    "options": [
+      { "key": "A", "text": "自發性細菌性腹膜炎 (SBP)" },
+      { "key": "B", "text": "十二指腸潰瘍合併穿孔" },
+      { "key": "C", "text": "腸套疊" },
+      { "key": "D", "text": "肝細胞癌破裂" }
+    ],
+    "answer": "A",
+    "explanation": "肝硬化腹水病人，腹水 PMN > 250/mm3（或 neutrophil > 50%）是 SBP 診斷關鍵。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_ASCITES_Q0003",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜丙 腹水" },
+    "stem": "關於初次發生、未曾使用過抗生素預防或治療的腹膜炎，其致病原與抗生素治療，下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "SBP 經驗性抗生素原則上不需特別涵蓋厭氧菌" },
+      { "key": "B", "text": "SBP 最常見致病原為革蘭氏陽性菌" },
+      { "key": "C", "text": "次發性腹膜炎常見腸道革蘭氏陰性菌與厭氧菌" },
+      { "key": "D", "text": "次發性腹膜炎治療除抗生素外也常需外科介入" }
+    ],
+    "answer": "B",
+    "explanation": "SBP 最常見致病原是腸道革蘭氏陰性菌（如 E. coli、Klebsiella），不是 GPC。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_ASCITES_Q0004",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜丙 腹水" },
+    "stem": "下肢水腫合併腹水。血清白蛋白 3.0 g/dL，腹水白蛋白 1.2 g/dL，腹水蛋白總量 2.8 g/dL。下列何項診斷最不可能？",
+    "options": [
+      { "key": "A", "text": "hepatic vein thrombosis (early stage)" },
+      { "key": "B", "text": "heart failure" },
+      { "key": "C", "text": "liver cirrhosis" },
+      { "key": "D", "text": "hepatic sinusoidal obstruction syndrome" }
+    ],
+    "answer": "C",
+    "explanation": "SAAG > 1.1 g/dL 支持門脈高壓相關腹水；題目脈絡下最不符合者為肝硬化。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_ASCITES_Q0005",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜丙 腹水" },
+    "stem": "血清白蛋白 3.0 g/dL，腹水白蛋白 1.2 g/dL。下列何項診斷較不可能？",
+    "options": [
+      { "key": "A", "text": "肝硬化" },
+      { "key": "B", "text": "鬱血性心衰竭" },
+      { "key": "C", "text": "腎病症候群" },
+      { "key": "D", "text": "Budd-Chiari syndrome" }
+    ],
+    "answer": "C",
+    "explanation": "SAAG = 1.8 (>1.1) 代表門脈高壓相關腹水；腎病症候群多為 SAAG < 1.1。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_ASCITES_Q0006",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜丙 腹水" },
+    "stem": "下列何者不會產生腹水？",
+    "options": [
+      { "key": "A", "text": "肥胖" },
+      { "key": "B", "text": "肝硬化" },
+      { "key": "C", "text": "心臟衰竭" },
+      { "key": "D", "text": "腹膜發炎" }
+    ],
+    "answer": "A",
+    "explanation": "單純肥胖不是腹水的典型病因；其餘皆可導致腹水。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_ASCITES_Q0007",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜丙 腹水" },
+    "stem": "有關自發性細菌性腹膜炎 (SBP) 的敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "最常見的細菌感染為 Escherichia coli" },
+      { "key": "B", "text": "腹水培養出兩種以上細菌要考慮次發性腹膜炎（如腸穿孔）" },
+      { "key": "C", "text": "病人可能無發燒及腹痛" },
+      { "key": "D", "text": "肝硬化合併腹水病人發生食道靜脈曲張出血時，不會增加 SBP 發生" }
+    ],
+    "answer": "D",
+    "explanation": "上消化道出血（包含食道靜脈曲張出血）會增加 SBP 風險；臨床上常需評估預防性抗生素策略。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_ASCITES_Q0008",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜丙 腹水" },
+    "stem": "40 歲男性腹水加重住院，serum-ascites albumin gradient (SAAG) < 1.1。下列診斷何者最可能？",
+    "options": [
+      { "key": "A", "text": "肝硬化" },
+      { "key": "B", "text": "心衰竭" },
+      { "key": "C", "text": "Budd-Chiari syndrome" },
+      { "key": "D", "text": "腎病症候群" }
+    ],
+    "answer": "D",
+    "explanation": "SAAG < 1.1 支持非門脈高壓性腹水（如腎病症候群、腹膜癌症、結核性腹膜炎等）。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_ASCITES_Q0009",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜丙 腹水" },
+    "stem": "65 歲女性大量腹水：顏色乳白色；腹水 albumin 3.0 g/dL；RBC 50,000/µL；WBC 2,000/µL 且 lymphocyte predominant；血清 albumin 3.5 g/dL。最可能診斷？",
+    "options": [
+      { "key": "A", "text": "cirrhosis" },
+      { "key": "B", "text": "neoplasm" },
+      { "key": "C", "text": "pyogenic peritonitis" },
+      { "key": "D", "text": "nephrosis" }
+    ],
+    "answer": "B",
+    "explanation": "乳白色（chylous）且淋巴球為主的腹水要高度懷疑惡性腫瘤/淋巴阻塞等原因。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_ASCITES_Q0010",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜丙 腹水" },
+    "stem": "68 歲男性近一月雙側下肢對稱水腫、腹脹且尿量減少。過去抽菸、B 肝、高血壓、糖尿病，未規則追蹤。由以上初步病史，何者最不可能的診斷？",
+    "options": [
+      { "key": "A", "text": "鬱血性心衰竭" },
+      { "key": "B", "text": "腎衰竭" },
+      { "key": "C", "text": "肝硬化" },
+      { "key": "D", "text": "深層靜脈栓塞 (DVT)" }
+    ],
+    "answer": "D",
+    "explanation": "DVT 多為單側下肢腫脹；雙側對稱水腫更常見於心、肝、腎等系統性原因。"
+  },
+
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_HEPATITIS_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜丁 肝炎" },
+    "stem": "懷疑藥物引起肝傷害，ALT 56、AST 72、ALP 795 (N<100)、total bilirubin 1.8。下列何種藥最可能導致此病人之肝傷害？",
+    "options": [
+      { "key": "A", "text": "methotrexate" },
+      { "key": "B", "text": "isoniazid" },
+      { "key": "C", "text": "methyltestosterone" },
+      { "key": "D", "text": "acetaminophen" }
+    ],
+    "answer": "C",
+    "explanation": "此為膽汁鬱滯型（ALP 顯著升高）藥物性肝損傷；methyltestosterone 典型可致 cholestatic injury。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_HEPATITIS_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜丁 肝炎" },
+    "stem": "45 歲男性肝功能異常，BMI 23，喝酒史：每週五次、每次兩罐啤酒（500 mL, 5% alcohol）15 年。AST/ALT 85/52，HBsAg(-)，anti-HCV(+)；腹超顯示中度脂肪肝。下列評估與敘述何者較不適當？",
+    "options": [
+      { "key": "A", "text": "可能已有酒精性脂肪肝疾病" },
+      { "key": "B", "text": "酒精性脂肪肝之發生與肥胖及胰島素抗性有密切相關" },
+      { "key": "C", "text": "戒酒是改善肝功能最重要的方法之一；此階段高劑量類固醇治療無幫助" },
+      { "key": "D", "text": "可能同時有 C 肝，可能使酒精性肝病更嚴重，需評估 HCV RNA 並治療" }
+    ],
+    "answer": "B",
+    "explanation": "酒精性脂肪肝主要致病因素是酒精代謝導致的肝細胞毒性；肥胖/胰島素抗性是 NAFLD/NASH 的典型脈絡。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_HEPATITIS_Q0003",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜丁 肝炎" },
+    "stem": "下列何者不會引起脂肪肝？",
+    "options": [
+      { "key": "A", "text": "肥胖" },
+      { "key": "B", "text": "糖尿病" },
+      { "key": "C", "text": "高血脂症" },
+      { "key": "D", "text": "胃食道逆流" }
+    ],
+    "answer": "D",
+    "explanation": "肥胖、糖尿病、高血脂是脂肪肝常見危險因子；GERD 不是典型原因。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_HEPATITIS_Q0004",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜丁 肝炎" },
+    "stem": "acetaminophen 中毒病人在第三天出現皮膚變黃、深茶色尿，最可能是何種毒性作用所致？",
+    "options": [
+      { "key": "A", "text": "肝毒性 (hepatotoxicity)" },
+      { "key": "B", "text": "心毒性 (cardiotoxicity)" },
+      { "key": "C", "text": "神經毒性 (neurotoxicity)" },
+      { "key": "D", "text": "腎毒性 (nephrotoxicity)" }
+    ],
+    "answer": "A",
+    "explanation": "acetaminophen 過量造成 NAPQI 相關肝細胞壞死，常在 24–72 小時後出現肝損傷表現。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_HEPATITIS_Q0005",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜丁 肝炎" },
+    "stem": "引起猛爆性肝炎常見的原因，不包括下列何者？",
+    "options": [
+      { "key": "A", "text": "藥物" },
+      { "key": "B", "text": "A 型肝炎" },
+      { "key": "C", "text": "B 型肝炎" },
+      { "key": "D", "text": "熬夜" }
+    ],
+    "answer": "D",
+    "explanation": "猛爆性肝炎常見病因包含藥物/毒物（含 acetaminophen）、病毒性肝炎等；熬夜不是直接病因。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_HEPATITIS_Q0006",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜丁 肝炎" },
+    "stem": "家屬認為病人有明顯酒精性肝傷害，要你說服戒酒。下列數據何者不支持酒精性肝傷害？",
+    "options": [
+      { "key": "A", "text": "ALT < AST" },
+      { "key": "B", "text": "γ-GT 偏高" },
+      { "key": "C", "text": "超音波顯示脂肪肝" },
+      { "key": "D", "text": "ALT > 2,000 U/L" }
+    ],
+    "answer": "D",
+    "explanation": "酒精性肝炎常見 AST>ALT（多 <300–500）且比值>2；ALT >2,000 更像缺血/藥物（如 acetaminophen）或急性病毒性肝炎等。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_HEPATITIS_Q0007",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜丁 肝炎" },
+    "stem": "疑似大量吞服 acetaminophen。ALT 894、AST 720、total bilirubin 2.2、direct 1.8、ALP 42、γ-GT 50。關於此藥物引起之傷害，何者最不正確？",
+    "options": [
+      { "key": "A", "text": "與劑量 (dose dependent) 有關" },
+      { "key": "B", "text": "血中藥物濃度與肝傷害嚴重度相關" },
+      { "key": "C", "text": "若未發生肝衰竭，日後仍會演變成慢性肝病" },
+      { "key": "D", "text": "可能引起腎衰竭" }
+    ],
+    "answer": "C",
+    "explanation": "acetaminophen 典型為急性、與劑量相關的肝毒性；若度過急性期，多不會演變成慢性肝病。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_HEPATITIS_Q0008",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜丁 肝炎" },
+    "stem": "22 歲女性吞食不明量 acetaminophen 6 小時後就醫，嘔吐但生命徵象穩定。血中 acetaminophen 濃度 380 µg/mL，肝腎功能正常。下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "正常肝功能表示 acetaminophen 不會造成肝傷害" },
+      { "key": "B", "text": "應考慮立即使用 N-acetylcysteine 治療" },
+      { "key": "C", "text": "宜住院觀察 2–5 天" },
+      { "key": "D", "text": "長期飲酒史是 acetaminophen 肝傷害危險因子" }
+    ],
+    "answer": "A",
+    "explanation": "早期肝功能可仍正常，但仍可能在 24–72 小時後惡化；需依濃度/時間與風險評估，常需 NAC。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_HEPATITIS_Q0009",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜丁 肝炎" },
+    "stem": "下列有關酒精性肝病之敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "同量飲酒下，女性比男性耐受力差，較易肝傷害" },
+      { "key": "B", "text": "飲酒後易臉紅、心悸者，代表酒精代謝能力較強" },
+      { "key": "C", "text": "易感性與酒精代謝相關基因多型性有關" },
+      { "key": "D", "text": "酒精性肝硬化患者比病毒性肝硬化患者更易產生蜘蛛痣" }
+    ],
+    "answer": "B",
+    "explanation": "臉紅常與 ALDH2 活性低、乙醛堆積相關，反而不是代謝能力強。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_HEPATITIS_Q0010",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜丁 肝炎" },
+    "stem": "下列有關酒精問題之敘述，何者正確？",
+    "options": [
+      { "key": "A", "text": "酒精性肝病其血清肝臟酵素值通常 ALT 高於 AST" },
+      { "key": "B", "text": "酗酒者 CBC 常顯現小球性紅血球 (microcytosis)" },
+      { "key": "C", "text": "CAGE 問卷在篩檢酒精問題之實用價值不高" },
+      { "key": "D", "text": "女性飲酒超過建議量時，會增加罹患乳癌之風險" }
+    ],
+    "answer": "D",
+    "explanation": "女性飲酒與乳癌風險上升有關；酒精性肝病常見 AST>ALT；酗酒較常見巨球性（macrocytosis）；CAGE 為常用篩檢工具。"
   }
 
 
