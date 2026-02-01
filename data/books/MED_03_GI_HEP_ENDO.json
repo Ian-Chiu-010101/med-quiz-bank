@@ -820,7 +820,115 @@
     ],
     "answer": "B",
     "explanation": "血管攝影可在定位後進行栓塞/灌注治療；RBC scan 較敏感但定位不精確且不能治療。"
+  },
+  
+
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_GERD_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜戊 GERD｜初步處置" },
+    "stem": "成人典型 GERD（燒心/反酸），無警訊症狀時，最合理的初步策略為何？",
+    "options": [
+      { "key": "A", "text": "直接安排緊急胃鏡，不需藥物試驗" },
+      { "key": "B", "text": "先做 PPI 試驗治療（empiric PPI trial）" },
+      { "key": "C", "text": "先給長期抗生素" },
+      { "key": "D", "text": "先做糞便潛血檢查以確診" }
+    ],
+    "answer": "B",
+    "explanation": "典型症狀且無 alarm features 時，常以 PPI 試驗治療作為初步診斷/治療策略；是否需要內視鏡取決於警訊症狀、治療反應與風險因子。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_GERD_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜戊 GERD｜警訊" },
+    "stem": "下列何者屬 GERD 的警訊（alarm feature），應考慮安排上消化道內視鏡？",
+    "options": [
+      { "key": "A", "text": "吞嚥困難或吞嚥疼痛" },
+      { "key": "B", "text": "餐後短暫打嗝" },
+      { "key": "C", "text": "偶發反酸，無其他症狀" },
+      { "key": "D", "text": "症狀與壓力相關" }
+    ],
+    "answer": "A",
+    "explanation": "吞嚥困難/吞嚥疼痛、體重減輕、出血或貧血、持續嘔吐等屬警訊，需內視鏡排除狹窄、惡性或嚴重食道炎等。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_GERD_Q0003",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜戊 GERD｜診斷" },
+    "stem": "關於 GERD 的檢查與診斷，下列何者正確？",
+    "options": [
+      { "key": "A", "text": "所有 GERD 都必須靠胃鏡看到糜爛才算確診" },
+      { "key": "B", "text": "24 小時食道 pH 監測可用於症狀與檢查不一致時的評估" },
+      { "key": "C", "text": "胸部 X 光可作為 GERD 的確診工具" },
+      { "key": "D", "text": "糞便白血球陽性可支持 GERD" }
+    ],
+    "answer": "B",
+    "explanation": "GERD 可為非糜爛型（NERD），不一定胃鏡可見糜爛；pH（或 pH-impedance）監測可在診斷不確定、治療失敗或術前評估時使用。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_GERD_Q0004",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜戊 GERD｜Barrett" },
+    "stem": "Barrett 食道的典型定義為何？",
+    "options": [
+      { "key": "A", "text": "食道下段鱗狀上皮被柱狀上皮（腸上皮化生）取代" },
+      { "key": "B", "text": "胃黏膜廣泛糜爛" },
+      { "key": "C", "text": "十二指腸絨毛萎縮" },
+      { "key": "D", "text": "食道靜脈曲張" }
+    ],
+    "answer": "A",
+    "explanation": "Barrett 食道是慢性逆流造成的上皮改變，與食道腺癌風險增加相關，追蹤策略取決於是否有 dysplasia。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_GERD_Q0005",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜戊 GERD｜治療" },
+    "stem": "PPI 使用方式下列何者最正確（以控制典型逆流症狀為目的）？",
+    "options": [
+      { "key": "A", "text": "睡前服用效果最佳" },
+      { "key": "B", "text": "餐前 30–60 分鐘服用通常效果較佳" },
+      { "key": "C", "text": "與食物同時服用效果最佳" },
+      { "key": "D", "text": "只能舌下含服" }
+    ],
+    "answer": "B",
+    "explanation": "多數 PPI 在餐前服用可在進食後抑酸泵啟動時達到較佳抑酸效果（實務常建議餐前 30–60 分鐘）。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_GERD_Q0006",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜戊 GERD｜生活型態" },
+    "stem": "下列何者是對 GERD 症狀控制較有一致性證據支持的生活型態建議？",
+    "options": [
+      { "key": "A", "text": "睡前 1 小時大量進食" },
+      { "key": "B", "text": "抬高床頭（head-of-bed elevation）與減重（對過重者）" },
+      { "key": "C", "text": "完全禁水" },
+      { "key": "D", "text": "長期禁食" }
+    ],
+    "answer": "B",
+    "explanation": "減重（過重/肥胖者）與抬高床頭對夜間逆流較有幫助；其他飲食禁忌在不同人效果差異較大，可個別化。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_GERD_Q0007",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜戊 GERD｜併發症" },
+    "stem": "下列何者不是 GERD 的典型食道併發症？",
+    "options": [
+      { "key": "A", "text": "反覆食道炎（erosive esophagitis）" },
+      { "key": "B", "text": "食道狹窄（peptic stricture）" },
+      { "key": "C", "text": "Barrett 食道" },
+      { "key": "D", "text": "偽膜性大腸炎" }
+    ],
+    "answer": "D",
+    "explanation": "偽膜性大腸炎與 C. difficile 相關，非 GERD 併發症；其餘為 GERD 常見食道併發症。"
   }
+
 
 
 
