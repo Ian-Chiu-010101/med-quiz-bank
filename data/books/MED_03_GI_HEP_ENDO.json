@@ -3508,6 +3508,130 @@
     ],
     "answer": "B",
     "explanation": "在生命徵象穩定後，應儘早進行胃鏡以確定出血來源並進行內視鏡止血。"
+  },
+
+
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_IBD_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜辛 發炎性腸道疾病（IBD）" },
+    "stem": "下列關於潰瘍性結腸炎（ulcerative colitis）之敘述，何者正確？",
+    "options": [
+      { "key": "A", "text": "可侵犯整個消化道" },
+      { "key": "B", "text": "病灶呈跳躍式分布" },
+      { "key": "C", "text": "一定侵犯直腸並向近端連續擴展" },
+      { "key": "D", "text": "常出現肛門廔管" }
+    ],
+    "answer": "C",
+    "explanation": "潰瘍性結腸炎一定侵犯直腸，並呈連續性向近端擴展；跳躍式病灶與肛門廔管較屬 Crohn disease。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_IBD_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜辛 發炎性腸道疾病（IBD）" },
+    "stem": "下列何者較符合 Crohn disease 的臨床或病理特徵？",
+    "options": [
+      { "key": "A", "text": "只侵犯黏膜層" },
+      { "key": "B", "text": "連續性病灶" },
+      { "key": "C", "text": "全層發炎（transmural inflammation）" },
+      { "key": "D", "text": "僅侷限於結腸" }
+    ],
+    "answer": "C",
+    "explanation": "Crohn disease 可侵犯整個消化道，病灶跳躍分布，且為全層發炎，易產生廔管與狹窄。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_IBD_Q0003",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜辛 發炎性腸道疾病（IBD）" },
+    "stem": "關於 IBD 的腸外表現（extraintestinal manifestations），下列何者正確？",
+    "options": [
+      { "key": "A", "text": "僅影響腸道，不會有其他器官表現" },
+      { "key": "B", "text": "可合併關節炎、皮膚與眼睛病變" },
+      { "key": "C", "text": "只出現在潰瘍性結腸炎" },
+      { "key": "D", "text": "只在感染時出現" }
+    ],
+    "answer": "B",
+    "explanation": "IBD 常合併關節炎、結節性紅斑、葡萄膜炎等腸外表現，與疾病活動度相關。"
+  },
+
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_IBS_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜壬 腸躁症（IBS）" },
+    "stem": "下列何者最符合腸躁症（IBS）的診斷特徵？",
+    "options": [
+      { "key": "A", "text": "結構性腸道病變" },
+      { "key": "B", "text": "反覆腹痛與排便習慣改變，但檢查無器質性異常" },
+      { "key": "C", "text": "一定伴隨體重減輕與貧血" },
+      { "key": "D", "text": "糞便潛血一定陽性" }
+    ],
+    "answer": "B",
+    "explanation": "IBS 為功能性腸道疾病，症狀明顯但無結構性或生化異常。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_IBS_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜壬 腸躁症（IBS）" },
+    "stem": "下列何者為腸躁症的警訊症狀（alarm feature），若出現需進一步檢查？",
+    "options": [
+      { "key": "A", "text": "壓力時腹瀉加重" },
+      { "key": "B", "text": "夜間腹痛痛醒" },
+      { "key": "C", "text": "進食後腹脹" },
+      { "key": "D", "text": "症狀與排便有關" }
+    ],
+    "answer": "B",
+    "explanation": "夜間症狀、體重減輕、貧血、出血等為警訊，需排除器質性疾病。"
+  },
+
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_DIARRHEA_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜癸 腹瀉與便秘" },
+    "stem": "慢性腹瀉的定義，下列何者正確？",
+    "options": [
+      { "key": "A", "text": "腹瀉持續超過 3 天" },
+      { "key": "B", "text": "腹瀉持續超過 1 週" },
+      { "key": "C", "text": "腹瀉持續超過 4 週" },
+      { "key": "D", "text": "任何反覆腹瀉皆屬慢性" }
+    ],
+    "answer": "C",
+    "explanation": "腹瀉超過 4 週定義為慢性腹瀉，需進行系統性鑑別。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_DIARRHEA_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜癸 腹瀉與便秘" },
+    "stem": "下列何者屬於腹瀉的警訊症狀，需考慮器質性疾病？",
+    "options": [
+      { "key": "A", "text": "壓力大時腹瀉" },
+      { "key": "B", "text": "腹瀉合併體重減輕與貧血" },
+      { "key": "C", "text": "進食後腹瀉" },
+      { "key": "D", "text": "腹瀉與排便次數增加" }
+    ],
+    "answer": "B",
+    "explanation": "體重減輕、貧血、夜間症狀或血便為腹瀉警訊，需排除惡性腫瘤或 IBD。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_CONSTIPATION_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜癸 腹瀉與便秘" },
+    "stem": "關於便秘的處置原則，下列何者最正確？",
+    "options": [
+      { "key": "A", "text": "一開始就長期使用刺激性瀉藥" },
+      { "key": "B", "text": "評估生活型態與藥物，先調整飲食與纖維攝取" },
+      { "key": "C", "text": "所有便秘都需做大腸鏡" },
+      { "key": "D", "text": "便秘與全身疾病無關" }
+    ],
+    "answer": "B",
+    "explanation": "便秘處置應先從生活型態、飲食與藥物檢視開始，必要時再使用藥物或進一步檢查。"
   }
 
 
