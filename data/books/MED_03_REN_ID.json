@@ -371,6 +371,162 @@
     ],
     "answer": "A",
     "explanation": "壞死性筋膜炎常見「疼痛與外觀不成比例」，需緊急手術與廣效抗生素。"
+  },
+
+
+  {
+    "id": "MED3_RENAL_INF_DER_SEPSIS_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜甲 發燒與敗血症｜初期處置" },
+    "stem": "懷疑敗血症（sepsis）時，下列哪一項最符合「第一時間處置」的優先順序？",
+    "options": [
+      { "key": "A", "text": "先等血液培養結果再給抗生素" },
+      { "key": "B", "text": "先做完整影像學檢查再開始治療" },
+      { "key": "C", "text": "同時抽培養並盡早給予經驗性抗生素與液體復甦" },
+      { "key": "D", "text": "只有發燒才需要抗生素" }
+    ],
+    "answer": "C",
+    "explanation": "敗血症的關鍵是「及早復甦＋及早抗生素＋同時做培養」。等待培養或延後治療會增加死亡風險；影像可協助找感染源但不應延誤初始治療。"
+  },
+  {
+    "id": "MED3_RENAL_INF_DER_SEPSIS_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED_03_RENAL_INF" },
+    "location": { "section": "第二篇 感染科｜甲 發燒與敗血症｜敗血性休克" },
+    "stem": "下列哪一項最符合敗血性休克（septic shock）的臨床概念？",
+    "options": [
+      { "key": "A", "text": "任何血液培養陽性皆為 septic shock" },
+      { "key": "B", "text": "感染造成器官功能障礙，但血壓可維持" },
+      { "key": "C", "text": "感染合併循環衰竭，充分補液後仍需升壓劑維持灌流" },
+      { "key": "D", "text": "只有發燒與白血球上升" }
+    ],
+    "answer": "C",
+    "explanation": "Sepsis 是感染合併器官功能障礙；septic shock 是更嚴重的循環/代謝異常狀態，通常需要升壓劑（在充分補液後）以維持灌流壓。"
+  },
+
+  {
+    "id": "MED3_RENAL_INF_DER_ABX_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED_03_RENAL_INF" },
+    "location": { "section": "第二篇 感染科｜乙 抗生素原則｜降階" },
+    "stem": "經驗性廣效抗生素治療後，培養結果回報單一敏感菌株且臨床穩定。最符合抗生素 stewardship 的下一步為何？",
+    "options": [
+      { "key": "A", "text": "維持原廣效抗生素直到療程結束" },
+      { "key": "B", "text": "立即停用所有抗生素" },
+      { "key": "C", "text": "依藥敏結果進行降階（de-escalation）到窄效治療" },
+      { "key": "D", "text": "改用更廣效抗生素避免復發" }
+    ],
+    "answer": "C",
+    "explanation": "降階可降低抗藥性壓力與藥物不良反應，且在培養與臨床資訊支持下通常不降低療效。"
+  },
+  {
+    "id": "MED3_RENAL_INF_DER_ABX_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED_03_RENAL_INF" },
+    "location": { "section": "第二篇 感染科｜乙 抗生素原則｜腎功能" },
+    "stem": "下列何者最正確描述「CKD 病人使用抗生素」的安全原則？",
+    "options": [
+      { "key": "A", "text": "只要不是 aminoglycoside 就不需調整劑量" },
+      { "key": "B", "text": "多數需腎排除藥物應依 eGFR 調整劑量或給藥間隔" },
+      { "key": "C", "text": "腎功能越差應使用越高劑量" },
+      { "key": "D", "text": "腎功能不影響藥物蓄積" }
+    ],
+    "answer": "B",
+    "explanation": "CKD 會降低多數腎排除抗生素清除率，需依 eGFR 調整劑量/間隔，以避免蓄積毒性與不必要的腎損傷。"
+  },
+
+  {
+    "id": "MED3_RENAL_INF_DER_PNA_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED_03_RENAL_INF" },
+    "location": { "section": "第二篇 感染科｜丙 肺炎｜CAP vs HAP" },
+    "stem": "住院第 3 天出現新發咳嗽、發燒與肺浸潤影，最符合哪一種肺炎分類？",
+    "options": [
+      { "key": "A", "text": "社區型肺炎（CAP）" },
+      { "key": "B", "text": "院內型肺炎（HAP）" },
+      { "key": "C", "text": "吸入性肺炎（aspiration pneumonia）一定是" },
+      { "key": "D", "text": "以上皆非" }
+    ],
+    "answer": "B",
+    "explanation": "HAP 通常定義為住院 ≥48 小時後發生的肺炎。分類重點在時序與抗藥性風險，吸入性是病理機轉之一，不能單靠分類等同。"
+  },
+  {
+    "id": "MED3_RENAL_INF_DER_PNA_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED_03_RENAL_INF" },
+    "location": { "section": "第二篇 感染科｜丙 肺炎｜非典型菌" },
+    "stem": "社區型肺炎若要涵蓋「非典型致病菌（atypical pathogens）」的經驗性治療考量，下列哪一類藥物最常用於涵蓋？",
+    "options": [
+      { "key": "A", "text": "β-lactam 單用即可" },
+      { "key": "B", "text": "Macrolide 或 doxycycline（或呼吸道 fluoroquinolone）" },
+      { "key": "C", "text": "抗黴菌藥" },
+      { "key": "D", "text": "抗病毒藥單用" }
+    ],
+    "answer": "B",
+    "explanation": "非典型菌（如 Mycoplasma、Chlamydophila、Legionella）缺乏典型細胞壁結構或表現不同，常需 macrolide/doxycycline 或呼吸道 FQ 來涵蓋；β-lactam 單用不一定涵蓋。"
+  },
+
+  {
+    "id": "MED3_RENAL_INF_DER_UTI_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED_03_RENAL_INF" },
+    "location": { "section": "第二篇 感染科｜丁 泌尿道感染｜上 vs 下" },
+    "stem": "下列哪一項臨床表現最支持「腎盂腎炎（pyelonephritis）」而非單純膀胱炎？",
+    "options": [
+      { "key": "A", "text": "頻尿、急尿" },
+      { "key": "B", "text": "排尿灼熱感" },
+      { "key": "C", "text": "發燒合併肋脊角叩擊痛（CVA tenderness）" },
+      { "key": "D", "text": "尿液混濁" }
+    ],
+    "answer": "C",
+    "explanation": "腎盂腎炎屬上泌尿道感染，常見全身症狀（發燒、寒顫）與 CVA tenderness；膀胱炎多為下泌尿道症狀為主。"
+  },
+  {
+    "id": "MED3_RENAL_INF_DER_UTI_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED_03_RENAL_INF" },
+    "location": { "section": "第二篇 感染科｜丁 泌尿道感染｜複雜性" },
+    "stem": "下列哪一項最符合「複雜性 UTI」的概念（通常需要更完整評估與療程）？",
+    "options": [
+      { "key": "A", "text": "健康非孕女性單純膀胱炎" },
+      { "key": "B", "text": "男性 UTI 或合併尿路結構異常/導尿管" },
+      { "key": "C", "text": "只有尿液培養陰性" },
+      { "key": "D", "text": "症狀輕微即可視為單純" }
+    ],
+    "answer": "B",
+    "explanation": "男性、孕婦、免疫低下、尿路阻塞/結構異常或導尿管相關感染常視為複雜性 UTI，抗藥性與併發症風險較高。"
+  },
+
+  {
+    "id": "MED3_RENAL_INF_DER_SSTI_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED_03_RENAL_INF" },
+    "location": { "section": "第二篇 感染科｜戊 皮膚軟組織感染｜壞死性筋膜炎" },
+    "stem": "懷疑壞死性筋膜炎時，下列哪一項處置最符合「救命關鍵」？",
+    "options": [
+      { "key": "A", "text": "先口服抗生素觀察 48 小時" },
+      { "key": "B", "text": "等待影像學確診後才處理" },
+      { "key": "C", "text": "緊急外科評估與手術清創，並合併廣效抗生素" },
+      { "key": "D", "text": "只要退燒即可" }
+    ],
+    "answer": "C",
+    "explanation": "壞死性筋膜炎進展快、致死率高，治療核心是及早手術清創＋廣效抗生素；影像可輔助但不能延誤手術時機。"
+  },
+  {
+    "id": "MED3_RENAL_INF_DER_SSTI_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED_03_RENAL_INF" },
+    "location": { "section": "第二篇 感染科｜戊 皮膚軟組織感染｜蜂窩組織炎 vs 膿瘍" },
+    "stem": "皮膚軟組織感染中，若臨床上懷疑「膿瘍（abscess）」形成，下列哪一項原則最正確？",
+    "options": [
+      { "key": "A", "text": "只要抗生素即可，不需處置" },
+      { "key": "B", "text": "切開引流（I&D）常是治療核心，必要時再合併抗生素" },
+      { "key": "C", "text": "一定要先做 MRI 才能治療" },
+      { "key": "D", "text": "膿瘍與蜂窩組織炎處置完全相同" }
+    ],
+    "answer": "B",
+    "explanation": "膿瘍的關鍵是排膿（I&D）；抗生素是輔助，依嚴重度、全身症狀或高風險族群決定是否加用。"
   }
 
 
