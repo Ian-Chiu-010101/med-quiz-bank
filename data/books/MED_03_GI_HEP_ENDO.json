@@ -197,6 +197,235 @@
     "answer": "A",
     "explanation": "硬皮症可造成食道蠕動降低且 LES 無法有效收縮，故常合併 GERD/heartburn；與 achalasia（LES 放鬆不全）相反。"
   }
+,
+  
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_AP_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜乙 腹痛" },
+    "stem": "25 歲女性來急診室主訴 3 天前開始噁心，肚臍周圍及上腹疼痛，隔天疼痛轉移到右下腹部，且疼痛加劇。這時候開始發燒、畏寒。關於此問題的診療及處置，下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "病史詢問需要考慮泌尿道及婦產科方面的問題，包括子宮內膜異位、子宮外孕以及骨盆腔發炎都是有可能的診斷" },
+      { "key": "B", "text": "身體診察上要注意右下腹部的檢查。在 McBurney's point 上有壓痛的情形即為 Rovsing's sign 陽性，需要懷疑是急性闌尾炎" },
+      { "key": "C", "text": "若沒有懷孕的可能，可以安排電腦斷層檢查以協助診斷。急性闌尾炎常會看到闌尾壁變厚、周遭發炎，但不一定會看到糞石" },
+      { "key": "D", "text": "若闌尾破裂被腸繫膜包住形成局部膿瘍，需要給與廣效抗生素並考慮安排引流；手術切除可延後至局部發炎改善後再進行" }
+    ],
+    "answer": "B",
+    "explanation": "McBurney's point 壓痛是闌尾炎常見的局部壓痛點；Rovsing's sign 是觸診左下腹時誘發右下腹壓痛，提示右下腹腹膜刺激。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_AP_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜乙 腹痛" },
+    "stem": "一位 18 歲男性因 8 小時前開始腹痛而來急診，伴隨些微噁心、食慾不佳，無發燒。腹痛原本在肚臍周圍，到院時轉移到右下腹。理學檢查：腸音稍慢，右下腹壓痛，無反彈痛，有腰大肌徵象（psoas sign）。依目前研究證據，你認為下列哪一項症狀或徵象對於懷疑闌尾炎的敏感度最高？",
+    "options": [
+      { "key": "A", "text": "腰大肌徵象（psoas sign）" },
+      { "key": "B", "text": "轉移痛（migration pain）" },
+      { "key": "C", "text": "右下腹痛（right lower quadrant pain）" },
+      { "key": "D", "text": "發燒（fever）" }
+    ],
+    "answer": "C",
+    "explanation": "在常見臨床徵象中，右下腹壓痛/右下腹痛對闌尾炎的敏感度通常高於 psoas sign、發燒等；後者較偏向特異性或較晚期表現。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_AP_Q0003",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜乙 腹痛" },
+    "stem": "下列那幾項敘述是正確的？(1) 心上腹痛原因不包括急性膽囊炎 (2) 急性大腸憩室炎的壓痛點為 McBurney point (3) 急性胰臟炎容易輻射痛至右側肩膀 (4) 脾臟膿瘍容易輻射痛至左側肩膀 (5) 腹主動脈瘤剝離之疼痛可能傳導至肩膀區域",
+    "options": [
+      { "key": "A", "text": "(1)(2)" },
+      { "key": "B", "text": "(1)(4)" },
+      { "key": "C", "text": "(4)(5)" },
+      { "key": "D", "text": "(1)(5)" }
+    ],
+    "answer": "C",
+    "explanation": "(4) 左肩放射痛可見於脾臟相關病灶（Kehr sign）。(5) 主動脈病變疼痛可放射至背部、肩胛/肩區。其餘敘述：急性膽囊炎可呈上腹/心窩痛；憩室炎多為左下腹壓痛；急性胰臟炎常放射至背部。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_AP_Q0004",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜乙 腹痛" },
+    "stem": "病人主訴急性上腹疼痛、噁心嘔吐，腹部電腦斷層檢查呈現如圖，下列哪一項診斷最正確？",
+    "options": [
+      { "key": "A", "text": "acute gastritis" },
+      { "key": "B", "text": "ischemic bowel disease" },
+      { "key": "C", "text": "acute duodenitis" },
+      { "key": "D", "text": "acute pancreatitis" }
+    ],
+    "answer": "D",
+    "explanation": "影像呈現腹部中央腫脹的胰臟外觀，符合急性胰臟炎。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_AP_Q0005",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜乙 腹痛" },
+    "stem": "68 歲女性因肚臍周圍疼痛合併噁心嘔吐至急診，理學檢查體溫 37.5°C，肚臍周圍有壓痛。WBC 14,500/µL，segment 85%。腹部電腦斷層結果如圖，最可能的診斷為何？",
+    "options": [
+      { "key": "A", "text": "acute appendicitis" },
+      { "key": "B", "text": "ventral hernia" },
+      { "key": "C", "text": "acute diverticulitis" },
+      { "key": "D", "text": "adynamic ileus" }
+    ],
+    "answer": "B",
+    "explanation": "CT 可見含氣腸管向腹壁間突出，符合 ventral hernia。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_AP_Q0006",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜乙 腹痛" },
+    "stem": "34 歲男性因急性上腹痛至急診。長期飲酒史。無發燒、無腹瀉、無輻射性疼痛，但有輕微冒冷汗；身體向前傾可減輕疼痛。上腹廣泛性觸痛，無 shifting dullness。下列何者並非此病人所需之第一線血液檢查？",
+    "options": [
+      { "key": "A", "text": "ALT (GPT), AST (GOT)" },
+      { "key": "B", "text": "WBC" },
+      { "key": "C", "text": "amylase" },
+      { "key": "D", "text": "CEA" }
+    ],
+    "answer": "D",
+    "explanation": "前傾可減輕疼痛提示後腹腔病灶，合併飲酒史需懷疑急性胰臟炎；第一線應評估發炎與胰臟酵素並同時檢查肝膽指數以排除膽道性胰臟炎。CEA 非急性上腹痛/急性胰臟炎第一線檢驗。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_AP_Q0007",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜乙 腹痛" },
+    "stem": "43 歲女性主訴昨天開始肚臍周圍疼痛，今天疼痛轉移到右下腹，同時合併嘔吐、噁心。她最有可能是什麼問題？",
+    "options": [
+      { "key": "A", "text": "憩室炎" },
+      { "key": "B", "text": "闌尾炎" },
+      { "key": "C", "text": "卵巢炎" },
+      { "key": "D", "text": "腸胃炎" }
+    ],
+    "answer": "B",
+    "explanation": "闌尾炎常先為肚臍周圍痛、噁心嘔吐，之後疼痛轉移至右下腹，並可能合併 psoas sign 或 obturator sign。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_AP_Q0008",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜乙 腹痛" },
+    "stem": "下列有關急性闌尾炎（acute appendicitis）的敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "腹痛通常發生於上腹部或肚臍周圍，12 小時後可能移到右下腹部" },
+      { "key": "B", "text": "急性發炎若未處置，36 小時內可能形成壞疽、穿孔" },
+      { "key": "C", "text": "若無 psoas sign 或 obturator sign 出現，即可排除此診斷" },
+      { "key": "D", "text": "白血球可能上升到 10,000 至 20,000/µL" }
+    ],
+    "answer": "C",
+    "explanation": "psoas/obturator sign 並非必然出現，陰性不能排除闌尾炎；其餘為常見臨床描述。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_AP_Q0009",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜乙 腹痛" },
+    "stem": "右下腹痛常見原因不包括下列何者？",
+    "options": [
+      { "key": "A", "text": "闌尾炎（appendicitis）" },
+      { "key": "B", "text": "腹股溝疝氣（inguinal hernia）" },
+      { "key": "C", "text": "骨盆腔發炎（pelvic inflammatory disease）" },
+      { "key": "D", "text": "猛爆性肝炎（fulminant hepatitis）" }
+    ],
+    "answer": "D",
+    "explanation": "猛爆性肝炎多見右上腹不適或全身性表現，並非典型右下腹痛原因。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_AP_Q0010",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜乙 腹痛" },
+    "stem": "75 歲男性最近食慾變差，腹脹、上腹痛且有反胃、嘔吐。其腹部 X 光如下，最為適當的診斷為何？",
+    "options": [
+      { "key": "A", "text": "消化道穿孔（perforation）" },
+      { "key": "B", "text": "胃出口阻塞（gastric outlet obstruction）" },
+      { "key": "C", "text": "大腸腫瘤（colon tumor）" },
+      { "key": "D", "text": "糞便阻塞（stool impaction）" }
+    ],
+    "answer": "B",
+    "explanation": "X 光可見胃內明顯 air-fluid level 且缺乏大小腸氣體，較符合阻塞位於胃出口；大腸腫瘤/糞便阻塞常可見腸道擴張；穿孔則須見腹腔 free air。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORIG_AP_Q0011",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜乙 腹痛" },
+    "stem": "29 歲男性因急性上腹痛就診，上腹壓痛並有輕微反彈痛，無黃疸，體溫 37.0°C。檢驗：WBC 9,800/mm3，ALT 58，AST 139，ALP 108，GGT 380，amylase 785，lipase 859。下列處置何者最不適宜？",
+    "options": [
+      { "key": "A", "text": "宜立即給予抗生素治療" },
+      { "key": "B", "text": "宜安排腹部超音波檢查" },
+      { "key": "C", "text": "宜加強詢問喝酒史與藥物服用史" },
+      { "key": "D", "text": "宜開立禁食之醫囑" }
+    ],
+    "answer": "A",
+    "explanation": "臨床與胰臟酵素高度上升符合急性胰臟炎。抗生素並非常規治療，除非懷疑感染性壞死、膽管炎或其他明確感染來源；超音波可評估膽道病因，禁食與病史釐清均合理。"
+  },
+
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_AP_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜乙 腹痛｜鑑別" },
+    "stem": "腹痛「先肚臍周圍（visceral pain）後轉移至右下腹（parietal pain）」最典型提示哪個診斷？",
+    "options": [
+      { "key": "A", "text": "急性闌尾炎" },
+      { "key": "B", "text": "急性膽囊炎" },
+      { "key": "C", "text": "急性胰臟炎" },
+      { "key": "D", "text": "憩室炎（典型左下腹）" }
+    ],
+    "answer": "A",
+    "explanation": "闌尾炎早期為內臟痛（T10，肚臍周圍），當壁層腹膜受刺激後轉為局部右下腹痛。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_AP_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜乙 腹痛｜理學" },
+    "stem": "Rovsing's sign 的正確描述為何？",
+    "options": [
+      { "key": "A", "text": "壓左下腹誘發右下腹痛" },
+      { "key": "B", "text": "壓 McBurney point 即為陽性" },
+      { "key": "C", "text": "伸直右髖關節誘發右下腹痛" },
+      { "key": "D", "text": "內旋右髖關節誘發右下腹痛" }
+    ],
+    "answer": "A",
+    "explanation": "Rovsing's sign 代表對側觸診牽動發炎腹膜，引出右下腹痛；(C) 近似 psoas sign，(D) 近似 obturator sign。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_AP_Q0003",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜乙 腹痛｜胰臟炎" },
+    "stem": "診斷急性胰臟炎常用的標準為何？",
+    "options": [
+      { "key": "A", "text": "符合下列三項中任兩項：典型上腹痛、胰臟酵素上升（常取 ≥3 倍上限）、影像支持" },
+      { "key": "B", "text": "只要 amylase 上升就能確診" },
+      { "key": "C", "text": "必須有黃疸才算胰臟炎" },
+      { "key": "D", "text": "一定需要手術才算確診" }
+    ],
+    "answer": "A",
+    "explanation": "急性胰臟炎以「臨床症狀＋酵素＋影像」三者取二即可診斷；單靠 amylase 不夠特異。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_AP_Q0004",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第一篇 腸胃內科｜乙 腹痛｜胰臟炎處置" },
+    "stem": "對多數急性胰臟炎病人，下列何者是正確的初期處置原則？",
+    "options": [
+      { "key": "A", "text": "以支持性治療為主（輸液、止痛、營養/禁食策略），抗生素非例行" },
+      { "key": "B", "text": "所有人一律立即給廣效抗生素" },
+      { "key": "C", "text": "一律立即安排剖腹探查" },
+      { "key": "D", "text": "只要 lipase 高就直接溶栓治療" }
+    ],
+    "answer": "A",
+    "explanation": "抗生素僅在感染性壞死、膽管炎或明確感染時使用；多數急性胰臟炎初期以支持性治療為主。"
+  }
+
 
 
 ]
