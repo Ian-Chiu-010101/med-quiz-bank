@@ -3632,6 +3632,164 @@
     ],
     "answer": "B",
     "explanation": "便秘處置應先從生活型態、飲食與藥物檢視開始，必要時再使用藥物或進一步檢查。"
+  },
+
+
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_HEP_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第二篇 肝膽內科｜甲 肝炎" },
+    "stem": "下列何者最不可能造成慢性肝炎？",
+    "options": [
+      { "key": "A", "text": "B 型肝炎病毒" },
+      { "key": "B", "text": "C 型肝炎病毒" },
+      { "key": "C", "text": "A 型肝炎病毒" },
+      { "key": "D", "text": "酒精性肝病" }
+    ],
+    "answer": "C",
+    "explanation": "A 型肝炎為急性自限性感染，不會造成慢性肝炎；B、C 型肝炎與酒精性肝病皆可導致慢性肝炎。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_HEP_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO" },
+    "location": { "section": "第二篇 肝膽內科｜甲 肝炎" },
+    "stem": "關於 B 型肝炎血清標記的解讀，下列何者正確？",
+    "options": [
+      { "key": "A", "text": "HBsAg 陽性代表具有免疫力" },
+      { "key": "B", "text": "Anti-HBs 陽性代表曾感染且仍具傳染性" },
+      { "key": "C", "text": "HBsAg 陽性代表目前仍有病毒存在" },
+      { "key": "D", "text": "Anti-HBc IgM 陽性代表慢性感染" }
+    ],
+    "answer": "C",
+    "explanation": "HBsAg 陽性表示體內仍有 B 型肝炎病毒存在；Anti-HBs 代表免疫；Anti-HBc IgM 為急性感染指標。"
+  },
+
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_CIRRHOSIS_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO" },
+    "location": { "section": "第二篇 肝膽內科｜乙 肝硬化" },
+    "stem": "下列何者不是肝硬化常見的臨床表現？",
+    "options": [
+      { "key": "A", "text": "蜘蛛痣" },
+      { "key": "B", "text": "男性女乳症" },
+      { "key": "C", "text": "門脈高壓" },
+      { "key": "D", "text": "高血鈣" }
+    ],
+    "answer": "D",
+    "explanation": "肝硬化常見內分泌與血流動力學異常，但高血鈣並非典型表現。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_CIRRHOSIS_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO" },
+    "location": { "section": "第二篇 肝膽內科｜乙 肝硬化" },
+    "stem": "Child-Pugh score 中不包含下列哪一項？",
+    "options": [
+      { "key": "A", "text": "腹水" },
+      { "key": "B", "text": "肝性腦病變" },
+      { "key": "C", "text": "血清白蛋白" },
+      { "key": "D", "text": "血清肌酸酐" }
+    ],
+    "answer": "D",
+    "explanation": "Child-Pugh 包含腹水、肝性腦病變、bilirubin、albumin、PT/INR；腎功能屬 MELD score。"
+  },
+
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_PORTAL_HTN_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO" },
+    "location": { "section": "第二篇 肝膽內科｜丙 門脈高壓" },
+    "stem": "肝硬化病人最常見造成死亡的併發症為何？",
+    "options": [
+      { "key": "A", "text": "肝細胞癌" },
+      { "key": "B", "text": "肝性腦病變" },
+      { "key": "C", "text": "食道靜脈曲張出血" },
+      { "key": "D", "text": "膽囊炎" }
+    ],
+    "answer": "C",
+    "explanation": "食道靜脈曲張破裂出血是肝硬化最致命的併發症之一。"
+  },
+
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_ASCITES_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO" },
+    "location": { "section": "第二篇 肝膽內科｜丁 腹水" },
+    "stem": "評估腹水最重要的初步檢查為何？",
+    "options": [
+      { "key": "A", "text": "腹部 CT" },
+      { "key": "B", "text": "腹水穿刺分析" },
+      { "key": "C", "text": "腹部 X 光" },
+      { "key": "D", "text": "腫瘤標記" }
+    ],
+    "answer": "B",
+    "explanation": "腹水穿刺可分析 SAAG、感染與惡性可能，是評估腹水的關鍵。"
+  },
+
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_HE_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO" },
+    "location": { "section": "第二篇 肝膽內科｜戊 肝性腦病變" },
+    "stem": "治療肝性腦病變最常使用的第一線藥物為何？",
+    "options": [
+      { "key": "A", "text": "Lactulose" },
+      { "key": "B", "text": "Metronidazole" },
+      { "key": "C", "text": "Propranolol" },
+      { "key": "D", "text": "Omeprazole" }
+    ],
+    "answer": "A",
+    "explanation": "Lactulose 可降低腸道氨吸收，是肝性腦病變第一線治療。"
+  },
+
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_HCC_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO" },
+    "location": { "section": "第二篇 肝膽內科｜己 肝細胞癌" },
+    "stem": "下列何者為肝細胞癌（HCC）最重要的危險因子？",
+    "options": [
+      { "key": "A", "text": "慢性 B 型或 C 型肝炎" },
+      { "key": "B", "text": "膽結石" },
+      { "key": "C", "text": "急性胰臟炎" },
+      { "key": "D", "text": "胃食道逆流" }
+    ],
+    "answer": "A",
+    "explanation": "慢性病毒性肝炎與肝硬化是 HCC 最重要的危險因子。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_HCC_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO" },
+    "location": { "section": "第二篇 肝膽內科｜己 肝細胞癌" },
+    "stem": "關於肝細胞癌的篩檢，下列何者正確？",
+    "options": [
+      { "key": "A", "text": "所有人一生只需做一次超音波" },
+      { "key": "B", "text": "高危險群建議定期腹部超音波追蹤" },
+      { "key": "C", "text": "只需追蹤 AFP 即可" },
+      { "key": "D", "text": "沒有篩檢必要" }
+    ],
+    "answer": "B",
+    "explanation": "慢性肝病與肝硬化病人屬高危險群，建議定期腹部超音波（±AFP）篩檢 HCC。"
+  },
+
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_BILIARY_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO" },
+    "location": { "section": "第二篇 肝膽內科｜庚 膽道疾病" },
+    "stem": "Charcot triad 指的是下列哪三項症狀？",
+    "options": [
+      { "key": "A", "text": "發燒、黃疸、右上腹痛" },
+      { "key": "B", "text": "發燒、腹瀉、嘔吐" },
+      { "key": "C", "text": "黃疸、黑便、腹痛" },
+      { "key": "D", "text": "腹痛、便秘、發燒" }
+    ],
+    "answer": "A",
+    "explanation": "Charcot triad 為急性膽管炎典型表現：發燒、黃疸、右上腹痛。"
   }
 
 
