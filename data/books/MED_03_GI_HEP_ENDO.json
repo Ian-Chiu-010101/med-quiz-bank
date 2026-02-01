@@ -2051,6 +2051,312 @@
     ],
     "answer": "B",
     "explanation": "Charcot triad：發燒（感染）+ 右上腹痛（膽道）+ 黃疸（阻塞）。嚴重者可進一步出現意識改變與低血壓（Reynolds pentad）。"
+  },
+
+
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_DM_DIAG_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜甲 糖尿病｜診斷" },
+    "stem": "下列何者符合糖尿病診斷（一般情境，需同日或不同日重複確認；除非有典型高血糖症狀）？",
+    "options": [
+      { "key": "A", "text": "空腹血糖 118 mg/dL" },
+      { "key": "B", "text": "HbA1c 6.4%" },
+      { "key": "C", "text": "空腹血糖 126 mg/dL" },
+      { "key": "D", "text": "2 小時 OGTT 160 mg/dL" }
+    ],
+    "answer": "C",
+    "explanation": "糖尿病診斷門檻包含：FPG ≥126、A1c ≥6.5%、2hr OGTT ≥200、或 random glucose ≥200 且有典型症狀。118/6.4/160 皆未達診斷。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_DM_DIAG_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜甲 糖尿病｜前期糖尿病" },
+    "stem": "下列何者屬前期糖尿病（prediabetes）的範圍？",
+    "options": [
+      { "key": "A", "text": "HbA1c 5.2%" },
+      { "key": "B", "text": "空腹血糖 90 mg/dL" },
+      { "key": "C", "text": "HbA1c 6.1%" },
+      { "key": "D", "text": "2 小時 OGTT 210 mg/dL" }
+    ],
+    "answer": "C",
+    "explanation": "Prediabetes：A1c 5.7–6.4%、FPG 100–125、2hr OGTT 140–199。2hr 210 已是糖尿病。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_DM_DIAG_Q0003",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜甲 糖尿病｜檢驗限制" },
+    "stem": "下列何種情況會讓 HbA1c 可能低估真實平均血糖，因此不適合單獨依賴 HbA1c 做診斷？",
+    "options": [
+      { "key": "A", "text": "鐵缺乏性貧血" },
+      { "key": "B", "text": "溶血或紅血球壽命縮短" },
+      { "key": "C", "text": "慢性腎臟病合併尿毒" },
+      { "key": "D", "text": "高劑量維他命 C" }
+    ],
+    "answer": "B",
+    "explanation": "HbA1c 反映紅血球暴露於葡萄糖的時間；紅血球壽命縮短（溶血、近期大量失血/輸血等）會造成 A1c 偏低。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_DM_DIAG_Q0004",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜甲 糖尿病｜併發症篩檢" },
+    "stem": "新診斷第二型糖尿病病人，下列哪一項併發症篩檢應立即開始（而非等數年）？",
+    "options": [
+      { "key": "A", "text": "視網膜病變檢查" },
+      { "key": "B", "text": "神經傳導檢查" },
+      { "key": "C", "text": "腦部 MRI" },
+      { "key": "D", "text": "骨髓檢查" }
+    ],
+    "answer": "A",
+    "explanation": "T2DM 在診斷時可能已存在多年，因此視網膜、腎臟（UACR/eGFR）、足部神經/血管評估常在診斷後即開始。"
+  },
+
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_DKA_HHS_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜乙 糖尿病急症｜DKA" },
+    "stem": "糖尿病酮酸中毒（DKA）的核心診斷特徵組合為何？",
+    "options": [
+      { "key": "A", "text": "高血糖 + 代謝性酸中毒 + 酮體上升" },
+      { "key": "B", "text": "低血糖 + 呼吸性酸中毒 + 乳酸上升" },
+      { "key": "C", "text": "高血糖 + 代謝性鹼中毒 + 鉀上升" },
+      { "key": "D", "text": "正常血糖 + 代謝性酸中毒 + 無酮體" }
+    ],
+    "answer": "A",
+    "explanation": "DKA 本質是胰島素不足造成脂肪分解→酮體生成，合併高血糖與高陰離子間隙代謝性酸中毒。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_DKA_HHS_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜乙 糖尿病急症｜初始處置" },
+    "stem": "DKA/HHS 初始處置最優先的第一步通常是？",
+    "options": [
+      { "key": "A", "text": "立刻推注大量胰島素，不需輸液" },
+      { "key": "B", "text": "先補液（復甦循環），再視鉀與酸鹼狀態開始胰島素" },
+      { "key": "C", "text": "立即給碳酸氫鈉，所有病人都需要" },
+      { "key": "D", "text": "先給利尿劑排糖" }
+    ],
+    "answer": "B",
+    "explanation": "初期多為嚴重脫水；輸液可改善循環與胰島素敏感性。胰島素開始前需確認血鉀（低鉀需先補鉀）。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_DKA_HHS_Q0003",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜乙 糖尿病急症｜鉀" },
+    "stem": "DKA 病人抽血顯示 K+ 3.0 mEq/L。下列處置何者最正確？",
+    "options": [
+      { "key": "A", "text": "立即開始胰島素輸注，鉀不用管" },
+      { "key": "B", "text": "先補鉀，延後胰島素直到鉀回升至安全範圍" },
+      { "key": "C", "text": "先給利尿劑" },
+      { "key": "D", "text": "先給大量鈣劑" }
+    ],
+    "answer": "B",
+    "explanation": "胰島素會把鉀推回細胞內，低鉀時直接打胰島素可誘發致命性心律不整；需先補鉀。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_DKA_HHS_Q0004",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜乙 糖尿病急症｜DKA vs HHS" },
+    "stem": "下列何者較符合 HHS（高滲透壓高血糖狀態）而非 DKA？",
+    "options": [
+      { "key": "A", "text": "明顯酮體上升與高陰離子間隙酸中毒" },
+      { "key": "B", "text": "血糖極高、有效滲透壓升高、神智改變，酮體較少" },
+      { "key": "C", "text": "血糖不高但酮體很高" },
+      { "key": "D", "text": "低血糖昏迷" }
+    ],
+    "answer": "B",
+    "explanation": "HHS 以高滲透壓、極高血糖與脫水/意識改變為主，酮酸中毒較不明顯。"
+  },
+
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_T2DM_MEDS_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜丙 第二型糖尿病｜用藥" },
+    "stem": "第二型糖尿病用藥中，下列何者最符合『體重減輕效果較佳』且低血糖風險較低的類別？",
+    "options": [
+      { "key": "A", "text": "Sulfonylurea" },
+      { "key": "B", "text": "GLP-1 receptor agonist" },
+      { "key": "C", "text": "Basal insulin" },
+      { "key": "D", "text": "Meglitinide" }
+    ],
+    "answer": "B",
+    "explanation": "GLP-1 RA 常見體重下降且低血糖風險低（除非合併胰島素/促泌劑）。SU/胰島素常增加體重並提高低血糖風險。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_T2DM_MEDS_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜丙 第二型糖尿病｜心腎共病導向" },
+    "stem": "第二型糖尿病合併慢性腎臟病（CKD）時，下列哪一類藥物常被優先考慮以降低腎臟事件風險（臨床需依 eGFR 門檻與個別化）？",
+    "options": [
+      { "key": "A", "text": "SGLT2 inhibitor" },
+      { "key": "B", "text": "α-glucosidase inhibitor" },
+      { "key": "C", "text": "短效磺醯尿素" },
+      { "key": "D", "text": "單用止痛藥" }
+    ],
+    "answer": "A",
+    "explanation": "SGLT2i 在 T2DM 合併 CKD/心衰等族群有心腎保護證據；實務需考量 eGFR 與感染/脫水等風險。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_T2DM_MEDS_Q0003",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜丙 第二型糖尿病｜低血糖" },
+    "stem": "下列哪一組藥物最容易造成低血糖？",
+    "options": [
+      { "key": "A", "text": "Metformin + DPP-4 inhibitor" },
+      { "key": "B", "text": "SGLT2 inhibitor + GLP-1 RA" },
+      { "key": "C", "text": "Sulfonylurea + insulin" },
+      { "key": "D", "text": "Acarbose + metformin" }
+    ],
+    "answer": "C",
+    "explanation": "促胰島素分泌或直接補充胰島素的治療（SU/insulin）最容易低血糖；其他多為低血糖風險較低的類別。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_T2DM_MEDS_Q0004",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜丙 第二型糖尿病｜Metformin" },
+    "stem": "Metformin 的常見限制與風險，下列何者最正確？",
+    "options": [
+      { "key": "A", "text": "一定會造成嚴重低血糖" },
+      { "key": "B", "text": "腸胃道副作用常見，可用漸進加量或改緩釋劑型改善" },
+      { "key": "C", "text": "任何腎功能都可無限制使用" },
+      { "key": "D", "text": "會造成甲狀腺毒症" }
+    ],
+    "answer": "B",
+    "explanation": "Metformin 常見 GI 不適，臨床上以漸進加量/改 XR 改善；使用仍需考量腎功能與缺氧/重症等乳酸中毒風險情境。"
+  },
+
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_THYROID_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜丁 甲狀腺｜甲低" },
+    "stem": "原發性甲狀腺功能低下（primary hypothyroidism）最典型的檢驗型態為何？",
+    "options": [
+      { "key": "A", "text": "TSH 下降、free T4 下降" },
+      { "key": "B", "text": "TSH 上升、free T4 下降" },
+      { "key": "C", "text": "TSH 上升、free T4 上升" },
+      { "key": "D", "text": "TSH 下降、free T4 正常" }
+    ],
+    "answer": "B",
+    "explanation": "原發性甲低是甲狀腺本身失能，free T4 下降，腦下垂體代償使 TSH 上升。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_THYROID_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜丁 甲狀腺｜甲亢" },
+    "stem": "Graves disease 的典型免疫學特徵為何？",
+    "options": [
+      { "key": "A", "text": "TSH receptor 抗體（刺激型）" },
+      { "key": "B", "text": "anti-mitochondrial antibody" },
+      { "key": "C", "text": "anti-GBM antibody" },
+      { "key": "D", "text": "pANCA" }
+    ],
+    "answer": "A",
+    "explanation": "Graves 為 TSH receptor antibody（TRAb/TSI）刺激受體造成甲亢，並可合併眼病變。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_THYROID_Q0003",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜丁 甲狀腺｜結節評估" },
+    "stem": "發現甲狀腺結節後，初步最常用的第一個實驗室檢查是？",
+    "options": [
+      { "key": "A", "text": "TSH" },
+      { "key": "B", "text": "血清 AFP" },
+      { "key": "C", "text": "血清 amylase" },
+      { "key": "D", "text": "腦下垂體 MRI" }
+    ],
+    "answer": "A",
+    "explanation": "甲狀腺結節初評常先驗 TSH；若 TSH 偏低再考慮功能性結節的進一步評估，並配合超音波分級決定是否穿刺。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_THYROID_Q0004",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜丁 甲狀腺｜甲狀腺風暴" },
+    "stem": "甲狀腺風暴（thyroid storm）的急性治療組合，下列何者最合理？",
+    "options": [
+      { "key": "A", "text": "β 阻斷劑 + 抗甲狀腺藥 +（適當時）碘劑 + 類固醇 + 支持性治療" },
+      { "key": "B", "text": "只給 levothyroxine" },
+      { "key": "C", "text": "只給利尿劑" },
+      { "key": "D", "text": "只給抗生素即可" }
+    ],
+    "answer": "A",
+    "explanation": "風暴處置強調：阻斷交感、抑制新合成、抑制釋放（碘需在抗甲狀腺藥後）、降低周邊轉換與支持性治療。"
+  },
+
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_ADRENAL_Q0001",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜戊 腎上腺｜AI" },
+    "stem": "原發性腎上腺功能不全（Addison disease）最典型的電解質異常為何？",
+    "options": [
+      { "key": "A", "text": "高鈉、低鉀" },
+      { "key": "B", "text": "低鈉、高鉀" },
+      { "key": "C", "text": "高鈉、高鉀" },
+      { "key": "D", "text": "低鈉、低鉀" }
+    ],
+    "answer": "B",
+    "explanation": "原發性 AI 缺乏醛固酮→鈉流失與鉀滯留，典型為 hyponatremia + hyperkalemia。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_ADRENAL_Q0002",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜戊 腎上腺｜AI" },
+    "stem": "疑似腎上腺危象（adrenal crisis）且血壓不穩時，最適當的立即處置為何？",
+    "options": [
+      { "key": "A", "text": "等待 ACTH 刺激試驗結果再治療" },
+      { "key": "B", "text": "立即給予靜脈輸液 + 壓力劑量類固醇（如 hydrocortisone），同時抽血留檢體" },
+      { "key": "C", "text": "只給利尿劑" },
+      { "key": "D", "text": "只給甲狀腺素" }
+    ],
+    "answer": "B",
+    "explanation": "危象是時間敏感；先救命（輸液/類固醇）再追診斷，抽血留作 cortisol/ACTH 等不應延誤治療。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_ADRENAL_Q0003",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜戊 腎上腺｜Cushing" },
+    "stem": "庫欣症候群（Cushing syndrome）的常見臨床表現，下列何者最典型？",
+    "options": [
+      { "key": "A", "text": "體重下降、色素沉著、低血壓" },
+      { "key": "B", "text": "向心性肥胖、紫紋、近端肌無力、高血壓/高血糖" },
+      { "key": "C", "text": "反覆嚴重低血糖" },
+      { "key": "D", "text": "黃疸與灰白便" }
+    ],
+    "answer": "B",
+    "explanation": "長期皮質醇過多造成代謝/肌肉/皮膚與心血管特徵：向心性肥胖、紫紋、近端肌無力、HTN、糖耐受異常等。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_DER_ADRENAL_Q0004",
+    "source_type": "derived",
+    "book": { "code": "MED_03_GI_HEP_ENDO", "title": "三(2) 腸胃內、肝膽內、新陳代謝" },
+    "location": { "section": "第三篇 新陳代謝｜戊 腎上腺｜Cushing 初篩" },
+    "stem": "懷疑庫欣症候群時，下列何者屬常用的初步篩檢方式之一？",
+    "options": [
+      { "key": "A", "text": "糞便潛血" },
+      { "key": "B", "text": "低劑量 dexamethasone 抑制試驗" },
+      { "key": "C", "text": "C13 urea breath test" },
+      { "key": "D", "text": "血清 AFP" }
+    ],
+    "answer": "B",
+    "explanation": "庫欣初篩常見選項包含低劑量 dexamethasone 抑制試驗、夜間唾液 cortisol、24 小時尿游離 cortisol（依情境選擇）。"
   }
 
 
