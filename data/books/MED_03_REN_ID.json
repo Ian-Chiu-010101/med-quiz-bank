@@ -121,7 +121,132 @@
     ],
     "answer": "B",
     "explanation": "CKD 病人多數藥物需依 eGFR 調整劑量，以避免藥物蓄積與毒性。"
+  },
+
+
+  {
+    "id": "MED3_RENAL_INF_ORI_NS_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜丙 腎病症候群" },
+    "stem": "下列何者為腎病症候群（nephrotic syndrome）的典型表現？",
+    "options": [
+      { "key": "A", "text": "蛋白尿 < 1 g/day" },
+      { "key": "B", "text": "顯著蛋白尿、低白蛋白血症、水腫" },
+      { "key": "C", "text": "明顯血尿與 RBC casts" },
+      { "key": "D", "text": "低血脂" }
+    ],
+    "answer": "B",
+    "explanation": "腎病症候群以大量蛋白尿（>3.5 g/day）、低白蛋白血症、水腫與高血脂為特徵。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_NS_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF" },
+    "location": { "section": "第一篇 腎內科｜丙 腎病症候群" },
+    "stem": "小兒最常見造成腎病症候群的腎小球疾病為何？",
+    "options": [
+      { "key": "A", "text": "FSGS" },
+      { "key": "B", "text": "Membranous nephropathy" },
+      { "key": "C", "text": "Minimal change disease" },
+      { "key": "D", "text": "IgA nephropathy" }
+    ],
+    "answer": "C",
+    "explanation": "小兒腎病症候群最常見為 minimal change disease，對類固醇治療反應佳。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_NS_Q0003",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF" },
+    "location": { "section": "第一篇 腎內科｜丙 腎病症候群" },
+    "stem": "關於 focal segmental glomerulosclerosis（FSGS），下列何者正確？",
+    "options": [
+      { "key": "A", "text": "多見於兒童，預後佳" },
+      { "key": "B", "text": "病灶為所有腎小球均勻受損" },
+      { "key": "C", "text": "常與成人腎病症候群相關，預後較差" },
+      { "key": "D", "text": "不會進展為末期腎病" }
+    ],
+    "answer": "C",
+    "explanation": "FSGS 多見於成人，部分腎小球與部分節段受損，對治療反應較差，易進展至 CKD。"
+  },
+
+  {
+    "id": "MED3_RENAL_INF_ORI_NEPR_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF" },
+    "location": { "section": "第一篇 腎內科｜丁 腎炎症候群" },
+    "stem": "腎炎症候群（nephritic syndrome）最具代表性的臨床表現為何？",
+    "options": [
+      { "key": "A", "text": "大量蛋白尿與高血脂" },
+      { "key": "B", "text": "血尿、高血壓、腎功能惡化" },
+      { "key": "C", "text": "無症狀蛋白尿" },
+      { "key": "D", "text": "低血壓與多尿" }
+    ],
+    "answer": "B",
+    "explanation": "腎炎症候群以血尿、紅血球圓柱、高血壓與腎功能下降為主要特徵。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_NEPR_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF" },
+    "location": { "section": "第一篇 腎內科｜丁 腎炎症候群" },
+    "stem": "IgA 腎病變最典型的臨床表現為何？",
+    "options": [
+      { "key": "A", "text": "長期無症狀蛋白尿" },
+      { "key": "B", "text": "上呼吸道感染後數週出現血尿" },
+      { "key": "C", "text": "感染後 1–2 天內出現血尿" },
+      { "key": "D", "text": "僅見於老年人" }
+    ],
+    "answer": "C",
+    "explanation": "IgA 腎病變常在上呼吸道感染後短時間內（1–2 天）出現肉眼血尿。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_NEPR_Q0003",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF" },
+    "location": { "section": "第一篇 腎內科｜丁 腎炎症候群" },
+    "stem": "急性鏈球菌感染後腎炎（PSGN）最常見於下列哪一族群？",
+    "options": [
+      { "key": "A", "text": "新生兒" },
+      { "key": "B", "text": "兒童" },
+      { "key": "C", "text": "青壯年" },
+      { "key": "D", "text": "老年人" }
+    ],
+    "answer": "B",
+    "explanation": "PSGN 多發生於兒童，常在皮膚或咽喉感染後 1–3 週出現。"
+  },
+
+  {
+    "id": "MED3_RENAL_INF_ORI_ELECTRO_Q0004",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF" },
+    "location": { "section": "第一篇 腎內科｜戊 腎因性電解質與酸鹼" },
+    "stem": "慢性腎臟病病人最常見的酸鹼異常為何？",
+    "options": [
+      { "key": "A", "text": "代謝性鹼中毒" },
+      { "key": "B", "text": "呼吸性酸中毒" },
+      { "key": "C", "text": "代謝性酸中毒" },
+      { "key": "D", "text": "呼吸性鹼中毒" }
+    ],
+    "answer": "C",
+    "explanation": "CKD 因酸排泄能力下降，最常見為代謝性酸中毒。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_ELECTRO_Q0005",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF" },
+    "location": { "section": "第一篇 腎內科｜戊 腎因性電解質與酸鹼" },
+    "stem": "腎衰竭病人出現高血鉀時，下列何者為最立即的心臟保護處置？",
+    "options": [
+      { "key": "A", "text": "口服樹脂" },
+      { "key": "B", "text": "胰島素合併葡萄糖" },
+      { "key": "C", "text": "靜脈注射鈣劑" },
+      { "key": "D", "text": "利尿劑" }
+    ],
+    "answer": "C",
+    "explanation": "高血鉀合併心電圖變化時，首要為靜脈注射鈣劑以穩定心肌細胞膜。"
   }
+
 
 
   
