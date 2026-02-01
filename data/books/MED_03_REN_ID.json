@@ -709,6 +709,293 @@
     ],
     "answer": "B",
     "explanation": "醛固酮作用為留鈉、排鉀、排酸；低腎素低醛固酮狀態會造成鉀與酸排不出去，典型呈現高血鉀合併代謝性酸中毒（type 4 RTA）。"
+  },
+
+
+  {
+    "id": "MED3_RENAL_INF_ORI_IONBAL_HYPONa_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜乙 離子平衡｜A 低血鈉" },
+    "stem": "一位 40 歲女病人意識障礙，血中鈉離子 115 mmol/L，pH 7.40。下列關於該病人的敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "該病人的低血鈉症屬於嚴重（severe）" },
+      { "key": "B", "text": "緊急處置必須包含靜脈滴注 3% sodium chloride（hypertonic saline）" },
+      { "key": "C", "text": "用高濃度食鹽水靜脈輸注時應每 2 小時監測血清鈉濃度並調整輸注" },
+      { "key": "D", "text": "補充血中鈉離子時，其上升速度不可超過 12–15 mmol/L/day" }
+    ],
+    "answer": "D",
+    "explanation": "嚴重低血鈉合併神經症狀需以 3% 高張食鹽水緊急處置並密切監測。校正速度一般建議不超過約 10–12 mmol/L/day；若有高風險（如慢性低血鈉、營養不良、肝病、酒精使用等），常建議更保守（例如 ≤8 mmol/L/day），以避免滲透性脫髓鞘症候群。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_IONBAL_HYPONa_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜乙 離子平衡｜A 低血鈉" },
+    "stem": "75 歲女性主訴最近 1 個月食慾不振與全身虛弱。過去病史：高血壓、糖尿病。身體檢查：意識清楚，血壓 110/70 mmHg，心跳 76/min，無水腫，黏膜乾。Na 117 mmol/L，K 3.5 mmol/L，BUN 30 mg/dL，Cr 1.0 mg/dL。下列敘述何者最不適當？",
+    "options": [
+      { "key": "A", "text": "病人可能為低容積型低血鈉（hypovolemic hyponatremia）" },
+      { "key": "B", "text": "病人應該限制水分攝取" },
+      { "key": "C", "text": "緊急處置必須包含靜脈滴注 3% hypertonic saline" },
+      { "key": "D", "text": "治療應包含靜脈滴注 0.9% sodium chloride（normal saline）" }
+    ],
+    "answer": "C",
+    "explanation": "此例更像慢性、相對穩定且偏低容積型低血鈉，通常優先矯正體液狀態（如 0.9% NS、停用誘因如利尿劑、評估腎上腺/甲狀腺等），未必需要 3% 高張食鹽水。高張食鹽水主要用於合併中度/重度神經症狀的低血鈉。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_IONBAL_HYPONa_Q0003",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜乙 離子平衡｜A 低血鈉" },
+    "stem": "下列關於低血鈉的鑑別診斷，何者最不適當？",
+    "options": [
+      { "key": "A", "text": "甲狀腺功能低下可能會造成低血鈉" },
+      { "key": "B", "text": "利尿劑所造成的腎臟鹽分流失可能造成尿液中鈉濃度高於 20 mM" },
+      { "key": "C", "text": "燒傷或腹瀉可能造成尿液中鈉濃度低於 20 mM" },
+      { "key": "D", "text": "心衰竭造成的高容積型低血鈉，其尿液中鈉濃度通常大於 20 mM" }
+    ],
+    "answer": "D",
+    "explanation": "心衰竭的高容積型低血鈉通常「有效循環血量下降」→ RAAS 活化 → 腎臟保鈉，因此尿鈉多偏低（常 <20 mM）。尿鈉偏高較符合腎性鹽分流失或 SIADH 等情境。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_IONBAL_HYPONa_Q0004",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜乙 離子平衡｜A 低血鈉" },
+    "stem": "Vaptans 可以用於治療哪一種低血鈉症？",
+    "options": [
+      { "key": "A", "text": "SIADH" },
+      { "key": "B", "text": "脫水所造成的低血鈉" },
+      { "key": "C", "text": "無症狀的低血鈉" },
+      { "key": "D", "text": "伴隨神經症狀的 SIADH" }
+    ],
+    "answer": "A",
+    "explanation": "Vaptans（vasopressin receptor antagonists）主要用於水分排除不當的低血鈉（如 SIADH；亦可見於部分高容積型低血鈉）。伴嚴重神經症狀者多以高張食鹽水急救為先。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_IONBAL_DI_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜乙 離子平衡｜A 低血鈉/尿崩鑑別" },
+    "stem": "一位 20 歲男性有嚴重多尿。禁水 4 小時後小便滲透壓沒有明顯上升；注射 desmopressin 後小便滲透壓亦沒有明顯上升。最可能的診斷為何？",
+    "options": [
+      { "key": "A", "text": "中樞型尿崩症（central diabetes insipidus）" },
+      { "key": "B", "text": "腎性尿崩症（nephrogenic diabetes insipidus）" },
+      { "key": "C", "text": "不適當抗利尿激素症候群（SIADH）" },
+      { "key": "D", "text": "心因性多飲（psychogenic polydipsia）" }
+    ],
+    "answer": "B",
+    "explanation": "禁水後尿滲透壓未上升代表無法濃縮尿；給予 desmopressin 仍無反應更支持腎臟對 ADH 不敏感（腎性尿崩症），而非中樞型尿崩症。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_IONBAL_HYPONa_Q0005",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜乙 離子平衡｜A 低血鈉" },
+    "stem": "56 歲男性腎病症候群，血液 osmolality 255 mOsm/kg、Na 120 mmol/L。下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "病人的細胞外液（ECF）容積增加" },
+      { "key": "B", "text": "病人的細胞內液（ICF）容積增加" },
+      { "key": "C", "text": "病人的有效循環血量（effective blood volume）增加" },
+      { "key": "D", "text": "病人的有效循環血量（effective blood volume）下降" }
+    ],
+    "answer": "C",
+    "explanation": "腎病症候群可見水腫（ECF 增加），且低滲狀態水分可進入細胞（ICF 增加）；但因膠體滲透壓下降與有效循環血量下降而促進保水保鈉，因此 effective blood volume 下降較符合。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_IONBAL_HYPONa_Q0006",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜乙 離子平衡｜A 低血鈉" },
+    "stem": "下列有關低血鈉症的描述，何者正確？",
+    "options": [
+      { "key": "A", "text": "如果血漿滲透壓低，應該考慮是否為高血糖造成的假性低血鈉" },
+      { "key": "B", "text": "心衰竭可能造成細胞外液增加與低血鈉症" },
+      { "key": "C", "text": "低容積型低血鈉合併尿鈉 <10 mmol/L 表示腎病變造成鈉流失" },
+      { "key": "D", "text": "SIADH 的血漿滲透壓通常正常且 ECF 減少" }
+    ],
+    "answer": "B",
+    "explanation": "心衰竭可造成高容積型低血鈉。高血糖造成的低血鈉多是「高滲」情境；低容積且尿鈉很低常見於腎外流失（如腹瀉、嘔吐）；SIADH 通常為低滲、近似正容積（euvolemic）低血鈉。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_IONBAL_HYPONa_Q0007",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜乙 離子平衡｜A 低血鈉" },
+    "stem": "下列那一種低血鈉症最適合使用 0.9% sodium chloride（normal saline）治療？",
+    "options": [
+      { "key": "A", "text": "SIADH" },
+      { "key": "B", "text": "心衰竭" },
+      { "key": "C", "text": "aldosterone deficiency" },
+      { "key": "D", "text": "肝硬化" }
+    ],
+    "answer": "C",
+    "explanation": "等張食鹽水最適合用於低容積型低血鈉（例如腎上腺/醛固酮不足、腎外液體流失等）以回復有效循環血量；SIADH/心衰竭/肝硬化多屬非低容積型，治療策略不同。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_IONBAL_HYPONa_Q0008",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜乙 離子平衡｜A 低血鈉" },
+    "stem": "88 歲男性因近乎昏厥送急診。Lab：Na 124 mmol/L、K 3.5 mmol/L、Cl 94 mmol/L、BUN 15.3 mg/dL、Cr 0.92 mg/dL、troponin I <0.012 ng/mL、hsTSH 66.7 μIU/mL。下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "該病人是低血鈉症" },
+      { "key": "B", "text": "應評估是否有內分泌原因（如甲狀腺或腎上腺）" },
+      { "key": "C", "text": "此案例需將甲狀腺功能異常納入鑑別診斷" },
+      { "key": "D", "text": "抽血結果較符合 hyperthyroidism（甲狀腺機能亢進）" }
+    ],
+    "answer": "D",
+    "explanation": "hsTSH 顯著上升更支持甲狀腺機能低下（hypothyroidism），而非甲狀腺機能亢進。甲狀腺機能低下可造成低血鈉，需納入鑑別。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_IONBAL_HYPONa_Q0009",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜乙 離子平衡｜A 低血鈉" },
+    "stem": "關於 SIADH（syndrome of inappropriate ADH secretion），下列何者可能是造成低血鈉症的原因？",
+    "options": [
+      { "key": "A", "text": "Cefazolin (Kefzol)" },
+      { "key": "B", "text": "肺部感染" },
+      { "key": "C", "text": "E. coli 感染" },
+      { "key": "D", "text": "Group B streptococcus 感染" }
+    ],
+    "answer": "B",
+    "explanation": "SIADH 常與肺部病灶/肺炎、CNS 病變、部分腫瘤（如小細胞肺癌）或特定藥物相關；肺部感染是經典誘因之一。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_IONBAL_HYPONa_Q0010",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜乙 離子平衡｜A 低血鈉" },
+    "stem": "63 歲男性肺癌病人接受化學治療三天後因意識不清送急診。Vitals：BP 124/75、HR 78、RR 18。Lab：Na 108 mmol/L、K 4.0 mmol/L、Cl 80 mmol/L、HCO3 22 mmol/L、BUN 15 mg/dL、Cr 0.9 mg/dL、serum osmolality 232 mOsm/kg、urine osmolality 450 mOsm/kg、urine Na 45 mmol/L。下列敘述何者正確？",
+    "options": [
+      { "key": "A", "text": "病人可能為 euvolemic hyponatremia" },
+      { "key": "B", "text": "病人可能為 hypovolemic hyponatremia" },
+      { "key": "C", "text": "病人可能為 hypervolemic hyponatremia" },
+      { "key": "D", "text": "病人可能為 pseudohyponatremia" }
+    ],
+    "answer": "A",
+    "explanation": "低血鈉且低血漿滲透壓，合併尿滲透壓偏高與尿鈉偏高，符合 ADH 不當上升/腎臟未適當排水的型態，最典型為 SIADH；臨床上多呈 euvolemic hyponatremia。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_IONBAL_HYPONa_Q0011",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜乙 離子平衡｜A 低血鈉" },
+    "stem": "一名 60 歲婦女因意識不清與倦怠住院。病人有糖尿病，長期服用 metformin。檢查發現血鈉 110 mmol/L、血漿滲透壓 225 mOsm/kg、尿滲透壓 400 mOsm/kg。影像顯示肺部小細胞癌。若太快校正此病人的電解質異常，最擔心發生下列何種併發症？",
+    "options": [
+      { "key": "A", "text": "反彈性高血糖（rebound hyperglycemia）" },
+      { "key": "B", "text": "滲透性大腦去髓鞘症候群（osmotic cerebral demyelination syndrome）" },
+      { "key": "C", "text": "反彈性低血鈉（rebound hyponatremia）" },
+      { "key": "D", "text": "急性腎衰竭（acute renal failure）" }
+    ],
+    "answer": "B",
+    "explanation": "慢性或長期低血鈉若矯正過快，最重要的致命/致殘風險為滲透性脫髓鞘（中央橋腦溶解等）。因此校正速率需嚴格控制並密切監測。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_IONBAL_HYPERNa_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜乙 離子平衡｜B 高血鈉" },
+    "stem": "35 歲女性病人意識不清，血中 Na 160 mmol/L。下列處置何者最適當？",
+    "options": [
+      { "key": "A", "text": "計算 free water deficit 並用 5% dextrose（D5W）緩慢矯正" },
+      { "key": "B", "text": "使用 3% hypertonic saline 緊急矯正" },
+      { "key": "C", "text": "以 0.9% normal saline 迅速矯正至正常" },
+      { "key": "D", "text": "不需處置，觀察即可" }
+    ],
+    "answer": "A",
+    "explanation": "高血鈉代表缺水或自由水相對不足；處置重點是估算自由水缺乏量並以低滲液（如 D5W 或口服/腸道補水）緩慢矯正，避免矯正過快造成腦水腫。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_IONBAL_PHYSIO_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜乙 離子平衡｜腎臟生理" },
+    "stem": "注射 ADH 後，腎臟哪一處對水的通透度增加最顯著？",
+    "options": [
+      { "key": "A", "text": "Proximal convoluted tubule" },
+      { "key": "B", "text": "Ascending limb of the loop of Henle" },
+      { "key": "C", "text": "Distal tubule" },
+      { "key": "D", "text": "Collecting duct" }
+    ],
+    "answer": "D",
+    "explanation": "ADH 主要增加集合管（尤其皮質/髓質集合管）主細胞的水通道（AQP2）插入，顯著提升水通透度；晚期遠曲小管亦可受影響，但臨床與考題多以 collecting duct 為主。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_IONBAL_HYPERK_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜乙 離子平衡｜D 高血鉀" },
+    "stem": "下列何者最不會導致高血鉀（hyperkalemia）的發生？",
+    "options": [
+      { "key": "A", "text": "Excessive intake of potassium" },
+      { "key": "B", "text": "Potassium-sparing diuretics" },
+      { "key": "C", "text": "Angiotensin-converting enzyme inhibitors" },
+      { "key": "D", "text": "NSAIDs (nonsteroidal anti-inflammatory drugs)" }
+    ],
+    "answer": "A",
+    "explanation": "單純高鉀攝取在腎功能正常者通常可由腎臟排除，不一定造成高血鉀；相對地，保鉀利尿劑、ACEi、NSAIDs（抑制腎素/醛固酮軸）均可降低排鉀能力而導致高血鉀。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_IONBAL_HYPERK_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜乙 離子平衡｜腎小管細胞" },
+    "stem": "Cortical collecting duct cells 中，哪一種細胞負責 reabsorb sodium？",
+    "options": [
+      { "key": "A", "text": "Principal cells" },
+      { "key": "B", "text": "Type A intercalated cells" },
+      { "key": "C", "text": "Type B intercalated cells" },
+      { "key": "D", "text": "Macula densa cells" }
+    ],
+    "answer": "A",
+    "explanation": "集合管 principal cells 主要負責鈉再吸收（ENaC）與鉀分泌；Type A/B intercalated cells 主要與酸鹼調節相關。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_IONBAL_HYPOK_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜乙 離子平衡｜C 低血鉀" },
+    "stem": "關於低血鉀症（hypokalemia），下列敘述何者最不適當？",
+    "options": [
+      { "key": "A", "text": "會造成 muscle weakness" },
+      { "key": "B", "text": "會使 PR interval prolonged" },
+      { "key": "C", "text": "會增加 T wave amplitude" },
+      { "key": "D", "text": "會導致 cardiac arrhythmia" }
+    ],
+    "answer": "C",
+    "explanation": "低血鉀常見心電圖變化包含 T wave 變平、U wave、ST depression、QT 延長與心律不整風險上升；不會造成 T wave amplitude 增加。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_IONBAL_HYPOK_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜乙 離子平衡｜C 低血鉀" },
+    "stem": "80 歲女性低血鉀（K 2.5 mmol/L），血液 pH 7.50、HCO3 35 mEq/L。下列處置何者最不適當？",
+    "options": [
+      { "key": "A", "text": "給予 potassium chloride 補充" },
+      { "key": "B", "text": "停用可能導致低血鉀的利尿劑並評估病因" },
+      { "key": "C", "text": "以 5% dextrose（葡萄糖水）作為補鉀輸液的溶媒" },
+      { "key": "D", "text": "測定血清鎂離子並於需要時補充鎂" }
+    ],
+    "answer": "C",
+    "explanation": "葡萄糖輸注會促進胰島素分泌，使鉀離子移入細胞，可能惡化低血鉀；補鉀通常避免使用含葡萄糖溶液作為主要溶媒（除非有特殊情境並嚴密監測）。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_IONBAL_HYPOK_Q0003",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜乙 離子平衡｜C 低血鉀" },
+    "stem": "25 歲男性下肢無力至急診。K 2.0 mmol/L、pH 7.40、HCO3 24 mmol/L、磷 1.8 mg/dL、尿鉀 10 mmol/L、尿滲透壓 580 mOsm/kg、無服用利尿劑。下列何者最適當？",
+    "options": [
+      { "key": "A", "text": "立刻停止葡萄糖輸液避免低血鉀惡化" },
+      { "key": "B", "text": "以周邊靜脈快速給予 KCl 10–20 mEq/hr 並不需進一步評估" },
+      { "key": "C", "text": "加驗甲狀腺功能以評估甲狀腺毒性週期性麻痺（thyrotoxic periodic paralysis）" },
+      { "key": "D", "text": "計算 TTKG 以確診腎性鉀流失為主因" }
+    ],
+    "answer": "C",
+    "explanation": "年輕男性、急性麻痺、低血鉀合併低血磷且尿鉀不高，較像鉀移入細胞（shift）型低血鉀；典型鑑別為甲狀腺毒性週期性麻痺，應加驗甲狀腺功能並同時謹慎補鉀、治療誘因。"
   }
 
 
