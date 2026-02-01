@@ -3899,6 +3899,115 @@
     ],
     "answer": "A",
     "explanation": "肢端肥大症多由 GH 分泌性腦下垂體腺瘤造成，導致 IGF-1 升高與典型外觀改變。"
+  },
+
+
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_ADRENAL_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO" },
+    "location": { "section": "第三篇 新陳代謝｜丁 腎上腺疾病" },
+    "stem": "下列何者為 Cushing syndrome 最常見的原因？",
+    "options": [
+      { "key": "A", "text": "長期使用外源性類固醇" },
+      { "key": "B", "text": "腦下垂體腺瘤" },
+      { "key": "C", "text": "腎上腺癌" },
+      { "key": "D", "text": "異位性 ACTH 分泌" }
+    ],
+    "answer": "A",
+    "explanation": "Cushing syndrome 最常見原因為醫源性（長期使用類固醇）；Cushing disease 才是腦下垂體腺瘤。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_ADRENAL_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO" },
+    "location": { "section": "第三篇 新陳代謝｜丁 腎上腺疾病" },
+    "stem": "Addison disease（原發性腎上腺功能不全）最典型的實驗室表現為何？",
+    "options": [
+      { "key": "A", "text": "高鈉、低鉀" },
+      { "key": "B", "text": "低鈉、高鉀" },
+      { "key": "C", "text": "高鈉、高鉀" },
+      { "key": "D", "text": "電解質完全正常" }
+    ],
+    "answer": "B",
+    "explanation": "原發性腎上腺功能不全因 aldosterone 缺乏，造成低鈉與高鉀。"
+  },
+
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_ELECTRO_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO" },
+    "location": { "section": "第三篇 新陳代謝｜戊 水分與電解質" },
+    "stem": "下列何者為低血鈉最重要的初步鑑別方向？",
+    "options": [
+      { "key": "A", "text": "血清滲透壓" },
+      { "key": "B", "text": "血鉀濃度" },
+      { "key": "C", "text": "尿糖" },
+      { "key": "D", "text": "血紅素" }
+    ],
+    "answer": "A",
+    "explanation": "低血鈉首先需區分是否為低滲性（真正低鈉），以決定後續鑑別與處置。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_ELECTRO_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO" },
+    "location": { "section": "第三篇 新陳代謝｜戊 水分與電解質" },
+    "stem": "SIADH 的典型實驗室表現為何？",
+    "options": [
+      { "key": "A", "text": "低血鈉、低血清滲透壓、尿液滲透壓偏高" },
+      { "key": "B", "text": "高血鈉、尿液極稀" },
+      { "key": "C", "text": "低血鈉、尿鈉極低" },
+      { "key": "D", "text": "高血鈉、血清滲透壓低" }
+    ],
+    "answer": "A",
+    "explanation": "SIADH 為稀釋性低鈉，尿液不適當偏濃是鑑別重點。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_ELECTRO_Q0003",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO" },
+    "location": { "section": "第三篇 新陳代謝｜戊 水分與電解質" },
+    "stem": "中樞性尿崩症（central DI）最具代表性的特徵為何？",
+    "options": [
+      { "key": "A", "text": "高血鈉、稀釋尿" },
+      { "key": "B", "text": "低血鈉、濃縮尿" },
+      { "key": "C", "text": "低血鈉、尿鈉極低" },
+      { "key": "D", "text": "血鈉正常、尿液濃縮" }
+    ],
+    "answer": "A",
+    "explanation": "DI 因 ADH 缺乏導致大量稀釋尿，若補水不足可出現高血鈉。"
+  },
+
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_BONE_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO" },
+    "location": { "section": "第三篇 新陳代謝｜己 骨鈣代謝" },
+    "stem": "原發性副甲狀腺亢進最典型的生化表現為何？",
+    "options": [
+      { "key": "A", "text": "低鈣、高磷" },
+      { "key": "B", "text": "高鈣、低磷" },
+      { "key": "C", "text": "低鈣、高磷" },
+      { "key": "D", "text": "高鈣、高磷" }
+    ],
+    "answer": "B",
+    "explanation": "PTH 促進鈣釋放與磷排泄，導致高鈣、低磷。"
+  },
+  {
+    "id": "MED3_GI_HEP_ENDO_ORI_BONE_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_GI_HEP_ENDO" },
+    "location": { "section": "第三篇 新陳代謝｜己 骨鈣代謝" },
+    "stem": "診斷骨質疏鬆症最常使用的檢查為何？",
+    "options": [
+      { "key": "A", "text": "X 光" },
+      { "key": "B", "text": "DXA 測量骨密度" },
+      { "key": "C", "text": "MRI" },
+      { "key": "D", "text": "骨掃描" }
+    ],
+    "answer": "B",
+    "explanation": "DXA 為診斷骨質疏鬆的標準工具，以 T-score 評估。"
   }
 
 
