@@ -1621,6 +1621,280 @@
     ],
     "answer": "A",
     "explanation": "對比增強 CT 是評估腎腫塊特性與分期常用的一線工具（若對比禁忌可考慮 MRI 等替代）。"
+  },
+
+
+  {
+    "id": "MED3_RENAL_INF_ORI_CNS_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜甲 中樞神經感染｜A 概論" },
+    "stem": "有關中樞神經感染單純疹病毒（HSV）診斷工具中的 HSV 腦脊髓液 PCR，下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "敏感性（sensitivity）及專一性（specificity）都超過 90%" },
+      { "key": "B", "text": "在發病 72 小時內，腦脊髓液 HSV PCR 有可能呈現陰性" },
+      { "key": "C", "text": "腦脊髓液 HSV PCR 的陽性率會隨病程逐漸降低，發病超過 14 天者約僅 20% 仍呈陽性" },
+      { "key": "D", "text": "抗病毒治療會使 HSV PCR 陽性率大幅下降，治療 3 天後陽性率即低於 10%" }
+    ],
+    "answer": "D",
+    "explanation": "HSV CSF PCR 早期（<72 小時）可偽陰性；病程較久（約 8–14 天後）才會逐步下降，>14 天仍可能有部分患者維持陽性。單純治療 3 天就降到 <10% 並不正確。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_CNS_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜甲 中樞神經感染｜結核性腦膜炎" },
+    "stem": "有關結核性腦膜炎的敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "腦脊髓液檢查通常會有淋巴球增多（lymphocytic pleocytosis，約 10–500 cells/µL）" },
+      { "key": "B", "text": "腦脊髓液檢查通常葡萄糖濃度會下降（約 20–40 mg/dL）" },
+      { "key": "C", "text": "文獻報告少於一半病人腦脊髓液 acid-fast stain 會呈陽性" },
+      { "key": "D", "text": "腦脊髓液結核菌 PCR 已經取代培養，成為最主要診斷工具" }
+    ],
+    "answer": "D",
+    "explanation": "TB meningitis 的 PCR 有助診斷，但培養仍是重要（含藥敏）工具，PCR 不能完全取代培養。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_CNS_Q0003",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜甲 中樞神經感染｜細菌性腦膜炎（診斷）" },
+    "stem": "針對細菌性腦膜炎病人的診斷，下列有關腦脊髓液（CSF）檢查之敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "超過一半病人的 CSF 會有 PMN 白血球增加至 >100 cells/µL 現象" },
+      { "key": "B", "text": "超過一半病人的 CSF/serum glucose 比值 <0.4" },
+      { "key": "C", "text": "超過一半病人的 CSF 細菌培養會是陽性" },
+      { "key": "D", "text": "CSF Gram stain 幫助不大，只有約 20% 可以看到致病原" }
+    ],
+    "answer": "D",
+    "explanation": "Gram stain 是細菌性腦膜炎的重要快速檢驗之一，敏感性常見可達約 60–80%，特異性也高；說只有約 20% 幫助不大是錯的。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_CNS_Q0004",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜甲 中樞神經感染｜腦膜炎雙球菌" },
+    "stem": "某新兵訓練中心爆發多名新兵發燒、頭痛、嘔吐、理學檢查為頸部僵硬、出血性皮疹，腦脊髓液染色為革蘭氏陰性雙球菌。下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "病人必須採負壓隔離（空氣隔離防護措施）" },
+      { "key": "B", "text": "該病原菌是 Neisseria meningitidis" },
+      { "key": "C", "text": "抗生素投藥 24 小時後，一般病人即不具有傳染性" },
+      { "key": "D", "text": "治療藥物為 penicillin 或 ceftriaxone" }
+    ],
+    "answer": "A",
+    "explanation": "腦膜炎雙球菌主要採飛沫防護（droplet precautions）；不需要負壓空氣隔離。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_CNS_Q0005",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜甲 中樞神經感染｜細菌性腦膜炎" },
+    "stem": "關於 bacterial meningitis 的敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "CSF opening pressure 常大於 180 mmH2O" },
+      { "key": "B", "text": "CSF/serum glucose ratio 大於 0.4" },
+      { "key": "C", "text": "CSF protein 上升，常大於 45 mg/dL" },
+      { "key": "D", "text": "CSF Gram stain 陽性率可 >50%" }
+    ],
+    "answer": "B",
+    "explanation": "細菌性腦膜炎常見 CSF/serum glucose ratio 降低（常 <0.4），因此「大於 0.4」是錯的。"
+  },
+
+  {
+    "id": "MED3_RENAL_INF_ORI_SSTI_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜乙 軟組織感染｜蜂窩性組織炎" },
+    "stem": "關於蜂窩性組織炎的致病菌描述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "經由切片（punch biopsy）培養陽性結果的機會可高達 70%" },
+      { "key": "B", "text": "鏈球菌（streptococci）在下肢循環不良的病人常導致反覆感染" },
+      { "key": "C", "text": "被貓狗咬傷易產生厭氧菌相關感染" },
+      { "key": "D", "text": "綠膿桿菌可見於被鐵釘穿刺傷造成的傷口感染" }
+    ],
+    "answer": "A",
+    "explanation": "蜂窩性組織炎用切片或針吸找菌的陽性率普遍偏低（約 20–30%），臨床不常靠此常規檢出致病菌。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_SSTI_Q0003",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜乙 軟組織感染｜水泡/大水泡皮損" },
+    "stem": "當皮膚軟組織感染合併水泡（vesicles or bullae）時，下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "Coxsackievirus 常好發於小孩，小水泡多分布於手腳或嘴巴" },
+      { "key": "B", "text": "Vibrio vulnificus 的危險因子為接觸淡水" },
+      { "key": "C", "text": "Staphylococcal scalded skin syndrome 與 toxic epidermal necrolysis 外觀不易分辨，切片可助鑑別" },
+      { "key": "D", "text": "水痘若呈紅黑色、紅腫快速蔓延或合併局部感覺異常，需把壞死性筋膜炎列入鑑別" }
+    ],
+    "answer": "B",
+    "explanation": "Vibrio vulnificus 的高風險暴露典型是海水/海產相關，而不是淡水。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_SSTI_Q0004",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜乙 軟組織感染｜Vibrio vulnificus" },
+    "stem": "40 歲男性有肝硬化病史。夏天在海邊釣魚時被魚刺刺傷左腳，隔天左腳紅腫熱痛，出現紫紅色水泡且有休克現象。最可能之致病菌為何？",
+    "options": [
+      { "key": "A", "text": "Staphylococcus aureus" },
+      { "key": "B", "text": "Streptococcus pyogenes" },
+      { "key": "C", "text": "Pseudomonas aeruginosa" },
+      { "key": "D", "text": "Vibrio vulnificus" }
+    ],
+    "answer": "D",
+    "explanation": "肝硬化 + 海水暴露/海產相關傷口 + 快速進展水泡與休克，是 Vibrio vulnificus 的典型高風險情境。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_SSTI_Q0005",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜乙 軟組織感染｜Vibrio vulnificus（治療）" },
+    "stem": "承上題，下列何種抗生素治療對該病人最為恰當？",
+    "options": [
+      { "key": "A", "text": "Vancomycin + gentamicin" },
+      { "key": "B", "text": "Clindamycin + penicillin" },
+      { "key": "C", "text": "Ceftazidime + tetracycline" },
+      { "key": "D", "text": "Cefazolin + amikacin" }
+    ],
+    "answer": "C",
+    "explanation": "Vibrio vulnificus 建議以可涵蓋該菌的第三代頭孢菌素（如 ceftazidime）合併 tetracycline 類，以兼顧療效並抑制毒素相關嚴重病程。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_SSTI_Q0006",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜乙 軟組織感染｜經驗性用藥" },
+    "stem": "皮膚軟組織感染之經驗性抗微生物製劑選擇（無藥物過敏、無其他慢性病），下列何者作為第一線治療最不恰當？",
+    "options": [
+      { "key": "A", "text": "狗咬傷：amoxicillin-clavulanate 或 ampicillin-sulbactam" },
+      { "key": "B", "text": "帶狀疱疹（免疫正常，>50 歲）：acyclovir" },
+      { "key": "C", "text": "蜂窩性組織炎（staphylococcal or streptococcal）：vancomycin" },
+      { "key": "D", "text": "壞死性筋膜炎：可同時涵蓋嗜氧菌與厭氧菌的抗生素組合" }
+    ],
+    "answer": "C",
+    "explanation": "Vancomycin 通常保留於 MRSA 或高度抗藥性疑慮；一般單純蜂窩性組織炎（以 MSSA/鏈球菌為主）不會以 vancomycin 作第一線。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_SSTI_Q0007",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜乙 軟組織感染｜接觸史與病原" },
+    "stem": "引起皮膚軟組織感染的病原菌可能有不同接觸史或表現形態，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "Pseudomonas：hot-tub folliculitis" },
+      { "key": "B", "text": "Streptococcus pyogenes：lymphangitis" },
+      { "key": "C", "text": "Treponema pallidum：露珠狀水泡（dewdrop vesicle）" },
+      { "key": "D", "text": "HSV-1：唇邊水泡" }
+    ],
+    "answer": "C",
+    "explanation": "「露珠狀水泡」典型描述較偏向水痘/帶狀疱疹等疱疹病毒皮疹；梅毒常見為無痛性潰瘍或後續廣泛皮疹，非此典型表現。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_SSTI_Q0008",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜乙 軟組織感染｜壞死性筋膜炎（臨床）" },
+    "stem": "肝硬化病人釣魚時腳被牡蠣殼割傷後，紅腫迅速擴散並出現水泡與組織壞死且發燒發冷。關於該病人疾病，下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "需詳細詢問病人接觸史，包含海水暴露史" },
+      { "key": "B", "text": "若無海水暴露史，即可排除壞死性筋膜炎" },
+      { "key": "C", "text": "食用未煮熟的海鮮也有可能引發嚴重軟組織感染" },
+      { "key": "D", "text": "若皮膚未明顯發紅但病人表示劇烈疼痛，仍不可排除壞死性筋膜炎" }
+    ],
+    "answer": "B",
+    "explanation": "壞死性筋膜炎的關鍵是臨床表現（進展快、疼痛與外觀不成比例等），不是只有海水暴露才會發生；無海水暴露也不能排除。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_SSTI_Q0009",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜乙 軟組織感染｜壞死性筋膜炎（處置）" },
+    "stem": "承上題，關於病人處置，下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "可用影像（如 CT）評估病灶範圍，但不應延誤關鍵處置" },
+      { "key": "B", "text": "儘快留取感染部位檢體並給予適當抗生素" },
+      { "key": "C", "text": "聯絡外科進行清創處理" },
+      { "key": "D", "text": "若病人最後死亡，主要與細菌侵犯組織有關，與毒素無關" }
+    ],
+    "answer": "D",
+    "explanation": "壞死性筋膜炎（尤其某些菌種）可有嚴重毒素相關全身反應與休克；死亡機轉不僅是局部組織侵犯。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_SSTI_Q0010",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜乙 軟組織感染｜Vibrio vulnificus（海鮮暴露）" },
+    "stem": "70 歲肝硬化病人，近來自行剝生蠔食用後出現發燒兩天，今日出現水泡且到院時血壓 90/50 mmHg。最可能感染之病原菌為何？",
+    "options": [
+      { "key": "A", "text": "Staphylococcus aureus" },
+      { "key": "B", "text": "Vibrio vulnificus" },
+      { "key": "C", "text": "Group A streptococcus" },
+      { "key": "D", "text": "Klebsiella pneumoniae" }
+    ],
+    "answer": "B",
+    "explanation": "肝硬化 + 生蠔/海鮮暴露 + 水泡性皮膚病灶與休克，非常典型指向 Vibrio vulnificus。"
+  },
+
+  {
+    "id": "MED3_RENAL_INF_ORI_UTI_Q0003",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜丁 泌尿道感染｜CAUTI" },
+    "stem": "導管長期置放是造成醫療照護相關感染的常見危險因子。導尿管置放後每日發生尿路感染的機會約為多少？",
+    "options": [
+      { "key": "A", "text": "0.03%–0.07%" },
+      { "key": "B", "text": "0.3%–0.7%" },
+      { "key": "C", "text": "3%–7%" },
+      { "key": "D", "text": "30%–70%" }
+    ],
+    "answer": "C",
+    "explanation": "CAUTI 的風險會隨留置天數上升；經典數字是「每日約 3–7%」的感染風險。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_UTI_Q0004",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜丁 泌尿道感染｜重症腹瀉菌血症（題組）" },
+    "stem": "80 歲肝硬化病人因腹痛、腹瀉、發燒住院，血壓偏低且有黃疸，糞便與血液培養均長出 Campylobacter jejuni。在藥敏報告出來前，何者為最適當的抗生素治療？",
+    "options": [
+      { "key": "A", "text": "Trimethoprim-sulfamethoxazole" },
+      { "key": "B", "text": "Metronidazole" },
+      { "key": "C", "text": "Ampicillin" },
+      { "key": "D", "text": "Carbapenem" }
+    ],
+    "answer": "D",
+    "explanation": "此題情境為重症且合併菌血症/敗血傾向，經驗性用藥需以涵蓋力更足的方案優先；ampicillin 可能因抗藥性與嚴重度而不適合作為首選。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_UTI_Q0005",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜丁 泌尿道感染｜旅行者腹瀉/食物中毒（觀念題）" },
+    "stem": "關於細菌性食物中毒與旅行者腹瀉（traveler’s diarrhea）的敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "潛伏期最短的致病菌常見為 Staphylococcus aureus 與 Bacillus cereus（嘔吐型）" },
+      { "key": "B", "text": "Shigella spp 只能經由污染的飲水與食物傳播，不會人對人直接傳染" },
+      { "key": "C", "text": "Shigella spp、Entamoeba histolytica、Giardia lamblia 的感染劑量通常遠低於 Vibrio cholerae" },
+      { "key": "D", "text": "霍亂弧菌腹瀉主要因腸毒素，糞便多為米湯樣且很少白血球" }
+    ],
+    "answer": "B",
+    "explanation": "Shigella 也可透過糞口途徑人傳人（尤其在密集生活環境），不只靠食物/飲水。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_UTI_Q0006",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜丁 泌尿道感染｜CAUTI（預防）" },
+    "stem": "下列關於導管相關尿路感染（CAUTI）的敘述，何者正確？",
+    "options": [
+      { "key": "A", "text": "常規使用抗生素塗抹於尿道口是預防 CAUTI 最有效的措施" },
+      { "key": "B", "text": "常規口服抗生素預防 CAUTI 是實證強烈建議的措施" },
+      { "key": "C", "text": "CAUTI 的發生與導尿管材質品質關係最大" },
+      { "key": "D", "text": "經尿管沖洗膀胱，即使加入抗生素，仍可能增加 CAUTI 的機會" }
+    ],
+    "answer": "D",
+    "explanation": "常規局部/全身抗生素預防或膀胱灌洗並非標準預防策略，反而可能增加風險；核心仍是減少不必要置管、無菌置放與及早移除。"
   }
 
 
