@@ -1118,6 +1118,509 @@
     ],
     "answer": "A",
     "explanation": "腎小球出血常見變形紅血球（dysmorphic RBC）與 RBC casts；nitrite 更支持細菌性 UTI。"
+  },
+
+
+  {
+    "id": "MED3_RENAL_INF_ORI_GN_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜腎病症候群" },
+    "stem": "成人腎病症候群最常見的原發性腎小球疾病為何？",
+    "options": [
+      { "key": "A", "text": "Minimal change disease" },
+      { "key": "B", "text": "Membranous nephropathy" },
+      { "key": "C", "text": "Post-streptococcal GN" },
+      { "key": "D", "text": "Alport syndrome" }
+    ],
+    "answer": "B",
+    "explanation": "兒童腎病症候群最常見為 minimal change disease；成人則常以 membranous nephropathy 與 FSGS 為主。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_GN_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜腎病症候群" },
+    "stem": "Minimal change disease 最典型的病理/臨床線索為何？",
+    "options": [
+      { "key": "A", "text": "光顯可見節段性硬化，IF 顯示 IgA 沉積" },
+      { "key": "B", "text": "電顯可見足突融合（foot process effacement），對類固醇反應佳" },
+      { "key": "C", "text": "光顯可見明顯增生伴新月體形成" },
+      { "key": "D", "text": "與 HBV/HCV 最相關，常合併低補體" }
+    ],
+    "answer": "B",
+    "explanation": "Minimal change disease 的核心是 podocyte injury，電顯足突融合最典型，臨床上對類固醇治療反應佳。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_GN_Q0003",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜腎病症候群" },
+    "stem": "Membranous nephropathy 最典型的免疫螢光（IF）型態為何？",
+    "options": [
+      { "key": "A", "text": "線狀（linear）沉積沿 GBM" },
+      { "key": "B", "text": "顆粒狀（granular）沉積沿 GBM" },
+      { "key": "C", "text": "僅在系膜（mesangium）IgA 沉積" },
+      { "key": "D", "text": "完全無免疫沉積（pauci-immune）" }
+    ],
+    "answer": "B",
+    "explanation": "Membranous nephropathy 為免疫複合體沉積型腎小球病變，典型 IF 為沿 GBM 顆粒狀 IgG/C3 沉積。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_GN_Q0004",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜腎病症候群" },
+    "stem": "下列何者最符合 diabetic nephropathy 的臨床自然史？",
+    "options": [
+      { "key": "A", "text": "突然肉眼血尿、補體下降、腎功能急速惡化" },
+      { "key": "B", "text": "先出現 microalbuminuria，之後進展至蛋白尿與 eGFR 下降" },
+      { "key": "C", "text": "典型為反覆上呼吸道感染後 1–2 天血尿" },
+      { "key": "D", "text": "多為 isolated hematuria，蛋白尿很少見" }
+    ],
+    "answer": "B",
+    "explanation": "糖尿病腎病變常先由微量白蛋白尿開始，之後進展到顯性蛋白尿並逐步腎功能下降。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_GN_Q0005",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜腎炎症候群" },
+    "stem": "急性鏈球菌感染後腎炎（PSGN）最典型的補體變化為何？",
+    "options": [
+      { "key": "A", "text": "C3 下降且 C4 下降" },
+      { "key": "B", "text": "C3 下降、C4 通常正常" },
+      { "key": "C", "text": "C3 正常、C4 下降" },
+      { "key": "D", "text": "C3 與 C4 都正常" }
+    ],
+    "answer": "B",
+    "explanation": "PSGN 常見替代路徑活化，典型表現為低 C3、C4 多正常，並會在數週內逐漸恢復。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_GN_Q0006",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜腎炎症候群" },
+    "stem": "IgA 腎病變與 PSGN 的鑑別重點之一是血尿出現的時序。下列何者正確？",
+    "options": [
+      { "key": "A", "text": "IgA 腎病變多在感染後 1–2 天內出現血尿" },
+      { "key": "B", "text": "IgA 腎病變多在感染後 2–3 週出現血尿" },
+      { "key": "C", "text": "PSGN 多在感染後 1–2 天內出現血尿" },
+      { "key": "D", "text": "兩者皆與感染無關" }
+    ],
+    "answer": "A",
+    "explanation": "IgA 腎病變常見「synpharyngitic hematuria」：上呼吸道感染後很短時間（1–2 天）血尿；PSGN 則多在 1–3 週後。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_GN_Q0007",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜快速進行性腎小球腎炎（RPGN）" },
+    "stem": "RPGN 的病理最具代表性的描述為何？",
+    "options": [
+      { "key": "A", "text": "腎小管上皮壞死為主" },
+      { "key": "B", "text": "腎小球新月體（crescents）形成" },
+      { "key": "C", "text": "腎小球基底膜均勻變厚且無增生" },
+      { "key": "D", "text": "腎間質大量脂肪沉積" }
+    ],
+    "answer": "B",
+    "explanation": "RPGN 的經典病理為腎小球新月體形成，代表嚴重腎小球發炎/破壞，臨床多呈快速腎功能惡化。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_GN_Q0008",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜快速進行性腎小球腎炎（RPGN）" },
+    "stem": "Goodpasture syndrome（anti-GBM disease）最典型的 IF 表現為何？",
+    "options": [
+      { "key": "A", "text": "顆粒狀（granular）IgG 沿 GBM" },
+      { "key": "B", "text": "線狀（linear）IgG 沿 GBM" },
+      { "key": "C", "text": "僅系膜 IgA 沉積" },
+      { "key": "D", "text": "無免疫沉積（pauci-immune）" }
+    ],
+    "answer": "B",
+    "explanation": "anti-GBM disease 的特色為抗體直接針對 GBM，IF 典型呈線狀（linear）IgG 沉積。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_GN_Q0009",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜快速進行性腎小球腎炎（RPGN）" },
+    "stem": "ANCA-associated vasculitis 造成的腎炎在腎切片免疫螢光上最典型的特徵為何？",
+    "options": [
+      { "key": "A", "text": "線狀 IgG 沉積" },
+      { "key": "B", "text": "顆粒狀 IgG/C3 沉積" },
+      { "key": "C", "text": "pauci-immune（免疫沉積很少或幾乎沒有）" },
+      { "key": "D", "text": "只出現 IgA 沉積" }
+    ],
+    "answer": "C",
+    "explanation": "ANCA 相關血管炎的腎炎通常為 pauci-immune crescentic GN：免疫沉積少，但發炎破壞嚴重、可見新月體。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_GN_Q0010",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜次發性腎小球疾病" },
+    "stem": "下列哪一種情境最符合 membranous nephropathy 的重要次發性原因之一？",
+    "options": [
+      { "key": "A", "text": "Hepatitis B / malignancy（如實體腫瘤）" },
+      { "key": "B", "text": "急性腸胃炎造成脫水" },
+      { "key": "C", "text": "腎結石造成血尿" },
+      { "key": "D", "text": "心因性多飲" }
+    ],
+    "answer": "A",
+    "explanation": "Membranous nephropathy 可為原發或次發；次發性常與惡性腫瘤、HBV、部分自體免疫疾病或藥物相關。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_GN_Q0011",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜次發性腎小球疾病" },
+    "stem": "Lupus nephritis 常見的免疫學線索中，下列何者最典型？",
+    "options": [
+      { "key": "A", "text": "anti-GBM 抗體陽性、IF 呈線狀 IgG" },
+      { "key": "B", "text": "ANA/anti-dsDNA 相關，且常見低補體" },
+      { "key": "C", "text": "只會造成 isolated hematuria，蛋白尿罕見" },
+      { "key": "D", "text": "尿鈉 <10 mmol/L 為診斷關鍵" }
+    ],
+    "answer": "B",
+    "explanation": "狼瘡腎炎常與 ANA、anti-dsDNA 上升及補體消耗（C3/C4 下降）相關，臨床可表現蛋白尿、血尿與腎功能異常。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_GN_Q0012",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜腎病症候群併發症" },
+    "stem": "腎病症候群常見併發症，下列何者最正確？",
+    "options": [
+      { "key": "A", "text": "出血傾向增加，最擔心顱內出血" },
+      { "key": "B", "text": "血栓風險增加，特別是腎靜脈栓塞" },
+      { "key": "C", "text": "白血球大量上升是典型" },
+      { "key": "D", "text": "必定出現高鈣血症" }
+    ],
+    "answer": "B",
+    "explanation": "腎病症候群因抗凝因子（如 antithrombin III）流失與高凝狀態，血栓風險上升；腎靜脈栓塞是典型考點之一。"
+  },
+
+
+  {
+    "id": "MED3_RENAL_INF_ORI_DIALYSIS_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜戊 透析（Dialysis）" },
+    "stem": "下列何者不是急性透析的典型適應症（AEIOU）？",
+    "options": [
+      { "key": "A", "text": "難以控制的代謝性酸中毒" },
+      { "key": "B", "text": "高血鉀合併心電圖變化" },
+      { "key": "C", "text": "血肌酸酐上升但無症狀" },
+      { "key": "D", "text": "容量負荷導致肺水腫且對利尿劑反應差" }
+    ],
+    "answer": "C",
+    "explanation": "透析是因「併發症/症狀」與無法控制的代謝/容量問題，而非單看 creatinine 數值。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_DIALYSIS_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜戊 透析（Dialysis）" },
+    "stem": "下列何者最適合做為長期血液透析（HD）的血管通路？",
+    "options": [
+      { "key": "A", "text": "周邊靜脈留置針" },
+      { "key": "B", "text": "動靜脈瘻管（AV fistula）" },
+      { "key": "C", "text": "短期未隧道化中心靜脈導管" },
+      { "key": "D", "text": "腹膜透析導管" }
+    ],
+    "answer": "B",
+    "explanation": "長期 HD 首選 AV fistula（感染與血栓風險較低、壽命較長）；中心靜脈導管多作為短期或橋接。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_DIALYSIS_Q0003",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜戊 透析（Dialysis）" },
+    "stem": "透析失衡症候群（dialysis disequilibrium syndrome）最典型的情境為何？",
+    "options": [
+      { "key": "A", "text": "長期規則透析病人，每次透析後" },
+      { "key": "B", "text": "初次或久未透析、BUN 很高者接受快速透析後" },
+      { "key": "C", "text": "腹膜透析病人使用高糖透析液後" },
+      { "key": "D", "text": "腎移植後使用 tacrolimus 期間" }
+    ],
+    "answer": "B",
+    "explanation": "高尿素血症病人若快速清除溶質，易造成腦內外滲透壓差→腦水腫，出現頭痛、噁心、抽搐、意識改變。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_DIALYSIS_Q0004",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜戊 透析（Dialysis）" },
+    "stem": "腹膜透析（PD）最常見且最重要的急性併發症為何？",
+    "options": [
+      { "key": "A", "text": "腦出血" },
+      { "key": "B", "text": "腹膜炎（peritonitis）" },
+      { "key": "C", "text": "致命性心律不整" },
+      { "key": "D", "text": "高血糖一定發生" }
+    ],
+    "answer": "B",
+    "explanation": "PD 主要急症為腹膜炎，典型為腹痛、混濁透析液、發燒，需立即評估與抗生素治療。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_DIALYSIS_Q0005",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜戊 透析（Dialysis）" },
+    "stem": "關於腹膜透析（PD）的溶質清除原理，下列何者最正確？",
+    "options": [
+      { "key": "A", "text": "主要靠對流（convection）" },
+      { "key": "B", "text": "主要靠擴散（diffusion），超濾靠滲透壓梯度" },
+      { "key": "C", "text": "主要靠腎小球濾過" },
+      { "key": "D", "text": "主要靠腎小管分泌" }
+    ],
+    "answer": "B",
+    "explanation": "PD 的小分子清除以擴散為主；液體移除（ultrafiltration）則靠透析液葡萄糖等造成的滲透壓梯度。"
+  },
+
+  {
+    "id": "MED3_RENAL_INF_ORI_TX_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜己 腎臟移植（Transplantation）" },
+    "stem": "腎移植後「超急性排斥（hyperacute rejection）」最常見的機轉為何？",
+    "options": [
+      { "key": "A", "text": "T cell-mediated delayed hypersensitivity" },
+      { "key": "B", "text": "既存抗體（preformed antibodies）造成補體活化與血栓" },
+      { "key": "C", "text": "藥物毒性造成腎小管壞死" },
+      { "key": "D", "text": "病毒感染造成腎炎" }
+    ],
+    "answer": "B",
+    "explanation": "超急性排斥多因既存 anti-HLA/ABO 抗體，移植後立即引發補體活化、血管內血栓、移植腎快速失敗。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_TX_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜己 腎臟移植（Transplantation）" },
+    "stem": "腎移植後早期（數天到數週）出現 creatinine 上升，超音波無阻塞、血流尚可。下列何者最需要優先考慮？",
+    "options": [
+      { "key": "A", "text": "急性排斥反應或 CNI（如 tacrolimus）毒性" },
+      { "key": "B", "text": "腎細胞癌轉移" },
+      { "key": "C", "text": "多囊腎破裂" },
+      { "key": "D", "text": "腎結石一定是主因" }
+    ],
+    "answer": "A",
+    "explanation": "移植後早期腎功能惡化的常見鑑別包含急性排斥、CNI 藥物毒性、感染、脫水、血管/尿路併發症等；已排除阻塞與主要血流問題時，排斥/藥毒性要優先想。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_TX_Q0003",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜己 腎臟移植（Transplantation）" },
+    "stem": "下列何者最典型屬於 calcineurin inhibitor（CNI，例如 cyclosporine/tacrolimus）的副作用？",
+    "options": [
+      { "key": "A", "text": "腎毒性與高血壓" },
+      { "key": "B", "text": "嚴重骨髓抑制為主" },
+      { "key": "C", "text": "不可逆的聽力喪失" },
+      { "key": "D", "text": "腎結石一定形成" }
+    ],
+    "answer": "A",
+    "explanation": "CNI 常見腎血管收縮導致腎毒性、亦可造成高血壓、神經毒性、電解質異常等。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_TX_Q0004",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜己 腎臟移植（Transplantation）" },
+    "stem": "腎移植後長期免疫抑制最常見的感染風險之一為何？",
+    "options": [
+      { "key": "A", "text": "CMV 相關感染" },
+      { "key": "B", "text": "霍亂" },
+      { "key": "C", "text": "破傷風" },
+      { "key": "D", "text": "狂犬病" }
+    ],
+    "answer": "A",
+    "explanation": "移植後免疫抑制常增加機會性感染風險，CMV 是常考也常見的重要病原。"
+  },
+
+  {
+    "id": "MED3_RENAL_INF_ORI_STONE_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜庚 腎結石（Nephrolithiasis）" },
+    "stem": "最常見的腎結石成分為何？",
+    "options": [
+      { "key": "A", "text": "Calcium oxalate" },
+      { "key": "B", "text": "Cystine" },
+      { "key": "C", "text": "Uric acid" },
+      { "key": "D", "text": "Struvite（magnesium ammonium phosphate）" }
+    ],
+    "answer": "A",
+    "explanation": "最常見為鈣結石，以 calcium oxalate 為主。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_STONE_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜庚 腎結石（Nephrolithiasis）" },
+    "stem": "下列何者最典型與 struvite stone 相關？",
+    "options": [
+      { "key": "A", "text": "高草酸飲食" },
+      { "key": "B", "text": "urease-producing bacteria 感染" },
+      { "key": "C", "text": "低尿酸血症" },
+      { "key": "D", "text": "長期低鈣飲食" }
+    ],
+    "answer": "B",
+    "explanation": "struvite stone 與 urease-producing bacteria（如 Proteus、部分 Klebsiella 等）相關，尿液偏鹼性，常形成鹿角狀結石（staghorn calculus）。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_STONE_Q0003",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜庚 腎結石（Nephrolithiasis）" },
+    "stem": "下列何者最符合 uric acid stone 的特性？",
+    "options": [
+      { "key": "A", "text": "尿液偏鹼性、結石多為放射線不透（radiopaque）" },
+      { "key": "B", "text": "尿液偏酸性、結石多為放射線透亮（radiolucent）" },
+      { "key": "C", "text": "與 urease bacteria 感染最相關" },
+      { "key": "D", "text": "一定合併高血鈣" }
+    ],
+    "answer": "B",
+    "explanation": "uric acid stone 常在酸性尿形成，且多為 radiolucent（X 光不易看到，CT 可見）。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_STONE_Q0004",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜庚 腎結石（Nephrolithiasis）" },
+    "stem": "腎絞痛合併發燒、疑似阻塞併感染時，下列何者為最重要的處置原則？",
+    "options": [
+      { "key": "A", "text": "止痛後門診追蹤即可" },
+      { "key": "B", "text": "先等結石自然排出再給抗生素" },
+      { "key": "C", "text": "緊急引流解除阻塞（stent/PCN）並合併抗生素" },
+      { "key": "D", "text": "僅給利尿劑促進排石" }
+    ],
+    "answer": "C",
+    "explanation": "阻塞合併感染是泌尿道敗血症風險情境，關鍵是「引流解除阻塞＋抗生素」，不能只靠止痛或等待排石。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_STONE_Q0005",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜庚 腎結石（Nephrolithiasis）" },
+    "stem": "下列何者最符合 cystine stone 的線索？",
+    "options": [
+      { "key": "A", "text": "尿液中六角形（hexagonal）結晶" },
+      { "key": "B", "text": "尿液偏鹼性且與 urease bacteria 相關" },
+      { "key": "C", "text": "與高尿酸血症最相關" },
+      { "key": "D", "text": "多見於老年人且與吸菸相關" }
+    ],
+    "answer": "A",
+    "explanation": "cystinuria 的典型尿沉渣為六角形結晶；屬遺傳性胺基酸運輸異常。"
+  },
+
+  {
+    "id": "MED3_RENAL_INF_ORI_PKD_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜壬 多囊腎（PKD）" },
+    "stem": "成人常見的遺傳性多囊腎（ADPKD）最典型的腎外併發症為何？",
+    "options": [
+      { "key": "A", "text": "甲狀腺癌" },
+      { "key": "B", "text": "顱內動脈瘤（berry aneurysm）" },
+      { "key": "C", "text": "原發性肺纖維化" },
+      { "key": "D", "text": "硬皮症" }
+    ],
+    "answer": "B",
+    "explanation": "ADPKD 重要腎外併發症包含顱內動脈瘤、肝囊腫、二尖瓣脫垂等；其中 berry aneurysm 是高風險考點。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_PKD_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜壬 多囊腎（PKD）" },
+    "stem": "ADPKD 病人出現肉眼血尿與側腹痛時，下列何者最需要納入鑑別？",
+    "options": [
+      { "key": "A", "text": "囊腫出血或感染" },
+      { "key": "B", "text": "必定是 PSGN" },
+      { "key": "C", "text": "必定是腎移植排斥" },
+      { "key": "D", "text": "一定是藥物性 AIN" }
+    ],
+    "answer": "A",
+    "explanation": "ADPKD 常見症狀包含側腹痛、肉眼血尿；常見原因為囊腫出血、囊腫感染或結石等。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_PKD_Q0003",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜壬 多囊腎（PKD）" },
+    "stem": "ADPKD 最常用於篩檢/初步診斷的影像工具為何？",
+    "options": [
+      { "key": "A", "text": "腎臟超音波" },
+      { "key": "B", "text": "腎臟 PET-CT" },
+      { "key": "C", "text": "腎臟穿刺切片" },
+      { "key": "D", "text": "腎動脈攝影" }
+    ],
+    "answer": "A",
+    "explanation": "腎臟超音波是最常用、方便且無侵入性的初步診斷工具；必要時可用 CT/MRI 進一步評估。"
+  },
+
+  {
+    "id": "MED3_RENAL_INF_ORI_RCC_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜癸 腎細胞癌（RCC）" },
+    "stem": "腎細胞癌（RCC）典型三徵（classic triad）為何？",
+    "options": [
+      { "key": "A", "text": "咳嗽、咳血、胸痛" },
+      { "key": "B", "text": "血尿、側腹痛、可觸及腫塊" },
+      { "key": "C", "text": "發燒、黃疸、腹水" },
+      { "key": "D", "text": "水腫、蛋白尿、高血脂" }
+    ],
+    "answer": "B",
+    "explanation": "RCC 的 classic triad 為血尿、側腹痛、腹部腫塊（但臨床上並不一定三者都出現）。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_RCC_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜癸 腎細胞癌（RCC）" },
+    "stem": "下列何者最符合 RCC 的副腫瘤症候群（paraneoplastic syndrome）之一？",
+    "options": [
+      { "key": "A", "text": "多血症（polycythemia）" },
+      { "key": "B", "text": "重度低白蛋白血症必發" },
+      { "key": "C", "text": "甲狀腺功能低下必發" },
+      { "key": "D", "text": "尿酸一定下降" }
+    ],
+    "answer": "A",
+    "explanation": "RCC 可分泌 EPO 導致多血症，也可能造成高鈣血症（PTHrP）、高血壓（renin）、肝功能異常（Stauffer syndrome）等副腫瘤表現。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_RCC_Q0003",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜癸 腎細胞癌（RCC）" },
+    "stem": "下列何者為 RCC 的重要危險因子？",
+    "options": [
+      { "key": "A", "text": "吸菸" },
+      { "key": "B", "text": "低鹽飲食" },
+      { "key": "C", "text": "規則運動" },
+      { "key": "D", "text": "高纖飲食" }
+    ],
+    "answer": "A",
+    "explanation": "RCC 重要風險因子包含吸菸、肥胖、高血壓、特定遺傳症候群（如 VHL）等。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_RCC_Q0004",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜癸 腎細胞癌（RCC）" },
+    "stem": "下列哪一種影像檢查最常用於評估腎腫塊並協助分期（staging）？",
+    "options": [
+      { "key": "A", "text": "對比增強腹部 CT" },
+      { "key": "B", "text": "單純 KUB X-ray" },
+      { "key": "C", "text": "腎臟核醫 DMSA" },
+      { "key": "D", "text": "胸部超音波" }
+    ],
+    "answer": "A",
+    "explanation": "對比增強 CT 是評估腎腫塊特性與分期常用的一線工具（若對比禁忌可考慮 MRI 等替代）。"
   }
 
 
