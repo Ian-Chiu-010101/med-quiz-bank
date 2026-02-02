@@ -3191,6 +3191,187 @@
   ],
   "answer": "B",
   "explanation": "有效 ART 可降低 OI 與死亡率並顯著降低傳播風險，但仍需長期持續治療與規律追蹤（抗藥性、共病、疫苗與預防策略等）。"
+},
+
+  {
+  "id": "MED3_RENAL_INF_ORI_FUNGAL_Q0004",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜癸 黴菌感染｜Candida（念珠菌）" },
+  "stem": "下列何者最符合 Candida 感染的典型臨床概念？",
+  "options": [
+    { "key": "A", "text": "健康人血培長出 Candida 多為污染，可忽略" },
+    { "key": "B", "text": "中心靜脈導管、TPN、廣效抗生素為常見危險因子" },
+    { "key": "C", "text": "Candida 只會造成皮膚表淺感染，不會菌血症" },
+    { "key": "D", "text": "Candida 感染與免疫狀態無關" }
+  ],
+  "answer": "B",
+  "explanation": "侵襲性 Candida（含 candidemia）常與 ICU、中心靜脈導管、TPN、廣效抗生素、免疫抑制相關；血培長出 Candida 通常需視為重要事件。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_FUNGAL_Q0005",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜癸 黴菌感染｜Aspergillus（曲霉）" },
+  "stem": "侵襲性 Aspergillus 感染最常侵犯的器官為何？",
+  "options": [
+    { "key": "A", "text": "肺" },
+    { "key": "B", "text": "膀胱" },
+    { "key": "C", "text": "甲狀腺" },
+    { "key": "D", "text": "胰臟" }
+  ],
+  "answer": "A",
+  "explanation": "侵襲性 aspergillosis 多由吸入孢子引起，最常首先侵犯肺部，免疫低下者可血行散播至腦等器官。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_FUNGAL_Q0006",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜癸 黴菌感染｜Aspergillus（治療）" },
+  "stem": "侵襲性 aspergillosis 的第一線治療藥物，下列何者最典型？",
+  "options": [
+    { "key": "A", "text": "Fluconazole" },
+    { "key": "B", "text": "Voriconazole" },
+    { "key": "C", "text": "Acyclovir" },
+    { "key": "D", "text": "Oseltamivir" }
+  ],
+  "answer": "B",
+  "explanation": "侵襲性 aspergillosis 第一線常為 voriconazole（或依病況/藥物交互作用選擇其他抗黴菌方案）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_FUNGAL_Q0007",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜癸 黴菌感染｜Mucormycosis（接合菌）" },
+  "stem": "糖尿病酮酸中毒（DKA）病人出現鼻竇炎、顏面腫痛與黑色壞死痂皮（eschar），最需要考慮哪一種致命黴菌感染？",
+  "options": [
+    { "key": "A", "text": "Candida" },
+    { "key": "B", "text": "Mucormycosis（zygomycosis）" },
+    { "key": "C", "text": "Cryptococcus" },
+    { "key": "D", "text": "Pneumocystis" }
+  ],
+  "answer": "B",
+  "explanation": "DKA + 鼻顱（rhino-orbital-cerebral）侵犯 + 黑色壞死痂皮是 mucormycosis 經典情境，需緊急手術清創合併 amphotericin B 等治療。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_FUNGAL_Q0008",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜癸 黴菌感染｜Cryptococcus（診斷）" },
+  "stem": "懷疑 cryptococcal meningitis 時，下列何者最有助於快速診斷？",
+  "options": [
+    { "key": "A", "text": "CSF cryptococcal antigen（CrAg）" },
+    { "key": "B", "text": "糞便培養" },
+    { "key": "C", "text": "尿液抗原（Legionella）" },
+    { "key": "D", "text": "咽喉拭子快速抗原" }
+  ],
+  "answer": "A",
+  "explanation": "Cryptococcus 腦膜炎可用 CSF（或血清）cryptococcal antigen 快速輔助診斷；也可見 India ink 等，但 CrAg 是重要快速工具。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_FUNGAL_Q0009",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜癸 黴菌感染｜Pneumocystis" },
+  "stem": "Pneumocystis jirovecii pneumonia（PJP）最典型好發於下列哪一族群？",
+  "options": [
+    { "key": "A", "text": "健康成人急性支氣管炎" },
+    { "key": "B", "text": "免疫低下者（如 HIV CD4 很低、移植、長期高劑量類固醇）" },
+    { "key": "C", "text": "單純高血壓病人" },
+    { "key": "D", "text": "單純胃食道逆流" }
+  ],
+  "answer": "B",
+  "explanation": "PJP 為典型機會性感染，常見於嚴重免疫抑制族群。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_PARASITE_Q0003",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜子 寄生蟲｜瘧疾（概念）" },
+  "stem": "瘧疾（malaria）最典型的傳播媒介為何？",
+  "options": [
+    { "key": "A", "text": "Aedes 蚊" },
+    { "key": "B", "text": "Anopheles 雌蚊" },
+    { "key": "C", "text": "Culex 蚊" },
+    { "key": "D", "text": "蜱（tick）" }
+  ],
+  "answer": "B",
+  "explanation": "瘧疾由 Anopheles 雌蚊傳播，是基本寄生蟲學常考點；Aedes 典型為登革熱等。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_PARASITE_Q0004",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜子 寄生蟲｜瘧疾（嚴重型）" },
+  "stem": "下列哪一種瘧原蟲最容易造成重症瘧疾（如腦性瘧疾）？",
+  "options": [
+    { "key": "A", "text": "Plasmodium falciparum" },
+    { "key": "B", "text": "Plasmodium vivax" },
+    { "key": "C", "text": "Plasmodium ovale" },
+    { "key": "D", "text": "Plasmodium malariae" }
+  ],
+  "answer": "A",
+  "explanation": "P. falciparum 與重症、腦性瘧疾風險最高相關。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_PARASITE_Q0005",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜子 寄生蟲｜瘧疾（診斷）" },
+  "stem": "懷疑瘧疾時，下列哪一項是最經典且關鍵的診斷檢查？",
+  "options": [
+    { "key": "A", "text": "糞便培養" },
+    { "key": "B", "text": "厚薄血片（thick/thin smear）找瘧原蟲" },
+    { "key": "C", "text": "尿液抗原" },
+    { "key": "D", "text": "CSF PCR" }
+  ],
+  "answer": "B",
+  "explanation": "瘧疾診斷經典為厚薄血片找寄生蟲並判定種類與寄生蟲量；快速檢驗可輔助，但血片仍是關鍵。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_PARASITE_Q0006",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜子 寄生蟲｜登革熱（鑑別概念）" },
+  "stem": "熱帶旅遊返國後出現發燒、頭痛、肌肉痛與皮疹，合併血小板下降。下列何者最符合登革熱的典型警示概念？",
+  "options": [
+    { "key": "A", "text": "一定合併黃疸與米湯樣腹瀉" },
+    { "key": "B", "text": "可能出現出血傾向與血漿滲漏，需監測警示徵象" },
+    { "key": "C", "text": "只要退燒即可，無需追蹤" },
+    { "key": "D", "text": "登革熱主要由空氣傳播" }
+  ],
+  "answer": "B",
+  "explanation": "登革熱重症與血漿滲漏/出血風險相關，臨床重點在液體管理與監測警示徵象；傳播媒介為 Aedes 蚊。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_PARASITE_Q0007",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜子 寄生蟲｜阿米巴肝膿瘍" },
+  "stem": "阿米巴肝膿瘍（amebic liver abscess）最典型的臨床描述為何？",
+  "options": [
+    { "key": "A", "text": "咳嗽與大量痰" },
+    { "key": "B", "text": "右上腹痛、發燒，影像見單發肝膿瘍較常見" },
+    { "key": "C", "text": "必然合併嚴重黃疸與米湯樣腹瀉" },
+    { "key": "D", "text": "一定是多發、雙側肺膿瘍" }
+  ],
+  "answer": "B",
+  "explanation": "E. histolytica 可造成肝膿瘍，常以右上腹痛與發燒表現；腸道症狀可能不明顯。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_PARASITE_Q0008",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜子 寄生蟲｜Giardia（治療概念）" },
+  "stem": "Giardia lamblia 感染的典型治療選項，下列何者最常見？",
+  "options": [
+    { "key": "A", "text": "Metronidazole（或相關 nitroimidazole）" },
+    { "key": "B", "text": "Oseltamivir" },
+    { "key": "C", "text": "Vancomycin" },
+    { "key": "D", "text": "Acyclovir" }
+  ],
+  "answer": "A",
+  "explanation": "Giardia 常以 metronidazole（或 tinidazole 等）治療；屬原蟲感染的常見處置。"
 }
   
 ]
