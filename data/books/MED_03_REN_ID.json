@@ -2332,7 +2332,294 @@
   ],
   "answer": "A",
   "explanation": "E. histolytica 可造成侵襲性腸炎（血便）並可經門靜脈造成肝膿瘍，是經典考點。"
+},
+
+{
+  "id": "MED3_RENAL_INF_ORI_ABXMECH_Q0001",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜庚 抗生素｜β-lactam 機轉" },
+  "stem": "β-lactam 類抗生素（如 penicillin、cephalosporin）的主要作用機轉為何？",
+  "options": [
+    { "key": "A", "text": "抑制 30S 核糖體蛋白合成" },
+    { "key": "B", "text": "抑制細胞壁合成（binding PBPs）" },
+    { "key": "C", "text": "抑制 DNA gyrase" },
+    { "key": "D", "text": "抑制葉酸代謝" }
+  ],
+  "answer": "B",
+  "explanation": "β-lactam 透過結合 penicillin-binding proteins（PBPs）抑制肽聚醣交聯，造成細胞壁合成受阻。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_ABXMECH_Q0002",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜庚 抗生素｜glycopeptide" },
+  "stem": "Vancomycin 的主要抗菌標的為何？",
+  "options": [
+    { "key": "A", "text": "抑制 PBPs（transpeptidase）" },
+    { "key": "B", "text": "結合 D-Ala-D-Ala 抑制細胞壁合成" },
+    { "key": "C", "text": "抑制 DNA gyrase" },
+    { "key": "D", "text": "抑制 50S 核糖體" }
+  ],
+  "answer": "B",
+  "explanation": "Vancomycin 為 glycopeptide，透過結合 D-Ala-D-Ala 末端阻斷肽聚醣延長與交聯。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_ABXMECH_Q0003",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜庚 抗生素｜aminoglycoside" },
+  "stem": "Aminoglycoside（如 gentamicin）最典型的作用機轉為何？",
+  "options": [
+    { "key": "A", "text": "抑制 50S 核糖體轉位（translocation）" },
+    { "key": "B", "text": "抑制 30S 核糖體造成錯誤閱讀，具殺菌性" },
+    { "key": "C", "text": "抑制葉酸代謝" },
+    { "key": "D", "text": "抑制細胞膜合成" }
+  ],
+  "answer": "B",
+  "explanation": "Aminoglycoside 作用於 30S，造成 mRNA 誤讀與蛋白質合成異常，通常具濃度依賴性殺菌效果。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_ABXMECH_Q0004",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜庚 抗生素｜fluoroquinolone" },
+  "stem": "Fluoroquinolone 類（如 levofloxacin）的主要作用標的是哪一種酵素？",
+  "options": [
+    { "key": "A", "text": "DNA gyrase / topoisomerase" },
+    { "key": "B", "text": "RNA polymerase" },
+    { "key": "C", "text": "Dihydrofolate reductase" },
+    { "key": "D", "text": "Peptidyl transferase" }
+  ],
+  "answer": "A",
+  "explanation": "Fluoroquinolone 抑制 DNA gyrase 與 topoisomerase IV，干擾 DNA 複製。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_ABXMECH_Q0005",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜庚 抗生素｜TMP-SMX" },
+  "stem": "Trimethoprim-sulfamethoxazole（TMP-SMX）的主要作用機轉為何？",
+  "options": [
+    { "key": "A", "text": "抑制細胞壁合成" },
+    { "key": "B", "text": "雙重抑制葉酸代謝途徑" },
+    { "key": "C", "text": "抑制 30S 核糖體" },
+    { "key": "D", "text": "破壞細胞膜" }
+  ],
+  "answer": "B",
+  "explanation": "SMX 抑制 dihydropteroate synthase、TMP 抑制 dihydrofolate reductase，形成葉酸代謝的序列阻斷。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_ABXRES_Q0001",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜庚 抗藥性｜ESBL" },
+  "stem": "ESBL（extended-spectrum β-lactamase）產生菌最直接造成哪一類藥物治療困難？",
+  "options": [
+    { "key": "A", "text": "第一/二/三代 cephalosporin" },
+    { "key": "B", "text": "vancomycin" },
+    { "key": "C", "text": "metronidazole" },
+    { "key": "D", "text": "daptomycin" }
+  ],
+  "answer": "A",
+  "explanation": "ESBL 可水解多數 penicillin 與 cephalosporin（含第三代），臨床常需考慮 carbapenem 或依藥敏選擇替代方案。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_ABXRES_Q0002",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜庚 抗藥性｜MRSA" },
+  "stem": "MRSA 對 β-lactam 抗藥性的主要機轉為何？",
+  "options": [
+    { "key": "A", "text": "產生 ESBL" },
+    { "key": "B", "text": "改變 PBP（PBP2a，mecA）降低 β-lactam 結合" },
+    { "key": "C", "text": "抑制葉酸代謝" },
+    { "key": "D", "text": "增加細胞膜通透性" }
+  ],
+  "answer": "B",
+  "explanation": "MRSA 主要為 mecA 編碼的 PBP2a 使 β-lactam 親和力下降，導致廣泛 β-lactam 抗藥。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_ABXRES_Q0003",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜庚 抗藥性｜VRE" },
+  "stem": "Vancomycin-resistant Enterococcus（VRE）最典型的抗藥性機轉為何？",
+  "options": [
+    { "key": "A", "text": "改變細胞壁末端由 D-Ala-D-Ala 變為 D-Ala-D-Lac" },
+    { "key": "B", "text": "產生 β-lactamase" },
+    { "key": "C", "text": "抑制 DNA gyrase" },
+    { "key": "D", "text": "產生外毒素" }
+  ],
+  "answer": "A",
+  "explanation": "VRE 透過改變肽聚醣前驅物末端（D-Ala-D-Lac）使 vancomycin 難以結合。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_VIRUS_Q0001",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜辛 病毒感染｜流感" },
+  "stem": "流感（influenza）抗病毒藥物 oseltamivir 的主要作用標的是哪一個病毒蛋白？",
+  "options": [
+    { "key": "A", "text": "hemagglutinin" },
+    { "key": "B", "text": "neuraminidase" },
+    { "key": "C", "text": "reverse transcriptase" },
+    { "key": "D", "text": "protease" }
+  ],
+  "answer": "B",
+  "explanation": "Oseltamivir 為 neuraminidase inhibitor，可抑制病毒釋放與傳播。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_VIRUS_Q0002",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜辛 病毒感染｜HSV/VZV" },
+  "stem": "Acyclovir 的主要作用機轉為何？",
+  "options": [
+    { "key": "A", "text": "抑制細胞壁合成" },
+    { "key": "B", "text": "抑制病毒 DNA polymerase（需先被病毒 thymidine kinase 活化）" },
+    { "key": "C", "text": "抑制病毒 neuraminidase" },
+    { "key": "D", "text": "抑制病毒 protease" }
+  ],
+  "answer": "B",
+  "explanation": "Acyclovir 為核苷類似物，先由病毒 thymidine kinase 磷酸化活化，再抑制病毒 DNA polymerase。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_VIRUS_Q0003",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜辛 病毒感染｜EBV" },
+  "stem": "感染性單核球增多症（infectious mononucleosis, EBV）常見下列哪一組臨床特徵？",
+  "options": [
+    { "key": "A", "text": "咽喉痛、發燒、後頸淋巴結腫大" },
+    { "key": "B", "text": "腹瀉、黃疸、米湯樣便" },
+    { "key": "C", "text": "無痛性潰瘍、掌蹠疹" },
+    { "key": "D", "text": "劇烈腹痛、反跳痛" }
+  ],
+  "answer": "A",
+  "explanation": "EBV 常見發燒、咽炎、淋巴結腫大（常後頸為主），並可見 atypical lymphocytosis。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_HIV_Q0001",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜壬 HIV｜定義" },
+  "stem": "下列何者符合 AIDS 的臨床定義概念之一？",
+  "options": [
+    { "key": "A", "text": "任何一次 HIV 抗體陽性" },
+    { "key": "B", "text": "CD4 下降（如 <200/µL）或出現特定機會性感染/惡性腫瘤" },
+    { "key": "C", "text": "只有發燒與淋巴結腫大" },
+    { "key": "D", "text": "病毒量下降到不可偵測" }
+  ],
+  "answer": "B",
+  "explanation": "AIDS 的核心為免疫缺陷程度（常用 CD4 閾值）或出現指標性機會性感染/腫瘤。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_HIV_Q0002",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜壬 HIV｜機會性感染" },
+  "stem": "HIV 病人 CD4 <200/µL 時，最典型需要預防性用藥的機會性感染是哪一種？",
+  "options": [
+    { "key": "A", "text": "Pneumocystis jirovecii pneumonia（PJP）" },
+    { "key": "B", "text": "流感" },
+    { "key": "C", "text": "霍亂" },
+    { "key": "D", "text": "破傷風" }
+  ],
+  "answer": "A",
+  "explanation": "CD4 <200/µL 時 PJP 風險上升，典型以 TMP-SMX 作為預防性用藥。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_HIV_Q0003",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜壬 HIV｜治療原則" },
+  "stem": "下列何者最符合現代抗反轉錄病毒治療（ART）的基本原則？",
+  "options": [
+    { "key": "A", "text": "單一藥物治療即可避免抗藥性" },
+    { "key": "B", "text": "合併多藥（通常至少 3 藥/2 類）以抑制病毒並降低抗藥性" },
+    { "key": "C", "text": "只有出現 AIDS 才需開始治療" },
+    { "key": "D", "text": "病毒量不可偵測後即可停藥" }
+  ],
+  "answer": "B",
+  "explanation": "ART 以合併療法達到持續病毒抑制並降低抗藥性；一般不建議隨意停藥。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_FUNGAL_Q0001",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜癸 黴菌感染｜Cryptococcus" },
+  "stem": "Cryptococcus neoformans 感染最典型造成哪一種嚴重臨床表現？",
+  "options": [
+    { "key": "A", "text": "腦膜炎（特別在免疫低下者）" },
+    { "key": "B", "text": "急性化膿性關節炎（最常見）" },
+    { "key": "C", "text": "猝死型心肌炎" },
+    { "key": "D", "text": "典型為細菌性膿瘍" }
+  ],
+  "answer": "A",
+  "explanation": "Cryptococcus 在免疫低下（如 HIV）常引起亞急性腦膜炎，是經典考點。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_FUNGAL_Q0002",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜癸 黴菌感染｜Aspergillus" },
+  "stem": "侵襲性 aspergillosis 之高危險族群最典型是哪一種？",
+  "options": [
+    { "key": "A", "text": "健康成人上呼吸道感染" },
+    { "key": "B", "text": "長期嗜中性球低下或接受造血幹細胞移植者" },
+    { "key": "C", "text": "單純膽結石" },
+    { "key": "D", "text": "單純高血壓" }
+  ],
+  "answer": "B",
+  "explanation": "侵襲性 aspergillosis 常見於嚴重免疫抑制（嗜中性球低下、移植、長期高劑量類固醇等）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_FUNGAL_Q0003",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜癸 黴菌感染｜Candida" },
+  "stem": "下列何者最常見為侵襲性 Candida 感染（candidemia）的危險因子？",
+  "options": [
+    { "key": "A", "text": "長期中心靜脈導管與廣效抗生素使用" },
+    { "key": "B", "text": "規則運動" },
+    { "key": "C", "text": "單純輕微感冒" },
+    { "key": "D", "text": "高纖飲食" }
+  ],
+  "answer": "A",
+  "explanation": "candidemia 常與 ICU、中心靜脈導管、TPN、廣效抗生素、免疫低下等相關。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_PARASITE_Q0001",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜子 寄生蟲感染｜Giardia" },
+  "stem": "Giardia lamblia 感染最典型的臨床表現為何？",
+  "options": [
+    { "key": "A", "text": "大量血便與高燒" },
+    { "key": "B", "text": "油脂便、腹脹與吸收不良（foul-smelling diarrhea）" },
+    { "key": "C", "text": "米湯樣水瀉" },
+    { "key": "D", "text": "皮膚水泡與休克" }
+  ],
+  "answer": "B",
+  "explanation": "Giardia 常造成吸收不良與脂肪便、腹脹；常與山泉水/露營飲水等暴露相關。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_PARASITE_Q0002",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜子 寄生蟲感染｜Entamoeba histolytica" },
+  "stem": "阿米巴感染（Entamoeba histolytica）較典型的臨床組合為何？",
+  "options": [
+    { "key": "A", "text": "血便/黏液便，且可合併肝膿瘍" },
+    { "key": "B", "text": "米湯樣水瀉且無發炎" },
+    { "key": "C", "text": "單純咽喉痛與後頸淋巴結腫大" },
+    { "key": "D", "text": "皮膚蜂窩性組織炎為主" }
+  ],
+  "answer": "A",
+  "explanation": "E. histolytica 可造成侵襲性腸炎（血便）並可經門靜脈造成肝膿瘍，是經典考點。"
 }
 
+  
   
 ]
