@@ -3523,6 +3523,1240 @@
   ],
   "answer": "C",
   "explanation": "腹瀉典型造成 **non–anion gap** 代謝性酸中毒（HCO3− 流失、Cl− 上升）。高 AG 代謝性酸中毒常見類別可記 lactate、ketone、toxin/drug、renal failure（尿毒）。"
+},
+
+  {
+  "id": "MED3_RENAL_INF_ORI_ELEC_Q0001",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜乙 離子平衡｜A 低血鈉" },
+  "stem": "下列哪一項最符合低血鈉（hyponatremia）之分型評估的第一步？",
+  "options": [
+    { "key": "A", "text": "直接給 3% 高張食鹽水" },
+    { "key": "B", "text": "先判斷血清滲透壓（serum osmolality）屬於低/等/高張" },
+    { "key": "C", "text": "先測尿鈉即可，不需其他資訊" },
+    { "key": "D", "text": "先測甲狀腺功能即可確診" }
+  ],
+  "answer": "B",
+  "explanation": "低血鈉評估的起點是先分辨是否為「低滲/等滲/高滲」情境；再結合病人容積狀態與尿滲透壓/尿鈉等，判斷 SIADH、低容積、心肝腎衰等原因。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_ELEC_Q0002",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜乙 離子平衡｜A 低血鈉" },
+  "stem": "下列何者最符合 SIADH 的典型實驗室特徵？",
+  "options": [
+    { "key": "A", "text": "血清低滲、尿滲透壓偏低（稀尿）" },
+    { "key": "B", "text": "血清低滲、尿滲透壓偏高（非適當濃縮）且尿鈉常不低" },
+    { "key": "C", "text": "血清高滲、尿滲透壓偏低" },
+    { "key": "D", "text": "血清等滲、尿滲透壓偏高必然為 SIADH" }
+  ],
+  "answer": "B",
+  "explanation": "SIADH 為不適當 ADH 分泌，造成低滲性低血鈉，但尿液相對濃縮（Uosm 偏高），且在無低容積刺激下尿鈉常不低（>30 mEq/L 常見）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_ELEC_Q0003",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜乙 離子平衡｜A 低血鈉" },
+  "stem": "嚴重症狀性低血鈉（如癲癇、昏迷）之急性處置原則，下列何者最恰當？",
+  "options": [
+    { "key": "A", "text": "限制飲水即可，避免任何輸液" },
+    { "key": "B", "text": "立即給予 3% 高張食鹽水以先改善神經症狀" },
+    { "key": "C", "text": "立即大量輸注 D5W 以避免鈉上升" },
+    { "key": "D", "text": "先等尿電解質結果再決定" }
+  ],
+  "answer": "B",
+  "explanation": "有神經學重症表現時，目標是先安全提升血鈉以解除腦水腫症狀（常以 3% NaCl 小量反覆 bolus 或依院內流程）；同時需避免過度矯正造成滲透性脫髓鞘。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_ELEC_Q0004",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜乙 離子平衡｜B 高血鈉" },
+  "stem": "高血鈉（hypernatremia）最常見的病理機轉為何？",
+  "options": [
+    { "key": "A", "text": "鈉過量攝取" },
+    { "key": "B", "text": "水分相對不足（自由水缺乏），多因失水或無法補水" },
+    { "key": "C", "text": "腎臟排鈉過多" },
+    { "key": "D", "text": "鉀離子過高導致鈉上升" }
+  ],
+  "answer": "B",
+  "explanation": "高血鈉在臨床上多反映「自由水不足」而非鈉真的過量；常見於失水（腸胃道、皮膚、腎性如 DI）或無法取得水分的病人。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_ELEC_Q0005",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜乙 離子平衡｜B 高血鈉" },
+  "stem": "懷疑尿崩症（diabetes insipidus, DI）造成高血鈉時，下列何者最符合典型尿液表現？",
+  "options": [
+    { "key": "A", "text": "尿量少且尿滲透壓高" },
+    { "key": "B", "text": "多尿且尿滲透壓低（稀尿）" },
+    { "key": "C", "text": "尿鈉一定很高" },
+    { "key": "D", "text": "尿液一定有大量蛋白" }
+  ],
+  "answer": "B",
+  "explanation": "DI 的核心為 ADH 缺乏或腎臟對 ADH 不反應，導致無法濃縮尿液→多尿、低尿滲透壓→自由水流失造成高血鈉。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_ELEC_Q0006",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜乙 離子平衡｜C 低血鉀" },
+  "stem": "低血鉀（hypokalemia）最常見的原因類型為何？",
+  "options": [
+    { "key": "A", "text": "腎臟無法排酸" },
+    { "key": "B", "text": "胃腸道或腎臟鉀流失（如嘔吐、腹瀉、利尿劑）" },
+    { "key": "C", "text": "單純鈉攝取不足" },
+    { "key": "D", "text": "血鈣過低" }
+  ],
+  "answer": "B",
+  "explanation": "低血鉀常見於外流失（GI：腹瀉；腎：利尿劑、醛固酮作用↑等）或鉀移入細胞（胰島素、β-agonist、鹼中毒）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_ELEC_Q0007",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜乙 離子平衡｜C 低血鉀" },
+  "stem": "高血壓合併低血鉀時，下列哪一項鑑別最典型需要優先考慮？",
+  "options": [
+    { "key": "A", "text": "SIADH" },
+    { "key": "B", "text": "原發性醛固酮增多症（primary aldosteronism）" },
+    { "key": "C", "text": "單純腸胃炎" },
+    { "key": "D", "text": "腎絲球腎炎" }
+  ],
+  "answer": "B",
+  "explanation": "高血壓 + 低血鉀是原發性醛固酮增多症的經典線索（也要想到利尿劑/腎血管性高血壓/甘草等）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_ELEC_Q0008",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜乙 離子平衡｜D 高血鉀" },
+  "stem": "下列何者為高血鉀（hyperkalemia）最常見的原因分類？",
+  "options": [
+    { "key": "A", "text": "腎排鉀能力下降（如 AKI/CKD 或 RAAS 抑制）" },
+    { "key": "B", "text": "單純飲食攝取過多" },
+    { "key": "C", "text": "維生素缺乏" },
+    { "key": "D", "text": "血鈉過低必然造成高血鉀" }
+  ],
+  "answer": "A",
+  "explanation": "臨床高血鉀多因腎臟排鉀能力下降或醛固酮作用不足/被抑制（AKI/CKD、ACEi/ARB、K-sparing diuretics、type 4 RTA 等），而非單純吃太多鉀。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_ELEC_Q0009",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜乙 離子平衡｜D 高血鉀" },
+  "stem": "高血鉀病人出現心電圖變化時，最立即的處置目標為何？",
+  "options": [
+    { "key": "A", "text": "立即以樹脂把鉀排出體外" },
+    { "key": "B", "text": "先穩定心肌細胞膜，降低致命心律不整風險" },
+    { "key": "C", "text": "先補鈣以治療低血鈣" },
+    { "key": "D", "text": "先給大量生理食鹽水以排鈉" }
+  ],
+  "answer": "B",
+  "explanation": "高血鉀伴 ECG 改變時，第一優先是膜穩定（IV calcium gluconate/ chloride 依情境）以防心律不整；之後才是把鉀移入細胞與移出體外。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_ELEC_Q0010",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜乙 離子平衡｜E 鈣的平衡" },
+  "stem": "下列何者最符合「低白蛋白血症造成總血鈣下降」的臨床意義？",
+  "options": [
+    { "key": "A", "text": "一定代表游離鈣（ionized Ca）也下降" },
+    { "key": "B", "text": "可能是總鈣下降但游離鈣正常，需看 ionized Ca 或校正鈣" },
+    { "key": "C", "text": "必然導致抽搐" },
+    { "key": "D", "text": "與白蛋白無關" }
+  ],
+  "answer": "B",
+  "explanation": "總鈣受白蛋白結合影響；低白蛋白會讓 total Ca 看起來偏低，但 ionized Ca 可能正常，因此需看 ionized Ca 或做校正（臨床上常用 correction 公式作概略判讀）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_ELEC_Q0011",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜乙 離子平衡｜F 磷的平衡" },
+  "stem": "慢性腎臟病（CKD）病人常見的磷代謝異常為何？",
+  "options": [
+    { "key": "A", "text": "低血磷" },
+    { "key": "B", "text": "高血磷" },
+    { "key": "C", "text": "血磷一定正常" },
+    { "key": "D", "text": "血磷與腎功能無關" }
+  ],
+  "answer": "B",
+  "explanation": "CKD 因腎排磷能力下降而易高血磷，進而導致低鈣與次發性副甲狀腺亢進（CKD-MBD）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_ELEC_Q0012",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜乙 離子平衡｜F 磷的平衡" },
+  "stem": "下列何者最符合 CKD 造成次發性副甲狀腺亢進（secondary hyperparathyroidism）的機轉？",
+  "options": [
+    { "key": "A", "text": "腎排磷下降→高血磷與活性維生素 D 下降→低血鈣→PTH 上升" },
+    { "key": "B", "text": "腎排鈉下降→低血鈉→PTH 上升" },
+    { "key": "C", "text": "腎排鉀下降→高血鉀→PTH 上升" },
+    { "key": "D", "text": "單純飲食鈣攝取過多→PTH 上升" }
+  ],
+  "answer": "A",
+  "explanation": "CKD-MBD 核心：排磷下降造成高磷，腎 1α-hydroxylation 下降使活性 Vit D 降低，腸鈣吸收下降→低鈣刺激 PTH 上升，形成次發性副甲狀腺亢進。"
+},
+
+  {
+  "id": "MED3_RENAL_INF_ORI_AKI_Q0005",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丙 急性腎損傷（AKI）" },
+  "stem": "KDIGO 對急性腎損傷（AKI）的診斷標準之一，下列何者正確？",
+  "options": [
+    { "key": "A", "text": "血清肌酸酐上升 ≥0.3 mg/dL 於 48 小時內" },
+    { "key": "B", "text": "血清肌酸酐上升 ≥0.3 mg/dL 於 3 個月內" },
+    { "key": "C", "text": "eGFR 只要低於 60 即為 AKI" },
+    { "key": "D", "text": "只有尿量下降才算 AKI" }
+  ],
+  "answer": "A",
+  "explanation": "KDIGO：Scr 48 小時內上升 ≥0.3 mg/dL，或 7 天內上升至基線 ≥1.5 倍，或尿量 <0.5 mL/kg/h 持續 ≥6 小時，皆可診斷 AKI。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_AKI_Q0006",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丙 急性腎損傷（AKI）" },
+  "stem": "下列何者最符合腎前性（prerenal）AKI 的典型尿液指標？",
+  "options": [
+    { "key": "A", "text": "尿鈉高、FENa >2%" },
+    { "key": "B", "text": "尿鈉低、FENa <1%（無利尿劑影響時）" },
+    { "key": "C", "text": "尿中大量 RBC casts" },
+    { "key": "D", "text": "尿沈渣多為泥沙樣圓柱" }
+  ],
+  "answer": "B",
+  "explanation": "腎前性 AKI 因有效循環血量不足，腎小管仍能保留鈉水：尿鈉低、FENa <1%、尿滲透壓較高。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_AKI_Q0007",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丙 急性腎損傷（AKI）" },
+  "stem": "腎前性 AKI 與 ATN 的鑑別，BUN/Cr 比值常見差異為何？",
+  "options": [
+    { "key": "A", "text": "腎前性通常 <10；ATN 通常 >20" },
+    { "key": "B", "text": "腎前性通常 >20；ATN 常較接近 10–15" },
+    { "key": "C", "text": "兩者沒有任何差異" },
+    { "key": "D", "text": "ATN 一定 >30" }
+  ],
+  "answer": "B",
+  "explanation": "腎前性低灌流時腎小管重吸收尿素增加→BUN/Cr 比值偏高（>20 常被引用）；ATN 因小管損傷，重吸收能力下降→比值多較低/接近正常。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_AKI_Q0008",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丙 急性腎損傷（AKI）" },
+  "stem": "使用利尿劑的病人懷疑腎前性 AKI 時，哪一個指標較能輔助鑑別（相較 FENa 較不受影響）？",
+  "options": [
+    { "key": "A", "text": "FEUrea（尿素分率排泄率）" },
+    { "key": "B", "text": "血紅素" },
+    { "key": "C", "text": "血小板" },
+    { "key": "D", "text": "血清白蛋白" }
+  ],
+  "answer": "A",
+  "explanation": "利尿劑會提高尿鈉、影響 FENa 判讀；FEUrea 在利尿劑情境下相對較可用。腎前性常見 FEUrea 偏低（常用門檻約 <35%）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_AKI_Q0009",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丙 急性腎損傷（AKI）" },
+  "stem": "下列何者最符合腎後性（postrenal）AKI 的臨床處置優先？",
+  "options": [
+    { "key": "A", "text": "立即給予高劑量利尿劑以排尿" },
+    { "key": "B", "text": "先排除/解除尿路阻塞（如導尿、腎造口/輸尿管支架）" },
+    { "key": "C", "text": "先給類固醇" },
+    { "key": "D", "text": "先做腎穿刺活檢" }
+  ],
+  "answer": "B",
+  "explanation": "腎後性 AKI 的核心是阻塞：優先確認並解除（導尿、泌尿科處置）。延誤解除可能造成不可逆腎損傷。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_AKI_Q0010",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丙 急性腎損傷（AKI）" },
+  "stem": "腎後性阻塞造成的 AKI，超音波最常見的影像線索為何？",
+  "options": [
+    { "key": "A", "text": "腎皮質變薄" },
+    { "key": "B", "text": "腎盂腎盞擴張（hydronephrosis）" },
+    { "key": "C", "text": "腎臟鈣化一定存在" },
+    { "key": "D", "text": "雙腎一定縮小" }
+  ],
+  "answer": "B",
+  "explanation": "阻塞常見 hydronephrosis；但早期或特定情境（如後腹膜纖維化、嚴重脫水）也可能不典型，因此仍需臨床整合。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_AKI_Q0011",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丙 急性腎損傷（AKI）" },
+  "stem": "急性間質性腎炎（AIN）最典型的誘因為何？",
+  "options": [
+    { "key": "A", "text": "藥物（如 β-lactam、PPI、NSAIDs 等）" },
+    { "key": "B", "text": "單純飲水不足" },
+    { "key": "C", "text": "高蛋白飲食" },
+    { "key": "D", "text": "運動過量" }
+  ],
+  "answer": "A",
+  "explanation": "AIN 最常見為藥物誘發的過敏/免疫反應；也可見感染或自體免疫相關，但考題常以藥物為主。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_AKI_Q0012",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丙 急性腎損傷（AKI）" },
+  "stem": "關於急性間質性腎炎（AIN）的典型臨床/尿液表現，下列何者最符合？",
+  "options": [
+    { "key": "A", "text": "泥沙樣圓柱為主" },
+    { "key": "B", "text": "無菌性膿尿、嗜酸性球尿（eosinophiluria）可見" },
+    { "key": "C", "text": "一定大量蛋白尿 >3.5 g/day" },
+    { "key": "D", "text": "尿鈉一定 <10" }
+  ],
+  "answer": "B",
+  "explanation": "AIN 常見無菌性膿尿、WBC casts，部分可見 eosinophiluria；臨床三聯徵（發燒、皮疹、嗜酸性球增多）不一定齊全。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_AKI_Q0013",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丙 急性腎損傷（AKI）" },
+  "stem": "下列何者最符合 ATN（acute tubular necrosis）的典型尿沈渣？",
+  "options": [
+    { "key": "A", "text": "RBC casts" },
+    { "key": "B", "text": "WBC casts" },
+    { "key": "C", "text": "muddy brown granular casts" },
+    { "key": "D", "text": "大量卵圓脂肪體（oval fat bodies）" }
+  ],
+  "answer": "C",
+  "explanation": "ATN 尿沈渣典型為 granular casts（muddy brown）；RBC casts 偏向腎小球性血尿，WBC casts 偏向腎盂腎炎或 AIN；oval fat bodies 偏向腎病症候群。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_AKI_Q0014",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丙 急性腎損傷（AKI）" },
+  "stem": "哪一種情境最可能造成缺血型 ATN？",
+  "options": [
+    { "key": "A", "text": "短暫輕度脫水且迅速補液" },
+    { "key": "B", "text": "長時間低血壓/休克（如敗血症、重大手術出血）" },
+    { "key": "C", "text": "單純發燒" },
+    { "key": "D", "text": "高血壓未控制" }
+  ],
+  "answer": "B",
+  "explanation": "缺血型 ATN 常由持續低灌流/休克造成；若腎前性低灌流未及時矯正可進展為 ATN。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_AKI_Q0015",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丙 急性腎損傷（AKI）" },
+  "stem": "下列哪一項藥物最典型與腎毒性（nephrotoxicity）相關，可造成 AKI？",
+  "options": [
+    { "key": "A", "text": "Aminoglycoside" },
+    { "key": "B", "text": "Macrolide" },
+    { "key": "C", "text": "Penicillin V 口服低劑量" },
+    { "key": "D", "text": "Metronidazole" }
+  ],
+  "answer": "A",
+  "explanation": "Aminoglycoside 可造成近端小管毒性導致 ATN；其他仍可能有副作用，但考題中 aminoglycoside 是經典腎毒性代表。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_AKI_Q0016",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丙 急性腎損傷（AKI）" },
+  "stem": "造影劑相關急性腎損傷（contrast-associated AKI）之預防，下列何者最恰當？",
+  "options": [
+    { "key": "A", "text": "檢查後立即給予 NSAIDs 以止痛" },
+    { "key": "B", "text": "適當補液（isotonic fluid）並避免不必要腎毒性藥物" },
+    { "key": "C", "text": "只要使用高滲葡萄糖液即可預防" },
+    { "key": "D", "text": "不需評估風險，所有人風險相同" }
+  ],
+  "answer": "B",
+  "explanation": "預防核心是風險評估、適當輸液（常用等張液）、避免/暫停腎毒性藥物、使用必要且最低量造影劑。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_AKI_Q0017",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丙 急性腎損傷（AKI）" },
+  "stem": "下列何者最符合「腎前性 AKI 若不矯正可進展為 ATN」的臨床意義？",
+  "options": [
+    { "key": "A", "text": "腎前性與 ATN 完全無關" },
+    { "key": "B", "text": "持續低灌流會造成小管缺血損傷，從功能性變成結構性損傷" },
+    { "key": "C", "text": "只要有蛋白尿就一定是 ATN" },
+    { "key": "D", "text": "ATN 一定會在 24 小時內完全恢復" }
+  ],
+  "answer": "B",
+  "explanation": "腎前性為功能性低灌流；若低灌流持續或嚴重，會導致小管細胞缺血壞死→ATN（結構性損傷），此為臨床上「及早補液/改善灌流」的重要理由。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_AKI_Q0018",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丙 急性腎損傷（AKI）" },
+  "stem": "下列何者最符合 AKI 初步評估的檢查策略？",
+  "options": [
+    { "key": "A", "text": "所有人一律先做腎穿刺活檢" },
+    { "key": "B", "text": "先確認尿量與生命徵象，檢視用藥與體液狀態，並做尿液分析與腎超音波排除阻塞" },
+    { "key": "C", "text": "只要抽一次肌酸酐即可，不需追蹤" },
+    { "key": "D", "text": "先給利尿劑，若有尿就代表腎功能正常" }
+  ],
+  "answer": "B",
+  "explanation": "AKI 初步要先分三大類：prerenal/intrinsic/postrenal。臨床上會先看尿量、循環狀態與藥物史，做 UA/尿沈渣、電解質指標，並以腎超音波排除阻塞。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_AKI_Q0019",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丙 急性腎損傷（AKI）" },
+  "stem": "AKI 病人出現下列哪一項情況時，最需要立即處理以避免致命併發症？",
+  "options": [
+    { "key": "A", "text": "輕度蛋白尿" },
+    { "key": "B", "text": "高血鉀合併心電圖變化" },
+    { "key": "C", "text": "血尿顯微鏡下 1–2/HPF" },
+    { "key": "D", "text": "尿比重偏高" }
+  ],
+  "answer": "B",
+  "explanation": "AKI 的立即危險處置常圍繞 AEIOU，尤其高血鉀合併 ECG 變化屬高風險，需立刻進行膜穩定與降鉀處置。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_AKI_Q0020",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丙 急性腎損傷（AKI）" },
+  "stem": "AKI 病人若出現急性肺水腫且利尿劑無效，最恰當的下一步為何？",
+  "options": [
+    { "key": "A", "text": "繼續加倍口服利尿劑並觀察" },
+    { "key": "B", "text": "考慮腎臟替代治療（透析/超濾）以控制液體" },
+    { "key": "C", "text": "停止所有輸液但不需其他處置" },
+    { "key": "D", "text": "僅給鎮靜藥即可" }
+  ],
+  "answer": "B",
+  "explanation": "難以控制的肺水腫/容量過負荷是透析（腎臟替代治療）常見適應症之一；若利尿劑無效且呼吸循環受影響，應及早升級處置。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_AKI_Q0021",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丙 急性腎損傷（AKI）" },
+  "stem": "下列何者最符合「腎功能指標」在 AKI 的解讀限制？",
+  "options": [
+    { "key": "A", "text": "血清肌酸酐會即時反映 GFR 的變化" },
+    { "key": "B", "text": "血清肌酸酐在急性變化時有滯後性，早期可能低估嚴重度" },
+    { "key": "C", "text": "尿量與 AKI 毫無關聯" },
+    { "key": "D", "text": "只要肌酸酐正常即可排除 AKI" }
+  ],
+  "answer": "B",
+  "explanation": "Scr 上升需時間累積，急性期可能尚未顯著上升而低估 AKI；因此臨床需結合尿量、趨勢、風險與其他線索。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_AKI_Q0022",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丙 急性腎損傷（AKI）" },
+  "stem": "哪一種尿沈渣線索最支持「腎小球性」病變造成 AKI？",
+  "options": [
+    { "key": "A", "text": "RBC casts" },
+    { "key": "B", "text": "muddy brown casts" },
+    { "key": "C", "text": "大量結晶" },
+    { "key": "D", "text": "透明圓柱（hyaline casts）" }
+  ],
+  "answer": "A",
+  "explanation": "RBC casts 強烈提示腎小球出血/腎炎相關；ATN 偏向 granular casts；hyaline casts 可見於脫水/運動等非特異狀態。"
+},
+
+  {
+  "id": "MED3_RENAL_INF_ORI_GLOM_Q0001",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜A 腎絲球疾病（Glomerular disease）" },
+  "stem": "下列何者最能支持「腎小球性血尿」而非下泌尿道出血？",
+  "options": [
+    { "key": "A", "text": "尿液呈鮮紅色且無蛋白尿" },
+    { "key": "B", "text": "尿沈渣可見 RBC casts 或 dysmorphic RBC" },
+    { "key": "C", "text": "尿液培養陽性" },
+    { "key": "D", "text": "排尿疼痛明顯" }
+  ],
+  "answer": "B",
+  "explanation": "RBC casts／變形紅血球（dysmorphic RBC）高度提示腎小球來源的血尿，常見於腎炎相關病變。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_GLOM_Q0002",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜A 腎絲球疾病（Glomerular disease）" },
+  "stem": "腎病症候群（nephrotic syndrome）的主要併發症，下列何者最典型？",
+  "options": [
+    { "key": "A", "text": "出血傾向" },
+    { "key": "B", "text": "血栓栓塞風險上升（hypercoagulability）" },
+    { "key": "C", "text": "持續性低血壓" },
+    { "key": "D", "text": "高血糖必然發生" }
+  ],
+  "answer": "B",
+  "explanation": "nephrotic syndrome 因蛋白流失（含抗凝蛋白）與肝臟代償合成等，導致高凝狀態，增加 DVT/PE、腎靜脈栓塞風險。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_GLOM_Q0003",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜A 腎絲球疾病（Glomerular disease）" },
+  "stem": "小兒腎病症候群最常見病因（minimal change disease）在腎臟電子顯微鏡（EM）最典型的發現為何？",
+  "options": [
+    { "key": "A", "text": "subepithelial hump" },
+    { "key": "B", "text": "podocyte foot process effacement" },
+    { "key": "C", "text": "tram-track appearance" },
+    { "key": "D", "text": "Crescent formation" }
+  ],
+  "answer": "B",
+  "explanation": "minimal change disease LM 多正常、IF 陰性，EM 典型為足突融合（foot process effacement）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_GLOM_Q0004",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜A 腎絲球疾病（Glomerular disease）" },
+  "stem": "成人 nephrotic syndrome 若合併高凝狀態特別明顯（如腎靜脈栓塞），最典型相關病變為何？",
+  "options": [
+    { "key": "A", "text": "Minimal change disease" },
+    { "key": "B", "text": "Membranous nephropathy" },
+    { "key": "C", "text": "IgA nephropathy" },
+    { "key": "D", "text": "Acute poststreptococcal GN" }
+  ],
+  "answer": "B",
+  "explanation": "membranous nephropathy 與血栓栓塞（尤其腎靜脈栓塞）風險增加是經典考點。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_GLOM_Q0005",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜A 腎絲球疾病（Glomerular disease）" },
+  "stem": "Membranous nephropathy 最典型的免疫螢光（IF）/超微結構特徵為何？",
+  "options": [
+    { "key": "A", "text": "線性（linear）IgG 沿 GBM" },
+    { "key": "B", "text": "顆粒狀（granular）沉積，subepithelial deposits（spike and dome）" },
+    { "key": "C", "text": "只有 C3 沉積，無免疫球蛋白" },
+    { "key": "D", "text": "mesangial IgA 為主" }
+  ],
+  "answer": "B",
+  "explanation": "membranous nephropathy 經典為 granular IF，EM 見 subepithelial immune deposits，LM 可見 spike。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_GLOM_Q0006",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜A 腎絲球疾病（Glomerular disease）" },
+  "stem": "關於 FSGS（focal segmental glomerulosclerosis），下列何者正確？",
+  "options": [
+    { "key": "A", "text": "最常見於兒童且對類固醇反應極佳" },
+    { "key": "B", "text": "可與 HIV、heroin、肥胖或減少腎元狀態相關" },
+    { "key": "C", "text": "典型為 subepithelial hump" },
+    { "key": "D", "text": "不會進展至末期腎病" }
+  ],
+  "answer": "B",
+  "explanation": "FSGS 可為原發或繼發（HIV、肥胖、腎元減少等），治療反應較不佳，部分會進展至 CKD/ESRD。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_GLOM_Q0007",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜A 腎絲球疾病（Glomerular disease）" },
+  "stem": "急性鏈球菌感染後腎炎（PSGN）最典型的補體變化為何？",
+  "options": [
+    { "key": "A", "text": "C3 下降，C4 多正常" },
+    { "key": "B", "text": "C3 與 C4 都上升" },
+    { "key": "C", "text": "只有 C4 下降" },
+    { "key": "D", "text": "補體一定正常" }
+  ],
+  "answer": "A",
+  "explanation": "PSGN 常見低補體（尤其 C3）且多在數週內回復；常用於鑑別 IgA（補體多正常）等。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_GLOM_Q0008",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜A 腎絲球疾病（Glomerular disease）" },
+  "stem": "PSGN 的超微結構（EM）典型沉積型態為何？",
+  "options": [
+    { "key": "A", "text": "subepithelial humps" },
+    { "key": "B", "text": "subendothelial deposits" },
+    { "key": "C", "text": "線性沉積於 GBM" },
+    { "key": "D", "text": "只在 mesangium 沉積 IgA" }
+  ],
+  "answer": "A",
+  "explanation": "PSGN 經典為 subepithelial humps（免疫複合體沉積）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_GLOM_Q0009",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜A 腎絲球疾病（Glomerular disease）" },
+  "stem": "IgA 腎病變的典型免疫螢光（IF）沉積位置為何？",
+  "options": [
+    { "key": "A", "text": "GBM 線性 IgG" },
+    { "key": "B", "text": "mesangial IgA 沉積" },
+    { "key": "C", "text": "只沉積 C1q" },
+    { "key": "D", "text": "subepithelial spike" }
+  ],
+  "answer": "B",
+  "explanation": "IgA nephropathy 典型為 mesangial IgA 沉積。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_GLOM_Q0010",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜A 腎絲球疾病（Glomerular disease）" },
+  "stem": "上呼吸道感染後 1–2 天內出現肉眼血尿，下列何者最符合？",
+  "options": [
+    { "key": "A", "text": "PSGN" },
+    { "key": "B", "text": "IgA nephropathy" },
+    { "key": "C", "text": "Minimal change disease" },
+    { "key": "D", "text": "Alport syndrome 必然" }
+  ],
+  "answer": "B",
+  "explanation": "IgA 常為「synpharyngitic hematuria」：感染後很短時間內出現血尿；PSGN 多為感染後 1–3 週。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_GLOM_Q0011",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜A 腎絲球疾病（Glomerular disease）" },
+  "stem": "快速進行性腎絲球腎炎（RPGN）在腎臟病理最典型的共同特徵為何？",
+  "options": [
+    { "key": "A", "text": "Crescent formation" },
+    { "key": "B", "text": "podocyte foot process effacement" },
+    { "key": "C", "text": "spike and dome" },
+    { "key": "D", "text": "subepithelial humps 一定存在" }
+  ],
+  "answer": "A",
+  "explanation": "RPGN 的病理共同表現為腎小球新月體（crescent），代表嚴重腎小球損傷與快速腎功能惡化。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_GLOM_Q0012",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜A 腎絲球疾病（Glomerular disease）" },
+  "stem": "Goodpasture（anti-GBM disease）的典型免疫螢光表現為何？",
+  "options": [
+    { "key": "A", "text": "granular IgG 沿 GBM" },
+    { "key": "B", "text": "linear IgG 沿 GBM" },
+    { "key": "C", "text": "mesangial IgA 沉積" },
+    { "key": "D", "text": "只有 C3 沉積" }
+  ],
+  "answer": "B",
+  "explanation": "anti-GBM disease 經典為線性（linear）IgG 沿 GBM；臨床可見肺腎症候群（咳血 + RPGN）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_GLOM_Q0013",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜A 腎絲球疾病（Glomerular disease）" },
+  "stem": "ANCA 相關血管炎造成的 RPGN（pauci-immune GN）最符合下列何者？",
+  "options": [
+    { "key": "A", "text": "免疫螢光常呈現「pauci-immune」（沉積少或陰性）" },
+    { "key": "B", "text": "一定有大量 IgA 沉積" },
+    { "key": "C", "text": "一定伴隨 C3 顯著下降" },
+    { "key": "D", "text": "一定會有 subepithelial humps" }
+  ],
+  "answer": "A",
+  "explanation": "ANCA 相關 RPGN 常為 pauci-immune（IF 幾乎陰性或沉積少），與 immune complex 或 anti-GBM 型不同。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_GLOM_Q0014",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜A 腎絲球疾病（Glomerular disease）" },
+  "stem": "下列哪一項最符合膜增生性腎絲球腎炎（MPGN）/免疫複合體型腎炎常見的臨床線索？",
+  "options": [
+    { "key": "A", "text": "低補體（尤其 C3）可見" },
+    { "key": "B", "text": "補體一定正常" },
+    { "key": "C", "text": "只會表現為單純高血鈉" },
+    { "key": "D", "text": "一定伴隨明顯嗜酸性球尿" }
+  ],
+  "answer": "A",
+  "explanation": "MPGN/免疫複合體相關腎炎常伴補體消耗（C3 下降）並可能與感染（如 HCV）或免疫疾病相關。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_GLOM_Q0015",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜A 腎絲球疾病（Glomerular disease）" },
+  "stem": "系統性紅斑性狼瘡（SLE）腎炎常見的免疫螢光特徵（考題常用）為何？",
+  "options": [
+    { "key": "A", "text": "線性 IgG 單一沉積" },
+    { "key": "B", "text": "“full house” 沉積（IgG/IgA/IgM/C3/C1q）" },
+    { "key": "C", "text": "只有 IgA 沉積" },
+    { "key": "D", "text": "完全無沉積（pauci-immune）" }
+  ],
+  "answer": "B",
+  "explanation": "lupus nephritis 常見 “full house” IF（多種免疫球蛋白與補體同時沉積）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_GLOM_Q0016",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜A 腎絲球疾病（Glomerular disease）" },
+  "stem": "下列何者最符合「腎病症候群」與「腎炎症候群」的差異重點？",
+  "options": [
+    { "key": "A", "text": "nephrotic 以大量蛋白尿/低白蛋白/水腫/高血脂為主；nephritic 以血尿、RBC casts、高血壓與腎功能下降為主" },
+    { "key": "B", "text": "兩者臨床完全無法區分" },
+    { "key": "C", "text": "nephritic 一定無血尿" },
+    { "key": "D", "text": "nephrotic 一定無任何併發症" }
+  ],
+  "answer": "A",
+  "explanation": "這是兩大腎小球症候群的核心鑑別：nephrotic（蛋白/水腫/脂質/凝血）vs nephritic（血尿/高血壓/腎功能）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_GLOM_Q0017",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜A 腎絲球疾病（Glomerular disease）" },
+  "stem": "Hepatitis B 與 membranous nephropathy 的關聯、以及 Hepatitis C 與 MPGN 的關聯，何者正確？",
+  "options": [
+    { "key": "A", "text": "HBV 與 MPGN；HCV 與 minimal change" },
+    { "key": "B", "text": "HBV 與 membranous；HCV 與 MPGN（特別是混合型冷凝球蛋白血症相關）" },
+    { "key": "C", "text": "HBV 只會導致腎結石" },
+    { "key": "D", "text": "HCV 與腎臟病無關" }
+  ],
+  "answer": "B",
+  "explanation": "經典關聯：HBV 可與 membranous nephropathy；HCV 常與 MPGN/冷凝球蛋白血症相關。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_GLOM_Q0018",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜A 腎絲球疾病（Glomerular disease）" },
+  "stem": "成人 nephrotic syndrome 初步評估中，下列何者最常用來支持「糖尿病腎病變」的臨床線索？",
+  "options": [
+    { "key": "A", "text": "突然出現大量血尿且 RBC casts" },
+    { "key": "B", "text": "長期糖尿病病史合併視網膜病變（diabetic retinopathy）" },
+    { "key": "C", "text": "急性上呼吸道感染後 1–2 天血尿" },
+    { "key": "D", "text": "短期使用 PPI 後發燒皮疹" }
+  ],
+  "answer": "B",
+  "explanation": "臨床上糖尿病腎病變常與長病程、微血管病變（如視網膜病變）並存；若臨床不典型才更需要考慮其他腎小球病變與腎切片。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_GLOM_Q0019",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜A 腎絲球疾病（Glomerular disease）" },
+  "stem": "腎小球疾病中，若看到「線性」免疫沉積，最優先聯想到的病理機轉為何？",
+  "options": [
+    { "key": "A", "text": "免疫複合體沉積（immune complex）" },
+    { "key": "B", "text": "抗 GBM 抗體直接結合（anti-GBM）" },
+    { "key": "C", "text": "pauci-immune ANCA 相關" },
+    { "key": "D", "text": "只會是 IgA" }
+  ],
+  "answer": "B",
+  "explanation": "線性（linear）沉積典型對應 anti-GBM disease；免疫複合體多為顆粒狀（granular），ANCA 多為 pauci-immune。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_GLOM_Q0020",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜A 腎絲球疾病（Glomerular disease）" },
+  "stem": "下列何者最符合「何時需要考慮腎切片（renal biopsy）」的原則概念？",
+  "options": [
+    { "key": "A", "text": "只要有任何輕度蛋白尿就一定要切片" },
+    { "key": "B", "text": "原因不明的顯著蛋白尿/血尿合併腎功能惡化、或疑 RPGN 時常需切片以決定治療" },
+    { "key": "C", "text": "只要超音波正常就不需切片" },
+    { "key": "D", "text": "腎切片只能用在腎結石" }
+  ],
+  "answer": "B",
+  "explanation": "腎切片常用於釐清腎小球病變類型、評估活動度/慢性度並指引免疫治療；尤其不明原因的重度蛋白尿、腎炎表現、快速惡化者。"
+},
+
+  {
+  "id": "MED3_RENAL_INF_ORI_TUB_Q0001",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜B 腎小管疾病" },
+  "stem": "關於近端腎小管功能失常（Fanconi syndrome），下列何者最符合？",
+  "options": [
+    { "key": "A", "text": "只會造成單純高血鈉" },
+    { "key": "B", "text": "可見葡萄糖尿（非糖尿病）、磷尿、胺基酸尿與近端 RTA" },
+    { "key": "C", "text": "必然造成高血鉀" },
+    { "key": "D", "text": "尿沈渣以 RBC casts 為主" }
+  ],
+  "answer": "B",
+  "explanation": "Fanconi 為近端小管廣泛再吸收障礙，典型為 normoglycemic glucosuria、phosphaturia、aminoaciduria、bicarbonaturia（近端 RTA）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_TUB_Q0002",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜B 腎小管疾病" },
+  "stem": "近端腎小管性酸中毒（type 2 RTA）最典型的酸鹼/電解質組合為何？",
+  "options": [
+    { "key": "A", "text": "高血鉀 + 高陰離子間隙代謝性酸中毒" },
+    { "key": "B", "text": "低血鉀 + 高氯性（non–anion gap）代謝性酸中毒" },
+    { "key": "C", "text": "高血鈉 + 代謝性鹼中毒" },
+    { "key": "D", "text": "低血鈉 + 呼吸性酸中毒" }
+  ],
+  "answer": "B",
+  "explanation": "type 2 RTA 為 HCO3− 再吸收障礙 → non–anion gap metabolic acidosis，常伴腎性鉀流失 → 低血鉀。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_TUB_Q0003",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜B 腎小管疾病" },
+  "stem": "遠端腎小管性酸中毒（type 1 RTA）的典型特色，下列何者正確？",
+  "options": [
+    { "key": "A", "text": "尿 pH 常能降到 <5.5" },
+    { "key": "B", "text": "容易形成腎結石（calcium phosphate stones）" },
+    { "key": "C", "text": "一定高血鉀" },
+    { "key": "D", "text": "僅見於糖尿病患者" }
+  ],
+  "answer": "B",
+  "explanation": "type 1 RTA 為遠端排酸障礙，尿液無法酸化（尿 pH 常 >5.5），常見低血鉀、腎鈣化/腎結石風險上升。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_TUB_Q0004",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜B 腎小管疾病" },
+  "stem": "下列何者最符合低腎素低醛固酮血症（type 4 RTA）的典型表現？",
+  "options": [
+    { "key": "A", "text": "低血鉀 + 代謝性鹼中毒" },
+    { "key": "B", "text": "高血鉀 + 高氯性（non–anion gap）代謝性酸中毒" },
+    { "key": "C", "text": "高陰離子間隙代謝性酸中毒" },
+    { "key": "D", "text": "高血鈣 + 代謝性鹼中毒" }
+  ],
+  "answer": "B",
+  "explanation": "type 4 RTA（低醛固酮或抗醛固酮狀態）→ 排鉀/排酸能力下降：高血鉀 + non–anion gap metabolic acidosis。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_TUB_Q0005",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜B 腎小管疾病" },
+  "stem": "Bartter syndrome 與 Gitelman syndrome 的共同點，下列何者最正確？",
+  "options": [
+    { "key": "A", "text": "都會造成代謝性酸中毒" },
+    { "key": "B", "text": "都可能造成低血鉀與代謝性鹼中毒" },
+    { "key": "C", "text": "都會造成高血壓" },
+    { "key": "D", "text": "都會造成高血鉀" }
+  ],
+  "answer": "B",
+  "explanation": "兩者皆屬鹽流失性小管病變，常見低血鉀與代謝性鹼中毒；血壓多正常或偏低。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_TUB_Q0006",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜B 腎小管疾病" },
+  "stem": "Gitelman syndrome 最典型的鑑別線索之一為何？",
+  "options": [
+    { "key": "A", "text": "高血鈣尿（hypercalciuria）" },
+    { "key": "B", "text": "低血鎂（hypomagnesemia）與低尿鈣（hypocalciuria）" },
+    { "key": "C", "text": "高血鉀" },
+    { "key": "D", "text": "嚴重蛋白尿" }
+  ],
+  "answer": "B",
+  "explanation": "Gitelman（類 thiazide）典型：低血鉀代謝性鹼中毒 + 低鎂 + 低尿鈣；Bartter（類 loop）較常高尿鈣。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_TUB_Q0007",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜B 腎小管疾病" },
+  "stem": "Bartter syndrome 最典型的鑑別線索之一為何？",
+  "options": [
+    { "key": "A", "text": "低尿鈣（hypocalciuria）" },
+    { "key": "B", "text": "高尿鈣（hypercalciuria）" },
+    { "key": "C", "text": "高血鉀" },
+    { "key": "D", "text": "高血壓" }
+  ],
+  "answer": "B",
+  "explanation": "Bartter（類 loop）常見高尿鈣；Gitelman（類 thiazide）常見低尿鈣與低鎂。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_TUB_Q0008",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜B 腎小管疾病" },
+  "stem": "Liddle syndrome 的典型組合為何？",
+  "options": [
+    { "key": "A", "text": "低血壓 + 高血鉀 + 代謝性酸中毒" },
+    { "key": "B", "text": "高血壓 + 低血鉀 + 代謝性鹼中毒，且 renin/aldosterone 低" },
+    { "key": "C", "text": "高血壓 + 高血鉀 + 代謝性酸中毒" },
+    { "key": "D", "text": "正常血壓 + 高血鈉" }
+  ],
+  "answer": "B",
+  "explanation": "Liddle 為 ENaC 過度活化→鈉水滯留：高血壓、低血鉀代謝性鹼中毒；因容量擴張使 renin 與 aldosterone 都低。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_TUB_Q0009",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜B 腎小管疾病" },
+  "stem": "Gordon syndrome（pseudohypoaldosteronism type 2）最典型的電解質/酸鹼表現為何？",
+  "options": [
+    { "key": "A", "text": "高血壓 + 高血鉀 + 高氯性代謝性酸中毒" },
+    { "key": "B", "text": "高血壓 + 低血鉀 + 代謝性鹼中毒" },
+    { "key": "C", "text": "低血壓 + 低血鉀 + 代謝性鹼中毒" },
+    { "key": "D", "text": "低血壓 + 高血鉀 + 高陰離子間隙酸中毒" }
+  ],
+  "answer": "A",
+  "explanation": "Gordon（WNK 相關）常見高血壓合併高血鉀與高氯性代謝性酸中毒，與醛固酮過多（低鉀鹼中毒）相反。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_INTER_Q0001",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜C 腎間質疾病" },
+  "stem": "慢性間質性腎炎（chronic tubulointerstitial nephritis）最典型的尿液表現為何？",
+  "options": [
+    { "key": "A", "text": "大量蛋白尿（>3.5 g/day）" },
+    { "key": "B", "text": "尿濃縮能力下降（低比重尿）、多尿/夜尿，蛋白尿多為輕中度" },
+    { "key": "C", "text": "RBC casts 為主" },
+    { "key": "D", "text": "尿沈渣完全正常且無任何線索" }
+  ],
+  "answer": "B",
+  "explanation": "間質/小管疾病常見濃縮功能受損→多尿、夜尿、低比重尿；蛋白尿通常不如腎小球疾病那麼大量。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_INTER_Q0002",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜C 腎間質疾病" },
+  "stem": "止痛藥相關腎病變（analgesic nephropathy）最典型的病理/影像線索之一為何？",
+  "options": [
+    { "key": "A", "text": "腎乳頭壞死（papillary necrosis）" },
+    { "key": "B", "text": "subepithelial humps" },
+    { "key": "C", "text": "線性 IgG 沉積" },
+    { "key": "D", "text": "大量 oval fat bodies" }
+  ],
+  "answer": "A",
+  "explanation": "長期止痛藥（尤其 NSAIDs/合併製劑）可造成慢性間質腎炎與腎乳頭壞死，是常考點。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_INTER_Q0003",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜C 腎間質疾病" },
+  "stem": "下列何者最符合急性腎盂腎炎（acute pyelonephritis）之尿沈渣特徵？",
+  "options": [
+    { "key": "A", "text": "RBC casts" },
+    { "key": "B", "text": "WBC casts" },
+    { "key": "C", "text": "muddy brown casts" },
+    { "key": "D", "text": "oval fat bodies" }
+  ],
+  "answer": "B",
+  "explanation": "腎盂腎炎常見膿尿、WBC casts；RBC casts 偏向腎小球腎炎，muddy brown casts 偏向 ATN。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_INTER_Q0004",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜C 腎間質疾病" },
+  "stem": "急性間質性腎炎（AIN）的典型處置原則，下列何者最正確？",
+  "options": [
+    { "key": "A", "text": "不需停藥，持續觀察即可" },
+    { "key": "B", "text": "先移除誘因（停可疑藥物），必要時視情況考慮類固醇" },
+    { "key": "C", "text": "立即大量輸注高張食鹽水" },
+    { "key": "D", "text": "一律需緊急透析" }
+  ],
+  "answer": "B",
+  "explanation": "AIN 首要是停掉致病藥物/誘因並支持治療；嚴重或恢復不佳者可考慮類固醇（依臨床與病理評估）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_GFRREG_Q0001",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜D 腎絲球過濾率自主控制" },
+  "stem": "腎絲球過濾率（GFR）自主調控中，入球小動脈（afferent arteriole）主要透過哪一機轉進行自我調節？",
+  "options": [
+    { "key": "A", "text": "心房利鈉胜肽（ANP）" },
+    { "key": "B", "text": "肌源性反射（myogenic response）與致密斑回饋（tubuloglomerular feedback）" },
+    { "key": "C", "text": "Erythropoietin 直接收縮" },
+    { "key": "D", "text": "甲狀腺素直接舒張" }
+  ],
+  "answer": "B",
+  "explanation": "腎自主調控的兩大核心：myogenic response 與 tubuloglomerular feedback（macula densa 感知 NaCl，調整入球張力與 renin）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_GFRREG_Q0002",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜D 腎絲球過濾率自主控制" },
+  "stem": "在 RAAS 系統中，angiotensin II 對腎小球血流動力最典型的作用為何？",
+  "options": [
+    { "key": "A", "text": "主要擴張入球小動脈" },
+    { "key": "B", "text": "主要收縮出球小動脈（efferent arteriole）以維持 GFR" },
+    { "key": "C", "text": "只會降低血壓" },
+    { "key": "D", "text": "與腎血流無關" }
+  ],
+  "answer": "B",
+  "explanation": "Ang II 偏向收縮出球小動脈，使腎小球毛細血管壓上升，有助在低灌流時維持 GFR；也會降低腎血流量並影響濾過分率。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_GFRREG_Q0003",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜D 腎絲球過濾率自主控制" },
+  "stem": "ACEi/ARB 可能導致 AKI 的典型情境為何？",
+  "options": [
+    { "key": "A", "text": "單側腎動脈狹窄且另一側腎正常" },
+    { "key": "B", "text": "雙側腎動脈狹窄或單腎病人有腎動脈狹窄" },
+    { "key": "C", "text": "健康年輕人短期使用" },
+    { "key": "D", "text": "只要有高血壓就一定會 AKI" }
+  ],
+  "answer": "B",
+  "explanation": "在腎灌流依賴 Ang II 維持出球收縮以維持 GFR 的狀態（雙側 RAS/單腎 RAS、嚴重低容積等），阻斷 RAAS 會使 GFR 下降而誘發 AKI。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_RAS_Q0001",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜E 腎動脈狹窄（Renal artery stenosis）" },
+  "stem": "腎動脈狹窄（RAS）最常見的病因為何？",
+  "options": [
+    { "key": "A", "text": "腎小球腎炎" },
+    { "key": "B", "text": "動脈粥樣硬化（atherosclerosis）" },
+    { "key": "C", "text": "腎結石" },
+    { "key": "D", "text": "腎腫瘤壓迫為最常見" }
+  ],
+  "answer": "B",
+  "explanation": "RAS 最常見為粥樣硬化性狹窄（多見於年長、心血管危險因子族群）；另有 fibromuscular dysplasia（年輕女性較典型）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_RAS_Q0002",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜E 腎動脈狹窄（Renal artery stenosis）" },
+  "stem": "下列何者最符合 fibromuscular dysplasia（FMD）造成腎動脈狹窄的典型族群/線索？",
+  "options": [
+    { "key": "A", "text": "年輕女性、可呈現 \"string-of-beads\" 影像" },
+    { "key": "B", "text": "年長男性、廣泛動脈粥樣硬化" },
+    { "key": "C", "text": "只有糖尿病患者會發生" },
+    { "key": "D", "text": "一定合併大量蛋白尿" }
+  ],
+  "answer": "A",
+  "explanation": "FMD 多見於年輕女性，血管造影可見串珠樣（string-of-beads）；粥樣硬化型則多見於年長、有血管危險因子者。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_RAS_Q0003",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜E 腎動脈狹窄（Renal artery stenosis）" },
+  "stem": "下列何者最符合腎動脈狹窄的臨床提示？",
+  "options": [
+    { "key": "A", "text": "突然出現難控制高血壓，且腹部可聽到血管雜音" },
+    { "key": "B", "text": "反覆腸胃炎" },
+    { "key": "C", "text": "單純皮疹與嗜酸性球增多" },
+    { "key": "D", "text": "長期夜尿但血壓正常" }
+  ],
+  "answer": "A",
+  "explanation": "RAS 常見線索：新發或惡化的難治高血壓、腹部雜音、腎功能在 ACEi/ARB 後惡化、反覆 flash pulmonary edema 等。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_RAS_Q0004",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜E 腎動脈狹窄（Renal artery stenosis）" },
+  "stem": "腎動脈狹窄病人使用 ACEi/ARB 後腎功能惡化，最典型的血流動力學解釋為何？",
+  "options": [
+    { "key": "A", "text": "入球小動脈過度收縮" },
+    { "key": "B", "text": "出球小動脈失去 Ang II 收縮→腎小球內壓下降→GFR 降低" },
+    { "key": "C", "text": "腎小球基底膜被抗體破壞" },
+    { "key": "D", "text": "腎小管直接被藥物毒性破壞為唯一原因" }
+  ],
+  "answer": "B",
+  "explanation": "在 RAS 情境下腎灌流下降，腎臟依賴 Ang II 收縮出球以維持 GFR；ACEi/ARB 阻斷後出球舒張，腎小球內壓下降導致 GFR 下降。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_RAS_Q0005",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜E 腎動脈狹窄（Renal artery stenosis）" },
+  "stem": "下列哪一種臨床情境最支持「腎動脈狹窄」需高度懷疑？",
+  "options": [
+    { "key": "A", "text": "反覆 flash pulmonary edema（突發性肺水腫）" },
+    { "key": "B", "text": "單純偏頭痛" },
+    { "key": "C", "text": "單純過敏性鼻炎" },
+    { "key": "D", "text": "青春痘" }
+  ],
+  "answer": "A",
+  "explanation": "反覆 flash pulmonary edema 是重要線索之一（尤其雙側 RAS 或單腎 RAS），與容量調控/RAAS 活化及心腎交互作用相關。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_TUB_Q0010",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜B 腎小管疾病" },
+  "stem": "下列何者最符合「尿液無法濃縮」的臨床表現？",
+  "options": [
+    { "key": "A", "text": "夜尿、多尿、尿比重低" },
+    { "key": "B", "text": "少尿、尿比重高" },
+    { "key": "C", "text": "血尿為主" },
+    { "key": "D", "text": "大量蛋白尿為主" }
+  ],
+  "answer": "A",
+  "explanation": "小管/間質疾病常先影響濃縮功能，出現多尿、夜尿與低比重尿。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_TUB_Q0011",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜B 腎小管疾病" },
+  "stem": "若病人出現 low-renin hypertension，且血鉀偏低、代謝性鹼中毒，最不符合下列哪一項？",
+  "options": [
+    { "key": "A", "text": "Liddle syndrome" },
+    { "key": "B", "text": "服用甘草（licorice）造成 apparent mineralocorticoid excess" },
+    { "key": "C", "text": "原發性醛固酮增多症" },
+    { "key": "D", "text": "腎動脈狹窄" }
+  ],
+  "answer": "D",
+  "explanation": "腎動脈狹窄屬 RAAS 活化 → 高 renin；其餘（Liddle、甘草/AME）多為低 renin、低 aldosterone；原發性醛固酮增多症為低 renin 但 aldosterone 高。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_INTER_Q0005",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜C 腎間質疾病" },
+  "stem": "腎乳頭壞死（papillary necrosis）可見於下列哪一組經典病因？",
+  "options": [
+    { "key": "A", "text": "糖尿病、鎌刀型貧血/trait、急性腎盂腎炎、長期止痛藥使用" },
+    { "key": "B", "text": "甲亢、痛風、膽結石、肺炎" },
+    { "key": "C", "text": "氣喘、異位性皮膚炎、過敏性鼻炎、蕁麻疹" },
+    { "key": "D", "text": "僅見於 IgA 腎病變" }
+  ],
+  "answer": "A",
+  "explanation": "papillary necrosis 常見經典組合可記：SAAD（Sickle cell, Acute pyelonephritis, Analgesics, Diabetes）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_GFRREG_Q0004",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜D 腎絲球過濾率自主控制" },
+  "stem": "NSAIDs 可能造成腎前性 AKI 的血流動力學機轉，下列何者最符合？",
+  "options": [
+    { "key": "A", "text": "抑制前列腺素→入球小動脈收縮→GFR 下降" },
+    { "key": "B", "text": "抑制 Ang II→出球小動脈舒張→GFR 上升" },
+    { "key": "C", "text": "直接造成 anti-GBM disease" },
+    { "key": "D", "text": "使腎血流必然上升" }
+  ],
+  "answer": "A",
+  "explanation": "腎灌流受限時前列腺素有助入球擴張以維持 GFR；NSAIDs 抑制前列腺素使入球收縮，易誘發腎前性 AKI（尤其低容積/心衰/肝硬化等）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_GFRREG_Q0005",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜D 腎絲球過濾率自主控制" },
+  "stem": "ACEi/ARB 影響腎血流動力，最典型的直接作用部位為何？",
+  "options": [
+    { "key": "A", "text": "主要使入球小動脈收縮" },
+    { "key": "B", "text": "主要使出球小動脈舒張" },
+    { "key": "C", "text": "主要使腎小球基底膜增厚" },
+    { "key": "D", "text": "主要使腎小球毛細血管收縮" }
+  ],
+  "answer": "B",
+  "explanation": "ACEi/ARB 阻斷 Ang II，最典型使出球小動脈舒張，降低腎小球內壓；在依賴 Ang II 維持 GFR 的狀態可能導致 GFR 明顯下降。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_TUB_Q0012",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜B 腎小管疾病" },
+  "stem": "Apparent mineralocorticoid excess（例如大量甘草）造成的高血壓低血鉀，最符合下列何者？",
+  "options": [
+    { "key": "A", "text": "高 renin、高 aldosterone" },
+    { "key": "B", "text": "低 renin、低 aldosterone" },
+    { "key": "C", "text": "低 renin、高 aldosterone" },
+    { "key": "D", "text": "高 renin、低 aldosterone" }
+  ],
+  "answer": "B",
+  "explanation": "甘草抑制 11β-HSD2 → 皮質醇活化 MR，表現如 mineralocorticoid 過多但實際 aldosterone 不高；容量擴張使 renin 與 aldosterone 皆低。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_INTER_Q0006",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜C 腎間質疾病" },
+  "stem": "下列何者最符合腎間質疾病相較腎小球疾病的差異？",
+  "options": [
+    { "key": "A", "text": "更常見大量蛋白尿" },
+    { "key": "B", "text": "更常見濃縮功能受損（多尿/夜尿）與輕中度蛋白尿" },
+    { "key": "C", "text": "更常見 RBC casts" },
+    { "key": "D", "text": "更常見顯著高脂血症" }
+  ],
+  "answer": "B",
+  "explanation": "小管/間質病變常先影響濃縮與酸化功能，蛋白尿通常不如腎小球病變大量；RBC casts 與高脂血症較偏腎小球/nephrotic。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_RAS_Q0006",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜E 腎動脈狹窄（Renal artery stenosis）" },
+  "stem": "腎動脈狹窄造成的高血壓最符合哪一種病理生理？",
+  "options": [
+    { "key": "A", "text": "腎灌流下降→renin 上升→Ang II/aldosterone 上升→血壓上升" },
+    { "key": "B", "text": "腎灌流上升→renin 上升→血壓下降" },
+    { "key": "C", "text": "完全不經 RAAS" },
+    { "key": "D", "text": "只與甲狀腺素相關" }
+  ],
+  "answer": "A",
+  "explanation": "RAS 使腎臟感知灌流不足→RAAS 活化→血管收縮與鈉水滯留→血壓上升（病人可呈現高 renin 狀態，視雙側/單側與另一腎功能而異）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_RAS_Q0007",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜E 腎動脈狹窄（Renal artery stenosis）" },
+  "stem": "懷疑腎動脈狹窄時，下列何者較常作為初步非侵入性影像評估工具之一？",
+  "options": [
+    { "key": "A", "text": "腎動脈多普勒超音波（Doppler ultrasound）" },
+    { "key": "B", "text": "胸部 X 光" },
+    { "key": "C", "text": "腦部 MRI" },
+    { "key": "D", "text": "心電圖" }
+  ],
+  "answer": "A",
+  "explanation": "RAS 初步評估常用 Doppler US；也可用 CTA/MRA 視腎功能與造影風險，確診/介入常以血管攝影為準。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_TUB_Q0013",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜B 腎小管疾病" },
+  "stem": "低血鉀代謝性鹼中毒，若血壓偏低或正常，較支持哪一類原因？",
+  "options": [
+    { "key": "A", "text": "醛固酮過多或 Liddle" },
+    { "key": "B", "text": "利尿劑或 Bartter/Gitelman 等鹽流失性小管病變" },
+    { "key": "C", "text": "type 4 RTA" },
+    { "key": "D", "text": "DKA" }
+  ],
+  "answer": "B",
+  "explanation": "低鉀鹼中毒若伴高血壓，偏向 mineralocorticoid excess；若血壓正常/低，常見利尿劑、嘔吐或 Bartter/Gitelman 等鹽流失狀態。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_INTER_Q0007",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜丁 腎臟疾病各論｜C 腎間質疾病" },
+  "stem": "急性腎盂腎炎的典型臨床表現，下列何者最符合？",
+  "options": [
+    { "key": "A", "text": "發燒、側腹痛或 CVA tenderness，合併膿尿" },
+    { "key": "B", "text": "無發燒但大量蛋白尿與水腫" },
+    { "key": "C", "text": "只有肉眼血尿且無任何感染症狀" },
+    { "key": "D", "text": "必然無尿" }
+  ],
+  "answer": "A",
+  "explanation": "急性腎盂腎炎常見發燒、寒顫、側腹痛/CVA tenderness，尿液可見白血球與細菌；屬上泌尿道感染。"
 }
   
 ]
