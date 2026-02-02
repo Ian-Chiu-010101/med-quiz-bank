@@ -996,6 +996,128 @@
     ],
     "answer": "C",
     "explanation": "年輕男性、急性麻痺、低血鉀合併低血磷且尿鉀不高，較像鉀移入細胞（shift）型低血鉀；典型鑑別為甲狀腺毒性週期性麻痺，應加驗甲狀腺功能並同時謹慎補鉀、治療誘因。"
+  },
+
+
+  {
+    "id": "MED3_RENAL_INF_ORI_AKI_Q0005",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜丙 急性腎損傷（AKI）" },
+    "stem": "依 KDIGO 定義，下列何者符合急性腎損傷（AKI）診斷？",
+    "options": [
+      { "key": "A", "text": "血清 creatinine 於 48 小時內上升 ≥0.3 mg/dL" },
+      { "key": "B", "text": "eGFR 下降但持續不到 1 週" },
+      { "key": "C", "text": "血清 creatinine 於 1 個月內上升 10%" },
+      { "key": "D", "text": "任何一次 creatinine 高於正常上限" }
+    ],
+    "answer": "A",
+    "explanation": "KDIGO AKI 其中一個診斷標準為 48 小時內 SCr 上升 ≥0.3 mg/dL（或 7 天內 ≥1.5 倍基準值，或尿量 <0.5 mL/kg/hr 持續 ≥6 小時）。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_AKI_Q0006",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜丙 急性腎損傷（AKI）" },
+    "stem": "腎前性 AKI 最典型的尿液檢查特徵為何？",
+    "options": [
+      { "key": "A", "text": "尿液鈉濃度高、FENa >2%" },
+      { "key": "B", "text": "尿滲透壓偏高、尿鈉偏低" },
+      { "key": "C", "text": "尿沈渣大量 RBC casts" },
+      { "key": "D", "text": "尿沈渣大量 WBC casts" }
+    ],
+    "answer": "B",
+    "explanation": "腎前性 AKI 因腎小管功能尚可，會強烈保鈉保水：尿鈉低、尿滲透壓高、FENa 多 <1%。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_AKI_Q0007",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜丙 急性腎損傷（AKI）" },
+    "stem": "懷疑腎後性（postrenal）AKI 時，最實用的第一線影像檢查為何？",
+    "options": [
+      { "key": "A", "text": "腎臟超音波（評估 hydronephrosis）" },
+      { "key": "B", "text": "腎臟 MRI" },
+      { "key": "C", "text": "腎臟穿刺切片" },
+      { "key": "D", "text": "腎臟核醫掃描" }
+    ],
+    "answer": "A",
+    "explanation": "腎後性 AKI 先找阻塞：腎臟超音波可快速評估是否有腎盂腎盞擴張（hydronephrosis），臨床最常用也最安全。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_AKI_Q0008",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜丙 急性腎損傷（AKI）" },
+    "stem": "下列何者最符合急性間質性腎炎（acute interstitial nephritis, AIN）的典型線索？",
+    "options": [
+      { "key": "A", "text": "泥沙樣圓柱（muddy brown casts）" },
+      { "key": "B", "text": "發燒、皮疹、嗜酸性球上升（可出現）" },
+      { "key": "C", "text": "大量蛋白尿 >3.5 g/day" },
+      { "key": "D", "text": "嚴重低補體血症為最典型" }
+    ],
+    "answer": "B",
+    "explanation": "AIN 常與藥物/感染相關，典型提示可見發燒、皮疹、嗜酸性球上升（不一定三者俱全），尿液可見白血球、白血球圓柱；A 更像 ATN。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_AKI_Q0009",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜丙 急性腎損傷（AKI）" },
+    "stem": "疑似橫紋肌溶解（rhabdomyolysis）導致 AKI 時，尿液 dipstick 與尿沈渣的典型組合為何？",
+    "options": [
+      { "key": "A", "text": "dipstick 血尿陰性，尿沈渣大量 RBC" },
+      { "key": "B", "text": "dipstick 血尿陽性，但尿沈渣 RBC 很少或沒有" },
+      { "key": "C", "text": "dipstick 白血球酯酶陽性，尿沈渣 WBC casts" },
+      { "key": "D", "text": "dipstick 蛋白陽性且必定 >3.5 g/day" }
+    ],
+    "answer": "B",
+    "explanation": "myoglobin 會讓 dipstick 呈「heme 陽性」，但顯微鏡下 RBC 不多（或無），合併 CK 大幅升高可支持 rhabdomyolysis。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_AKI_Q0010",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜丙 急性腎損傷（AKI）" },
+    "stem": "預防造影劑相關腎損傷（contrast-associated AKI）最有效且最常用的策略為何？",
+    "options": [
+      { "key": "A", "text": "常規使用利尿劑促進排尿" },
+      { "key": "B", "text": "常規使用 NSAIDs 減少發炎" },
+      { "key": "C", "text": "等張液體補充（如 0.9% NS）作為周邊水化" },
+      { "key": "D", "text": "給予高張食鹽水快速矯正腎灌流" }
+    ],
+    "answer": "C",
+    "explanation": "高風險病人接受含碘造影前後，最核心的可行策略是等張水化（IV isotonic fluids），並同時避免腎毒性藥物與控制造影劑劑量。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_AKI_Q0011",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜丙 急性腎損傷（AKI）" },
+    "stem": "AKI 需緊急透析的適應症（AEIOU）中，下列何者最符合 “E” 的意義？",
+    "options": [
+      { "key": "A", "text": "Encephalopathy（尿毒性腦病變）" },
+      { "key": "B", "text": "Edema（難以控制的肺水腫/容量負荷）" },
+      { "key": "C", "text": "Elevated creatinine（肌酸酐升高）" },
+      { "key": "D", "text": "Eosinophilia（嗜酸性球上升）" }
+    ],
+    "answer": "B",
+    "explanation": "AEIOU：Acidosis（難以控制酸中毒）、Electrolytes（高鉀等）、Intoxications、Overload（容量負荷/肺水腫）、Uremia（尿毒症狀）。其中 “O” 也常寫 Overload；此題以 Edema/Overload 對應。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_AKI_Q0012",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第一篇 腎內科｜丙 急性腎損傷（AKI）" },
+    "stem": "下列何者最支持腎小球來源的血尿（glomerular hematuria）？",
+    "options": [
+      { "key": "A", "text": "尿沈渣見 dysmorphic RBC 或 RBC casts" },
+      { "key": "B", "text": "尿液中 nitrite 陽性" },
+      { "key": "C", "text": "尿液中大量結晶" },
+      { "key": "D", "text": "尿比重偏低（低滲尿）" }
+    ],
+    "answer": "A",
+    "explanation": "腎小球出血常見變形紅血球（dysmorphic RBC）與 RBC casts；nitrite 更支持細菌性 UTI。"
   }
 
 
