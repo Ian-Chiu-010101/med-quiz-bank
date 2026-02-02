@@ -232,7 +232,250 @@
     ],
     "answer": "C",
     "explanation": "答案為 pernicious anemia（惡性貧血，最常見為自體免疫造成 intrinsic factor 或胃壁細胞受損→維生素 B12 吸收障礙）。\n\n本題用『三聯線索』鎖定 B12 缺乏：\n1) 大球性貧血：MCV 110 fL。\n2) 神經學症狀：手腳刺痛、振動覺下降（後索/周邊神經病變）。葉酸缺乏不會造成神經病變，這點非常關鍵。\n3) 無效造血/髓內溶血（intramedullary hemolysis）：LDH 上升、間接型膽紅素上升（總膽紅素 2.3、直接型 0.5 → 間接型偏高）、合併 pancytopenia（WBC/platelet 下降）與 retic 偏低（1.1% 在 Hb 7.2 的情境屬不相稱偏低，支持骨髓『做不出來』而非周邊破壞）。\n\n逐一排除其他選項：\n- (A) aplastic anemia：會 pancytopenia、retic 低，但不典型出現 MCV 升高合併神經病變與 LDH/間接膽紅素上升的「巨芽球性」圖像。\n- (B) 缺鐵性貧血：應是小球性（MCV 低），且不解釋神經病變。\n- (D) hemolytic anemia：周邊溶血通常 retic 會上升（骨髓代償），本題 retic 偏低，且 MCV 偏高更符合巨芽球性。\n\n建議寫入詳解的延伸（國考常考）：\n- 確診檢驗：serum B12 下降、methylmalonic acid（MMA）上升、homocysteine 上升；pernicious anemia 可驗 anti–intrinsic factor Ab、anti–parietal cell Ab。\n- 治療：補充維生素 B12（通常 IM 起始較保險），並監測補充後的低血鉀風險；同時評估是否合併自體免疫疾病與胃癌/胃類癌風險（萎縮性胃炎背景）。"
+  },
+
+  
+  {
+    "id": "MED3_04_Q0016",
+    "stem": "有位 55 歲男性接受一般健檢時被意外發現 hemoglobin 6.0 g/dL（正常值 13-17），MCV = 70 fL（正常值 77-102），RBC count = 200 × 10^4/mm^3（正常值 400-552 × 10^4）。仔細詢問病史，他並沒有明顯的活動性氣促（DOE），但最近確實感到較無力，爬樓梯不能一口氣爬上四樓。他食慾如常，大便習慣並未改變，顏色也與平常差不多。下列各項敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "他的貧血病因應該不是 thalassemia" },
+      { "key": "B", "text": "hemoglobin electrophoresis 應非需要優先安排檢查之項目" },
+      { "key": "C", "text": "應予以檢查大便潛血反應（fecal occult blood test, FOBT）" },
+      { "key": "D", "text": "不需要安排大腸檢查" }
+    ],
+    "answer": "D",
+    "explanation": "55 歲男性嚴重小球性貧血（Hb 6、MCV 70）且 RBC 數偏低，更像缺鐵性貧血而非地中海型貧血帶因（thal trait 常見 RBC 正常或偏高、Hb 降幅較輕）。成人男性/停經後女性若高度懷疑缺鐵，必須優先排除腸胃道慢性失血，尤其大腸腫瘤。因此「不需要安排大腸檢查」為錯誤敘述。FOBT 可作線索但陰性不能排除；鐵學檢查與內視鏡評估通常需同步規劃。"
+  },
+  {
+    "id": "MED3_04_Q0017",
+    "stem": "30 歲男性，倦怠、呼吸喘。頸部兩側多個 <1 cm 淋巴結。Hb 5.7 g/dL，MCV 60 fL，血清鐵 14 µg/dL，TIBC 473 µg/dL，ferritin 3 ng/mL。最可能診斷？",
+    "options": [
+      { "key": "A", "text": "海洋性貧血" },
+      { "key": "B", "text": "鐵粒幼紅細胞性貧血" },
+      { "key": "C", "text": "缺鐵性貧血" },
+      { "key": "D", "text": "小球性貧血合併淋巴癌" }
+    ],
+    "answer": "C",
+    "explanation": "典型缺鐵型態：serum iron 低、TIBC 高、ferritin 極低（3 ng/mL 幾乎直接指向缺鐵）。MCV 60 也符合。反之，慢性病貧血常見 ferritin 正常/升高、TIBC 偏低；sideroblastic anemia 多見 iron/ferritin 上升。"
+  },
+  {
+    "id": "MED3_04_Q0018",
+    "stem": "24 歲，Hb H disease，哪種 hemoglobin 會特別多？",
+    "options": [
+      { "key": "A", "text": "α2γ2" },
+      { "key": "B", "text": "α2δ2" },
+      { "key": "C", "text": "β4" },
+      { "key": "D", "text": "γ4" }
+    ],
+    "answer": "C",
+    "explanation": "Hb H disease 多為 3 個 α 基因缺失，α 鏈不足時會形成 β4 四聚體（HbH），因此 β4 特別多。γ4（Hb Bart’s）較典型於胎兒/新生兒期。"
+  },
+  {
+    "id": "MED3_04_Q0019",
+    "stem": "除 hereditary spherocytosis 外，microspherocyte 最常見於哪種疾病周邊血抹片？",
+    "options": [
+      { "key": "A", "text": "輸血後溶血反應" },
+      { "key": "B", "text": "自體免疫溶血性貧血" },
+      { "key": "C", "text": "重度燒傷" },
+      { "key": "D", "text": "敗血症" }
+    ],
+    "answer": "B",
+    "explanation": "Warm type AIHA 常見 spherocytes：紅血球被脾臟巨噬細胞部分吞噬後表面積減少而變球形。輸血反應/敗血症/燒傷更常見的是裂紅血球、棘狀細胞等，不是典型 microspherocyte 的第一聯想。"
+  },
+  {
+    "id": "MED3_04_Q0020",
+    "stem": "35 歲男性，1 個月體力不濟，結膜蒼白，下肢散在新舊出血點。WBC 1,300/µL，Hb 7.6 g/dL，MCV 92.3 fL，Plt 10,000/µL。哪項檢查最有助於找出血球減少原因？",
+    "options": [
+      { "key": "A", "text": "parvovirus B19 檢驗" },
+      { "key": "B", "text": "serum G-6-PD 檢驗" },
+      { "key": "C", "text": "bone marrow biopsy" },
+      { "key": "D", "text": "serum ANA" }
+    ],
+    "answer": "C",
+    "explanation": "三系統低下（pancytopenia）優先要釐清骨髓是否造血失敗/被取代（再生不良、MDS、白血病、骨髓浸潤、HLH 等），骨髓切片/抽吸與相關檢驗（流式、染色體、分子）最能直接定因。Parvovirus B19 更典型是純紅系再生不良。"
+  },
+  {
+    "id": "MED3_04_Q0021",
+    "stem": "50 歲男性缺鐵性貧血病史，左鎖骨上腫塊切片顯示轉移性腺癌且有戒環細胞分化。此階段最適當的檢查？",
+    "options": [
+      { "key": "A", "text": "上消化道內視鏡" },
+      { "key": "B", "text": "胸部電腦斷層" },
+      { "key": "C", "text": "骨掃描" },
+      { "key": "D", "text": "正子攝影（PET）" }
+    ],
+    "answer": "A",
+    "explanation": "左鎖骨上淋巴結（Virchow node）合併 signet ring cell，強烈提示胃癌來源。最優先是做上消化道內視鏡以找原發並取樣。後續分期影像（CT/PET/骨掃描）可視臨床需要安排，但「最適當、最先」是 EGD。"
+  },
+  {
+    "id": "MED3_04_Q0022",
+    "stem": "Hb 11.2 g/dL、MCV 80 fL、serum iron 55、TIBC 200、ferritin 400、soluble transferrin receptor（sTfR）不升高、reticulocyte 0.5%。下列何者正確？",
+    "options": [
+      { "key": "A", "text": "絕對缺鐵（absolute iron deficiency）" },
+      { "key": "B", "text": "治療應以靜脈補鐵為主" },
+      { "key": "C", "text": "anemia of chronic disease（ACD）" },
+      { "key": "D", "text": "骨髓鐵染色呈空（empty）" }
+    ],
+    "answer": "C",
+    "explanation": "Ferritin 高、TIBC 低、sTfR 不高符合 ACD/發炎性貧血（hepcidin 上升導致鐵被鎖住、transferrin 下降）。絕對缺鐵則典型 ferritin 低、TIBC 高、sTfR 上升；骨髓鐵亦不會是 empty。"
+  },
+  {
+    "id": "MED3_04_Q0023",
+    "stem": "42 歲女性新診斷肝硬化、脾腫大，Hb 7.9 g/dL、MCV 75 fL。周邊血抹片：many target cells、some basophilic stippling。最可能診斷？",
+    "options": [
+      { "key": "A", "text": "thalassemia" },
+      { "key": "B", "text": "hypersplenism" },
+      { "key": "C", "text": "myelodysplastic syndrome" },
+      { "key": "D", "text": "iron deficiency anemia" }
+    ],
+    "answer": "A",
+    "explanation": "Target cells + basophilic stippling 是血紅蛋白病/地中海型貧血常見且具鑑別度的形態學線索；也可合併脾腫大。Hypersplenism 是機轉描述，不能解釋典型抹片形態；缺鐵多見 pencil cells、RDW 增加等。"
+  },
+  {
+    "id": "MED3_04_Q0024",
+    "stem": "53 歲女性，2 個月無力、出血點。WBC 3,800/µL、Hb 8.7 g/dL、Plt 41,000/µL、eosinophil 20%。Iron 16、TIBC 423、ferritin 6、B12 198。抹片 microcytosis。下列何者正確？",
+    "options": [
+      { "key": "A", "text": "最可能是急性白血病" },
+      { "key": "B", "text": "需骨髓檢查以確定 aplastic anemia" },
+      { "key": "C", "text": "此病人最可能合併鐵缺乏" },
+      { "key": "D", "text": "血小板減少主要因骨髓製造下降" }
+    ],
+    "answer": "D",
+    "explanation": "此題除了 microcytosis/ferritin 低外，最關鍵是合併顯著 thrombocytopenia 與 leukopenia，已超出單純缺鐵常見範圍，提示更偏向骨髓層級問題（製造不足/骨髓受損或被取代）。因此血小板低下的主要機轉以生成不足較符合題意。臨床上仍需進一步釐清原因並常需要骨髓檢查，但題目問的是最正確敘述。"
+  },
+  {
+    "id": "MED3_04_Q0025",
+    "stem": "30 歲女性 ITP，prednisolone + IVIG 初期有效但停藥復發；曾做 splenectomy 仍反覆。計畫懷孕，以下何者較不適合？",
+    "options": [
+      { "key": "A", "text": "rituximab" },
+      { "key": "B", "text": "romiplostim 或 eltrombopag" },
+      { "key": "C", "text": "vincristine" },
+      { "key": "D", "text": "dexamethasone pulse" }
+    ],
+    "answer": "A",
+    "explanation": "備孕/懷孕情境下，rituximab 具較長期 B 細胞抑制效果且可跨胎盤，可能導致新生兒 B 細胞低下等風險，因此相對較不適合。其餘治療也需個案化衡量風險效益，但題庫設計以 rituximab 為最不適合。"
+  },
+  {
+    "id": "MED3_04_Q0026",
+    "stem": "有關血小板活化機制何者錯誤？",
+    "options": [
+      { "key": "A", "text": "GP IIb/IIIa 與 fibrinogen 結合造成 platelet aggregation" },
+      { "key": "B", "text": "TxA2 可促進血小板活化，屬很強的 agonist" },
+      { "key": "C", "text": "ADP 結合 adenylate cyclase，增加 cAMP，抑制血小板凝集" },
+      { "key": "D", "text": "aspirin 常用於急性冠症與缺血性中風預防" }
+    ],
+    "answer": "C",
+    "explanation": "ADP 主要透過 P2Y12 抑制 adenylate cyclase，使 cAMP 下降，促進血小板活化與凝集；題幹把方向寫反。A、B、D 皆為常考正確敘述。"
+  },
+  {
+    "id": "MED3_04_Q0027",
+    "stem": "64 歲男性長期服用 aspirin，外傷後大腿瘀青擴大、Hb 8.9 g/dL，血小板正常。PT 正常、aPTT 47.4 秒，mixing test 無法矯正。最可能診斷？",
+    "options": [
+      { "key": "A", "text": "Hemophilia A" },
+      { "key": "B", "text": "von Willebrand disease" },
+      { "key": "C", "text": "aspirin 造成出血" },
+      { "key": "D", "text": "Acquired hemophilia A" }
+    ],
+    "answer": "D",
+    "explanation": "aPTT 延長且 mixing test 不矯正代表存在凝血因子抑制物（inhibitor），最典型為 acquired factor VIII inhibitor（acquired hemophilia A）。Aspirin 影響 primary hemostasis，通常不會造成 isolated aPTT 延長且 mixing test 不矯正。"
+  },
+  {
+    "id": "MED3_04_Q0028",
+    "stem": "79 歲女性 2 個月容易瘀青、口腔潰瘍等，WBC 1,280/µL，Hb 7.5 g/dL，Plt 8,000/µL。何種檢驗最有利於正確診斷？",
+    "options": [
+      { "key": "A", "text": "淋巴結切片" },
+      { "key": "B", "text": "PET" },
+      { "key": "C", "text": "骨髓切片" },
+      { "key": "D", "text": "血液培養" }
+    ],
+    "answer": "B",
+    "explanation": "題庫答案選 PET。臨床邏輯可解釋為：若懷疑惡性腫瘤/淋巴瘤但缺乏明顯可取樣病灶，PET 可協助定位高代謝病灶以提高取樣診斷率（選擇最佳切片部位）。需注意：真實臨床面對嚴重 pancytopenia 時，骨髓檢查也常是關鍵檢查之一，兩者先後會依現有線索調整。"
+  },
+  {
+    "id": "MED3_04_Q0029",
+    "stem": "33 歲孕婦 30 週，近 1 週血壓升高、乏力、食慾差、頭暈。Hb 9.4 g/dL，Plt 42,000/µL，BUN 100 mg/dL、Cr 3.6 mg/dL，LDH 1200 IU/L，haptoglobin 下降，schistocytes (+)，urine protein trace。最可能診斷？",
+    "options": [
+      { "key": "A", "text": "acute tubular necrosis" },
+      { "key": "B", "text": "pregnancy-associated hemolytic uremic syndrome" },
+      { "key": "C", "text": "Goodpasture syndrome" },
+      { "key": "D", "text": "cryoglobulinemia-associated vasculitis" }
+    ],
+    "answer": "B",
+    "explanation": "典型 TMA：MAHA（schistocytes、LDH↑、haptoglobin↓）+ thrombocytopenia + 重大腎損傷，且在妊娠晚期出現，最吻合 pregnancy-associated HUS/aHUS 光譜。Goodpasture 常見肺出血與更典型腎炎表現；cryoglobulinemia 多見紫斑、關節痛、低補體等，不以 MAHA 為主。"
+  },
+  {
+    "id": "MED3_04_Q0030",
+    "stem": "16 歲、45 kg，Hemophilia A，FVIII 活性 40%，欲提高到 100%，最少需打多少 IU 的 factor VIII？",
+    "options": [
+      { "key": "A", "text": "450 IU" },
+      { "key": "B", "text": "900 IU" },
+      { "key": "C", "text": "1,350 IU" },
+      { "key": "D", "text": "1,800 IU" }
+    ],
+    "answer": "C",
+    "explanation": "計算：需要提升 60%（100-40）。經驗公式：1 IU/kg FVIII 約提升 2%。所需 IU/kg = 60/2 = 30 IU/kg。30 × 45 kg = 1350 IU。"
+  },
+  {
+    "id": "MED3_04_Q0031",
+    "stem": "下列何者為 DIC 的典型表現？",
+    "options": [
+      { "key": "A", "text": "fibrinogen 下降、D-dimer 上升" },
+      { "key": "B", "text": "fibrinogen 上升" },
+      { "key": "C", "text": "PT、aPTT 多正常" },
+      { "key": "D", "text": "platelet 上升" }
+    ],
+    "answer": "A",
+    "explanation": "DIC 為消耗性凝血：血小板下降、fibrinogen 下降、PT/aPTT 延長，且 fibrin 形成與分解增加使 D-dimer 上升。"
+  },
+  {
+    "id": "MED3_04_Q0032",
+    "stem": "56 歲女性頸痛、嗜睡混亂；Plt 19,000/µL，Hb 8 g/dL，Coombs (-)，schistocytes (+)，PT 正常、D-dimer 正常。最先處置？",
+    "options": [
+      { "key": "A", "text": "supportive care" },
+      { "key": "B", "text": "transfuse FFP" },
+      { "key": "C", "text": "plasma exchange" },
+      { "key": "D", "text": "transfuse platelet" }
+    ],
+    "answer": "C",
+    "explanation": "MAHA + 嚴重 thrombocytopenia + 神經症狀，且 PT/D-dimer 正常，典型指向 TTP。救命治療為緊急血漿置換（TPE）。除非致命性出血，否則避免常規血小板輸注以免加劇微血栓。"
+  },
+  {
+    "id": "MED3_04_Q0033",
+    "stem": "急性期 HIT 合併血栓時，首選抗凝藥物為何？",
+    "options": [
+      { "key": "A", "text": "warfarin" },
+      { "key": "B", "text": "apixaban" },
+      { "key": "C", "text": "enoxaparin" },
+      { "key": "D", "text": "argatroban" }
+    ],
+    "answer": "D",
+    "explanation": "HIT 急性期需立即停用 heparin/LMWH，改用非 heparin 類抗凝；argatroban（direct thrombin inhibitor）為常用選項。Warfarin 需待血小板回升後再考慮，急性期單用可能加重栓塞/皮膚壞死風險。"
+  },
+  {
+    "id": "MED3_04_Q0034",
+    "stem": "50 歲男性右小腿腫痛，兩週前長途旅行。下一步最適當處置？",
+    "options": [
+      { "key": "A", "text": "D-dimer" },
+      { "key": "B", "text": "lower extremity ultrasound" },
+      { "key": "C", "text": "CT" },
+      { "key": "D", "text": "直接開始抗凝治療" }
+    ],
+    "answer": "B",
+    "explanation": "疑似 DVT（症狀 + 長途旅行風險）在中高前測機率時，直接安排下肢靜脈超音波最合理。D-dimer 更適合低風險用於排除；直接抗凝多在影像不可得且高度懷疑時才考慮。"
+  },
+  {
+    "id": "MED3_04_Q0035",
+    "stem": "下列何者最符合典型嚴重 von Willebrand disease（vWD）或相關 primary hemostasis 障礙的實驗室型態？",
+    "options": [
+      { "key": "A", "text": "PT 延長、aPTT 正常、platelet 下降" },
+      { "key": "B", "text": "PT 正常、aPTT 可能延長、出血時間/platelet function 異常" },
+      { "key": "C", "text": "PT 延長、aPTT 延長、fibrinogen 下降、D-dimer 上升" },
+      { "key": "D", "text": "PT 正常、aPTT 正常、fibrinogen 下降" }
+    ],
+    "answer": "B",
+    "explanation": "vWD 主要影響 primary hemostasis（血小板黏附）且 vWF 攜帶/穩定 factor VIII，因此 PT 通常正常，aPTT 可因 FVIII 下降而延長或正常；出血時間/血小板功能檢查異常較具提示性。C 是 DIC 的典型組合。"
   }
+
 
 
 ]
