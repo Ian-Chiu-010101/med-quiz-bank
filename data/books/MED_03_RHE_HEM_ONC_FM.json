@@ -194,8 +194,45 @@
     ],
     "answer": "D",
     "explanation": "異體 HSCT 的長期緩解/治癒主要適用於「造血系統疾病」或少數「可由供者造血細胞提供酵素而改善」的代謝性疾病。\n\n(B) 嚴重 AA：典型可根治。\n(C) 重度 β-thalassemia major：可根治。\n(A) 部分黏多醣症（例如 MPS I Hurler）在特定條件下可藉 HSCT 改善/延緩部分表現（尤其是早期介入的神經相關表現），因此在考題語境中屬“可用 HSCT 達到長期效益”的類型。\n(D) 肝細胞癌屬實體腫瘤，HSCT 不是其標準達到長期緩解的治療模式，因此選 (D)。\n\n考點延伸：題目常用「實體腫瘤 vs 造血/免疫/代謝病」做一刀切鑑別；若看到典型實體癌（HCC、肺癌、結腸癌），通常不是 HSCT 的長期緩解手段。"
-  }
+  },
 
+
+  {
+    "id": "MED_03_04_ORIG_Q0013",
+    "stem": "有位 55 歲男性接受一般健檢時被意外發現 hemoglobin 6.0 g/dL（正常值 13-17），MCV = 70 fL（正常值 77-102），RBC count = 200 × 10^4/mm^3（正常值 400-552 × 10^4）。仔細詢問病史，他並沒有明顯的活動性氣促（dyspnea on exertion, DOE），但最近確實感到較無力，爬樓梯不能一口氣爬上四樓。他食慾如常，大便習慣並未改變，顏色也與平常差不多。下列各項敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "他的貧血病因應該不是 thalassemia" },
+      { "key": "B", "text": "hemoglobin electrophoresis 應非需要優先安排檢查之項目" },
+      { "key": "C", "text": "應予以檢查大便潛血反應（fecal occult blood test, FOBT）" },
+      { "key": "D", "text": "不需要安排大腸檢查" }
+    ],
+    "answer": "D",
+    "explanation": "本題核心是：55 歲男性、重度小球性貧血（Hb 6.0、MCV 70），在「沒有月經失血」前提下，最需要優先排除的是慢性腸胃道出血（包含大腸癌/腺瘤性息肉等）。因此『不需要安排大腸檢查』為錯誤敘述。\n\n關鍵判讀：\n1) 小球性貧血（MCV < 80）鑑別常見為缺鐵性貧血（IDA）、地中海型貧血、慢性發炎/慢性病貧血、鐵粒幼紅血球性貧血/鉛中毒。\n2) 這位病人 Hb 6.0 屬「重度貧血」，而且 RBC count 200×10^4/mm^3（偏低）更支持缺鐵而非地中海型貧血帶因（thal trait 常見 RBC 數目正常或偏高、Hb 降幅相對較輕）。所以 (A) 合理。\n3) 在尚未強烈懷疑地中海型貧血時，Hb electrophoresis 並非最優先，優先順序通常是：iron study（ferritin、serum iron、TIBC/transferrin saturation）＋出血來源評估，因此 (B) 合理。\n4) FOBT 可作為腸胃道出血線索之一，但陰性不能排除（間歇性出血、偽陰性等），所以 (C) 合理但不能作為終點。\n5) 為什麼一定要做大腸檢查（colonoscopy）？因為成人男性/停經後女性的缺鐵性貧血，直到證實前都要視為「腸胃道失血」導致；而大腸腫瘤是必須先排除的重大病因。即使沒有黑便、排便型態改變，也不能降低警覺。\n\n臨床上會怎麼做（可寫進詳解加分）：\n- 先確認是否為 IDA：ferritin（最敏感）、transferrin saturation、RDW、retic。\n- 同步評估出血來源：colonoscopy ± EGD（依風險與症狀）。\n- 若 iron study 不典型，再往 ACD、thalassemia、sideroblastic anemia 等延伸。"
+  },
+  {
+    "id": "MED_03_04_ORIG_Q0014",
+    "stem": "下列何種營養素的缺乏是酗酒病人貧血最常見的原因？",
+    "options": [
+      { "key": "A", "text": "folic acid" },
+      { "key": "B", "text": "vitamin B12" },
+      { "key": "C", "text": "iron" },
+      { "key": "D", "text": "zinc" }
+    ],
+    "answer": "A",
+    "explanation": "酗酒者最常見造成「營養缺乏性貧血」的來源是葉酸（folate）缺乏。\n\n為什麼是 folate？\n1) 酒精相關生活型態常見飲食攝取不足；此外酒精也會影響葉酸吸收與肝臟儲存，導致葉酸缺乏更常見。\n2) 葉酸缺乏典型造成巨芽球性貧血（megaloblastic anemia）：MCV 升高、周邊血塗片可見 hypersegmented neutrophils，嚴重時可合併白血球/血小板偏低。\n\n鑑別提醒（讓詳解更像國考）：\n- B12 缺乏也會造成巨芽球性貧血，但在單純『酗酒』這個情境，folate 比 B12 更常見。\n- 酗酒也可能合併其他造成貧血的機轉（例如：慢性腸胃道出血→缺鐵、肝病/脾腫大、骨髓抑制、酒精造成 sideroblastic anemia），但題目問的是「營養素缺乏最常見」：首選 folate。"
+  },
+  {
+    "id": "MED_03_04_ORIG_Q0015",
+    "stem": "一位 65 歲男性主訴倦怠、無力，手腳有刺痛感。身體檢查發現臉色蒼白，有輕微黃疸，舌頭表面平滑、味蕾萎縮；神經學檢查顯示對振動（vibration）的感覺變差。血液檢查顯示血紅素 7.2 gm/dL，平均紅血球體積 110 fL，網狀紅血球 1.1%，白血球 2,780/µL（分類正常），血小板 98,000/µL；全膽紅素 2.3 mg/dL（直接型 0.5 mg/dL），AST 52 U/L，ALT 38 U/L，LDH 780 IU/L。這位病人最可能的診斷為？",
+    "options": [
+      { "key": "A", "text": "aplastic anemia" },
+      { "key": "B", "text": "iron deficiency anemia" },
+      { "key": "C", "text": "pernicious anemia" },
+      { "key": "D", "text": "hemolytic anemia" }
+    ],
+    "answer": "C",
+    "explanation": "答案為 pernicious anemia（惡性貧血，最常見為自體免疫造成 intrinsic factor 或胃壁細胞受損→維生素 B12 吸收障礙）。\n\n本題用『三聯線索』鎖定 B12 缺乏：\n1) 大球性貧血：MCV 110 fL。\n2) 神經學症狀：手腳刺痛、振動覺下降（後索/周邊神經病變）。葉酸缺乏不會造成神經病變，這點非常關鍵。\n3) 無效造血/髓內溶血（intramedullary hemolysis）：LDH 上升、間接型膽紅素上升（總膽紅素 2.3、直接型 0.5 → 間接型偏高）、合併 pancytopenia（WBC/platelet 下降）與 retic 偏低（1.1% 在 Hb 7.2 的情境屬不相稱偏低，支持骨髓『做不出來』而非周邊破壞）。\n\n逐一排除其他選項：\n- (A) aplastic anemia：會 pancytopenia、retic 低，但不典型出現 MCV 升高合併神經病變與 LDH/間接膽紅素上升的「巨芽球性」圖像。\n- (B) 缺鐵性貧血：應是小球性（MCV 低），且不解釋神經病變。\n- (D) hemolytic anemia：周邊溶血通常 retic 會上升（骨髓代償），本題 retic 偏低，且 MCV 偏高更符合巨芽球性。\n\n建議寫入詳解的延伸（國考常考）：\n- 確診檢驗：serum B12 下降、methylmalonic acid（MMA）上升、homocysteine 上升；pernicious anemia 可驗 anti–intrinsic factor Ab、anti–parietal cell Ab。\n- 治療：補充維生素 B12（通常 IM 起始較保險），並監測補充後的低血鉀風險；同時評估是否合併自體免疫疾病與胃癌/胃類癌風險（萎縮性胃炎背景）。"
+  }
 
 
 ]
