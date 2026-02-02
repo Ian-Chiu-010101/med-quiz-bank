@@ -2904,6 +2904,127 @@
   ],
   "answer": "A",
   "explanation": "E. histolytica 可造成侵襲性腸炎（血便）並可經門靜脈造成肝膿瘍，是經典考點。"
+},
+
+  {
+  "id": "MED3_RENAL_INF_ORI_VIRUS_Q0004",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜辛 病毒學｜流感" },
+  "stem": "下列有關流感之敘述，何者錯誤？",
+  "options": [
+    { "key": "A", "text": "流行性感冒病毒屬於 RNA 病毒" },
+    { "key": "B", "text": "主要傳播方式是透過飛沫傳染與接觸傳染" },
+    { "key": "C", "text": "免疫缺損病人及兒童可傳染期較成人病例為長" },
+    { "key": "D", "text": "流感快篩陰性，即可排除流感" }
+  ],
+  "answer": "D",
+  "explanation": "流感快篩的敏感度有限（臨床常見約 50–70%），陰性結果不能完全排除流感；若臨床高度懷疑（典型症狀且在流行季），仍應考慮以 PCR 確認或依臨床情境給予抗病毒治療。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_VIRUS_Q0005",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜辛 病毒學｜隔離與特殊防護" },
+  "stem": "下列那一個致病菌目前沒有效的抗微生物製劑治療，且必須進行特殊隔離，以免傳播給其他人？",
+  "options": [
+    { "key": "A", "text": "嚴重急性呼吸道症候群（severe acute respiratory syndrome）" },
+    { "key": "B", "text": "吸入型炭疽病（anthrax）" },
+    { "key": "C", "text": "漢生病（Hansen's disease）" },
+    { "key": "D", "text": "流行性感冒" }
+  ],
+  "answer": "A",
+  "explanation": "SARS 為病毒性呼吸道感染，缺乏「有效抗微生物製劑」可直接根治，且具院內傳播風險，需要嚴格感染管制（以飛沫為主，侵入性呼吸道處置時需特別注意氣溶膠風險）。吸入型炭疽不典型人傳人；漢生病傳染力低且可治療；流感以飛沫/接觸隔離為主。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_VIRUS_Q0006",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜辛 病毒學｜流感疫苗" },
+  "stem": "下列有關注射型流感疫苗之敘述，何者錯誤？",
+  "options": [
+    { "key": "A", "text": "採肌肉注射" },
+    { "key": "B", "text": "年齡 6 個月以下者，不予接種" },
+    { "key": "C", "text": "孕婦及免疫不全病人屬於禁忌，不應接種" },
+    { "key": "D", "text": "已知對「蛋」之蛋白質過敏者，不予接種" }
+  ],
+  "answer": "C",
+  "explanation": "注射型流感疫苗為肌肉注射，且 6 個月以下不接種；孕婦與免疫不全者並非禁忌，反而常屬高風險族群、一般建議接種以降低重症風險。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_VIRUS_Q0007",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜辛 病毒學｜Infectious mononucleosis 鑑別" },
+  "stem": "20 歲男性大學生，持續發燒 10 天合併頭痛、肌肉疼痛及喉嚨痛。身體診察有頸部和鼠蹊淋巴腺腫大及軀幹斑丘疹。WBC 4,200/mL，分類：多核球 35%、淋巴球 45%、單核球 15%、非典型淋巴球 5%。GOT 56、GPT 60。最不需要選擇下列何種檢驗？",
+  "options": [
+    { "key": "A", "text": "HIV test（human immunodeficiency virus I & II）" },
+    { "key": "B", "text": "CMV IgM（cytomegalovirus IgM）" },
+    { "key": "C", "text": "EB VCA IgM（Epstein–Barr viral capsid antigen IgM）" },
+    { "key": "D", "text": "measles IgM" }
+  ],
+  "answer": "D",
+  "explanation": "此臨床圖像（發燒、咽喉痛、淋巴結腫大、皮疹、輕度轉氨酶上升、可見非典型淋巴球）較符合 infectious mononucleosis 類群，常見病原包含 EBV、CMV 與急性 HIV；相較之下 measles IgM 並非優先檢驗。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_MEASLES_Q0001",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜辛 病毒學｜麻疹" },
+  "stem": "1 歲大女嬰出現發燒、咳嗽、流鼻水及結膜炎，發燒後 3–4 天口腔出現柯氏斑點（Koplik's spots），最有可能診斷為何？",
+  "options": [
+    { "key": "A", "text": "嬰兒玫瑰疹" },
+    { "key": "B", "text": "猩紅熱" },
+    { "key": "C", "text": "川崎氏症" },
+    { "key": "D", "text": "麻疹" }
+  ],
+  "answer": "D",
+  "explanation": "麻疹典型前驅症狀為發燒、咳嗽、鼻炎（coryza）、結膜炎（3C），隨後可見口腔黏膜 Koplik spots，之後出現由頭頸往下的紅疹。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_MEASLES_Q0002",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜辛 病毒學｜麻疹" },
+  "stem": "下列有關麻疹的敘述，何者錯誤？",
+  "options": [
+    { "key": "A", "text": "麻疹病毒是一種 RNA 病毒，主要藉由飛沫傳染，亦可經由接觸傳染" },
+    { "key": "B", "text": "發病初期的症狀以發燒、鼻炎、結膜炎以及咳嗽為主" },
+    { "key": "C", "text": "發病 2 至 4 天後，皮膚上會出現柯氏斑點（Koplik's spots）以及紅疹，由頭部向下移至軀幹" },
+    { "key": "D", "text": "施打 MMR 疫苗可以用來預防麻疹、流行性腮腺炎以及德國麻疹" }
+  ],
+  "answer": "C",
+  "explanation": "Koplik's spots 是「口腔黏膜」病灶，通常在出疹前出現；紅疹才是由頭頸往下蔓延。把 Koplik spots 說成在皮膚上出現是不正確的。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_HERPES_Q0001",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜辛 抗病毒藥物｜疱疹相關病毒" },
+  "stem": "下列有關皰疹相關病毒的敘述，何者正確？",
+  "options": [
+    { "key": "A", "text": "免疫正常的人發生過皮膚性帶狀皰疹（herpes zoster），大於 10% 會反覆發作" },
+    { "key": "B", "text": "未曾施打水痘（chickenpox）疫苗且未曾感染過水痘者，在接觸水痘病人後有小於 40% 會被感染" },
+    { "key": "C", "text": "感染性單核細胞增多症（infectious mononucleosis）的最常見症狀是發燒、喉嚨痛、淋巴結腫大" },
+    { "key": "D", "text": "在年輕人，感染性單核細胞增多症的潛伏期為 5–10 天" }
+  ],
+  "answer": "C",
+  "explanation": "感染性單核球增多症典型三聯徵為發燒、咽炎與淋巴結腫大。其潛伏期通常較長（常以數週計），而水痘接觸後的二代傳播率一般不低。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_RABIES_Q0001",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜辛 病毒學｜狂犬病暴露後預防（PEP）" },
+  "stem": "下列「狂犬病暴露後的疫苗注射」及建議時間，何者正確？",
+  "options": [
+    { "key": "A", "text": "第 0、3、7、14、28 天，共 5 次" },
+    { "key": "B", "text": "第 0、7、14、28 天，共 4 次" },
+    { "key": "C", "text": "第 0、7、28 天，共 3 次" },
+    { "key": "D", "text": "第 0、14、28 天，共 3 次" }
+  ],
+  "answer": "A",
+  "explanation": "狂犬病暴露後預防（PEP）常見考法為疫苗時程：第 0、3、7、14、28 天共 5 劑（並依暴露風險評估是否需要在傷口周圍注射 RIG）。"
 }
   
 ]
