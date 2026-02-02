@@ -1895,9 +1895,158 @@
     ],
     "answer": "D",
     "explanation": "常規局部/全身抗生素預防或膀胱灌洗並非標準預防策略，反而可能增加風險；核心仍是減少不必要置管、無菌置放與及早移除。"
-  }
+  },
 
-
+{
+  "id": "MED3_RENAL_INF_ORI_UTI_Q0007",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜丁 泌尿道感染｜無症狀菌尿" },
+  "stem": "下列何者屬於「無症狀菌尿（asymptomatic bacteriuria）」通常建議治療的族群？",
+  "options": [
+    { "key": "A", "text": "健康非孕女性" },
+    { "key": "B", "text": "長照機構住民但無泌尿症狀" },
+    { "key": "C", "text": "孕婦" },
+    { "key": "D", "text": "老年男性僅有混濁尿" }
+  ],
+  "answer": "C",
+  "explanation": "無症狀菌尿一般不治療；例外最重要的是孕婦（以及預計進行可能造成黏膜出血的泌尿道侵入性處置）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_UTI_Q0008",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜丁 泌尿道感染｜無症狀菌尿" },
+  "stem": "下列何者為「無症狀菌尿」不建議常規篩檢與治療的主要理由？",
+  "options": [
+    { "key": "A", "text": "會增加抗藥性與藥物副作用，且多數不改善預後" },
+    { "key": "B", "text": "因為無症狀菌尿多為病毒造成" },
+    { "key": "C", "text": "治療會造成永久腎衰竭" },
+    { "key": "D", "text": "治療會誘發敗血症" }
+  ],
+  "answer": "A",
+  "explanation": "大多數族群治療無症狀菌尿不改善臨床結果，反而增加抗生素副作用與抗藥性壓力。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_UTI_Q0009",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜丁 泌尿道感染｜腎盂腎炎" },
+  "stem": "關於急性腎盂腎炎（pyelonephritis）的臨床表現，下列何者最典型？",
+  "options": [
+    { "key": "A", "text": "頻尿、急尿但無發燒" },
+    { "key": "B", "text": "發燒、寒顫合併肋脊角叩擊痛（CVA tenderness）" },
+    { "key": "C", "text": "單純尿液混濁但無症狀" },
+    { "key": "D", "text": "只有蛋白尿" }
+  ],
+  "answer": "B",
+  "explanation": "腎盂腎炎屬上泌尿道感染，常見全身症狀（發燒/寒顫）與 CVA tenderness。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_UTI_Q0010",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜丁 泌尿道感染｜複雜性 UTI" },
+  "stem": "下列何者最符合複雜性 UTI（complicated UTI）的情境？",
+  "options": [
+    { "key": "A", "text": "健康非孕女性單純膀胱炎" },
+    { "key": "B", "text": "男性 UTI" },
+    { "key": "C", "text": "症狀輕微就一定是單純" },
+    { "key": "D", "text": "尿培養陰性" }
+  ],
+  "answer": "B",
+  "explanation": "男性、尿路結構/功能異常、阻塞、導尿管、免疫低下、孕婦等通常視為複雜性 UTI，需要更完整評估與療程。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_UTI_Q0011",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜丁 泌尿道感染｜導管相關" },
+  "stem": "關於導管相關尿路感染（CAUTI）的預防，下列何者最正確？",
+  "options": [
+    { "key": "A", "text": "常規使用預防性抗生素最有效" },
+    { "key": "B", "text": "最重要是避免不必要置管並盡早移除" },
+    { "key": "C", "text": "每日以抗生素溶液沖洗導尿管" },
+    { "key": "D", "text": "只要尿液混濁就需更換導尿管並治療" }
+  ],
+  "answer": "B",
+  "explanation": "CAUTI 核心是「減少置管天數」：避免不必要留置、無菌置放、維持封閉引流系統、盡早移除。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_GI_Q0001",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜戊 腸胃道感染｜Clostridioides difficile" },
+  "stem": "病人近期使用抗生素後出現水樣腹瀉，最需要優先考慮哪一種病原？",
+  "options": [
+    { "key": "A", "text": "Vibrio cholerae" },
+    { "key": "B", "text": "Clostridioides difficile" },
+    { "key": "C", "text": "Giardia lamblia" },
+    { "key": "D", "text": "Norovirus" }
+  ],
+  "answer": "B",
+  "explanation": "抗生素相關腹瀉的重要鑑別是 C. difficile（偽膜性腸炎），需依臨床與糞便檢驗評估並及早治療。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_GI_Q0002",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜戊 腸胃道感染｜EHEC" },
+  "stem": "疑似腸出血性大腸桿菌（EHEC）感染之血便病人，下列何者最不建議？",
+  "options": [
+    { "key": "A", "text": "補充水分與支持性療法" },
+    { "key": "B", "text": "避免止瀉藥" },
+    { "key": "C", "text": "例行性使用抗生素" },
+    { "key": "D", "text": "監測溶血尿毒症候群（HUS）徵象" }
+  ],
+  "answer": "C",
+  "explanation": "EHEC 相關血便需小心 HUS；抗生素與止瀉藥可能增加風險，因此多以支持性療法為主並密切追蹤。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_GI_Q0003",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜戊 腸胃道感染｜霍亂" },
+  "stem": "霍亂（cholera）最典型的臨床表現為何？",
+  "options": [
+    { "key": "A", "text": "高燒合併血便" },
+    { "key": "B", "text": "米湯樣大量水瀉，脫水明顯" },
+    { "key": "C", "text": "腹瀉伴大量白血球與膿便" },
+    { "key": "D", "text": "腹瀉伴顯著黃疸" }
+  ],
+  "answer": "B",
+  "explanation": "霍亂腸毒素造成分泌性水瀉，典型是米湯樣大量腹瀉與嚴重脫水；治療核心是快速補液。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_ARTHR_Q0001",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜己 感染性關節炎" },
+  "stem": "成人急性單一大關節紅腫熱痛合併發燒，下列何者是最重要的下一步？",
+  "options": [
+    { "key": "A", "text": "先給 NSAIDs 觀察 48 小時" },
+    { "key": "B", "text": "立即抽取關節液做檢驗（cell count、Gram stain、culture）" },
+    { "key": "C", "text": "只照 X 光即可排除感染" },
+    { "key": "D", "text": "等血液培養結果出來再處理" }
+  ],
+  "answer": "B",
+  "explanation": "感染性關節炎屬急症，關節液檢驗與培養是診斷關鍵，並需及早引流與抗生素治療。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_ARTHR_Q0002",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜己 感染性關節炎" },
+  "stem": "感染性關節炎之關節液分析，下列哪一項最支持細菌性關節炎？",
+  "options": [
+    { "key": "A", "text": "WBC < 2,000/µL 且以單核球為主" },
+    { "key": "B", "text": "WBC > 50,000/µL 且以多核球為主" },
+    { "key": "C", "text": "只有尿酸結晶" },
+    { "key": "D", "text": "葡萄糖正常且蛋白極低" }
+  ],
+  "answer": "B",
+  "explanation": "細菌性關節炎常見關節液高 WBC（常 >50,000/µL）且 PMN 為主；仍需配合 Gram stain/culture。"
+}
 
   
 ]
