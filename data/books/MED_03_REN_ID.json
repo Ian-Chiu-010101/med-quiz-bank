@@ -3025,6 +3025,172 @@
   ],
   "answer": "A",
   "explanation": "狂犬病暴露後預防（PEP）常見考法為疫苗時程：第 0、3、7、14、28 天共 5 劑（並依暴露風險評估是否需要在傷口周圍注射 RIG）。"
+},
+
+  {
+  "id": "MED3_RENAL_INF_ORI_ANTIVIRAL_Q0001",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜辛 抗病毒藥物｜Acyclovir" },
+  "stem": "下列何者最符合 acyclovir 的臨床使用與副作用描述？",
+  "options": [
+    { "key": "A", "text": "主要治療 CMV；常見骨髓抑制" },
+    { "key": "B", "text": "主要治療 HSV/VZV；高劑量或靜脈使用可造成結晶性腎病變" },
+    { "key": "C", "text": "主要治療流感；常見肌肉毒性" },
+    { "key": "D", "text": "主要治療 HIV；常見乳酸中毒" }
+  ],
+  "answer": "B",
+  "explanation": "Acyclovir 常用於 HSV/VZV；IV 或高劑量可能造成結晶性腎損傷（注意補液、腎功能調整）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_ANTIVIRAL_Q0002",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜辛 抗病毒藥物｜Ganciclovir/Valganciclovir" },
+  "stem": "Ganciclovir（或 valganciclovir）最典型的適應症與重要副作用組合為何？",
+  "options": [
+    { "key": "A", "text": "治療 CMV；骨髓抑制（neutropenia）" },
+    { "key": "B", "text": "治療流感；嚴重肝衰竭" },
+    { "key": "C", "text": "治療 HSV；嚴重耳毒性" },
+    { "key": "D", "text": "治療 HBV；甲狀腺毒性" }
+  ],
+  "answer": "A",
+  "explanation": "Ganciclovir/valganciclovir 常用於 CMV（如 CMV retinitis 等），重要副作用是骨髓抑制（特別是 neutropenia、thrombocytopenia）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_ANTIVIRAL_Q0003",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜辛 抗病毒藥物｜Foscarnet" },
+  "stem": "Foscarnet 的臨床定位與典型毒性，下列何者最正確？",
+  "options": [
+    { "key": "A", "text": "用於抗藥 HSV/CMV；腎毒性與電解質異常（如低鈣）" },
+    { "key": "B", "text": "用於流感；骨髓抑制" },
+    { "key": "C", "text": "用於 HBV；嚴重貧血" },
+    { "key": "D", "text": "用於 RSV；心肌毒性" }
+  ],
+  "answer": "A",
+  "explanation": "Foscarnet 可用於 ganciclovir-resistant CMV 或 acyclovir-resistant HSV；重要不良反應為腎毒性及電解質異常（低 Ca/Mg/K 等）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_HIV_Q0004",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜壬 HIV｜檢驗策略" },
+  "stem": "HIV 感染的初步篩檢與確認，下列何者最符合一般臨床流程概念？",
+  "options": [
+    { "key": "A", "text": "只做一次 HIV 抗體快篩陽性即可直接診斷 HIV 感染" },
+    { "key": "B", "text": "先做篩檢試驗（如 Ag/Ab），陽性再做確認試驗（分型/補充檢驗或核酸檢測）" },
+    { "key": "C", "text": "HIV PCR 只能在 AIDS 才會陽性" },
+    { "key": "D", "text": "陰性結果永遠可排除（不需考慮 window period）" }
+  ],
+  "answer": "B",
+  "explanation": "臨床多採「先篩檢、後確認」；並需考量暴露時間與檢驗 window period，必要時重複檢驗或做核酸檢測。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_HIV_Q0005",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜壬 HIV｜PJP 預防" },
+  "stem": "下列何者最符合 Pneumocystis jirovecii pneumonia（PJP）預防用藥的典型指徵與首選？",
+  "options": [
+    { "key": "A", "text": "CD4 <200/µL；首選 TMP-SMX" },
+    { "key": "B", "text": "CD4 <500/µL；首選 azithromycin" },
+    { "key": "C", "text": "CD4 <50/µL；首選 isoniazid" },
+    { "key": "D", "text": "任何 HIV 感染者都需終身 TMP-SMX" }
+  ],
+  "answer": "A",
+  "explanation": "PJP 預防典型門檻為 CD4 <200/µL（或特定高風險情境），首選 TMP-SMX。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_HIV_Q0006",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜壬 HIV｜Toxoplasma 預防" },
+  "stem": "HIV 病人若 toxoplasma IgG 陽性且 CD4 過低，最典型需要預防的機會性感染為何？",
+  "options": [
+    { "key": "A", "text": "Toxoplasma encephalitis（腦炎）" },
+    { "key": "B", "text": "流感肺炎" },
+    { "key": "C", "text": "霍亂" },
+    { "key": "D", "text": "破傷風" }
+  ],
+  "answer": "A",
+  "explanation": "Toxoplasma IgG 陽性代表既往感染；在嚴重免疫抑制（典型 CD4 <100/µL）時有再活化風險，需考慮預防（常用 TMP-SMX）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_HIV_Q0007",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜壬 HIV｜MAC 預防" },
+  "stem": "HIV 病人 CD4 極低時（典型 <50/µL）最需要注意/預防的嚴重散播性感染之一為何？",
+  "options": [
+    { "key": "A", "text": "Mycobacterium avium complex（MAC）" },
+    { "key": "B", "text": "流行性感冒" },
+    { "key": "C", "text": "A 型肝炎" },
+    { "key": "D", "text": "單純性膀胱炎" }
+  ],
+  "answer": "A",
+  "explanation": "CD4 <50/µL 時 MAC 散播性感染風險顯著上升；是否需要預防用藥取決於是否已有效 ART 與臨床策略，但此門檻與 MAC 是經典考點。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_HIV_Q0008",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜壬 HIV｜CMV" },
+  "stem": "AIDS 病人出現視力模糊、飛蚊症，眼底檢查見網膜出血與壞死（典型“pizza pie”外觀），最可能之病原與治療藥物組合為何？",
+  "options": [
+    { "key": "A", "text": "HSV；acyclovir" },
+    { "key": "B", "text": "CMV；ganciclovir/valganciclovir" },
+    { "key": "C", "text": "VZV；oseltamivir" },
+    { "key": "D", "text": "EBV；amoxicillin-clavulanate" }
+  ],
+  "answer": "B",
+  "explanation": "AIDS 低 CD4 時可見 CMV retinitis；治療以 ganciclovir/valganciclovir（或依抗藥性與狀況選 foscarnet 等）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_HIV_Q0009",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜壬 HIV｜Cryptococcus" },
+  "stem": "HIV 病人亞急性頭痛、發燒，腰椎穿刺顯示 opening pressure 上升，最需要考慮哪一種黴菌性腦膜炎？",
+  "options": [
+    { "key": "A", "text": "Cryptococcus neoformans" },
+    { "key": "B", "text": "Candida albicans" },
+    { "key": "C", "text": "Aspergillus fumigatus" },
+    { "key": "D", "text": "Dermatophyte" }
+  ],
+  "answer": "A",
+  "explanation": "Cryptococcus 在 AIDS 常造成亞急性腦膜炎，典型可見顱內壓上升，診斷可用 CrAg（cryptococcal antigen）等。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_HIV_Q0010",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜壬 HIV｜PJP 臨床" },
+  "stem": "HIV 病人漸進性呼吸困難、乾咳、低氧，胸部影像常見雙側瀰漫性間質性浸潤。最可能診斷為何？",
+  "options": [
+    { "key": "A", "text": "PJP（Pneumocystis jirovecii pneumonia）" },
+    { "key": "B", "text": "典型肺炎鏈球菌肺炎" },
+    { "key": "C", "text": "肺結核必然" },
+    { "key": "D", "text": "單純急性支氣管炎" }
+  ],
+  "answer": "A",
+  "explanation": "PJP 常表現為亞急性/漸進性呼吸症狀、低氧，影像可呈雙側瀰漫性間質性浸潤（或磨玻璃）。治療多以 TMP-SMX，嚴重低氧時加用類固醇。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_HIV_Q0011",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第二篇 感染科｜壬 HIV｜ART 原則" },
+  "stem": "啟動 ART 後病毒量下降、CD4 回升的主要臨床意義，下列何者最正確？",
+  "options": [
+    { "key": "A", "text": "代表可立即停藥以避免副作用" },
+    { "key": "B", "text": "可降低機會性感染與傳播風險，但需持續治療與追蹤" },
+    { "key": "C", "text": "代表 HIV 已被根除，不需再追蹤" },
+    { "key": "D", "text": "只要病毒量不可偵測就不會再有任何併發症風險" }
+  ],
+  "answer": "B",
+  "explanation": "有效 ART 可降低 OI 與死亡率並顯著降低傳播風險，但仍需長期持續治療與規律追蹤（抗藥性、共病、疫苗與預防策略等）。"
 }
   
 ]
