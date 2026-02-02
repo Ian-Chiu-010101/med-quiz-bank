@@ -7741,21 +7741,7 @@
     "answer": "D",
     "explanation": "侵入性肺炎鏈球菌疾病（IPD）可表現為肺炎、菌血症、腦膜炎等，為臨床重要病原。"
   },
-  {
-    "id": "MED3_RENAL_INF_ORI_CNSINF_C_Q0005",
-    "source_type": "original",
-    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
-    "location": { "section": "第二篇 感染科｜甲 中樞神經感染｜C 肺炎雙球菌（Streptococcus pneumoniae）" },
-    "stem": "肺炎鏈球菌在腦膜炎的經驗性治療考量中，為了涵蓋可能的抗藥性，常會加入哪一類抗生素的概念？",
-    "options": [
-      { "key": "A", "text": "第三代 cephalosporin 合併 vancomycin（視地區抗藥性）" },
-      { "key": "B", "text": "只用口服 penicillin 單次即可" },
-      { "key": "C", "text": "只用抗黴菌藥" },
-      { "key": "D", "text": "完全不需抗生素" }
-    ],
-    "answer": "A",
-    "explanation": "成人疑似細菌性腦膜炎常以第三代 cephalosporin 為基礎，並視抗藥性風險加入 vancomycin；確定藥敏後再降階。"
-  },
+ 
   {
     "id": "MED3_RENAL_INF_ORI_CNSINF_C_Q0006",
     "source_type": "original",
@@ -7771,22 +7757,7 @@
     "answer": "A",
     "explanation": "肺炎鏈球菌莢膜有抗吞噬作用，是重要毒力因子；疫苗策略也與莢膜血清型相關。"
   },
-  {
-    "id": "MED3_RENAL_INF_ORI_CNSINF_C_Q0007",
-    "source_type": "original",
-    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
-    "location": { "section": "第二篇 感染科｜甲 中樞神經感染｜C 肺炎雙球菌（Streptococcus pneumoniae）" },
-    "stem": "下列何者為侵入性肺炎鏈球菌感染的高風險族群線索之一？",
-    "options": [
-      { "key": "A", "text": "脾臟功能不全/無脾（asplenia）" },
-      { "key": "B", "text": "完全健康且無共病、無暴露史" },
-      { "key": "C", "text": "單純近視" },
-      { "key": "D", "text": "只要年輕就完全不會" }
-    ],
-    "answer": "A",
-    "explanation": "脾臟功能不全/無脾、免疫低下、年長者等為侵入性肺炎鏈球菌疾病高風險族群，臨床預防與疫苗策略常針對此類族群。"
-  },
-
+ 
   {
     "id": "MED3_RENAL_INF_ORI_CNSINF_D_Q0001",
     "source_type": "original",
@@ -7802,81 +7773,8 @@
     "answer": "A",
     "explanation": "N. meningitidis 為 Gram-negative diplococci，與 S. pneumoniae（G+ diplococci）在 Gram stain 上可鑑別。"
   },
-  {
-    "id": "MED3_RENAL_INF_ORI_CNSINF_D_Q0002",
-    "source_type": "original",
-    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
-    "location": { "section": "第二篇 感染科｜甲 中樞神經感染｜D 腦膜炎雙球菌（Neisseria meningitidis）" },
-    "stem": "腦膜炎雙球菌感染的臨床特色之一為何？",
-    "options": [
-      { "key": "A", "text": "可能出現 petechiae/purpura（紫斑/瘀點）" },
-      { "key": "B", "text": "一定完全沒有皮膚表現" },
-      { "key": "C", "text": "只會造成黃疸" },
-      { "key": "D", "text": "只會造成腹瀉" }
-    ],
-    "answer": "A",
-    "explanation": "Meningococcemia 可出現瘀點/紫斑，嚴重可進展為休克與 DIC，是臨床重要警訊。"
-  },
-  {
-    "id": "MED3_RENAL_INF_ORI_CNSINF_D_Q0003",
-    "source_type": "original",
-    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
-    "location": { "section": "第二篇 感染科｜甲 中樞神經感染｜D 腦膜炎雙球菌（Neisseria meningitidis）" },
-    "stem": "腦膜炎雙球菌的傳播方式最符合下列何者？",
-    "options": [
-      { "key": "A", "text": "呼吸道飛沫/密切接觸" },
-      { "key": "B", "text": "血液透析管路" },
-      { "key": "C", "text": "輸血一定傳染" },
-      { "key": "D", "text": "昆蟲叮咬為主" }
-    ],
-    "answer": "A",
-    "explanation": "N. meningitidis 透過呼吸道分泌物傳播，密切接觸（同住、親密接觸、同寢室等）風險較高。"
-  },
-  {
-    "id": "MED3_RENAL_INF_ORI_CNSINF_D_Q0004",
-    "source_type": "original",
-    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
-    "location": { "section": "第二篇 感染科｜甲 中樞神經感染｜D 腦膜炎雙球菌（Neisseria meningitidis）" },
-    "stem": "對於確診/高度懷疑腦膜炎雙球菌感染的個案，其密切接觸者的公共衛生處置概念為何？",
-    "options": [
-      { "key": "A", "text": "需要考慮接觸者預防性投藥（chemoprophylaxis）" },
-      { "key": "B", "text": "完全不需任何處置" },
-      { "key": "C", "text": "只要補充維他命即可" },
-      { "key": "D", "text": "只要量血壓即可" }
-    ],
-    "answer": "A",
-    "explanation": "腦膜炎雙球菌具群聚與快速進展風險，臨床常需對密切接觸者做化學預防並依規範通報與防治。"
-  },
-  {
-    "id": "MED3_RENAL_INF_ORI_CNSINF_D_Q0005",
-    "source_type": "original",
-    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
-    "location": { "section": "第二篇 感染科｜甲 中樞神經感染｜D 腦膜炎雙球菌（Neisseria meningitidis）" },
-    "stem": "腦膜炎雙球菌感染可能的致命性併發症，下列何者最符合？",
-    "options": [
-      { "key": "A", "text": "Fulminant meningococcemia 合併休克與 DIC" },
-      { "key": "B", "text": "單純慢性鼻炎" },
-      { "key": "C", "text": "只會造成便秘" },
-      { "key": "D", "text": "完全不會有系統性併發症" }
-    ],
-    "answer": "A",
-    "explanation": "Fulminant meningococcemia 可快速導致休克、多器官衰竭與 DIC；臨床需緊急抗生素與重症支持治療。"
-  },
-  {
-    "id": "MED3_RENAL_INF_ORI_CNSINF_D_Q0006",
-    "source_type": "original",
-    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
-    "location": { "section": "第二篇 感染科｜甲 中樞神經感染｜D 腦膜炎雙球菌（Neisseria meningitidis）" },
-    "stem": "疑似腦膜炎雙球菌腦膜炎的經驗性治療中，下列何者最符合常見的抗生素方向？",
-    "options": [
-      { "key": "A", "text": "第三代 cephalosporin（如 ceftriaxone/cefotaxime）" },
-      { "key": "B", "text": "只用 metronidazole" },
-      { "key": "C", "text": "只用抗黴菌藥" },
-      { "key": "D", "text": "不需抗生素" }
-    ],
-    "answer": "A",
-    "explanation": "第三代 cephalosporin 常可涵蓋腦膜炎雙球菌並具良好 CSF 滲透性；確診後再依藥敏與指引調整。"
-  },
+ 
+
   {
     "id": "MED3_RENAL_INF_ORI_CNSINF_D_Q0007",
     "source_type": "original",
@@ -7891,7 +7789,64 @@
     ],
     "answer": "A",
     "explanation": "Gram stain 形態與染色性可快速提供線索：N. meningitidis（G- diplococci） vs S. pneumoniae（G+ diplococci）。"
+  },
+
+ 
+ 
+ 
+
+  {
+    "id": "MED3_RENAL_INF_ORI_SSTI2_B_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜乙 軟組織感染｜B 蜂窩組織炎與丹毒" },
+    "stem": "非化膿性蜂窩組織炎/丹毒最常見的致病菌為何？",
+    "options": [
+      { "key": "A", "text": "β-溶血性鏈球菌（如 Group A strep）" },
+      { "key": "B", "text": "Candida" },
+      { "key": "C", "text": "結核桿菌" },
+      { "key": "D", "text": "寄生蟲為主" }
+    ],
+    "answer": "A",
+    "explanation": "非化膿性 cellulitis/erysipelas 最常見為 streptococci（常為 GAS）；若為化膿性/膿瘍則需考慮 S. aureus（含 MRSA）。"
+  },
+
+ 
+
+
+ 
+ 
+  {
+    "id": "MED3_RENAL_INF_ORI_BJI_A_Q0006",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜丙 骨關節感染｜A 概論" },
+    "stem": "懷疑骨髓炎時，影像檢查中較敏感的選項之一為何？",
+    "options": [
+      { "key": "A", "text": "MRI" },
+      { "key": "B", "text": "單純 X 光（早期一定最敏感）" },
+      { "key": "C", "text": "心電圖" },
+      { "key": "D", "text": "腦波" }
+    ],
+    "answer": "A",
+    "explanation": "MRI 對早期骨髓炎較敏感；單純 X 光在早期可能仍正常，但可用於評估骨破壞、異物、氣體等。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_BJI_A_Q0007",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜丙 骨關節感染｜A 概論" },
+    "stem": "骨關節感染的實驗室指標中，下列何者常用於追蹤治療反應？",
+    "options": [
+      { "key": "A", "text": "CRP（或 ESR）" },
+      { "key": "B", "text": "單次尿比重" },
+      { "key": "C", "text": "視力" },
+      { "key": "D", "text": "ABG 的 PaO2（在無肺病情況下）" }
+    ],
+    "answer": "A",
+    "explanation": "CRP/ESR 可作為發炎指標並用於追蹤治療反應，但仍需結合臨床與影像/培養結果。"
   }
 
   
+
 ]
