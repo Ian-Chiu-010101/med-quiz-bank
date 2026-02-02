@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "id": "MED3_04_Q0001",
+    "stem": "下列風濕病主要侵犯的組織之解剖構造 (anatomic structures) 之配對中，哪一項錯誤？（100（二）專醫三-30）",
+    "options": [
+      { "key": "A", "text": "Rheumatoid arthritis; synovium" },
+      { "key": "B", "text": "Ankylosing spondylitis; bony end plate" },
+      { "key": "C", "text": "Osteoarthritis; cartilage" },
+      { "key": "D", "text": "Gout; joint space" }
+    ],
+    "answer": "B",
+    "explanation": "這題考的是『疾病的主要解剖病灶』。\n\n(A) RA：核心病灶是滑膜炎 (synovitis)，滑膜增生形成 pannus，侵蝕軟骨與骨邊緣，屬典型正確配對。\n\n(B) AS：典型病理是著骨點炎 (enthesitis)，也就是韌帶/肌腱/關節囊附著於骨頭的位置發炎，之後造成骨化、骨橋形成（例如跟腱、足底筋膜、脊椎韌帶附著處）。因此用『bony end plate』當作主要侵犯部位不精準，考題要你選錯誤配對，選 (B)。\n\n(C) OA：退化性關節炎以關節軟骨磨損、軟骨下骨變化與骨贅為主，cartilage 為關鍵，正確。\n\n(D) Gout：尿酸鹽結晶沉積於關節腔與周邊軟組織，急性發作是關節腔內強烈發炎，joints space 可視為考題語境下的正確配對。\n\n考點延伸：AS 的鑑別關鍵是『發炎性下背痛』+『晨僵』+『運動改善』+『薦腸關節炎』，且常合併 uveitis、IBD、psoriasis。"
+  },
+  {
+    "id": "MED3_04_Q0002",
+    "stem": "有關類風濕性關節炎的關節外表現 (extraarticular manifestations)，下列何者最常見？（113（二）專醫三-33）",
+    "options": [
+      { "key": "A", "text": "hyperandrogenism" },
+      { "key": "B", "text": "osteoporosis" },
+      { "key": "C", "text": "pulmonary artery hypertension" },
+      { "key": "D", "text": "lumbar myelopathy" }
+    ],
+    "answer": "B",
+    "explanation": "RA 除了關節滑膜炎，還是一個『全身性慢性發炎狀態』，再加上不少患者會使用類固醇、活動度下降，因此骨質流失/骨質疏鬆是最常見、也最實務上需要處理的共病之一。原書也指出骨質疏鬆最常見，並提到慢性發炎因子（如 TNF-α、IL-1、IL-6）促進骨吸收，類固醇治療更會加重骨質流失風險。 [oai_citation:1‡三(4)：風免、血液、腫瘤、家醫.pdf](sediment://file_000000002f287208b54305827620b754)\n\n(A) hyperandrogenism：不是 RA 的典型關節外表現。\n(C) pulmonary artery hypertension：可見於某些結締組織疾病或部分 RA 合併肺部病變時，但整體遠不如骨質疏鬆常見。\n(D) lumbar myelopathy：RA 典型較相關的是『頸椎（特別是 atlantoaxial）不穩/脊髓壓迫』，lumbar myelopathy 並非常見考點。\n\n考點延伸：RA 的高鑑別度關節外表現常考『間質性肺病、胸膜炎、心包炎、類風濕結節、貧血/血小板上升（慢性發炎）、乾燥症重疊、眼部鞏膜炎』等，但「最常見」通常會落在骨質疏鬆/貧血這種共病型答案。"
+  },
+  {
+    "id": "MED3_04_Q0003",
+    "stem": "下列疾病與 human leukocyte antigen (HLA) 之相關性，何者最高？（113（二）專醫三-34）",
+    "options": [
+      { "key": "A", "text": "Type 1 diabetes mellitus 與 HLA-B5801" },
+      { "key": "B", "text": "Behçet's disease 與 HLA-B1502" },
+      { "key": "C", "text": "Sjogren's syndrome 與 HLA-DR8" },
+      { "key": "D", "text": "類風濕性關節炎 (rheumatoid arthritis) 與 HLA-DR4" }
+    ],
+    "answer": "D",
+    "explanation": "這題是典型 HLA 配對記憶題，但會用錯配選項混淆。原書給的整理是：\n- Type 1 DM：HLA-DR3、HLA-DR4（不是 B5801）\n- Behçet：HLA-B51（不是 B1502）\n- Sjögren：HLA-DR3（不是 DR8）\n- RA：HLA-DR4（正確）\n因此選 (D)。 [oai_citation:2‡三(4)：風免、血液、腫瘤、家醫.pdf](sediment://file_000000002f287208b54305827620b754)\n\n考點延伸：HLA-B27 ↔ AS/SpA；HLA-B57 ↔ abacavir hypersensitivity；HLA-B1502 ↔ carbamazepine SJS/TEN（華人常考）；HLA-B5801 ↔ allopurinol SJS/TEN（也常考），題目故意拿這些來錯配。"
+  },
+  {
+    "id": "MED3_04_Q0004",
+    "stem": "34 歲女性多次不明原因喉頭水腫、嚴重腹痛合併腹水、臉/手/腳掌反覆腫脹，發作時從未有蕁麻疹，亦找不到過敏原。下列處置何者對病情最沒有幫助？（113（二）專醫三-35）",
+    "options": [
+      { "key": "A", "text": "檢驗血中 C4" },
+      { "key": "B", "text": "檢驗 C1 esterase inhibitor" },
+      { "key": "C", "text": "檢驗 total IgE" },
+      { "key": "D", "text": "處方 danazol" }
+    ],
+    "answer": "C",
+    "explanation": "臨床關鍵字是『反覆血管性水腫 + 無蕁麻疹 + 無明確過敏原 + 腹痛/腹水 + 喉頭水腫』，高度指向遺傳性血管性水腫 (Hereditary angioedema, HAE)，其病理是 C1 esterase inhibitor（C1-INH）缺乏或功能異常 → 補體與 kallikrein-kinin 系統失控 → bradykinin 上升 → 血管通透性增加。這不是 IgE 介導的過敏反應，因此 total IgE 對診斷/處置幾乎沒有幫助，選 (C)。 [oai_citation:3‡三(4)：風免、血液、腫瘤、家醫.pdf](sediment://file_000000002f287208b54305827620b754)\n\n(A) C4：HAE 常因補體路徑持續活化而消耗 C4，C4 低是常用的篩檢線索。\n(B) C1-INH：量或功能檢測是確診核心。\n(D) danazol：雄性素衍生物可促進肝臟合成 C1-INH，用於『預防性』治療（不是急性發作的首選）。原書亦指出 danazol 可增加肝臟 C1-INH 合成，用於 HAE 預防。 [oai_citation:4‡三(4)：風免、血液、腫瘤、家醫.pdf](sediment://file_000000002f287208b54305827620b754)\n\n考點延伸：HAE 急性發作治療更偏向 C1-INH 濃縮製劑、bradykinin B2 receptor antagonist（如 icatibant）、kallikrein inhibitor（如 ecallantide）；而一般『過敏性』血管性水腫（IgE/肥大細胞介導）才會伴蕁麻疹、對抗組織胺與類固醇/腎上腺素反應較好。"
+  },
+  {
+    "id": "MED3_04_Q0005",
+    "stem": "52 歲女性多處關節疼痛，診斷為 fibromyalgia，未伴隨其他免疫疾病，其典型血中 C-reactive protein (CRP) 與 erythrocyte sedimentation rate (ESR) 應為何種型態？（112（二）專醫三-31）",
+    "options": [
+      { "key": "A", "text": "CRP 和 ESR 皆上升" },
+      { "key": "B", "text": "CRP 上升，但 ESR 正常" },
+      { "key": "C", "text": "CRP 正常，但 ESR 上升" },
+      { "key": "D", "text": "CRP 和 ESR 皆正常" }
+    ],
+    "answer": "D",
+    "explanation": "Fibromyalgia 的本質是『疼痛處理與中樞敏化』相關的慢性廣泛性疼痛症候群，常伴疲勞、睡眠障礙、情緒/焦慮憂鬱、認知困難，但『沒有器質性發炎』，因此發炎指標通常正常：CRP 正常、ESR 正常，選 (D)。原書也明確寫到 fibromyalgia 無明顯發炎或免疫異常。 [oai_citation:5‡三(4)：風免、血液、腫瘤、家醫.pdf](sediment://file_000000002f287208b54305827620b754)\n\n鑑別重點（考試常用）：\n- 若 ESR/CRP 升高，要提高懷疑：感染性關節炎、PMR/GCA、RA、SLE 活動、脊椎關節炎活動、惡性腫瘤等。\n- Fibromyalgia 的關節痛通常『缺乏客觀關節腫脹/熱/紅』，也不會有典型晨僵>1小時、也不會有影像骨侵蝕；若出現這些客觀發炎線索，應重新評估診斷。"
+  },
+  {
+    "id": "MED3_04_Q0006",
+    "stem": "28 歲女性近 2 年下肢偶有隆起性紫斑，且有 3 次急性氣喘發作；短期類固醇後氣喘及紫斑迅速消失。WBC 9,600/µL、platelet 287×10^3/µL、eosinophil 27%，ANA 1:80、ESR 17、CRP 0.81。何種檢查陽性對診斷最有幫助？（110（二）專醫三-30）",
+    "options": [
+      { "key": "A", "text": "antineutrophil cytoplasmic antibodies (ANCA)" },
+      { "key": "B", "text": "IgE" },
+      { "key": "C", "text": "IgG4" },
+      { "key": "D", "text": "sputum smear" }
+    ],
+    "answer": "A",
+    "explanation": "『紫斑（血管炎表徵）+ 氣喘 + 嗜酸性球顯著上升』是 EGPA（eosinophilic granulomatosis with polyangiitis，舊名 Churg–Strauss）的經典組合，因此 ANCA（尤其 p-ANCA/MPO）陽性會最有助於支持診斷，選 (A)。原書亦指出此情境考慮 EGPA，檢驗 ANCA 最有幫助。 [oai_citation:6‡三(4)：風免、血液、腫瘤、家醫.pdf](sediment://file_000000002f287208b54305827620b754)\n\n(B) IgE：EGPA 可合併過敏體質/IgE 上升，但特異度不足，不能作為『最有幫助』。\n(C) IgG4：偏向 IgG4-related disease 的線索，與此題的氣喘+嗜酸性球+紫斑型血管炎不相符。\n(D) sputum smear：較偏感染（含 TB/寄生蟲等）評估；雖嗜酸性球也可見寄生蟲，但題目有反覆氣喘與紫斑且類固醇快速改善，更像血管炎譜系。\n\n考點延伸：EGPA 三期概念（過敏/氣喘期 → 嗜酸性球增生與浸潤期 → 系統性小血管炎期），常見器官：肺、皮膚、周邊神經（mononeuritis multiplex）、腎臟。"
+  }
+]
