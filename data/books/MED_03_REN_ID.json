@@ -5659,6 +5659,2239 @@
   ],
   "answer": "B",
   "explanation": "尿毒症狀與難治酸中毒屬透析重要適應症；需依臨床嚴重度評估緊急或加強透析。"
-}
+},
+
+
+  {
+  "id": "MED3_RENAL_INF_ORI_TXP_Q0001",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜庚 腎臟移植" },
+  "stem": "腎臟移植最主要的適應症為何？",
+  "options": [
+    { "key": "A", "text": "急性腎小管壞死（ATN）" },
+    { "key": "B", "text": "末期腎病（ESRD）" },
+    { "key": "C", "text": "單純腎結石" },
+    { "key": "D", "text": "短暫腎前性 AKI" }
+  ],
+  "answer": "B",
+  "explanation": "腎移植主要適用於末期腎病（ESRD），可改善生活品質與長期預後（相較長期透析）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_TXP_Q0002",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜庚 腎臟移植" },
+  "stem": "腎移植前評估中，下列何者屬於「絕對禁忌」最典型的概念？",
+  "options": [
+    { "key": "A", "text": "已控制的高血壓" },
+    { "key": "B", "text": "活動性未控制感染或惡性腫瘤（依情境）" },
+    { "key": "C", "text": "輕度貧血" },
+    { "key": "D", "text": "過去曾有腎結石史" }
+  ],
+  "answer": "B",
+  "explanation": "移植需要長期免疫抑制；活動性感染或未妥善處理的惡性腫瘤會顯著增加死亡與併發症風險，通常屬高度禁忌。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_TXP_Q0003",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜庚 腎臟移植" },
+  "stem": "腎移植配對中，「ABO 血型相容」的意義最正確為何？",
+  "options": [
+    { "key": "A", "text": "只要 HLA 相同就不需管 ABO" },
+    { "key": "B", "text": "ABO 不相容一定完全不能移植" },
+    { "key": "C", "text": "ABO 相容可降低超急性排斥風險，是基本配對考量之一" },
+    { "key": "D", "text": "ABO 只影響輸血，不影響移植" }
+  ],
+  "answer": "C",
+  "explanation": "ABO 抗原/抗體反應會造成嚴重排斥風險；臨床多以 ABO 相容為基本原則（特定中心可做 ABO-incompatible 方案但屬高度專業）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_TXP_Q0004",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜庚 腎臟移植" },
+  "stem": "交叉試驗（crossmatch）最主要用於偵測下列何者？",
+  "options": [
+    { "key": "A", "text": "受贈者是否有針對捐贈者 HLA 的預存抗體" },
+    { "key": "B", "text": "受贈者是否有缺鐵" },
+    { "key": "C", "text": "捐贈者是否有蛋白尿" },
+    { "key": "D", "text": "受贈者是否有高血脂" }
+  ],
+  "answer": "A",
+  "explanation": "crossmatch 用於偵測 donor-specific antibodies（DSA）；陽性代表高風險（尤其超急性/抗體媒介排斥）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_TXP_Q0005",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜庚 腎臟移植" },
+  "stem": "超急性排斥（hyperacute rejection）最典型的機轉為何？",
+  "options": [
+    { "key": "A", "text": "T 細胞介導，數月後發生" },
+    { "key": "B", "text": "預存抗體對血管內皮造成即刻傷害" },
+    { "key": "C", "text": "藥物毒性造成腎小管壞死" },
+    { "key": "D", "text": "病毒感染造成腎炎" }
+  ],
+  "answer": "B",
+  "explanation": "超急性排斥多因 ABO/HLA 相關預存抗體（DSA）引發補體活化與血栓性血管病變，移植後數分鐘到數小時內發生。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_TXP_Q0006",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜庚 腎臟移植" },
+  "stem": "急性細胞媒介排斥（acute cellular rejection）最主要牽涉的免疫細胞為何？",
+  "options": [
+    { "key": "A", "text": "嗜酸性球" },
+    { "key": "B", "text": "T 淋巴球" },
+    { "key": "C", "text": "血小板" },
+    { "key": "D", "text": "紅血球" }
+  ],
+  "answer": "B",
+  "explanation": "急性細胞媒介排斥以 T 細胞為主（介入間質炎與腎小管炎等），治療常以類固醇脈衝或升級免疫抑制。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_TXP_Q0007",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜庚 腎臟移植" },
+  "stem": "抗體媒介排斥（antibody-mediated rejection, AMR）最符合的特徵組合為何？",
+  "options": [
+    { "key": "A", "text": "無 DSA、無補體相關證據" },
+    { "key": "B", "text": "存在 DSA 且病理可見抗體/補體相關血管內皮傷害證據" },
+    { "key": "C", "text": "僅有腎結石" },
+    { "key": "D", "text": "只有低血鈉" }
+  ],
+  "answer": "B",
+  "explanation": "AMR 常見 donor-specific antibody 與微血管炎/補體沉積等證據；治療可能包含血漿置換、IVIG、調整免疫抑制等。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_TXP_Q0008",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜庚 腎臟移植" },
+  "stem": "慢性排斥（chronic rejection）最典型的臨床表現為何？",
+  "options": [
+    { "key": "A", "text": "移植後數小時內無尿" },
+    { "key": "B", "text": "移植腎功能逐漸惡化、蛋白尿增加（慢性移植物病變）" },
+    { "key": "C", "text": "突然劇烈腹痛" },
+    { "key": "D", "text": "只有高熱與白血球上升" }
+  ],
+  "answer": "B",
+  "explanation": "慢性排斥多呈緩慢進展的移植物功能下降與蛋白尿，病理可見慢性血管/間質纖維化等變化。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_TXP_Q0009",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜庚 腎臟移植" },
+  "stem": "腎移植後早期腎功能不佳（creatinine 上升/尿量下降），下列何者是必須優先排除的可逆原因？",
+  "options": [
+    { "key": "A", "text": "尿路阻塞或血管問題（如腎動脈/靜脈血栓）" },
+    { "key": "B", "text": "單純缺鐵" },
+    { "key": "C", "text": "單純高膽固醇" },
+    { "key": "D", "text": "單純近視" }
+  ],
+  "answer": "A",
+  "explanation": "移植後急性功能變差需先排除血流/阻塞等外科性可逆原因，再評估拒絕反應、藥物毒性、感染等。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_TXP_Q0010",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜庚 腎臟移植" },
+  "stem": "移植後評估「排斥反應」最具診斷價值的檢查通常為何？",
+  "options": [
+    { "key": "A", "text": "腎臟移植腎切片（allograft biopsy）" },
+    { "key": "B", "text": "單次尿比重" },
+    { "key": "C", "text": "單次體溫" },
+    { "key": "D", "text": "單次血鈉" }
+  ],
+  "answer": "A",
+  "explanation": "移植腎切片可區分細胞媒介排斥、抗體媒介排斥、藥物毒性與其他病因，是關鍵診斷工具。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_TXP_Q0011",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜庚 腎臟移植" },
+  "stem": "下列何者屬於 calcineurin inhibitor（CNI）代表藥物？",
+  "options": [
+    { "key": "A", "text": "Tacrolimus" },
+    { "key": "B", "text": "Mycophenolate mofetil" },
+    { "key": "C", "text": "Prednisolone" },
+    { "key": "D", "text": "Sirolimus" }
+  ],
+  "answer": "A",
+  "explanation": "CNI 代表為 tacrolimus、cyclosporine；常是移植後維持免疫抑制的核心藥物之一。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_TXP_Q0012",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜庚 腎臟移植" },
+  "stem": "CNI（如 tacrolimus/cyclosporine）最重要且常考的藥物不良反應之一為何？",
+  "options": [
+    { "key": "A", "text": "腎毒性（nephrotoxicity）" },
+    { "key": "B", "text": "必然造成低血糖" },
+    { "key": "C", "text": "必然造成甲狀腺亢進" },
+    { "key": "D", "text": "必然造成溶血" }
+  ],
+  "answer": "A",
+  "explanation": "CNI 可造成血管收縮與腎毒性，表現為 creatinine 上升；需監測 trough level 並與排斥/阻塞等鑑別。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_TXP_Q0013",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜庚 腎臟移植" },
+  "stem": "Mycophenolate mofetil（MMF）最常見且臨床重要的不良反應類型為何？",
+  "options": [
+    { "key": "A", "text": "胃腸道副作用與骨髓抑制（白血球下降）" },
+    { "key": "B", "text": "嚴重腎結石" },
+    { "key": "C", "text": "必然造成高血鈣" },
+    { "key": "D", "text": "必然造成心包膜炎" }
+  ],
+  "answer": "A",
+  "explanation": "MMF 常見腹瀉、噁心等 GI 副作用，亦可能造成白血球下降；需監測血球與感染風險。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_TXP_Q0014",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜庚 腎臟移植" },
+  "stem": "mTOR inhibitor（如 sirolimus/everolimus）較典型的不良反應為何？",
+  "options": [
+    { "key": "A", "text": "傷口癒合不良與高血脂" },
+    { "key": "B", "text": "必然造成嚴重低血鉀" },
+    { "key": "C", "text": "必然造成急性溶血" },
+    { "key": "D", "text": "必然造成肺水腫" }
+  ],
+  "answer": "A",
+  "explanation": "mTOR inhibitor 常見高血脂、口腔潰瘍、骨髓抑制與傷口癒合不良；因此在術後早期或需良好傷口癒合時要謹慎。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_TXP_Q0015",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜庚 腎臟移植" },
+  "stem": "移植後「誘導治療（induction therapy）」常用於下列何種情境？",
+  "options": [
+    { "key": "A", "text": "完全不需要免疫抑制的人" },
+    { "key": "B", "text": "移植早期以較強免疫抑制降低早期排斥風險（高風險者更常用）" },
+    { "key": "C", "text": "只用於治療腎結石" },
+    { "key": "D", "text": "只用於治療尿路感染" }
+  ],
+  "answer": "B",
+  "explanation": "induction 常以淋巴球耗竭或 IL-2 receptor blocker 等藥物在移植早期降低排斥風險，視免疫風險分層決定。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_TXP_Q0016",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜庚 腎臟移植" },
+  "stem": "移植後感染風險的時間序列概念，下列何者較正確？",
+  "options": [
+    { "key": "A", "text": "0–1 個月：多為機會性感染（如 CMV）" },
+    { "key": "B", "text": "1–6 個月：機會性感染風險上升（如 CMV、Pneumocystis、BK 等）" },
+    { "key": "C", "text": "任何時間都只會是社區一般感染" },
+    { "key": "D", "text": "移植後不會增加感染風險" }
+  ],
+  "answer": "B",
+  "explanation": "概念上：早期（0–1 月）偏手術/醫療相關感染；中期（1–6 月）機會性感染風險較高；更晚期則社區感染與慢性病毒再活化等。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_TXP_Q0017",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜庚 腎臟移植" },
+  "stem": "移植後常見用於 Pneumocystis jirovecii 肺炎（PJP）預防的藥物為何？",
+  "options": [
+    { "key": "A", "text": "TMP-SMX" },
+    { "key": "B", "text": "Amoxicillin" },
+    { "key": "C", "text": "Acyclovir（單用）" },
+    { "key": "D", "text": "Metronidazole" }
+  ],
+  "answer": "A",
+  "explanation": "TMP-SMX 是移植後常見 PJP 預防用藥之一，亦可同時降低某些細菌感染風險（依個案與中心策略）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_TXP_Q0018",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜庚 腎臟移植" },
+  "stem": "移植後 CMV 感染風險分層中，最常被視為最高風險的血清學組合為何？",
+  "options": [
+    { "key": "A", "text": "Donor CMV(+) / Recipient CMV(-)" },
+    { "key": "B", "text": "Donor CMV(-) / Recipient CMV(-)" },
+    { "key": "C", "text": "Donor CMV(-) / Recipient CMV(+)" },
+    { "key": "D", "text": "Donor CMV(+) / Recipient CMV(+)" }
+  ],
+  "answer": "A",
+  "explanation": "D+/R- 為高風險族群（受贈者無既往免疫）；臨床常採預防或 preemptive 策略並密切監測。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_TXP_Q0019",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜庚 腎臟移植" },
+  "stem": "BK virus nephropathy 最典型的臨床提示為何？",
+  "options": [
+    { "key": "A", "text": "移植腎功能逐漸變差，且病毒量/檢測支持 BK 再活化" },
+    { "key": "B", "text": "一定出現劇烈腰痛血尿" },
+    { "key": "C", "text": "一定出現高嗜酸性球" },
+    { "key": "D", "text": "只會造成低血鈣" }
+  ],
+  "answer": "A",
+  "explanation": "BK 再活化可導致移植腎間質性腎炎/腎病變，常表現為腎功能惡化；處置核心多為調整（降低）免疫抑制並密切監測。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_TXP_Q0020",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜庚 腎臟移植" },
+  "stem": "移植後新發糖尿病（post-transplant diabetes mellitus, PTDM）常見相關因素，下列何者正確？",
+  "options": [
+    { "key": "A", "text": "與類固醇與 tacrolimus 等免疫抑制藥物相關" },
+    { "key": "B", "text": "只與喝水量有關" },
+    { "key": "C", "text": "只與血鈉有關" },
+    { "key": "D", "text": "與免疫抑制無關" }
+  ],
+  "answer": "A",
+  "explanation": "類固醇、CNI（特別 tacrolimus）等可增加高血糖/糖尿病風險，需術後監測與代謝風險管理。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_TXP_Q0021",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜庚 腎臟移植" },
+  "stem": "移植受贈者長期最需要加強監測的惡性腫瘤風險之一為何？",
+  "options": [
+    { "key": "A", "text": "皮膚癌與淋巴增生性疾病（PTLD）風險上升" },
+    { "key": "B", "text": "骨肉瘤一定發生" },
+    { "key": "C", "text": "胰臟癌一定發生" },
+    { "key": "D", "text": "腦腫瘤一定發生" }
+  ],
+  "answer": "A",
+  "explanation": "長期免疫抑制增加皮膚癌與 PTLD 等風險；需防曬、定期檢查與風險分層追蹤。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_TXP_Q0022",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜庚 腎臟移植" },
+  "stem": "急性排斥反應最常見的臨床線索之一為何？",
+  "options": [
+    { "key": "A", "text": "移植腎區域必然劇痛且大量血尿" },
+    { "key": "B", "text": "血清肌酸酐上升或尿量下降（常需排除阻塞/血管/藥物等）" },
+    { "key": "C", "text": "必然高血鈣" },
+    { "key": "D", "text": "必然低血糖" }
+  ],
+  "answer": "B",
+  "explanation": "急性排斥常以腎功能惡化表現；症狀可能不典型，因此需系統性鑑別並常以切片確認。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_TXP_Q0023",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜庚 腎臟移植" },
+  "stem": "移植後高血壓常見的原因不包含下列何者？",
+  "options": [
+    { "key": "A", "text": "CNI（如 tacrolimus/cyclosporine）" },
+    { "key": "B", "text": "腎功能不佳或容量過負荷" },
+    { "key": "C", "text": "移植腎動脈狹窄（transplant renal artery stenosis）" },
+    { "key": "D", "text": "單純補充維生素 B12" }
+  ],
+  "answer": "D",
+  "explanation": "移植後高血壓常與 CNI、容量狀態、移植腎血管病變等相關；B12 與高血壓無典型因果關係。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_TXP_Q0024",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜庚 腎臟移植" },
+  "stem": "移植腎動脈狹窄最典型的提示之一為何？",
+  "options": [
+    { "key": "A", "text": "突發高血壓或難治高血壓，合併腎功能惡化" },
+    { "key": "B", "text": "只有咳嗽" },
+    { "key": "C", "text": "只有皮疹" },
+    { "key": "D", "text": "只有關節痛" }
+  ],
+  "answer": "A",
+  "explanation": "移植腎動脈狹窄可導致腎灌流下降→RAAS 活化→難治高血壓與腎功能惡化；常需影像評估與介入治療。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_TXP_Q0025",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜庚 腎臟移植" },
+  "stem": "腎移植後最常需要避免的原則，下列何者最正確？",
+  "options": [
+    { "key": "A", "text": "可自行停藥以減少副作用" },
+    { "key": "B", "text": "避免自行停用免疫抑制藥，並注意藥物交互作用" },
+    { "key": "C", "text": "不需要追蹤腎功能" },
+    { "key": "D", "text": "不需要感染預防" }
+  ],
+  "answer": "B",
+  "explanation": "免疫抑制藥物中斷或交互作用導致濃度不足/過高，皆可能造成排斥或毒性；需規律服藥與定期監測。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_TXP_Q0026",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜庚 腎臟移植" },
+  "stem": "下列何者是腎移植後常用的「三合一」維持免疫抑制組合概念？",
+  "options": [
+    { "key": "A", "text": "CNI + 抗代謝藥（如 MMF） + 類固醇（依方案調整）" },
+    { "key": "B", "text": "NSAID + PPI + 抗組織胺" },
+    { "key": "C", "text": "ACEi + statin + aspirin（固定必用）" },
+    { "key": "D", "text": "抗生素三合一長期使用" }
+  ],
+  "answer": "A",
+  "explanation": "常見維持免疫抑制為 CNI（tacrolimus/cyclosporine）+ MMF/azathioprine + steroid（是否減量/停用視中心與風險）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_TXP_Q0027",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜庚 腎臟移植" },
+  "stem": "下列何者最符合「延遲移植物功能（delayed graft function, DGF）」的概念？",
+  "options": [
+    { "key": "A", "text": "移植後腎功能立刻恢復且尿量大增" },
+    { "key": "B", "text": "移植後早期腎功能恢復延遲，可能需要短期透析支持" },
+    { "key": "C", "text": "只要發燒就是 DGF" },
+    { "key": "D", "text": "只有蛋白尿就是 DGF" }
+  ],
+  "answer": "B",
+  "explanation": "DGF 常與缺血再灌流傷害相關（屍腎較常見），臨床表現為移植腎功能恢復延遲，必要時短期透析。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_TXP_Q0028",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜庚 腎臟移植" },
+  "stem": "移植後藥物交互作用常見情境：下列何者最可能影響 CNI 濃度而需特別注意？",
+  "options": [
+    { "key": "A", "text": "部分抗黴菌藥或 macrolide 類抗生素可能影響代謝" },
+    { "key": "B", "text": "生理食鹽水" },
+    { "key": "C", "text": "外用保濕乳液" },
+    { "key": "D", "text": "單純葡萄糖水" }
+  ],
+  "answer": "A",
+  "explanation": "CNI 代謝與 CYP 系統相關；某些抗黴菌藥、macrolide 等可改變濃度，導致毒性或排斥風險，需監測 trough level。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_TXP_Q0029",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜庚 腎臟移植" },
+  "stem": "移植後追蹤中，監測免疫抑制藥物 trough level 的主要目的為何？",
+  "options": [
+    { "key": "A", "text": "確保藥物濃度在有效且安全範圍，降低排斥與毒性" },
+    { "key": "B", "text": "用來診斷腎結石" },
+    { "key": "C", "text": "用來評估尿路感染是否存在" },
+    { "key": "D", "text": "用來評估血鈉是否正常" }
+  ],
+  "answer": "A",
+  "explanation": "trough level 監測可降低濃度過低（排斥風險）與過高（腎毒性、神經毒性等）所造成的臨床風險。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_TXP_Q0030",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜庚 腎臟移植" },
+  "stem": "移植後若出現腎功能惡化，下列何者屬於常見鑑別診斷「不包含」？",
+  "options": [
+    { "key": "A", "text": "排斥反應" },
+    { "key": "B", "text": "尿路阻塞或血管併發症" },
+    { "key": "C", "text": "CNI 藥物毒性或感染相關腎損傷" },
+    { "key": "D", "text": "單純近視加深" }
+  ],
+  "answer": "D",
+  "explanation": "移植腎功能惡化常見原因包括排斥、阻塞/血管問題、藥物毒性、感染（含 BK/CMV 等）與復發性腎病；近視與腎功能無直接鑑別關係。"
+},
+
+
+  {
+  "id": "MED3_RENAL_INF_ORI_STONE_Q0001",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜辛 腎結石" },
+  "stem": "腎結石最常見的成分為何？",
+  "options": [
+    { "key": "A", "text": "尿酸結石（uric acid）" },
+    { "key": "B", "text": "磷酸鈣結石（calcium phosphate）" },
+    { "key": "C", "text": "草酸鈣結石（calcium oxalate）" },
+    { "key": "D", "text": "胱胺酸結石（cystine）" }
+  ],
+  "answer": "C",
+  "explanation": "臨床最常見為鈣結石，其中草酸鈣最常見；其次才是磷酸鈣、尿酸、胱胺酸、感染性結石等。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_STONE_Q0002",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜辛 腎結石" },
+  "stem": "下列何種結石最典型與感染（urease 產生菌）相關？",
+  "options": [
+    { "key": "A", "text": "草酸鈣結石" },
+    { "key": "B", "text": "磷酸鎂銨結石（struvite）" },
+    { "key": "C", "text": "尿酸結石" },
+    { "key": "D", "text": "胱胺酸結石" }
+  ],
+  "answer": "B",
+  "explanation": "Struvite（MgNH4PO4）常與 urease 產生菌（如 Proteus、Klebsiella 等）造成尿液鹼化相關，易形成鹿角狀結石。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_STONE_Q0003",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜辛 腎結石" },
+  "stem": "尿酸結石最常見的尿液環境特徵為何？",
+  "options": [
+    { "key": "A", "text": "尿液偏鹼（pH > 7.5）" },
+    { "key": "B", "text": "尿液偏酸（pH 低）" },
+    { "key": "C", "text": "尿液 pH 不影響" },
+    { "key": "D", "text": "一定合併蛋白尿" }
+  ],
+  "answer": "B",
+  "explanation": "尿酸在酸性尿中溶解度下降，較易形成尿酸結石；因此尿液鹼化是預防/治療策略之一。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_STONE_Q0004",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜辛 腎結石" },
+  "stem": "胱胺酸（cystine）結石最典型的相關疾病為何？",
+  "options": [
+    { "key": "A", "text": "Cystinuria（近端小管胺基酸轉運缺陷）" },
+    { "key": "B", "text": "糖尿病" },
+    { "key": "C", "text": "甲狀腺亢進" },
+    { "key": "D", "text": "G6PD 缺乏" }
+  ],
+  "answer": "A",
+  "explanation": "Cystinuria 為腎小管對 cystine 等胺基酸再吸收缺陷，cystine 溶解度差→易形成結石。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_STONE_Q0005",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜辛 腎結石" },
+  "stem": "疑似腎絞痛（renal colic）評估結石，成人最常用且敏感度高的影像檢查為何？",
+  "options": [
+    { "key": "A", "text": "KUB 平片" },
+    { "key": "B", "text": "無對比腹部 CT（non-contrast CT, CT KUB）" },
+    { "key": "C", "text": "口服鋇劑攝影" },
+    { "key": "D", "text": "骨骼掃描" }
+  ],
+  "answer": "B",
+  "explanation": "非對比 CT 對尿路結石敏感度與特異度高，亦可評估阻塞與其他鑑別診斷；孕婦/兒童則常優先超音波。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_STONE_Q0006",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜辛 腎結石" },
+  "stem": "尿酸結石在 KUB（腹部平片）上的典型特性為何？",
+  "options": [
+    { "key": "A", "text": "通常放射不透（radiopaque）" },
+    { "key": "B", "text": "通常放射可透（radiolucent）" },
+    { "key": "C", "text": "一定呈鹿角狀" },
+    { "key": "D", "text": "一定有氣液層" }
+  ],
+  "answer": "B",
+  "explanation": "尿酸結石多為 radiolucent，在 KUB 常看不到；而多數鈣結石則較 radiopaque。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_STONE_Q0007",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜辛 腎結石" },
+  "stem": "腎結石造成輸尿管阻塞時，最常見的尿液檢查結果為何？",
+  "options": [
+    { "key": "A", "text": "嚴重蛋白尿為主" },
+    { "key": "B", "text": "血尿（microscopic 或 gross hematuria）" },
+    { "key": "C", "text": "RBC casts 一定明顯" },
+    { "key": "D", "text": "尿糖一定上升" }
+  ],
+  "answer": "B",
+  "explanation": "結石摩擦黏膜常造成血尿；RBC casts 較偏腎小球來源（如腎炎），不是結石的典型。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_STONE_Q0008",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜辛 腎結石" },
+  "stem": "腎絞痛急性止痛的第一線用藥通常為何？",
+  "options": [
+    { "key": "A", "text": "NSAIDs" },
+    { "key": "B", "text": "只用抗生素" },
+    { "key": "C", "text": "只用利尿劑" },
+    { "key": "D", "text": "只用降血脂藥" }
+  ],
+  "answer": "A",
+  "explanation": "NSAIDs 可減少前列腺素介導的輸尿管痙攣與腎盂壓力相關疼痛；若禁忌或不足可加用 opioid。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_STONE_Q0009",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜辛 腎結石" },
+  "stem": "下列何者最支持「感染合併阻塞性結石」需要緊急泌尿處置（引流）？",
+  "options": [
+    { "key": "A", "text": "單純腰痛、無發燒" },
+    { "key": "B", "text": "發燒/敗血症表現合併影像顯示阻塞性水腎" },
+    { "key": "C", "text": "只有血尿" },
+    { "key": "D", "text": "只有噁心" }
+  ],
+  "answer": "B",
+  "explanation": "感染合併阻塞屬泌尿急症，需抗生素並緊急引流（如 ureteral stent 或 nephrostomy）以避免敗血症惡化。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_STONE_Q0010",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜辛 腎結石" },
+  "stem": "「醫療性排石治療（medical expulsive therapy, MET）」最常使用的藥物類別為何？",
+  "options": [
+    { "key": "A", "text": "α-blocker（如 tamsulosin）" },
+    { "key": "B", "text": "β-blocker" },
+    { "key": "C", "text": "抗凝血劑" },
+    { "key": "D", "text": "抗甲狀腺藥" }
+  ],
+  "answer": "A",
+  "explanation": "α-blocker 可降低輸尿管平滑肌張力、促進結石排出（常用於遠端輸尿管結石，視大小與臨床情境）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_STONE_Q0011",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜辛 腎結石" },
+  "stem": "結石自然排出機率與大小相關。下列何者較符合一般臨床趨勢？",
+  "options": [
+    { "key": "A", "text": "< 5 mm 結石較容易自然排出" },
+    { "key": "B", "text": "越大越容易自然排出" },
+    { "key": "C", "text": "大小完全無關" },
+    { "key": "D", "text": "所有結石都必須手術" }
+  ],
+  "answer": "A",
+  "explanation": "結石越小自然排出機率越高；位置（遠端較易）、時間與症狀嚴重度亦影響處置策略。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_STONE_Q0012",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜辛 腎結石" },
+  "stem": "草酸鈣結石的預防建議，下列何者較正確？",
+  "options": [
+    { "key": "A", "text": "限制水分攝取以減少尿量" },
+    { "key": "B", "text": "增加水分攝取使尿量上升" },
+    { "key": "C", "text": "完全不需飲食調整" },
+    { "key": "D", "text": "大量補充維他命 C（高劑量）" }
+  ],
+  "answer": "B",
+  "explanation": "提高尿量是最重要的通用預防策略；高劑量維他命 C 可能增加草酸負荷，需謹慎。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_STONE_Q0013",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜辛 腎結石" },
+  "stem": "草酸鈣結石患者飲食中「鈣」的建議，下列何者最恰當？",
+  "options": [
+    { "key": "A", "text": "嚴格零鈣飲食" },
+    { "key": "B", "text": "維持適當膳食鈣攝取（與餐同食可結合草酸）" },
+    { "key": "C", "text": "只要多吃鹽即可" },
+    { "key": "D", "text": "鈣與草酸完全無關" }
+  ],
+  "answer": "B",
+  "explanation": "適當膳食鈣可在腸道結合草酸減少吸收；過度限制鈣反而可能增加草酸吸收與結石風險。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_STONE_Q0014",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜辛 腎結石" },
+  "stem": "下列何者最常與高鈣尿（hypercalciuria）與鈣結石相關的代謝/用藥因素？",
+  "options": [
+    { "key": "A", "text": "Thiazide 利尿劑可降低尿鈣排泄" },
+    { "key": "B", "text": "Thiazide 會大幅增加尿鈣排泄" },
+    { "key": "C", "text": "所有利尿劑都增加尿鈣" },
+    { "key": "D", "text": "Thiazide 與尿鈣無關" }
+  ],
+  "answer": "A",
+  "explanation": "Thiazide 增加遠端小管鈣再吸收、降低尿鈣，有助於預防反覆鈣結石（配合限鹽與水分）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_STONE_Q0015",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜辛 腎結石" },
+  "stem": "下列何者是結石預防的重要通用飲食建議？",
+  "options": [
+    { "key": "A", "text": "高鹽飲食" },
+    { "key": "B", "text": "限制鹽分攝取" },
+    { "key": "C", "text": "完全禁蛋白" },
+    { "key": "D", "text": "完全不喝水" }
+  ],
+  "answer": "B",
+  "explanation": "高鹽會增加尿鈣排泄並促進結石；限鹽搭配足量水分是多數結石預防的核心。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_STONE_Q0016",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜辛 腎結石" },
+  "stem": "下列何者最常見與「腸道吸收異常」造成高草酸尿（enteric hyperoxaluria）相關？",
+  "options": [
+    { "key": "A", "text": "脂肪吸收不良（如 IBD/短腸/胃繞道）" },
+    { "key": "B", "text": "單純高血壓" },
+    { "key": "C", "text": "甲狀腺低下" },
+    { "key": "D", "text": "缺鐵" }
+  ],
+  "answer": "A",
+  "explanation": "脂肪吸收不良時鈣被脂肪酸結合，腸道游離草酸增加吸收→高草酸尿→草酸鈣結石風險上升。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_STONE_Q0017",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜辛 腎結石" },
+  "stem": "感染性（struvite）結石最典型的影像/形態描述為何？",
+  "options": [
+    { "key": "A", "text": "鹿角狀結石（staghorn calculus）" },
+    { "key": "B", "text": "一定是輸尿管遠端小結石" },
+    { "key": "C", "text": "一定是 radiolucent" },
+    { "key": "D", "text": "一定只在膀胱" }
+  ],
+  "answer": "A",
+  "explanation": "Struvite 結石可快速增大並形成 staghorn calculus，與慢性感染與尿液鹼化相關。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_STONE_Q0018",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜辛 腎結石" },
+  "stem": "急性腎絞痛若伴隨單側輸尿管結石阻塞，一般腎功能仍可維持的主要原因為何？",
+  "options": [
+    { "key": "A", "text": "另一側腎臟仍可代償" },
+    { "key": "B", "text": "輸尿管阻塞不影響腎功能" },
+    { "key": "C", "text": "阻塞會讓 GFR 上升" },
+    { "key": "D", "text": "一定不會痛" }
+  ],
+  "answer": "A",
+  "explanation": "單側阻塞時對整體腎功能影響取決於對側腎功能；雙側阻塞或單腎阻塞則可能快速造成 AKI。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_STONE_Q0019",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜辛 腎結石" },
+  "stem": "腎結石病人若合併「單腎」或「雙側阻塞」最需要警覺的危險為何？",
+  "options": [
+    { "key": "A", "text": "急性腎衰竭（postrenal AKI）" },
+    { "key": "B", "text": "只會造成皮疹" },
+    { "key": "C", "text": "只會造成低血糖" },
+    { "key": "D", "text": "只會造成貧血" }
+  ],
+  "answer": "A",
+  "explanation": "單腎或雙側阻塞無法由對側代償，易出現 postrenal AKI，需及早解除阻塞。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_STONE_Q0020",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜辛 腎結石" },
+  "stem": "下列何者較符合結石處置中「體外震波碎石（ESWL）」的概念？",
+  "options": [
+    { "key": "A", "text": "以震波將結石打碎，適用於特定大小/位置結石" },
+    { "key": "B", "text": "一定可用於所有巨大鹿角狀結石" },
+    { "key": "C", "text": "一定比經皮腎造廔取石更適合所有腎結石" },
+    { "key": "D", "text": "只用於治療膀胱炎" }
+  ],
+  "answer": "A",
+  "explanation": "ESWL 依結石大小、位置、成分與解剖條件決定適用性；巨大 staghorn 結石多需 PCNL 等策略。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_STONE_Q0021",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜辛 腎結石" },
+  "stem": "巨大或複雜腎結石（如 staghorn calculus）常見的處置策略為何？",
+  "options": [
+    { "key": "A", "text": "經皮腎造廔取石（PCNL）" },
+    { "key": "B", "text": "只給止痛藥即可" },
+    { "key": "C", "text": "只給口服抗生素即可根治" },
+    { "key": "D", "text": "完全不需要處理" }
+  ],
+  "answer": "A",
+  "explanation": "大型/鹿角狀結石多需 PCNL（可合併分期/輔助 ESWL/URS）以達成較高 stone-free rate，並合併感染控制。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_STONE_Q0022",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜辛 腎結石" },
+  "stem": "下列何者較符合「輸尿管鏡碎石/取石（URS）」的用途？",
+  "options": [
+    { "key": "A", "text": "處理輸尿管結石（尤其遠端/中段），可直接碎石或取石" },
+    { "key": "B", "text": "只能處理皮膚感染" },
+    { "key": "C", "text": "只能處理腦部結石" },
+    { "key": "D", "text": "只能用於診斷，不能治療" }
+  ],
+  "answer": "A",
+  "explanation": "URS 是輸尿管結石常見內視鏡治療方式，可搭配雷射碎石並置放支架。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_STONE_Q0023",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜辛 腎結石" },
+  "stem": "預防鈣結石復發時，「檸檬酸鹽（citrate）」的主要作用為何？",
+  "options": [
+    { "key": "A", "text": "促進草酸生成" },
+    { "key": "B", "text": "與鈣結合並抑制結晶形成，且可使尿液較鹼化" },
+    { "key": "C", "text": "使尿液更酸化" },
+    { "key": "D", "text": "降低尿量" }
+  ],
+  "answer": "B",
+  "explanation": "Citrate 可螯合尿鈣並抑制鈣結晶，對低檸檬酸尿者特別重要；同時可鹼化尿液（對尿酸/胱胺酸亦有幫助）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_STONE_Q0024",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜辛 腎結石" },
+  "stem": "下列何者較符合「低檸檬酸尿（hypocitraturia）」增加鈣結石風險的原因？",
+  "options": [
+    { "key": "A", "text": "檸檬酸可抑制鈣結晶，降低時抑制力下降" },
+    { "key": "B", "text": "檸檬酸會促進鈣結晶" },
+    { "key": "C", "text": "檸檬酸與結石無關" },
+    { "key": "D", "text": "檸檬酸一定造成感染" }
+  ],
+  "answer": "A",
+  "explanation": "檸檬酸是尿中重要抑制因子，能螯合鈣並抑制結晶/聚集；不足時結石風險上升。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_STONE_Q0025",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜辛 腎結石" },
+  "stem": "尿酸結石的治療/預防策略中，下列何者最核心？",
+  "options": [
+    { "key": "A", "text": "尿液酸化" },
+    { "key": "B", "text": "尿液鹼化（提高尿 pH）與增加尿量" },
+    { "key": "C", "text": "限制所有蔬菜" },
+    { "key": "D", "text": "完全不需喝水" }
+  ],
+  "answer": "B",
+  "explanation": "尿酸結石在酸性尿易形成；鹼化尿液與提高尿量可增加溶解度並降低復發。高尿酸負荷者另視情況控制嘌呤/降尿酸。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_STONE_Q0026",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜辛 腎結石" },
+  "stem": "Struvite 結石的長期處置重點，下列何者最正確？",
+  "options": [
+    { "key": "A", "text": "只要吃止痛藥即可" },
+    { "key": "B", "text": "感染控制與盡可能完整清除結石（避免殘留作為感染溫床）" },
+    { "key": "C", "text": "尿液酸化會讓結石一定變大" },
+    { "key": "D", "text": "完全不需處理感染" }
+  ],
+  "answer": "B",
+  "explanation": "Struvite 結石與感染共生，殘留碎片易導致復發與慢性腎損傷；需合併手術清除與感染治療/預防。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_STONE_Q0027",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜辛 腎結石" },
+  "stem": "哪一種結石與痛風/高尿酸血症、代謝症候群較相關？",
+  "options": [
+    { "key": "A", "text": "尿酸結石" },
+    { "key": "B", "text": "胱胺酸結石" },
+    { "key": "C", "text": "Struvite 結石" },
+    { "key": "D", "text": "膽結石" }
+  ],
+  "answer": "A",
+  "explanation": "尿酸結石常與高尿酸負荷與酸性尿相關，臨床上常見與痛風、肥胖、代謝症候群相關背景。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_STONE_Q0028",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜辛 腎結石" },
+  "stem": "下列何者較符合「結石代謝評估（24 小時尿液）」的目的？",
+  "options": [
+    { "key": "A", "text": "找出尿量、尿鈣、尿草酸、尿檸檬酸、尿酸等風險因子以個別化預防" },
+    { "key": "B", "text": "用來診斷肺炎" },
+    { "key": "C", "text": "用來診斷腦中風" },
+    { "key": "D", "text": "用來評估視力" }
+  ],
+  "answer": "A",
+  "explanation": "反覆結石或高風險者常需 24 小時尿代謝評估，針對可修正因子（低尿量、hypercalciuria、hypocitraturia 等）制定預防策略。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_STONE_Q0029",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜辛 腎結石" },
+  "stem": "下列何者是「高鈣尿鈣結石」常見的非藥物預防策略組合？",
+  "options": [
+    { "key": "A", "text": "足量水分 + 限鹽 + 適量膳食鈣" },
+    { "key": "B", "text": "限水 + 高鹽 + 零鈣" },
+    { "key": "C", "text": "只要多喝含糖飲料" },
+    { "key": "D", "text": "完全不需調整" }
+  ],
+  "answer": "A",
+  "explanation": "增加尿量、限鹽可降低尿鈣排泄，並維持適量膳食鈣（與餐同食）以降低草酸吸收，是常見預防核心。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_STONE_Q0030",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜辛 腎結石" },
+  "stem": "腎結石患者若出現持續高熱、寒顫與腰痛，合併影像顯示水腎，下列處置最正確為何？",
+  "options": [
+    { "key": "A", "text": "只給口服止痛藥回家觀察" },
+    { "key": "B", "text": "視為感染合併阻塞，需抗生素並緊急尿路引流" },
+    { "key": "C", "text": "等待結石自行排出即可" },
+    { "key": "D", "text": "只做 KUB 即可" }
+  ],
+  "answer": "B",
+  "explanation": "感染合併阻塞是泌尿急症；僅抗生素不足，需同步解除阻塞（stent 或 nephrostomy）以降低敗血症風險。"
+},
+
+  {
+  "id": "MED3_RENAL_INF_ORI_PKD_Q0001",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜壬 多囊性腎病" },
+  "stem": "成人最常見的遺傳性多囊腎疾病型態為何？",
+  "options": [
+    { "key": "A", "text": "顯性多囊性腎病變（ADPKD）" },
+    { "key": "B", "text": "隱性多囊性腎病變（ARPKD）" },
+    { "key": "C", "text": "Alport syndrome" },
+    { "key": "D", "text": "Fabry disease" }
+  ],
+  "answer": "A",
+  "explanation": "ADPKD 是成人最常見遺傳性多囊腎，通常在成年後逐漸出現腎囊腫與腎功能惡化。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_PKD_Q0002",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜壬 多囊性腎病" },
+  "stem": "ARPKD 最典型的發病年齡與臨床背景為何？",
+  "options": [
+    { "key": "A", "text": "多在成人發病，單純腎結石為主" },
+    { "key": "B", "text": "多在嬰幼兒/兒童期，常合併肝纖維化/門脈高壓" },
+    { "key": "C", "text": "只在老年人發病" },
+    { "key": "D", "text": "只與糖尿病相關" }
+  ],
+  "answer": "B",
+  "explanation": "ARPKD 常於嬰幼兒期表現，除腎囊腫外常合併先天性肝纖維化與門脈高壓相關問題。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_PKD_Q0003",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜壬 多囊性腎病" },
+  "stem": "ADPKD 最常見的腎外表現（extrarenal manifestation）之一為何？",
+  "options": [
+    { "key": "A", "text": "甲狀腺腫大" },
+    { "key": "B", "text": "肝囊腫（polycystic liver disease）" },
+    { "key": "C", "text": "肺纖維化" },
+    { "key": "D", "text": "脊椎裂" }
+  ],
+  "answer": "B",
+  "explanation": "ADPKD 常見腎外囊腫，最常見為肝囊腫；亦可能有胰囊腫、精囊囊腫等。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_PKD_Q0004",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜壬 多囊性腎病" },
+  "stem": "ADPKD 重要且需要篩檢的血管性併發症為何？",
+  "options": [
+    { "key": "A", "text": "腦動脈瘤（intracranial aneurysm）" },
+    { "key": "B", "text": "主動脈剝離一定發生" },
+    { "key": "C", "text": "肺栓塞一定發生" },
+    { "key": "D", "text": "冠心病一定發生" }
+  ],
+  "answer": "A",
+  "explanation": "ADPKD 與顱內動脈瘤風險上升相關；是否篩檢通常取決於家族史、症狀或高風險職業/情境。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_PKD_Q0005",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜壬 多囊性腎病" },
+  "stem": "ADPKD 早期最常見的臨床問題之一為何？",
+  "options": [
+    { "key": "A", "text": "嚴重低血壓" },
+    { "key": "B", "text": "高血壓" },
+    { "key": "C", "text": "嚴重低血糖" },
+    { "key": "D", "text": "重度黃疸" }
+  ],
+  "answer": "B",
+  "explanation": "ADPKD 常在腎功能明顯下降前就出現高血壓（RAAS 活化等），需積極控制以延緩進展。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_PKD_Q0006",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜壬 多囊性腎病" },
+  "stem": "ADPKD 最常用的初步影像學篩檢工具為何？",
+  "options": [
+    { "key": "A", "text": "腎臟超音波" },
+    { "key": "B", "text": "骨骼掃描" },
+    { "key": "C", "text": "腦部 CT（所有人必做）" },
+    { "key": "D", "text": "胃鏡" }
+  ],
+  "answer": "A",
+  "explanation": "腎臟超音波無輻射、可觀察囊腫數量與分布，常用於初步評估；必要時可進一步 CT/MRI。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_PKD_Q0007",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜壬 多囊性腎病" },
+  "stem": "ADPKD 的遺傳方式為何？",
+  "options": [
+    { "key": "A", "text": "常染色體顯性遺傳" },
+    { "key": "B", "text": "常染色體隱性遺傳" },
+    { "key": "C", "text": "X 連鎖隱性遺傳" },
+    { "key": "D", "text": "粒線體遺傳" }
+  ],
+  "answer": "A",
+  "explanation": "ADPKD 為常染色體顯性遺傳，常有家族史；但也可能有新生突變。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_PKD_Q0008",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜壬 多囊性腎病" },
+  "stem": "ADPKD 腎臟表現中，下列何者常見？",
+  "options": [
+    { "key": "A", "text": "反覆血尿或腰痛" },
+    { "key": "B", "text": "必然無症狀直到透析" },
+    { "key": "C", "text": "只有皮疹" },
+    { "key": "D", "text": "只有咳嗽" }
+  ],
+  "answer": "A",
+  "explanation": "囊腫出血、感染或結石可造成肉眼血尿、側腹痛/腰痛，亦可能合併泌尿道感染。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_PKD_Q0009",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜壬 多囊性腎病" },
+  "stem": "ADPKD 患者出現突發「最劇烈頭痛」（thunderclap headache）時，最需要擔心何種併發症？",
+  "options": [
+    { "key": "A", "text": "顱內動脈瘤破裂造成蜘蛛膜下腔出血" },
+    { "key": "B", "text": "急性胃腸炎" },
+    { "key": "C", "text": "腎盂腎炎一定導致" },
+    { "key": "D", "text": "單純偏頭痛一定是" }
+  ],
+  "answer": "A",
+  "explanation": "ADPKD 與顱內動脈瘤相關；thunderclap headache 需高度警覺 SAH，應緊急評估。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_PKD_Q0010",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜壬 多囊性腎病" },
+  "stem": "ADPKD 造成腎功能惡化的整體走向，下列何者較正確？",
+  "options": [
+    { "key": "A", "text": "囊腫逐漸增大與腎實質受壓，腎功能多呈漸進性下降" },
+    { "key": "B", "text": "通常一夕之間立即變成 ESRD" },
+    { "key": "C", "text": "完全不會影響腎功能" },
+    { "key": "D", "text": "只會造成低血鈉" }
+  ],
+  "answer": "A",
+  "explanation": "ADPKD 囊腫逐漸增多/增大導致腎體積增加與實質纖維化，腎功能多呈漸進性惡化。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_PKD_Q0011",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜壬 多囊性腎病" },
+  "stem": "ADPKD 患者常見合併下列何種泌尿系問題？",
+  "options": [
+    { "key": "A", "text": "腎結石" },
+    { "key": "B", "text": "先天性腎缺如一定發生" },
+    { "key": "C", "text": "腎盂積水一定發生" },
+    { "key": "D", "text": "只有尿毒症才會" }
+  ],
+  "answer": "A",
+  "explanation": "ADPKD 可能合併結石、血尿與反覆感染；結石是常見併發症之一。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_PKD_Q0012",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜壬 多囊性腎病" },
+  "stem": "ADPKD 的腎外結締組織相關表現，下列何者較常被提及？",
+  "options": [
+    { "key": "A", "text": "二尖瓣脫垂（mitral valve prolapse）" },
+    { "key": "B", "text": "僵直性脊椎炎" },
+    { "key": "C", "text": "心肌梗塞一定發生" },
+    { "key": "D", "text": "風濕熱一定發生" }
+  ],
+  "answer": "A",
+  "explanation": "ADPKD 可合併瓣膜病變（如 MVP）與其他血管結構異常風險；臨床重要性依個案而異。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_PKD_Q0013",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜壬 多囊性腎病" },
+  "stem": "下列何者較符合 ADPKD 腎囊腫感染（cyst infection）的臨床特徵？",
+  "options": [
+    { "key": "A", "text": "發燒與局部腰痛，且對一般短療程抗生素反應可能較差" },
+    { "key": "B", "text": "必然無發燒" },
+    { "key": "C", "text": "只會造成皮疹" },
+    { "key": "D", "text": "只會造成低血鈉" }
+  ],
+  "answer": "A",
+  "explanation": "囊腫感染常伴發燒、局部疼痛；治療常需能穿透囊腫的抗生素並較長療程，與一般單純性 UTI 不同。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_PKD_Q0014",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜壬 多囊性腎病" },
+  "stem": "ADPKD 懷疑囊腫出血時，最典型症狀之一為何？",
+  "options": [
+    { "key": "A", "text": "肉眼血尿與側腹痛" },
+    { "key": "B", "text": "嚴重黃疸" },
+    { "key": "C", "text": "只有胸痛" },
+    { "key": "D", "text": "只有咳嗽" }
+  ],
+  "answer": "A",
+  "explanation": "囊腫破裂/出血可造成急性側腹痛與血尿，通常需排除結石、感染等鑑別。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_PKD_Q0015",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜壬 多囊性腎病" },
+  "stem": "ADPKD 高血壓的治療原則，下列何者較恰當？",
+  "options": [
+    { "key": "A", "text": "不需治療，等 ESRD 再說" },
+    { "key": "B", "text": "常以 RAAS 阻斷（ACEi/ARB）作為重要選項並積極控制血壓" },
+    { "key": "C", "text": "只用利尿劑且禁用 ACEi/ARB" },
+    { "key": "D", "text": "只要補鈣即可" }
+  ],
+  "answer": "B",
+  "explanation": "ADPKD 常有 RAAS 活化；ACEi/ARB 常用於控制血壓與降低蛋白尿風險（依個案腎功能/血鉀調整）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_PKD_Q0016",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜壬 多囊性腎病" },
+  "stem": "ADPKD 家族史陽性者的篩檢，最常見的第一步為何？",
+  "options": [
+    { "key": "A", "text": "腎臟超音波（依年齡與標準判讀）" },
+    { "key": "B", "text": "立即做腎切片" },
+    { "key": "C", "text": "不需任何評估" },
+    { "key": "D", "text": "直接做透析準備" }
+  ],
+  "answer": "A",
+  "explanation": "家族史陽性者多先以超音波評估囊腫；必要時再用 MRI/基因檢測（特定情境如捐腎評估）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_PKD_Q0017",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜壬 多囊性腎病" },
+  "stem": "ADPKD 患者的肝囊腫（polycystic liver disease）常見的臨床情況為何？",
+  "options": [
+    { "key": "A", "text": "多數無症狀，少數因巨大肝囊腫造成壓迫症狀" },
+    { "key": "B", "text": "必然造成肝衰竭" },
+    { "key": "C", "text": "必然造成黃疸與肝炎" },
+    { "key": "D", "text": "與 ADPKD 無關" }
+  ],
+  "answer": "A",
+  "explanation": "肝囊腫多為偶發影像發現；少數會因囊腫巨大造成腹脹、疼痛或壓迫症狀，處置視嚴重度而定。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_PKD_Q0018",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜壬 多囊性腎病" },
+  "stem": "ADPKD 的主要治療目標，下列何者最符合？",
+  "options": [
+    { "key": "A", "text": "只治療血尿，不需控制血壓" },
+    { "key": "B", "text": "控制血壓、減少併發症、延緩腎功能惡化並處理疼痛/感染" },
+    { "key": "C", "text": "完全不需要追蹤" },
+    { "key": "D", "text": "只要補充維他命即可" }
+  ],
+  "answer": "B",
+  "explanation": "ADPKD 治療重點在風險因子控制（血壓）、併發症處理（感染、出血、結石、疼痛）與延緩腎衰竭進展。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_PKD_Q0019",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜壬 多囊性腎病" },
+  "stem": "ADPKD 末期腎病的腎臟替代治療選項，下列何者正確？",
+  "options": [
+    { "key": "A", "text": "只能血液透析，不能腹膜透析" },
+    { "key": "B", "text": "透析（HD/PD）與腎移植皆可依個案選擇" },
+    { "key": "C", "text": "不需要腎臟替代治療" },
+    { "key": "D", "text": "只能吃利尿劑" }
+  ],
+  "answer": "B",
+  "explanation": "ADPKD 進展至 ESRD 時可選 HD、PD 或腎移植；是否適合 PD 需考量腹腔空間、肝囊腫大小等因素。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_PKD_Q0020",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜壬 多囊性腎病" },
+  "stem": "ADPKD 的腎臟體積（total kidney volume）在臨床上常用來反映何種意義？",
+  "options": [
+    { "key": "A", "text": "囊腫負荷與疾病進展風險（進展較快者體積增長較快）" },
+    { "key": "B", "text": "只反映尿路感染是否存在" },
+    { "key": "C", "text": "只反映血鈉高低" },
+    { "key": "D", "text": "與疾病無關" }
+  ],
+  "answer": "A",
+  "explanation": "腎體積（特別 MRI 測量）可作為囊腫負荷與進展風險指標；體積增長快常與較快的腎功能惡化相關。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_PKD_Q0021",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜壬 多囊性腎病" },
+  "stem": "ADPKD 疼痛評估中，下列何者不是常見原因？",
+  "options": [
+    { "key": "A", "text": "囊腫出血或破裂" },
+    { "key": "B", "text": "囊腫感染" },
+    { "key": "C", "text": "腎結石" },
+    { "key": "D", "text": "單純近視惡化" }
+  ],
+  "answer": "D",
+  "explanation": "ADPKD 疼痛常由囊腫出血/感染、結石或腎臟體積增大牽拉造成；近視與腎痛無關。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_PKD_Q0022",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜壬 多囊性腎病" },
+  "stem": "ADPKD 併發腎囊腫感染時，抗生素選擇的重要考量為何？",
+  "options": [
+    { "key": "A", "text": "抗生素需能穿透囊腫（脂溶性/組織滲透性較佳）" },
+    { "key": "B", "text": "只要選最窄效，不需考慮滲透" },
+    { "key": "C", "text": "抗生素一定無效" },
+    { "key": "D", "text": "只要給單次即可" }
+  ],
+  "answer": "A",
+  "explanation": "囊腫感染與一般 UTI 不同，藥物滲透性影響療效；臨床常需要較長療程並依培養與影像反應調整。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_PKD_Q0023",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜壬 多囊性腎病" },
+  "stem": "ADPKD 若合併反覆血尿，臨床評估最需要排除的共病之一為何？",
+  "options": [
+    { "key": "A", "text": "腎結石或泌尿道感染" },
+    { "key": "B", "text": "白內障" },
+    { "key": "C", "text": "哮喘" },
+    { "key": "D", "text": "中耳炎" }
+  ],
+  "answer": "A",
+  "explanation": "ADPKD 血尿可由囊腫出血，但也可能是結石/感染；需依症狀、尿檢與影像鑑別。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_PKD_Q0024",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜壬 多囊性腎病" },
+  "stem": "ADPKD 的預後風險評估，下列何者較可能提示疾病進展較快？",
+  "options": [
+    { "key": "A", "text": "早發高血壓與家族中較早進展到 ESRD" },
+    { "key": "B", "text": "完全無任何家族史且腎體積不大" },
+    { "key": "C", "text": "只有近視" },
+    { "key": "D", "text": "只有皮膚乾" }
+  ],
+  "answer": "A",
+  "explanation": "早發高血壓、較大的腎體積、特定基因型與家族史（較早 ESRD）常與較快進展風險相關。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_PKD_Q0025",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜壬 多囊性腎病" },
+  "stem": "下列何者較符合 ADPKD 基因相關的概念？",
+  "options": [
+    { "key": "A", "text": "常與 PKD1/PKD2 相關（不同基因與進展速度可能不同）" },
+    { "key": "B", "text": "一定是 HBB 基因突變" },
+    { "key": "C", "text": "一定是 CFTR 基因突變" },
+    { "key": "D", "text": "與基因完全無關" }
+  ],
+  "answer": "A",
+  "explanation": "ADPKD 常見 PKD1/PKD2 相關；一般而言 PKD1 相關者常較早進展，臨床仍需結合表型與風險分層。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_PKD_Q0026",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜壬 多囊性腎病" },
+  "stem": "ADPKD 家族中若有人曾有顱內動脈瘤/蜘蛛膜下腔出血史，對篩檢策略的影響最符合下列何者？",
+  "options": [
+    { "key": "A", "text": "通常會提高顱內動脈瘤篩檢的必要性（依風險評估）" },
+    { "key": "B", "text": "完全不影響" },
+    { "key": "C", "text": "只需要篩檢肝囊腫" },
+    { "key": "D", "text": "只需要篩檢甲狀腺" }
+  ],
+  "answer": "A",
+  "explanation": "家族中有顱內動脈瘤/SAH 會提高個人風險，臨床上常作為考慮 MRA/CTA 篩檢的重要因素之一。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_PKD_Q0027",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜壬 多囊性腎病" },
+  "stem": "ARPKD 最常見的肝臟相關併發症機轉為何？",
+  "options": [
+    { "key": "A", "text": "先天性肝纖維化導致門脈高壓" },
+    { "key": "B", "text": "酒精性肝炎" },
+    { "key": "C", "text": "A 型肝炎感染" },
+    { "key": "D", "text": "膽結石阻塞" }
+  ],
+  "answer": "A",
+  "explanation": "ARPKD 常合併先天性肝纖維化與膽管板異常，臨床可表現門脈高壓、脾腫大與食道靜脈曲張等。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_PKD_Q0028",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜壬 多囊性腎病" },
+  "stem": "ADPKD 若因腎臟體積巨大造成壓迫症狀，較合理的處置方向為何？",
+  "options": [
+    { "key": "A", "text": "依症狀嚴重度採支持療法，必要時考慮介入/外科處置（個案化）" },
+    { "key": "B", "text": "完全不需任何處理" },
+    { "key": "C", "text": "一定立刻雙側腎切除" },
+    { "key": "D", "text": "只要停水即可" }
+  ],
+  "answer": "A",
+  "explanation": "巨大腎/肝囊腫造成疼痛、飽脹或壓迫症狀時，處置需個案化（止痛、感染/出血處理、囊腫介入或手術等），並評估腎功能與移植需求。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_PKD_Q0029",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜壬 多囊性腎病" },
+  "stem": "ADPKD 長期追蹤中，何者是最重要的共通照護要點之一？",
+  "options": [
+    { "key": "A", "text": "規律追蹤血壓與腎功能，並評估蛋白尿與併發症" },
+    { "key": "B", "text": "只要追蹤視力即可" },
+    { "key": "C", "text": "只要追蹤皮膚即可" },
+    { "key": "D", "text": "完全不需要追蹤" }
+  ],
+  "answer": "A",
+  "explanation": "ADPKD 需長期追蹤血壓控制、腎功能趨勢與併發症（感染、出血、結石、腦動脈瘤風險等），以延緩進展與降低事件風險。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_PKD_Q0030",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜壬 多囊性腎病" },
+  "stem": "ADPKD 在臨床上與下列何者的關聯性最不符合？",
+  "options": [
+    { "key": "A", "text": "肝囊腫" },
+    { "key": "B", "text": "顱內動脈瘤" },
+    { "key": "C", "text": "高血壓" },
+    { "key": "D", "text": "急性風濕熱是典型必然併發症" }
+  ],
+  "answer": "D",
+  "explanation": "ADPKD 常見腎外表現包含肝囊腫、顱內動脈瘤與高血壓等；急性風濕熱並非典型相關併發症。"
+},
+
+
+  {
+  "id": "MED3_RENAL_INF_ORI_RCC_Q0001",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜癸 腎細胞癌" },
+  "stem": "腎細胞癌（renal cell carcinoma, RCC）最常見的病理亞型為何？",
+  "options": [
+    { "key": "A", "text": "Clear cell RCC" },
+    { "key": "B", "text": "Papillary RCC" },
+    { "key": "C", "text": "Chromophobe RCC" },
+    { "key": "D", "text": "Wilms tumor" }
+  ],
+  "answer": "A",
+  "explanation": "成人 RCC 最常見為 clear cell 亞型；papillary、chromophobe 次之。Wilms tumor 主要為兒童腎臟腫瘤。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_RCC_Q0002",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜癸 腎細胞癌" },
+  "stem": "腎細胞癌典型三聯徵（classic triad）包含下列何者？",
+  "options": [
+    { "key": "A", "text": "血尿、側腹痛、可觸及腫塊" },
+    { "key": "B", "text": "發燒、咳嗽、胸痛" },
+    { "key": "C", "text": "黃疸、腹水、蜘蛛痣" },
+    { "key": "D", "text": "關節痛、皮疹、口腔潰瘍" }
+  ],
+  "answer": "A",
+  "explanation": "RCC 經典 triad 為血尿、側腹痛與可觸及腫塊，但現代多在影像檢查偶然發現，三聯徵並不常完整出現。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_RCC_Q0003",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜癸 腎細胞癌" },
+  "stem": "腎細胞癌常見的副腫瘤症候群（paraneoplastic syndrome）之一為何？",
+  "options": [
+    { "key": "A", "text": "高鈣血症" },
+    { "key": "B", "text": "低血鈣血症" },
+    { "key": "C", "text": "低血糖必然發生" },
+    { "key": "D", "text": "甲狀腺機能低下必然發生" }
+  ],
+  "answer": "A",
+  "explanation": "RCC 可能因 PTHrP 或骨轉移等造成高鈣血症；亦可能有 EPO 增加造成紅血球增多、Stauffer syndrome 等。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_RCC_Q0004",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜癸 腎細胞癌" },
+  "stem": "腎細胞癌最常見的轉移部位之一為何？",
+  "options": [
+    { "key": "A", "text": "肺" },
+    { "key": "B", "text": "皮膚" },
+    { "key": "C", "text": "甲狀腺" },
+    { "key": "D", "text": "胰臟必然為第一站" }
+  ],
+  "answer": "A",
+  "explanation": "RCC 常轉移至肺、骨、肝、腦等；臨床上肺轉移相當常見。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_RCC_Q0005",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜癸 腎細胞癌" },
+  "stem": "RCC 與腫瘤血栓（tumor thrombus）延伸最典型會侵犯哪一條血管？",
+  "options": [
+    { "key": "A", "text": "腎靜脈與下腔靜脈（IVC）" },
+    { "key": "B", "text": "肺動脈" },
+    { "key": "C", "text": "門靜脈" },
+    { "key": "D", "text": "冠狀動脈" }
+  ],
+  "answer": "A",
+  "explanation": "RCC 可形成腎靜脈/下腔靜脈腫瘤血栓，是其重要特徵之一，影像分期與手術規劃需特別評估。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_RCC_Q0006",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜癸 腎細胞癌" },
+  "stem": "腎細胞癌的主要危險因子，下列何者正確？",
+  "options": [
+    { "key": "A", "text": "抽菸" },
+    { "key": "B", "text": "長期高血壓/肥胖" },
+    { "key": "C", "text": "特定遺傳疾病（如 VHL）" },
+    { "key": "D", "text": "以上皆是" }
+  ],
+  "answer": "D",
+  "explanation": "RCC 風險因子包含抽菸、肥胖、高血壓、某些職業暴露與遺傳性腫瘤症候群（如 VHL）等。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_RCC_Q0007",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜癸 腎細胞癌" },
+  "stem": "RCC 的影像評估中，下列何者最常用於分期與手術規劃？",
+  "options": [
+    { "key": "A", "text": "對比增強 CT（腎臟三期/四期）或 MRI" },
+    { "key": "B", "text": "單純 KUB 平片" },
+    { "key": "C", "text": "腦波檢查" },
+    { "key": "D", "text": "骨密度檢查" }
+  ],
+  "answer": "A",
+  "explanation": "對比增強 CT（或 MRI）可評估腫瘤大小、局部侵犯、血管腫瘤血栓、淋巴結與遠端轉移，為分期與手術規劃核心。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_RCC_Q0008",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜癸 腎細胞癌" },
+  "stem": "腎臟腫塊在影像上呈現「顯著強化（enhancement）」較支持何種診斷方向？",
+  "options": [
+    { "key": "A", "text": "實質性腫瘤（如 RCC）" },
+    { "key": "B", "text": "單純腎囊腫一定是" },
+    { "key": "C", "text": "腎盂積水一定是" },
+    { "key": "D", "text": "腎結石一定是" }
+  ],
+  "answer": "A",
+  "explanation": "實質性腫瘤通常在對比後呈現 enhancement；單純囊腫通常不強化（依 Bosniak 分類評估複雜囊腫風險）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_RCC_Q0009",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜癸 腎細胞癌" },
+  "stem": "RCC 的治療中，對於局限性腫瘤（localized RCC）最主要的根治方式為何？",
+  "options": [
+    { "key": "A", "text": "手術切除（部分腎切除或根除性腎切除，依分期/位置）" },
+    { "key": "B", "text": "單純化療" },
+    { "key": "C", "text": "單純放療" },
+    { "key": "D", "text": "只用抗生素" }
+  ],
+  "answer": "A",
+  "explanation": "局限性 RCC 的主要治療是手術切除；是否做部分腎切除（nephron-sparing）取決於腫瘤大小、位置與腎功能等。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_RCC_Q0010",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜癸 腎細胞癌" },
+  "stem": "哪一個臨床情境最支持考慮「部分腎切除（partial nephrectomy）」？",
+  "options": [
+    { "key": "A", "text": "小型周邊腫瘤且希望保留腎功能" },
+    { "key": "B", "text": "廣泛遠端轉移" },
+    { "key": "C", "text": "下腔靜脈巨大腫瘤血栓且合併多器官侵犯" },
+    { "key": "D", "text": "只有尿路感染" }
+  ],
+  "answer": "A",
+  "explanation": "部分腎切除可保留腎單位，特別適用於較小且可切除的腫瘤、單腎、雙側腫瘤或原本腎功能較差者。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_RCC_Q0011",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜癸 腎細胞癌" },
+  "stem": "RCC 造成紅血球增多症（polycythemia）的機轉最可能為何？",
+  "options": [
+    { "key": "A", "text": "腫瘤分泌 EPO" },
+    { "key": "B", "text": "缺鐵造成" },
+    { "key": "C", "text": "骨髓抑制造成" },
+    { "key": "D", "text": "維他命 B12 缺乏造成" }
+  ],
+  "answer": "A",
+  "explanation": "RCC 可能分泌 EPO 造成紅血球增多，屬副腫瘤症候群表現之一。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_RCC_Q0012",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜癸 腎細胞癌" },
+  "stem": "RCC 可能出現「非轉移性肝功能異常」（Stauffer syndrome），其最典型特徵為何？",
+  "options": [
+    { "key": "A", "text": "肝酵素上升但無肝轉移" },
+    { "key": "B", "text": "明顯黃疸且一定有膽道阻塞" },
+    { "key": "C", "text": "只會造成低血糖" },
+    { "key": "D", "text": "只會造成腎結石" }
+  ],
+  "answer": "A",
+  "explanation": "Stauffer syndrome 指 RCC 相關的肝功能異常（常為 cholestatic pattern）但無肝轉移，屬副腫瘤現象。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_RCC_Q0013",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜癸 腎細胞癌" },
+  "stem": "RCC 在腎臟解剖上最常起源於哪個部位？",
+  "options": [
+    { "key": "A", "text": "腎小管上皮（renal tubular epithelium）" },
+    { "key": "B", "text": "腎盂尿路上皮（urothelium）" },
+    { "key": "C", "text": "腎絲球基底膜" },
+    { "key": "D", "text": "輸尿管平滑肌" }
+  ],
+  "answer": "A",
+  "explanation": "RCC 多起源於腎小管上皮；相對地，腎盂/輸尿管的腫瘤多為 urothelial carcinoma。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_RCC_Q0014",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜癸 腎細胞癌" },
+  "stem": "下列何者較符合「腎盂尿路上皮癌」而非 RCC 的典型表現/線索？",
+  "options": [
+    { "key": "A", "text": "無痛性血尿為主，腎盂腫塊且與 urothelium 相關" },
+    { "key": "B", "text": "腎實質強化腫塊並合併腎靜脈血栓" },
+    { "key": "C", "text": "EPO 分泌造成紅血球增多" },
+    { "key": "D", "text": "PTHrP 造成高鈣血症" }
+  ],
+  "answer": "A",
+  "explanation": "尿路上皮癌（腎盂/輸尿管）來源不同且風險因子/治療策略也不同；RCC 典型是腎實質腫瘤、可見血管侵犯與副腫瘤表現。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_RCC_Q0015",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜癸 腎細胞癌" },
+  "stem": "Von Hippel–Lindau（VHL）疾病與下列何種腎腫瘤關聯最密切？",
+  "options": [
+    { "key": "A", "text": "Clear cell RCC" },
+    { "key": "B", "text": "Squamous cell carcinoma of bladder" },
+    { "key": "C", "text": "Hepatocellular carcinoma" },
+    { "key": "D", "text": "Medullary thyroid carcinoma" }
+  ],
+  "answer": "A",
+  "explanation": "VHL 與 clear cell RCC、血管母細胞瘤、嗜鉻細胞瘤等相關，是重要遺傳性 RCC 症候群之一。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_RCC_Q0016",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜癸 腎細胞癌" },
+  "stem": "腎細胞癌在發現時常見的情況為何？",
+  "options": [
+    { "key": "A", "text": "因影像檢查偶然發現（incidentaloma）" },
+    { "key": "B", "text": "多數都以完整三聯徵出現" },
+    { "key": "C", "text": "一定有嚴重黃疸" },
+    { "key": "D", "text": "一定有皮膚瘙癢" }
+  ],
+  "answer": "A",
+  "explanation": "現代影像普及下，RCC 常在無症狀時因超音波/CT 偶然發現；典型三聯徵相對少見。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_RCC_Q0017",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜癸 腎細胞癌" },
+  "stem": "RCC 造成高血壓的可能機轉之一為何？",
+  "options": [
+    { "key": "A", "text": "腫瘤分泌 renin 或腎灌流改變導致 RAAS 活化" },
+    { "key": "B", "text": "只因為喝水太多" },
+    { "key": "C", "text": "一定是甲狀腺亢進造成" },
+    { "key": "D", "text": "與腫瘤完全無關" }
+  ],
+  "answer": "A",
+  "explanation": "RCC 可透過腎血流改變或分泌物（如 renin）造成高血壓，屬副腫瘤/次發性高血壓的一種可能。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_RCC_Q0018",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜癸 腎細胞癌" },
+  "stem": "下列何者較符合「局部晚期 RCC」可能出現的表現？",
+  "options": [
+    { "key": "A", "text": "腎周脂肪或鄰近結構侵犯，或腎靜脈/IVC 腫瘤血栓" },
+    { "key": "B", "text": "一定只局限於腎盂黏膜" },
+    { "key": "C", "text": "只會造成低血鈉" },
+    { "key": "D", "text": "只會造成皮疹" }
+  ],
+  "answer": "A",
+  "explanation": "局部晚期可見局部侵犯或血管腫瘤血栓，影像分期與手術策略需納入血管/鄰近器官評估。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_RCC_Q0019",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜癸 腎細胞癌" },
+  "stem": "RCC 若有骨轉移，臨床上常見的症狀/問題為何？",
+  "options": [
+    { "key": "A", "text": "骨痛或病理性骨折" },
+    { "key": "B", "text": "只有咳嗽" },
+    { "key": "C", "text": "只有腹瀉" },
+    { "key": "D", "text": "一定無症狀" }
+  ],
+  "answer": "A",
+  "explanation": "RCC 可轉移至骨，造成骨痛、病理性骨折或高鈣血症等；評估需依症狀與影像檢查。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_RCC_Q0020",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜癸 腎細胞癌" },
+  "stem": "下列何者最符合「RCC 對傳統化療/放療反應有限」的臨床概念？",
+  "options": [
+    { "key": "A", "text": "RCC 多採手術與標靶/免疫治療為主，傳統化療效果通常有限" },
+    { "key": "B", "text": "RCC 最有效一定是傳統化療" },
+    { "key": "C", "text": "RCC 不可手術" },
+    { "key": "D", "text": "RCC 只能抗生素" }
+  ],
+  "answer": "A",
+  "explanation": "RCC 對傳統細胞毒性化療與放療敏感度相對低，轉移性/晚期治療多仰賴免疫治療與標靶治療（依分期與風險分層）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_RCC_Q0021",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜癸 腎細胞癌" },
+  "stem": "RCC 的腫瘤影像特性中，下列何者較常被描述？",
+  "options": [
+    { "key": "A", "text": "腫瘤血管豐富，對比後強化明顯（hypervascular）" },
+    { "key": "B", "text": "一定完全不強化" },
+    { "key": "C", "text": "一定是氣體密度" },
+    { "key": "D", "text": "一定在 KUB 平片清楚可見" }
+  ],
+  "answer": "A",
+  "explanation": "許多 RCC（尤其 clear cell）偏 hypervascular，對比增強後強化明顯；實際仍需依影像期相與腫瘤亞型綜合判讀。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_RCC_Q0022",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜癸 腎細胞癌" },
+  "stem": "RCC 的局部治療方式中，對於部分不適合手術的小腫瘤，可能考慮下列何者？",
+  "options": [
+    { "key": "A", "text": "腫瘤消融（如 radiofrequency ablation 或 cryoablation）" },
+    { "key": "B", "text": "只用抗生素" },
+    { "key": "C", "text": "只用止痛藥" },
+    { "key": "D", "text": "只用 KUB 追蹤即可，不需任何評估" }
+  ],
+  "answer": "A",
+  "explanation": "對於選定病人（小型腎腫瘤、手術風險高等），可考慮局部消融或主動監測（active surveillance），依風險/壽命/腫瘤特性決策。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_RCC_Q0023",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜癸 腎細胞癌" },
+  "stem": "RCC 的肉眼血尿機轉最可能為何？",
+  "options": [
+    { "key": "A", "text": "腫瘤侵蝕集合系統或出血" },
+    { "key": "B", "text": "一定是腎炎造成 RBC casts" },
+    { "key": "C", "text": "一定是痔瘡出血" },
+    { "key": "D", "text": "一定是血小板過低" }
+  ],
+  "answer": "A",
+  "explanation": "RCC 可出血或侵犯集合系統造成血尿；腎炎的 RBC casts 屬腎小球來源，機轉不同。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_RCC_Q0024",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜癸 腎細胞癌" },
+  "stem": "RCC 的腫瘤分期評估中，為何需要注意胸部影像（如 CXR/CT chest）？",
+  "options": [
+    { "key": "A", "text": "肺為常見轉移部位，需評估是否轉移" },
+    { "key": "B", "text": "因為一定合併肺炎" },
+    { "key": "C", "text": "因為腫瘤一定從肺開始" },
+    { "key": "D", "text": "因為胸部影像可診斷結石" }
+  ],
+  "answer": "A",
+  "explanation": "RCC 常轉移至肺，初診與追蹤分期常需胸部影像以評估遠端轉移。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_RCC_Q0025",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜癸 腎細胞癌" },
+  "stem": "下列何者較符合「左側 RCC」可能造成的臨床體徵？",
+  "options": [
+    { "key": "A", "text": "左側精索靜脈曲張（varicocele）" },
+    { "key": "B", "text": "右下腹闌尾壓痛" },
+    { "key": "C", "text": "甲狀腺腫大" },
+    { "key": "D", "text": "中耳炎" }
+  ],
+  "answer": "A",
+  "explanation": "左腎靜脈受腫瘤或腫瘤血栓影響，可造成左側精索靜脈回流受阻，出現 varicocele（尤其新發或非可逆者需警覺）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_RCC_Q0026",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜癸 腎細胞癌" },
+  "stem": "RCC 的診斷上，腎臟切片（renal biopsy）最合理的用途/情境為何？",
+  "options": [
+    { "key": "A", "text": "影像不典型或考慮消融/系統治療前需要組織確認（個案化）" },
+    { "key": "B", "text": "所有腎囊腫都必須切片" },
+    { "key": "C", "text": "只要血尿就一定要切片" },
+    { "key": "D", "text": "切片可用來治療結石" }
+  ],
+  "answer": "A",
+  "explanation": "多數典型可切除腎腫塊可直接手術處理；但在影像不典型、考慮非手術策略（消融/監測）或轉移病灶需確認時，可考慮切片。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_RCC_Q0027",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜癸 腎細胞癌" },
+  "stem": "RCC 的典型年齡分布最符合下列何者？",
+  "options": [
+    { "key": "A", "text": "多見於中老年成人" },
+    { "key": "B", "text": "多見於新生兒" },
+    { "key": "C", "text": "只見於青少年" },
+    { "key": "D", "text": "只見於學齡前兒童" }
+  ],
+  "answer": "A",
+  "explanation": "RCC 多見於中老年族群；兒童腎腫瘤以 Wilms tumor 等為主。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_RCC_Q0028",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜癸 腎細胞癌" },
+  "stem": "下列何者較符合 RCC 的常見初始症狀或警訊？",
+  "options": [
+    { "key": "A", "text": "無痛性血尿" },
+    { "key": "B", "text": "不明原因體重減輕或發燒" },
+    { "key": "C", "text": "側腹痛" },
+    { "key": "D", "text": "以上皆可能" }
+  ],
+  "answer": "D",
+  "explanation": "RCC 可能表現為血尿、側腹痛、全身症狀（體重減輕、發燒）、副腫瘤現象或偶然影像發現。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_RCC_Q0029",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜癸 腎細胞癌" },
+  "stem": "RCC 患者若同時有腎功能不全，治療規劃時最重要的考量之一為何？",
+  "options": [
+    { "key": "A", "text": "盡可能保留腎單位（nephron-sparing）與評估術後腎功能" },
+    { "key": "B", "text": "腎功能不重要" },
+    { "key": "C", "text": "一定要雙側腎切除" },
+    { "key": "D", "text": "只要補鈣即可" }
+  ],
+  "answer": "A",
+  "explanation": "腎功能不全者需特別權衡根治與保留腎功能，常更偏向 nephron-sparing、局部治療或個案化策略，以避免進入透析。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_RCC_Q0030",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜癸 腎細胞癌" },
+  "stem": "RCC 追蹤中最主要的目的為何？",
+  "options": [
+    { "key": "A", "text": "監測局部復發與遠端轉移" },
+    { "key": "B", "text": "只監測視力" },
+    { "key": "C", "text": "只監測皮膚" },
+    { "key": "D", "text": "不需要追蹤" }
+  ],
+  "answer": "A",
+  "explanation": "RCC 術後/治療後追蹤重點在偵測復發或轉移（肺、骨等）並評估腎功能與治療相關併發症；追蹤頻率依分期與風險分層調整。"
+},
+
+  
+  {
+    "id": "MED3_RENAL_INF_ORI_CNSINF_A_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜甲 中樞神經感染｜A 概論" },
+    "stem": "疑似中樞神經感染（如腦膜炎）最重要的初步目標之一為何？",
+    "options": [
+      { "key": "A", "text": "先等影像與培養結果再處置" },
+      { "key": "B", "text": "及早辨識並盡快給予適當經驗性治療" },
+      { "key": "C", "text": "只要退燒即可" },
+      { "key": "D", "text": "先停用所有藥物觀察" }
+    ],
+    "answer": "B",
+    "explanation": "CNS infection 進展快且致死/致殘風險高；臨床上強調早期辨識與及早經驗性抗感染治療，同步完成評估（含培養/CSF）。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_CNSINF_A_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜甲 中樞神經感染｜A 概論" },
+    "stem": "成人細菌性腦膜炎最典型的臨床表現組合之一為何？",
+    "options": [
+      { "key": "A", "text": "發燒、頭痛、頸部僵硬（meningismus）" },
+      { "key": "B", "text": "腹瀉、黃疸、皮疹" },
+      { "key": "C", "text": "咳嗽、胸痛、咳血" },
+      { "key": "D", "text": "單純無症狀血尿" }
+    ],
+    "answer": "A",
+    "explanation": "腦膜炎典型為發燒、頭痛、頸部僵硬；亦可能合併意識改變、畏光、噁心嘔吐或癲癇等。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_CNSINF_A_Q0003",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜甲 中樞神經感染｜A 概論" },
+    "stem": "評估疑似腦膜炎時，腰椎穿刺（LP）取得 CSF 的主要目的為何？",
+    "options": [
+      { "key": "A", "text": "確認診斷並區分致病類型（細菌/病毒等），指引治療" },
+      { "key": "B", "text": "用來治療高血壓" },
+      { "key": "C", "text": "用來排出腎結石" },
+      { "key": "D", "text": "只為了測血糖" }
+    ],
+    "answer": "A",
+    "explanation": "CSF 可提供細胞數、蛋白、葡萄糖、染色/培養等資訊，協助診斷與抗感染治療選擇。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_CNSINF_A_Q0004",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜甲 中樞神經感染｜A 概論" },
+    "stem": "下列何者較支持細菌性腦膜炎而非病毒性腦膜炎的 CSF 特徵？",
+    "options": [
+      { "key": "A", "text": "CSF 中性球為主、蛋白上升、葡萄糖下降" },
+      { "key": "B", "text": "CSF 淋巴球為主、蛋白輕度上升、葡萄糖多正常" },
+      { "key": "C", "text": "CSF 完全正常且無症狀" },
+      { "key": "D", "text": "只有尿蛋白上升" }
+    ],
+    "answer": "A",
+    "explanation": "細菌性腦膜炎典型 CSF：PMN 優勢、蛋白高、葡萄糖低（相對血糖下降）；病毒性多為淋巴球優勢且葡萄糖多正常。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_CNSINF_A_Q0005",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜甲 中樞神經感染｜A 概論" },
+    "stem": "疑似腦膜炎病人若出現意識改變或局灶神經學徵象，臨床上常會先考慮做哪一項評估？",
+    "options": [
+      { "key": "A", "text": "腦部影像（CT/MRI）以評估占位效應/顱內壓風險" },
+      { "key": "B", "text": "直接給瀉藥" },
+      { "key": "C", "text": "只量體重" },
+      { "key": "D", "text": "只做心電圖即可" }
+    ],
+    "answer": "A",
+    "explanation": "若懷疑顱內壓上升或占位病灶（意識改變、局灶徵象、癲癇、免疫低下等），常先做影像以降低 LP 誘發腦疝風險；同時不應延誤抗生素。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_CNSINF_A_Q0006",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜甲 中樞神經感染｜A 概論" },
+    "stem": "疑似細菌性腦膜炎時，抗生素給藥時機的核心概念為何？",
+    "options": [
+      { "key": "A", "text": "等 CSF 培養出來再給抗生素" },
+      { "key": "B", "text": "先抽培養/準備 LP，但不應延誤立即給經驗性抗生素" },
+      { "key": "C", "text": "症狀改善才給" },
+      { "key": "D", "text": "只給止痛藥即可" }
+    ],
+    "answer": "B",
+    "explanation": "細菌性腦膜炎為時間敏感；原則是儘快取得血液培養與 CSF（若安全）後立即給經驗性抗生素，影像評估也不應造成不必要延誤。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_CNSINF_A_Q0007",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜甲 中樞神經感染｜A 概論" },
+    "stem": "細菌性腦膜炎的主要臨床危險性，下列何者正確？",
+    "options": [
+      { "key": "A", "text": "可迅速導致敗血症、腦水腫、腦疝與神經後遺症" },
+      { "key": "B", "text": "通常完全不會有併發症" },
+      { "key": "C", "text": "只會造成皮膚癢" },
+      { "key": "D", "text": "只影響腸胃道" }
+    ],
+    "answer": "A",
+    "explanation": "細菌性腦膜炎可造成嚴重全身與中樞併發症（休克、DIC、腦壓上升、聽損等），需緊急處置。"
+  },
+
+  {
+    "id": "MED3_RENAL_INF_ORI_CNSINF_B_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜甲 中樞神經感染｜B 細菌性腦膜炎" },
+    "stem": "細菌性腦膜炎的 CSF 檢查中，下列何者最常見？",
+    "options": [
+      { "key": "A", "text": "開口壓上升" },
+      { "key": "B", "text": "蛋白下降" },
+      { "key": "C", "text": "葡萄糖上升" },
+      { "key": "D", "text": "細胞數完全正常" }
+    ],
+    "answer": "A",
+    "explanation": "細菌性腦膜炎常見 CSF 開口壓上升、蛋白上升、葡萄糖下降、白血球上升且以中性球為主。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_CNSINF_B_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜甲 中樞神經感染｜B 細菌性腦膜炎" },
+    "stem": "下列何者最能支持「細菌性腦膜炎」的 CSF 葡萄糖判讀？",
+    "options": [
+      { "key": "A", "text": "CSF/血糖比值下降" },
+      { "key": "B", "text": "CSF 葡萄糖永遠高於血糖" },
+      { "key": "C", "text": "CSF 葡萄糖與感染無關" },
+      { "key": "D", "text": "只要尿糖正常就代表 CSF 正常" }
+    ],
+    "answer": "A",
+    "explanation": "細菌代謝與發炎反應會降低 CSF 葡萄糖，常以 CSF/serum glucose ratio 下降作為判讀重點之一。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_CNSINF_B_Q0003",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜甲 中樞神經感染｜B 細菌性腦膜炎" },
+    "stem": "在高度懷疑細菌性腦膜炎時，最重要的「時間敏感」處置為何？",
+    "options": [
+      { "key": "A", "text": "立即給予經驗性抗生素（並同時做培養/評估）" },
+      { "key": "B", "text": "先觀察 24 小時" },
+      { "key": "C", "text": "先停用所有藥物" },
+      { "key": "D", "text": "只給退燒藥" }
+    ],
+    "answer": "A",
+    "explanation": "細菌性腦膜炎延誤治療會顯著增加死亡與神經後遺症風險，故需立即經驗性治療並同步完成診斷流程。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_CNSINF_B_Q0004",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜甲 中樞神經感染｜B 細菌性腦膜炎" },
+    "stem": "細菌性腦膜炎的治療中，為降低發炎造成的神經併發症，臨床常會考慮合併哪一類藥物（特定情境）？",
+    "options": [
+      { "key": "A", "text": "類固醇（如 dexamethasone）" },
+      { "key": "B", "text": "利尿劑作為根治" },
+      { "key": "C", "text": "抗黴菌藥作為主力" },
+      { "key": "D", "text": "抗寄生蟲藥作為主力" }
+    ],
+    "answer": "A",
+    "explanation": "部分細菌性腦膜炎（尤其疑似肺炎鏈球菌）在適當時機合併 dexamethasone 可降低發炎相關併發症（如聽損），實際使用依臨床指引與個案而定。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_CNSINF_B_Q0005",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜甲 中樞神經感染｜B 細菌性腦膜炎" },
+    "stem": "細菌性腦膜炎可能的嚴重併發症，下列何者正確？",
+    "options": [
+      { "key": "A", "text": "癲癇、腦梗塞/血管炎、顱內壓上升、聽力損失" },
+      { "key": "B", "text": "只會造成鼻過敏" },
+      { "key": "C", "text": "只會造成便秘" },
+      { "key": "D", "text": "完全不會造成後遺症" }
+    ],
+    "answer": "A",
+    "explanation": "細菌性腦膜炎可能造成顱內壓上升、腦血管併發症、癲癇、腦神經損傷（含聽損）等，需密切監測與支持治療。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_CNSINF_B_Q0006",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜甲 中樞神經感染｜B 細菌性腦膜炎" },
+    "stem": "下列何者較符合「感染性腦膜炎」與「腦炎（encephalitis）」的鑑別概念？",
+    "options": [
+      { "key": "A", "text": "腦炎較常見明顯意識改變、癲癇與局灶神經徵象" },
+      { "key": "B", "text": "腦膜炎一定無頭痛" },
+      { "key": "C", "text": "腦炎只會造成血尿" },
+      { "key": "D", "text": "兩者完全無法鑑別" }
+    ],
+    "answer": "A",
+    "explanation": "腦炎較偏腦實質受累，常有意識改變、癲癇與局灶徵象；腦膜炎則以 meningismus/頭痛/發燒為主，但臨床可重疊。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_CNSINF_B_Q0007",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜甲 中樞神經感染｜B 細菌性腦膜炎" },
+    "stem": "細菌性腦膜炎的診斷檢驗中，下列何者可在較短時間提供致病線索？",
+    "options": [
+      { "key": "A", "text": "CSF Gram stain" },
+      { "key": "B", "text": "等待 7 天後的培養" },
+      { "key": "C", "text": "單次尿蛋白" },
+      { "key": "D", "text": "肝功能" }
+    ],
+    "answer": "A",
+    "explanation": "CSF Gram stain 可快速提供致病菌型態線索（雖敏感度受抗生素影響），培養與 PCR/抗原檢測則可進一步確認。"
+  },
+
+  {
+    "id": "MED3_RENAL_INF_ORI_CNSINF_C_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜甲 中樞神經感染｜C 肺炎雙球菌（Streptococcus pneumoniae）" },
+    "stem": "成人細菌性腦膜炎最常見的致病菌之一為何？",
+    "options": [
+      { "key": "A", "text": "Streptococcus pneumoniae" },
+      { "key": "B", "text": "Candida albicans" },
+      { "key": "C", "text": "Entamoeba histolytica" },
+      { "key": "D", "text": "Giardia lamblia" }
+    ],
+    "answer": "A",
+    "explanation": "肺炎鏈球菌是成人細菌性腦膜炎常見致病菌之一，亦常見於肺炎、中耳炎、鼻竇炎等。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_CNSINF_C_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜甲 中樞神經感染｜C 肺炎雙球菌（Streptococcus pneumoniae）" },
+    "stem": "肺炎鏈球菌的典型分類特徵，下列何者正確？",
+    "options": [
+      { "key": "A", "text": "Gram-positive diplococci" },
+      { "key": "B", "text": "Gram-negative diplococci" },
+      { "key": "C", "text": "Acid-fast bacilli" },
+      { "key": "D", "text": "螺旋體" }
+    ],
+    "answer": "A",
+    "explanation": "S. pneumoniae 為 Gram-positive diplococci（常呈槍矛狀雙球菌），與 N. meningitidis（G- diplococci）可作鑑別。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_CNSINF_C_Q0003",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜甲 中樞神經感染｜C 肺炎雙球菌（Streptococcus pneumoniae）" },
+    "stem": "肺炎鏈球菌腦膜炎的臨床重要性，下列何者正確？",
+    "options": [
+      { "key": "A", "text": "死亡率與神經後遺症風險相對較高，需緊急治療" },
+      { "key": "B", "text": "通常不需抗生素" },
+      { "key": "C", "text": "只會造成輕微皮疹" },
+      { "key": "D", "text": "只發生於新生兒" }
+    ],
+    "answer": "A",
+    "explanation": "肺炎鏈球菌腦膜炎可相當嚴重，需立即經驗性抗生素並依藥敏調整；臨床也常評估是否合併類固醇以降低發炎相關後遺症。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_CNSINF_C_Q0004",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜甲 中樞神經感染｜C 肺炎雙球菌（Streptococcus pneumoniae）" },
+    "stem": "下列何者為肺炎鏈球菌常見的侵入性疾病表現之一？",
+    "options": [
+      { "key": "A", "text": "腦膜炎" },
+      { "key": "B", "text": "菌血症/敗血症" },
+      { "key": "C", "text": "肺炎" },
+      { "key": "D", "text": "以上皆是" }
+    ],
+    "answer": "D",
+    "explanation": "侵入性肺炎鏈球菌疾病（IPD）可表現為肺炎、菌血症、腦膜炎等，為臨床重要病原。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_CNSINF_C_Q0005",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜甲 中樞神經感染｜C 肺炎雙球菌（Streptococcus pneumoniae）" },
+    "stem": "肺炎鏈球菌在腦膜炎的經驗性治療考量中，為了涵蓋可能的抗藥性，常會加入哪一類抗生素的概念？",
+    "options": [
+      { "key": "A", "text": "第三代 cephalosporin 合併 vancomycin（視地區抗藥性）" },
+      { "key": "B", "text": "只用口服 penicillin 單次即可" },
+      { "key": "C", "text": "只用抗黴菌藥" },
+      { "key": "D", "text": "完全不需抗生素" }
+    ],
+    "answer": "A",
+    "explanation": "成人疑似細菌性腦膜炎常以第三代 cephalosporin 為基礎，並視抗藥性風險加入 vancomycin；確定藥敏後再降階。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_CNSINF_C_Q0006",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜甲 中樞神經感染｜C 肺炎雙球菌（Streptococcus pneumoniae）" },
+    "stem": "肺炎鏈球菌的主要毒力因子之一為何？",
+    "options": [
+      { "key": "A", "text": "莢膜（capsule）" },
+      { "key": "B", "text": "鞭毛" },
+      { "key": "C", "text": "外毒素造成破傷風" },
+      { "key": "D", "text": "芽孢" }
+    ],
+    "answer": "A",
+    "explanation": "肺炎鏈球菌莢膜有抗吞噬作用，是重要毒力因子；疫苗策略也與莢膜血清型相關。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_CNSINF_C_Q0007",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜甲 中樞神經感染｜C 肺炎雙球菌（Streptococcus pneumoniae）" },
+    "stem": "下列何者為侵入性肺炎鏈球菌感染的高風險族群線索之一？",
+    "options": [
+      { "key": "A", "text": "脾臟功能不全/無脾（asplenia）" },
+      { "key": "B", "text": "完全健康且無共病、無暴露史" },
+      { "key": "C", "text": "單純近視" },
+      { "key": "D", "text": "只要年輕就完全不會" }
+    ],
+    "answer": "A",
+    "explanation": "脾臟功能不全/無脾、免疫低下、年長者等為侵入性肺炎鏈球菌疾病高風險族群，臨床預防與疫苗策略常針對此類族群。"
+  },
+
+  {
+    "id": "MED3_RENAL_INF_ORI_CNSINF_D_Q0001",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜甲 中樞神經感染｜D 腦膜炎雙球菌（Neisseria meningitidis）" },
+    "stem": "腦膜炎雙球菌（Neisseria meningitidis）的典型染色與形態為何？",
+    "options": [
+      { "key": "A", "text": "Gram-negative diplococci" },
+      { "key": "B", "text": "Gram-positive diplococci" },
+      { "key": "C", "text": "Acid-fast bacilli" },
+      { "key": "D", "text": "螺旋體" }
+    ],
+    "answer": "A",
+    "explanation": "N. meningitidis 為 Gram-negative diplococci，與 S. pneumoniae（G+ diplococci）在 Gram stain 上可鑑別。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_CNSINF_D_Q0002",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜甲 中樞神經感染｜D 腦膜炎雙球菌（Neisseria meningitidis）" },
+    "stem": "腦膜炎雙球菌感染的臨床特色之一為何？",
+    "options": [
+      { "key": "A", "text": "可能出現 petechiae/purpura（紫斑/瘀點）" },
+      { "key": "B", "text": "一定完全沒有皮膚表現" },
+      { "key": "C", "text": "只會造成黃疸" },
+      { "key": "D", "text": "只會造成腹瀉" }
+    ],
+    "answer": "A",
+    "explanation": "Meningococcemia 可出現瘀點/紫斑，嚴重可進展為休克與 DIC，是臨床重要警訊。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_CNSINF_D_Q0003",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜甲 中樞神經感染｜D 腦膜炎雙球菌（Neisseria meningitidis）" },
+    "stem": "腦膜炎雙球菌的傳播方式最符合下列何者？",
+    "options": [
+      { "key": "A", "text": "呼吸道飛沫/密切接觸" },
+      { "key": "B", "text": "血液透析管路" },
+      { "key": "C", "text": "輸血一定傳染" },
+      { "key": "D", "text": "昆蟲叮咬為主" }
+    ],
+    "answer": "A",
+    "explanation": "N. meningitidis 透過呼吸道分泌物傳播，密切接觸（同住、親密接觸、同寢室等）風險較高。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_CNSINF_D_Q0004",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜甲 中樞神經感染｜D 腦膜炎雙球菌（Neisseria meningitidis）" },
+    "stem": "對於確診/高度懷疑腦膜炎雙球菌感染的個案，其密切接觸者的公共衛生處置概念為何？",
+    "options": [
+      { "key": "A", "text": "需要考慮接觸者預防性投藥（chemoprophylaxis）" },
+      { "key": "B", "text": "完全不需任何處置" },
+      { "key": "C", "text": "只要補充維他命即可" },
+      { "key": "D", "text": "只要量血壓即可" }
+    ],
+    "answer": "A",
+    "explanation": "腦膜炎雙球菌具群聚與快速進展風險，臨床常需對密切接觸者做化學預防並依規範通報與防治。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_CNSINF_D_Q0005",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜甲 中樞神經感染｜D 腦膜炎雙球菌（Neisseria meningitidis）" },
+    "stem": "腦膜炎雙球菌感染可能的致命性併發症，下列何者最符合？",
+    "options": [
+      { "key": "A", "text": "Fulminant meningococcemia 合併休克與 DIC" },
+      { "key": "B", "text": "單純慢性鼻炎" },
+      { "key": "C", "text": "只會造成便秘" },
+      { "key": "D", "text": "完全不會有系統性併發症" }
+    ],
+    "answer": "A",
+    "explanation": "Fulminant meningococcemia 可快速導致休克、多器官衰竭與 DIC；臨床需緊急抗生素與重症支持治療。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_CNSINF_D_Q0006",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感染科｜甲 中樞神經感染｜D 腦膜炎雙球菌（Neisseria meningitidis）" },
+    "stem": "疑似腦膜炎雙球菌腦膜炎的經驗性治療中，下列何者最符合常見的抗生素方向？",
+    "options": [
+      { "key": "A", "text": "第三代 cephalosporin（如 ceftriaxone/cefotaxime）" },
+      { "key": "B", "text": "只用 metronidazole" },
+      { "key": "C", "text": "只用抗黴菌藥" },
+      { "key": "D", "text": "不需抗生素" }
+    ],
+    "answer": "A",
+    "explanation": "第三代 cephalosporin 常可涵蓋腦膜炎雙球菌並具良好 CSF 滲透性；確診後再依藥敏與指引調整。"
+  },
+  {
+    "id": "MED3_RENAL_INF_ORI_CNSINF_D_Q0007",
+    "source_type": "original",
+    "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+    "location": { "section": "第二篇 感感染科｜甲 中樞神經感染｜D 腦膜炎雙球菌（Neisseria meningitidis）" },
+    "stem": "腦膜炎雙球菌與肺炎鏈球菌在 CSF Gram stain 的主要差異為何？",
+    "options": [
+      { "key": "A", "text": "腦膜炎雙球菌為 Gram-negative diplococci；肺炎鏈球菌為 Gram-positive diplococci" },
+      { "key": "B", "text": "兩者皆為 acid-fast bacilli" },
+      { "key": "C", "text": "兩者皆為螺旋體" },
+      { "key": "D", "text": "兩者皆不會在 Gram stain 看見" }
+    ],
+    "answer": "A",
+    "explanation": "Gram stain 形態與染色性可快速提供線索：N. meningitidis（G- diplococci） vs S. pneumoniae（G+ diplococci）。"
+  }
+
   
 ]
