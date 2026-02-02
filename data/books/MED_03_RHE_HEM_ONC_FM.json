@@ -70,5 +70,132 @@
     ],
     "answer": "A",
     "explanation": "『紫斑（血管炎表徵）+ 氣喘 + 嗜酸性球顯著上升』是 EGPA（eosinophilic granulomatosis with polyangiitis，舊名 Churg–Strauss）的經典組合，因此 ANCA（尤其 p-ANCA/MPO）陽性會最有助於支持診斷，選 (A)。原書亦指出此情境考慮 EGPA，檢驗 ANCA 最有幫助。 [oai_citation:6‡三(4)：風免、血液、腫瘤、家醫.pdf](sediment://file_000000002f287208b54305827620b754)\n\n(B) IgE：EGPA 可合併過敏體質/IgE 上升，但特異度不足，不能作為『最有幫助』。\n(C) IgG4：偏向 IgG4-related disease 的線索，與此題的氣喘+嗜酸性球+紫斑型血管炎不相符。\n(D) sputum smear：較偏感染（含 TB/寄生蟲等）評估；雖嗜酸性球也可見寄生蟲，但題目有反覆氣喘與紫斑且類固醇快速改善，更像血管炎譜系。\n\n考點延伸：EGPA 三期概念（過敏/氣喘期 → 嗜酸性球增生與浸潤期 → 系統性小血管炎期），常見器官：肺、皮膚、周邊神經（mononeuritis multiplex）、腎臟。"
+  },
+
+
+  
+
+  {
+    "id": "MED3_04_Q0007",
+    "stem": "有關復發性多軟骨炎（relapsing polychondritis）的敘述，下列何者正確？（107（二）專醫三-29）",
+    "options": [
+      { "key": "A", "text": "大部分病人會有類風濕因子（rheumatoid factor）陽性" },
+      { "key": "B", "text": "大多數的病人會合併關節炎" },
+      { "key": "C", "text": "大約有 90% 的病人會合併其他自體免疫疾病" },
+      { "key": "D", "text": "治療以抗腫瘤壞死因子（anti-TNF）生物製劑為主" }
+    ],
+    "answer": "B",
+    "explanation": "復發性多軟骨炎的核心是「反覆發作的軟骨發炎／破壞」，常侵犯耳廓、鼻中隔、喉氣管支氣管軟骨，並可合併非侵蝕性關節炎/關節痛，因此關節受累在臨床上相當常見，(B) 最符合。\n\n(A) 類風濕因子不是此病的典型特徵；若 RF 陽性，需考慮合併其他自體免疫病（例如 RA 重疊），而非疾病本身常態。\n(C) 的比例明顯過高。此病可與其他免疫疾病重疊，但通常不到「絕大多數」的程度；考題用誇張數字誘導。\n(D) 治療主軸仍以類固醇與免疫抑制劑（如 MTX、AZA、cyclophosphamide 等，依嚴重度與器官侵犯）為主；anti-TNF 或其他生物製劑多是難治或特定器官侵犯時的後線選項，不是“以…為主”。\n\n考點延伸（鑑別度）：若出現喘鳴、聲音沙啞、反覆呼吸道感染，要想到喉/氣管軟骨塌陷的高風險，屬可能危及生命的器官侵犯，治療策略會顯著升級。"
+  },
+  {
+    "id": "MED3_04_Q0008",
+    "stem": "有關巨球母細胞性貧血（megaloblastic anemia）的敘述，下列何者錯誤？（113（二）專醫三-42）",
+    "options": [
+      { "key": "A", "text": "可以和葉酸缺乏有關" },
+      { "key": "B", "text": "可以和維生素 B12 缺乏有關" },
+      { "key": "C", "text": "其基本形成的原因是 DNA 轉錄到 mRNA 的過程受到阻斷" },
+      { "key": "D", "text": "其血液學的表現可以是全血球低下（pancytopenia）" }
+    ],
+    "answer": "C",
+    "explanation": "巨球母細胞性貧血的關鍵不是「轉錄」問題，而是「DNA 複製（replication）受阻」：葉酸或 B12 缺乏 → dTMP 合成不足 → S 期 DNA 合成不順 → 核成熟落後於質成熟（nuclear-cytoplasmic asynchrony）→ 形成 megaloblast。\n\n(A)(B) 皆為典型原因。\n(D) 骨髓造血受抑制時可出現三系統下降，因此可能呈現 pancytopenia。\n\n高鑑別度補充：B12 缺乏會合併神經學症狀（後索/側索病變、周邊神經病變），葉酸缺乏通常沒有；但兩者的血球形態都可見 macro-ovalocytes、hypersegmented neutrophils。"
+  },
+  {
+    "id": "MED3_04_Q0009",
+    "stem": "下列何者不是一般急性出血後貧血（acute post hemorrhagic anemia）的特徵？（113（一）專醫三-42）",
+    "options": [
+      { "key": "A", "text": "初期病人可能有休克但只有輕度的貧血" },
+      { "key": "B", "text": "在出血過多導致休克經由 optimal fluid resuscitation 矯正後，血液相會有血球濃（hemoconcentration）" },
+      { "key": "C", "text": "周邊血 reticulocyte 數量上升" },
+      { "key": "D", "text": "血清中 erythropoietin 值上升" }
+    ],
+    "answer": "B",
+    "explanation": "急性大量出血的「最早期」因為血漿與紅血球等比例流失，Hb/Hct 可能尚未明顯下降，但病人可因循環血量不足而休克，(A) 合理。\n\n之後接受輸液復甦時，血漿量補回更快 → 造成「血液稀釋（hemodilution）」而使 Hb/Hct 下降，與 (B) 說的 hemoconcentration 相反，因此 (B) 是不符合的選項。\n\n(C)(D) 屬於後續代償：EPO 上升，骨髓反應後 reticulocyte 增加（通常需要幾天才明顯）。\n\n考點延伸：reticulocyte 上升是「出血或溶血」的共通反應；若 retic 不上升反而低，需想骨髓造血受損或缺乏造血原料（鐵/葉酸/B12）。"
+  },
+  {
+    "id": "MED3_04_Q0010",
+    "stem": "35 歲女性病人，上呼吸道感染後全身乏力、無腹瀉，肌酸酐由 0.8 mg/dL 上升至 6.2 mg/dL，血色素由 12.0 g/dL 下降至 8.6 g/dL，血小板 80×10^3/µL，血液抹片呈微小血管溶血性貧血（microangiopathic hemolytic anemia），ADAMTS13 > 15%，下列何種治療最為適當？（112（一）專醫三-28）",
+    "options": [
+      { "key": "A", "text": "bortezomib" },
+      { "key": "B", "text": "rituximab" },
+      { "key": "C", "text": "eculizumab" },
+      { "key": "D", "text": "immunoglobulin" }
+    ],
+    "answer": "C",
+    "explanation": "題幹是典型 TMA（血栓性微血管病變）：MAHA + thrombocytopenia + 器官損傷（此題以嚴重 AKI 作為主要器官損傷）。ADAMTS13 > 15%（尤其不是 <10%）使典型 TTP 變得不支持；又無腹瀉，降低典型 Shiga toxin-HUS 的可能。\n\n「感染後誘發 + 顯著腎損傷」更符合補體失衡相關的 aHUS（atypical HUS），治療核心是抑制終末補體路徑：eculizumab（抗 C5 單株抗體），因此選 (C)。\n\n(A) bortezomib：較偏向特定抗體相關或血液腫瘤情境；非此題首選。\n(B) rituximab：可用於自體免疫相關 TTP（抑制抗 ADAMTS13 抗體）或部分免疫機轉 TMA，但在此題指向 aHUS 時不是最關鍵的一線。\n(D) IVIG：偏向 ITP、Guillain-Barré、KD 等情境；不是 aHUS 的主要治療。\n\n考點延伸：考題常用「腎損傷嚴重」把 aHUS 與 TTP 做鑑別；TTP 更偏神經症狀突出且 ADAMTS13 嚴重缺乏。"
+  },
+  {
+    "id": "MED3_04_Q0011",
+    "stem": "一位 23 歲病人因咳嗽、喉嚨痛吃了兩天藥房買的藥後，突然發現小便呈現暗紅色，尿液檢查潛血反應為陽性，沉澱物中紅血球 0–2/HPF。抽血顯示血紅素 10.8 g/dL，網狀紅血球 7.6%，LDH 1,080 U/L，總膽紅素 4.3 mg/dL（直接型 0.8 mg/dL），Coombs test 陰性。病人回憶小學時也曾在服用感冒藥後發生類似狀況且數天後緩解。此病人最可能的診斷為何？（112（一）專醫三-38）",
+    "options": [
+      { "key": "A", "text": "autoimmune hemolytic anemia" },
+      { "key": "B", "text": "glucose 6-phosphate dehydrogenase（G6PD）deficiency" },
+      { "key": "C", "text": "acute glomerulonephritis" },
+      { "key": "D", "text": "acute hepatitis" }
+    ],
+    "answer": "B",
+    "explanation": "關鍵線索是「尿潛血陽性但尿沉渣幾乎無 RBC」：代表偵測到的是血紅素/肌紅素，而不是真正血尿；合併 reticulocytosis、LDH 上升、間接型高膽紅素、Coombs 陰性，整體是非免疫性溶血，符合血紅素尿（hemoglobinuria）。\n\n再加上「感染/服藥誘發、過去有類似短暫發作」，最典型就是 G6PD 缺乏在氧化壓力下造成急性溶血（可見 bite cells / blister cells、Heinz bodies 相關）。因此選 (B)。\n\n(A) AIHA 多為 Coombs 陽性（雖非 100%），且常見為免疫介導溶血；此題更像氧化性溶血。\n(C) 急性腎炎會有真正血尿（尿沉渣 RBC 多、可見 RBC casts），與此題相反。\n(D) 肝炎可黃疸但不會同時呈現典型溶血組合（retic↑、LDH↑、Coombs−、潛血陽性無 RBC）。\n\n陷阱提醒：急性溶血發作期測 G6PD 活性可能因年輕紅血球比例上升而「假陰性」，臨床上常建議在發作後數週再複驗或做基因檢測。"
+  },
+  {
+    "id": "MED3_04_Q0012",
+    "stem": "下列有關於遺傳性球形紅血球症（hereditary spherocytosis）的敘述，何者錯誤？（111（二）專醫三-42）",
+    "options": [
+      { "key": "A", "text": "過高的 mean corpuscular hemoglobin concentration（MCHC > 34）是此病的重要特徵" },
+      { "key": "B", "text": "所呈現的溶血，主要是血管內溶血（intravascular hemolysis）" },
+      { "key": "C", "text": "是基因突變引起的疾病。ANK1、SLC4A1、SPTB、SPTA1 等基因之突變均可能造成此病" },
+      { "key": "D", "text": "並不全然是 autosomal dominant 的遺傳形式，也可以是 autosomal recessive 的遺傳形式" }
+    ],
+    "answer": "B",
+    "explanation": "HS 的核心病理是紅血球膜骨架蛋白缺陷（ankyrin、spectrin、band 3、protein 4.2 等）→ 紅血球變球形、變形能力差 → 在脾臟索/竇通過困難而被巨噬細胞移除，屬「脾臟為主導的血管外溶血（extravascular hemolysis）」。因此 (B) 說主要是 intravascular hemolysis 為錯。\n\n(A) MCHC 偏高在 HS 很有鑑別度（相對於多數貧血 MCHC 常正常或偏低）。\n(C) 與 (D) 皆符合：多數為 AD，但仍可 AR 或 de novo。\n\n考點延伸：鑑別 AIHA 時，AIHA 也可能看到 spherocytes，但通常有 Coombs 陽性；HS 的家族史、MCHC↑、osmotic fragility / EMA binding test 支持診斷。"
+  },
+  {
+    "id": "MED3_04_Q0013",
+    "stem": "下列有關後天嚴重型再生不良貧血（severe acquired aplastic anemia）的治療的描述，何者最不恰當？（111（一）專醫三-41）",
+    "options": [
+      { "key": "A", "text": "類固醇（glucocorticoid）常用於第一線治療，療效甚佳" },
+      { "key": "B", "text": "異體造血幹細胞移植（allogeneic hematopoietic stem cell transplantation）是治癒此病的選項之一" },
+      { "key": "C", "text": "antithymocyte globulin（ATG）合併 cyclosporin 是常用的治療選項之一" },
+      { "key": "D", "text": "granulocyte colony-stimulating factor（G-CSF）通常無效" }
+    ],
+    "answer": "A",
+    "explanation": "嚴重型後天 AA 的治療主軸是「移植」或「免疫抑制（IST）」：年輕且有合適供者者以異體 HSCT 為根治選項；其餘多採 ATG + cyclosporin（常再合併 TPO agonist 以提升反應）。因此 (B)(C) 合理。\n\n單用類固醇不是標準一線且療效並不“甚佳”，(A) 的敘述最不恰當。\n\n(D) 的語氣容易讓人誤解：G-CSF 並非治本，通常不會單獨讓骨髓恢復；多是於極低 ANC 且感染風險高時短期輔助，因此考題以「通常無效」作為相對正確的表述。\n\n考點延伸：AA 的鑑別與合併症常考 PNH clone（流式看 CD55/CD59），因兩者可共存，且會影響後續處置策略。"
+  },
+  {
+    "id": "MED3_04_Q0014",
+    "stem": "下列哪一種人類的 hemoglobin 在胎兒 10±1 週時，是主要的 hemoglobin？（111（一）專醫三-42）",
+    "options": [
+      { "key": "A", "text": "Hb Portland（ζ2γ2）" },
+      { "key": "B", "text": "Hb Gower I（ζ2ε2）" },
+      { "key": "C", "text": "Hb Gower II（α2ε2）" },
+      { "key": "D", "text": "HbF（α2γ2）" }
+    ],
+    "answer": "D",
+    "explanation": "胚胎早期（約 3–8 週）以 Hb Gower I 為主，之後出現過渡的 Hb Gower II（約 5–10 週）。到約 8–10 週起，胎肝造血逐漸主導，HbF 開始快速上升並在接近 10 週後成為主要 Hb，因此 10±1 週最符合 HbF，選 (D)。\n\n記憶策略：\n- ζ、ε 鏈屬「胚胎型」→ 早期；\n- α 鏈成為穩定主軸後，與 γ 形成 HbF → 中後期胎兒到出生；\n- 出生後 HbA（α2β2）逐步取代 HbF。"
+  },
+  {
+    "id": "MED3_04_Q0015",
+    "stem": "維生素 B12 是造血的重要元素之一，以下對維生素 B12 的敘述何者錯誤？（108（二）專醫三-38）",
+    "options": [
+      { "key": "A", "text": "人體每日所需維生素 B12 的量相當少（約 1–3 微克）" },
+      { "key": "B", "text": "在完全無法經由飲食吸收維生素 B12 的狀況下，如果沒有另外補充，通常需要 3–4 年才能消耗完身體中的儲存量" },
+      { "key": "C", "text": "哺乳中的婦女若有維生素 B12 缺乏容易造成嬰兒生長發育遲滯" },
+      { "key": "D", "text": "蔬果類食物含有豐富的維生素 B12" }
+    ],
+    "answer": "D",
+    "explanation": "B12 的天然來源主要來自動物性食物（肉、魚、蛋、奶）或強化食品；一般蔬果並不是 B12 的可靠來源，因此 (D) 錯。\n\n(A)(B)(C) 均為臨床上常見且合理的敘述：需求量小、肝臟儲存量大所以缺乏發展慢；哺乳期母體缺乏可影響嬰兒神經發育與生長。\n\n鑑別提醒：純素飲食者、惡性貧血（intrinsic factor 缺乏）、胃切除、迴腸末端疾病（Crohn、切除）是常考高風險族群。"
+  },
+  {
+    "id": "MED3_04_Q0016",
+    "stem": "下列何種疾病無法用異體造血幹細胞移植（hematopoietic stem cell transplantation）的方式來達到長期緩解？（108（二）專醫三-40）",
+    "options": [
+      { "key": "A", "text": "黏多醣症" },
+      { "key": "B", "text": "嚴重再生不良性貧血" },
+      { "key": "C", "text": "重度海洋性貧血" },
+      { "key": "D", "text": "肝細胞癌" }
+    ],
+    "answer": "D",
+    "explanation": "異體 HSCT 的長期緩解/治癒主要適用於「造血系統疾病」或少數「可由供者造血細胞提供酵素而改善」的代謝性疾病。\n\n(B) 嚴重 AA：典型可根治。\n(C) 重度 β-thalassemia major：可根治。\n(A) 部分黏多醣症（例如 MPS I Hurler）在特定條件下可藉 HSCT 改善/延緩部分表現（尤其是早期介入的神經相關表現），因此在考題語境中屬“可用 HSCT 達到長期效益”的類型。\n(D) 肝細胞癌屬實體腫瘤，HSCT 不是其標準達到長期緩解的治療模式，因此選 (D)。\n\n考點延伸：題目常用「實體腫瘤 vs 造血/免疫/代謝病」做一刀切鑑別；若看到典型實體癌（HCC、肺癌、結腸癌），通常不是 HSCT 的長期緩解手段。"
   }
+
+
+
 ]
