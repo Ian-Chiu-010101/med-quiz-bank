@@ -4757,6 +4757,908 @@
   ],
   "answer": "A",
   "explanation": "急性腎盂腎炎常見發燒、寒顫、側腹痛/CVA tenderness，尿液可見白血球與細菌；屬上泌尿道感染。"
+},
+
+  {
+  "id": "MED3_RENAL_INF_ORI_CKD_Q0005",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜戊 慢性腎臟病（CKD）" },
+  "stem": "CKD 分期中，Stage 3 的 eGFR 範圍最符合下列何者？",
+  "options": [
+    { "key": "A", "text": "eGFR ≥90" },
+    { "key": "B", "text": "eGFR 60–89" },
+    { "key": "C", "text": "eGFR 30–59" },
+    { "key": "D", "text": "eGFR <15" }
+  ],
+  "answer": "C",
+  "explanation": "CKD GFR 分期常用：G1 ≥90、G2 60–89、G3 30–59、G4 15–29、G5 <15（mL/min/1.73m²）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_CKD_Q0006",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜戊 慢性腎臟病（CKD）" },
+  "stem": "CKD 分期中，Stage 4 的 eGFR 範圍最符合下列何者？",
+  "options": [
+    { "key": "A", "text": "eGFR 45–59" },
+    { "key": "B", "text": "eGFR 30–44" },
+    { "key": "C", "text": "eGFR 15–29" },
+    { "key": "D", "text": "eGFR <15" }
+  ],
+  "answer": "C",
+  "explanation": "Stage 4（G4）對應 eGFR 15–29；是進入末期腎病前的重要準備期（轉介、透析/移植教育與血管通路規劃）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_CKD_Q0007",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜戊 慢性腎臟病（CKD）" },
+  "stem": "下列何者最符合「CKD 風險分層」除了 eGFR 以外還需納入的關鍵指標？",
+  "options": [
+    { "key": "A", "text": "血鈉濃度" },
+    { "key": "B", "text": "尿蛋白/白蛋白（albuminuria）程度" },
+    { "key": "C", "text": "血紅素濃度" },
+    { "key": "D", "text": "血小板數量" }
+  ],
+  "answer": "B",
+  "explanation": "CKD 預後與風險評估常用 eGFR（G 分期）搭配 albuminuria（A 分期，如 ACR）共同分層。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_CKD_Q0008",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜戊 慢性腎臟病（CKD）" },
+  "stem": "尿白蛋白/肌酸酐比（UACR）最常用於評估下列何者？",
+  "options": [
+    { "key": "A", "text": "血尿來源" },
+    { "key": "B", "text": "蛋白尿/白蛋白尿程度（albuminuria）" },
+    { "key": "C", "text": "腎結石成分" },
+    { "key": "D", "text": "尿路感染是否存在" }
+  ],
+  "answer": "B",
+  "explanation": "UACR 是評估 albuminuria 的標準化指標，常用於 CKD 風險分層與治療反應追蹤。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_CKD_Q0009",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜戊 慢性腎臟病（CKD）" },
+  "stem": "下列何者較支持「CKD」而非急性腎損傷（AKI）？",
+  "options": [
+    { "key": "A", "text": "腎臟超音波顯示雙腎變小、皮質變薄" },
+    { "key": "B", "text": "48 小時內肌酸酐上升 0.3 mg/dL" },
+    { "key": "C", "text": "近期使用造影劑後肌酸酐上升" },
+    { "key": "D", "text": "突發少尿 6 小時" }
+  ],
+  "answer": "A",
+  "explanation": "小腎、皮質變薄等結構性改變支持慢性病程；其餘多偏向 AKI 的時間尺度/誘因。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_CKD_Q0010",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜戊 慢性腎臟病（CKD）" },
+  "stem": "CKD 的貧血最典型的主要機轉為何？",
+  "options": [
+    { "key": "A", "text": "骨髓惡性腫瘤" },
+    { "key": "B", "text": "腎臟 erythropoietin（EPO）產生不足" },
+    { "key": "C", "text": "葉酸過多" },
+    { "key": "D", "text": "紅血球破壞增加為唯一原因" }
+  ],
+  "answer": "B",
+  "explanation": "CKD 常見正球性正色素性貧血，核心是 EPO 產生不足；亦可能合併缺鐵、發炎等因素。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_CKD_Q0011",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜戊 慢性腎臟病（CKD）" },
+  "stem": "下列何者最符合 CKD 相關礦物質骨病（CKD-MBD）的典型趨勢？",
+  "options": [
+    { "key": "A", "text": "低磷、高鈣、PTH 下降" },
+    { "key": "B", "text": "高磷、低鈣、PTH 上升" },
+    { "key": "C", "text": "高磷、高鈣、PTH 下降" },
+    { "key": "D", "text": "低磷、低鈣、PTH 下降" }
+  ],
+  "answer": "B",
+  "explanation": "腎排磷下降→高磷；活性 Vit D 下降→低鈣；綜合刺激造成次發性副甲狀腺亢進（PTH 上升）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_CKD_Q0012",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜戊 慢性腎臟病（CKD）" },
+  "stem": "CKD 病人最常見的酸鹼異常為何？",
+  "options": [
+    { "key": "A", "text": "代謝性鹼中毒" },
+    { "key": "B", "text": "呼吸性鹼中毒" },
+    { "key": "C", "text": "代謝性酸中毒（常為 non–anion gap 早期）" },
+    { "key": "D", "text": "呼吸性酸中毒必然" }
+  ],
+  "answer": "C",
+  "explanation": "CKD 酸排泄與再生 HCO3− 能力下降，常見代謝性酸中毒（早期可呈高氯性）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_CKD_Q0013",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜戊 慢性腎臟病（CKD）" },
+  "stem": "CKD 病人心血管死亡風險上升的敘述，下列何者正確？",
+  "options": [
+    { "key": "A", "text": "CKD 與心血管風險無關" },
+    { "key": "B", "text": "CKD 是心血管疾病的重要風險因子，風險隨 eGFR 降低與 albuminuria 增加而上升" },
+    { "key": "C", "text": "只有 Stage 5 才會增加風險" },
+    { "key": "D", "text": "只與血鈉有關" }
+  ],
+  "answer": "B",
+  "explanation": "CKD 會顯著提高動脈粥樣硬化、心衰、心律不整等風險，且與 eGFR/albuminuria 呈階梯式關係。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_CKD_Q0014",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜戊 慢性腎臟病（CKD）" },
+  "stem": "CKD 病人用藥安全，下列何者最正確？",
+  "options": [
+    { "key": "A", "text": "腎功能不影響藥物半衰期" },
+    { "key": "B", "text": "多數腎排除藥物需依 eGFR 調整劑量或給藥間隔" },
+    { "key": "C", "text": "只要調整抗生素即可" },
+    { "key": "D", "text": "所有止痛藥都安全" }
+  ],
+  "answer": "B",
+  "explanation": "eGFR 下降會使多種藥物/代謝物蓄積，需劑量調整並避免腎毒性藥物。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_CKD_Q0015",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜戊 慢性腎臟病（CKD）" },
+  "stem": "下列何者屬於 CKD 病人應盡量避免或謹慎使用的腎毒性藥物類別？",
+  "options": [
+    { "key": "A", "text": "NSAIDs" },
+    { "key": "B", "text": "乙醯胺酚（acetaminophen）適量" },
+    { "key": "C", "text": "局部外用乳液" },
+    { "key": "D", "text": "生理食鹽水補液（適當使用）" }
+  ],
+  "answer": "A",
+  "explanation": "NSAIDs 可能抑制前列腺素造成入球收縮，並可惡化腎前性灌流狀態或誘發 AKI，CKD 應盡量避免或限縮使用。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_CKD_Q0016",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜戊 慢性腎臟病（CKD）" },
+  "stem": "下列何者最符合 CKD 病人常見的體液/電解質問題？",
+  "options": [
+    { "key": "A", "text": "持續性低血鉀最典型" },
+    { "key": "B", "text": "容量過負荷與高血鉀風險增加" },
+    { "key": "C", "text": "必然高血鈉" },
+    { "key": "D", "text": "必然低血鈣且 PTH 下降" }
+  ],
+  "answer": "B",
+  "explanation": "腎排水排鈉能力下降會導致容量過負荷；排鉀能力下降或 RAAS 抑制用藥會增加高血鉀風險。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_CKD_Q0017",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜戊 慢性腎臟病（CKD）" },
+  "stem": "CKD 病人若合併 albuminuria，何者最符合延緩腎病惡化的用藥方向？",
+  "options": [
+    { "key": "A", "text": "優先使用 NSAIDs 控制蛋白尿" },
+    { "key": "B", "text": "RAAS 抑制（如 ACEi/ARB）常可降低蛋白尿並延緩惡化（依個案監測肌酸酐/血鉀）" },
+    { "key": "C", "text": "一律避免所有降壓藥" },
+    { "key": "D", "text": "只要補鈣就可逆轉" }
+  ],
+  "answer": "B",
+  "explanation": "ACEi/ARB 可降低腎小球內壓與蛋白尿，對蛋白尿性 CKD 有腎保護效果，但需監測肌酸酐與血鉀並排除雙側 RAS 等情境。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_CKD_Q0018",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜戊 慢性腎臟病（CKD）" },
+  "stem": "CKD 造成尿毒症（uremia）常見症狀，下列何者最典型？",
+  "options": [
+    { "key": "A", "text": "食慾不振、噁心、疲倦、意識改變或尿毒性心包膜炎" },
+    { "key": "B", "text": "必然高熱" },
+    { "key": "C", "text": "必然皮疹與嗜酸性球增多" },
+    { "key": "D", "text": "只會導致咳嗽" }
+  ],
+  "answer": "A",
+  "explanation": "尿毒症可影響多系統：消化道症狀、神經精神症狀、出血傾向、心包膜炎等；屬於評估透析時機的重要臨床依據。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_CKD_Q0019",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜戊 慢性腎臟病（CKD）" },
+  "stem": "下列哪一項最能支持需要啟動透析的臨床情境？",
+  "options": [
+    { "key": "A", "text": "輕度肌酸酐上升但無症狀" },
+    { "key": "B", "text": "難以控制的肺水腫或容量過負荷" },
+    { "key": "C", "text": "單純輕度蛋白尿" },
+    { "key": "D", "text": "血鈉稍低但無症狀" }
+  ],
+  "answer": "B",
+  "explanation": "透析啟動多以症狀/併發症為主（AEIOU 概念延伸）：無法控制的容量過負荷、尿毒症狀、難治高血鉀/酸中毒等。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_CKD_Q0020",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜戊 慢性腎臟病（CKD）" },
+  "stem": "CKD 病人何時應開始進行透析與血管通路（AV fistula）規劃較合適？",
+  "options": [
+    { "key": "A", "text": "Stage 1 即必須立即建立" },
+    { "key": "B", "text": "接近末期腎病（如 eGFR 下降到約 <30 且趨勢惡化）時開始教育/轉介與通路規劃" },
+    { "key": "C", "text": "只要有蛋白尿就立即建立" },
+    { "key": "D", "text": "等到昏迷才需要規劃" }
+  ],
+  "answer": "B",
+  "explanation": "臨床上常在 G4（eGFR 15–29）前後開始密集準備（依惡化速度與症狀），以避免臨時導管透析。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_CKD_Q0021",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜戊 慢性腎臟病（CKD）" },
+  "stem": "下列何者較支持「腎性貧血」的典型血球型態？",
+  "options": [
+    { "key": "A", "text": "小球性低色素性（microcytic hypochromic）必然" },
+    { "key": "B", "text": "正球性正色素性（normocytic normochromic）常見" },
+    { "key": "C", "text": "巨球性（macrocytic）必然" },
+    { "key": "D", "text": "只有白血球下降" }
+  ],
+  "answer": "B",
+  "explanation": "CKD 貧血典型為 EPO 不足造成的正球性正色素性貧血；若合併缺鐵才可能呈小球性。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_CKD_Q0022",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜戊 慢性腎臟病（CKD）" },
+  "stem": "CKD 病人高血鉀的常見促發因子，下列何者正確？",
+  "options": [
+    { "key": "A", "text": "ACEi/ARB 或鉀保留型利尿劑使用" },
+    { "key": "B", "text": "單純補充維生素 C" },
+    { "key": "C", "text": "單純低脂飲食" },
+    { "key": "D", "text": "只有運動過多" }
+  ],
+  "answer": "A",
+  "explanation": "CKD 排鉀能力下降時，RAAS 抑制或鉀保留型利尿劑會增加高血鉀風險；另如代謝性酸中毒、組織破壞亦可促發。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_CKD_Q0023",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜戊 慢性腎臟病（CKD）" },
+  "stem": "CKD 病人若出現代謝性酸中毒，最符合的基本治療方向為何？",
+  "options": [
+    { "key": "A", "text": "常需評估以鹼化治療（如碳酸氫鈉）與找可逆因子" },
+    { "key": "B", "text": "一律禁水即可改善" },
+    { "key": "C", "text": "只要補鈣即可" },
+    { "key": "D", "text": "必然不需處理" }
+  ],
+  "answer": "A",
+  "explanation": "CKD 酸中毒治療多以補充鹼（依嚴重度與個案）並處理誘因；嚴重或合併症狀/難治者可能需透析。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_CKD_Q0024",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜戊 慢性腎臟病（CKD）" },
+  "stem": "CKD 病人常見的鈣磷代謝異常對臨床的重要性，下列何者正確？",
+  "options": [
+    { "key": "A", "text": "只影響骨頭，與血管無關" },
+    { "key": "B", "text": "與骨病變與血管鈣化/心血管風險相關" },
+    { "key": "C", "text": "只要補充鐵劑就可解決" },
+    { "key": "D", "text": "不需追蹤血磷與 PTH" }
+  ],
+  "answer": "B",
+  "explanation": "CKD-MBD 除骨代謝問題外，也與血管鈣化、心血管事件風險增加有關，因此需系統性監測與處置。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_CKD_Q0025",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜戊 慢性腎臟病（CKD）" },
+  "stem": "下列何者最符合 CKD 的評估應包含的基本項目？",
+  "options": [
+    { "key": "A", "text": "只需追蹤肌酸酐即可" },
+    { "key": "B", "text": "eGFR 趨勢、尿蛋白/白蛋白、電解質/酸鹼、血壓與併發症篩檢" },
+    { "key": "C", "text": "只要做心電圖即可" },
+    { "key": "D", "text": "只要做尿液培養即可" }
+  ],
+  "answer": "B",
+  "explanation": "CKD 需同時評估腎功能趨勢、蛋白尿、可逆/可治因素、心血管風險與併發症（貧血、MBD、酸鹼、鉀、容量）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_CKD_Q0026",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜戊 慢性腎臟病（CKD）" },
+  "stem": "何者最符合「CKD 轉介腎臟科」的常見時機概念？",
+  "options": [
+    { "key": "A", "text": "任何一次肌酸酐上升 0.1" },
+    { "key": "B", "text": "eGFR 顯著下降（如 <30）、快速惡化、重度蛋白尿或不明原因腎病" },
+    { "key": "C", "text": "只有感冒才需轉介" },
+    { "key": "D", "text": "只要有尿路感染就一定轉介" }
+  ],
+  "answer": "B",
+  "explanation": "常見轉介點：G4（<30）、快速下降、顯著蛋白尿/血尿、難治高血壓、疑遺傳或系統性疾病等，以利準備與延緩惡化。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_CKD_Q0027",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜戊 慢性腎臟病（CKD）" },
+  "stem": "CKD 病人常需要限制哪一項飲食成分以協助控制 CKD-MBD？",
+  "options": [
+    { "key": "A", "text": "磷攝取" },
+    { "key": "B", "text": "維生素 B12" },
+    { "key": "C", "text": "水分在所有病人都必須嚴格禁水" },
+    { "key": "D", "text": "完全不需飲食調整" }
+  ],
+  "answer": "A",
+  "explanation": "高血磷是 CKD-MBD 核心問題之一；飲食磷控制與（必要時）磷結合劑是常見處置方向。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_CKD_Q0028",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜戊 慢性腎臟病（CKD）" },
+  "stem": "CKD 病人出現水腫與呼吸喘，檢查發現肺水腫。最優先的處置方向通常為何？",
+  "options": [
+    { "key": "A", "text": "單純限制鹽水、評估利尿與容量管理，必要時升級到超濾/透析" },
+    { "key": "B", "text": "只要給抗生素" },
+    { "key": "C", "text": "只要給類固醇" },
+    { "key": "D", "text": "不需處理，等自然好轉" }
+  ],
+  "answer": "A",
+  "explanation": "容量過負荷是 CKD 常見急症；需優先處理呼吸循環並做容量控制（鹽水限制、利尿、必要時透析/超濾）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_CKD_Q0029",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜戊 慢性腎臟病（CKD）" },
+  "stem": "下列何者最符合「透析啟動」的核心原則？",
+  "options": [
+    { "key": "A", "text": "只看肌酸酐數字，越高越一定要透析" },
+    { "key": "B", "text": "以症狀與難治併發症為主（如高鉀、酸中毒、肺水腫、尿毒症狀），而非單一數值" },
+    { "key": "C", "text": "只要 eGFR <60 就透析" },
+    { "key": "D", "text": "透析只能在昏迷時才做" }
+  ],
+  "answer": "B",
+  "explanation": "臨床多以症狀/併發症驅動透析決策；eGFR 是參考但不是唯一標準。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_CKD_Q0030",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜戊 慢性腎臟病（CKD）" },
+  "stem": "下列何者是 CKD 病人可能出現的尿毒性心包膜炎線索？",
+  "options": [
+    { "key": "A", "text": "胸痛合併心包摩擦音（pericardial friction rub）" },
+    { "key": "B", "text": "單純流鼻水" },
+    { "key": "C", "text": "單純腹瀉" },
+    { "key": "D", "text": "單純皮膚搔癢且無其他不適" }
+  ],
+  "answer": "A",
+  "explanation": "尿毒性心包膜炎可表現胸痛與摩擦音，屬尿毒症嚴重表現之一，常需評估透析。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_CKD_Q0031",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜戊 慢性腎臟病（CKD）" },
+  "stem": "下列何者較符合 CKD 的常見皮膚相關症狀？",
+  "options": [
+    { "key": "A", "text": "尿毒性搔癢（uremic pruritus）可見" },
+    { "key": "B", "text": "必然黃疸" },
+    { "key": "C", "text": "必然紫斑症" },
+    { "key": "D", "text": "必然水痘樣皮疹" }
+  ],
+  "answer": "A",
+  "explanation": "CKD/透析病人常見尿毒性搔癢，與代謝與炎症因子、鈣磷失衡等多因素相關。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_CKD_Q0032",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜戊 慢性腎臟病（CKD）" },
+  "stem": "下列何者最符合 CKD 病人「血壓控制」在腎保護的臨床概念？",
+  "options": [
+    { "key": "A", "text": "血壓與腎病進展無關" },
+    { "key": "B", "text": "控制血壓可減緩腎功能惡化，尤其蛋白尿性 CKD 常需要更積極的腎保護策略" },
+    { "key": "C", "text": "只要血壓正常就不需追蹤腎功能" },
+    { "key": "D", "text": "只要吃利尿劑即可，不需其他策略" }
+  ],
+  "answer": "B",
+  "explanation": "高血壓是 CKD 進展的重要可調整因子；血壓控制與降低蛋白尿是延緩惡化的核心方向之一。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_CKD_Q0033",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜戊 慢性腎臟病（CKD）" },
+  "stem": "CKD 病人出現「高磷」時，下列何者較符合常見處置方向？",
+  "options": [
+    { "key": "A", "text": "增加高磷食物攝取" },
+    { "key": "B", "text": "飲食磷限制，必要時使用磷結合劑（phosphate binders）" },
+    { "key": "C", "text": "只要補鐵即可" },
+    { "key": "D", "text": "不需處理，與預後無關" }
+  ],
+  "answer": "B",
+  "explanation": "高血磷與 CKD-MBD/血管鈣化相關，常見處置為磷限制與（需要時）磷結合劑，並同時調整 Vit D/PTH 策略。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_CKD_Q0034",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜戊 慢性腎臟病（CKD）" },
+  "stem": "下列何者較符合 CKD 病人「高血鉀」的長期管理概念？",
+  "options": [
+    { "key": "A", "text": "完全不需飲食或用藥調整" },
+    { "key": "B", "text": "檢視誘因（藥物/酸中毒/飲食）、調整鉀攝取與用藥，必要時使用降鉀治療並監測" },
+    { "key": "C", "text": "只要補鈉就會自動改善" },
+    { "key": "D", "text": "只要給退燒藥即可" }
+  ],
+  "answer": "B",
+  "explanation": "長期管理重點是找誘因並做整體調整：飲食鉀、藥物（RAASi/K-sparing）、酸中毒與便祕等；嚴重或難治者需更進階治療/透析評估。"
+},
+
+  {
+  "id": "MED3_RENAL_INF_ORI_DIAL_Q0001",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜己 透析治療" },
+  "stem": "慢性血液透析（HD）最理想的長期血管通路為何？",
+  "options": [
+    { "key": "A", "text": "中心靜脈導管（CVC）" },
+    { "key": "B", "text": "動靜脈瘻管（AV fistula）" },
+    { "key": "C", "text": "周邊靜脈留置針" },
+    { "key": "D", "text": "動脈導管" }
+  ],
+  "answer": "B",
+  "explanation": "AV fistula 長期通暢率較佳、感染與血栓風險較低，通常是 HD 最佳長期血管通路；CVC 多為短期或臨時使用。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_DIAL_Q0002",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜己 透析治療" },
+  "stem": "下列何者是中心靜脈導管（CVC）相較 AV fistula 的主要缺點？",
+  "options": [
+    { "key": "A", "text": "不需要置入手術" },
+    { "key": "B", "text": "感染與血栓相關併發症風險較高" },
+    { "key": "C", "text": "成熟期較長" },
+    { "key": "D", "text": "無法立即使用" }
+  ],
+  "answer": "B",
+  "explanation": "CVC 優點是可立即使用，但缺點是感染、血栓、中心靜脈狹窄等風險較高。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_DIAL_Q0003",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜己 透析治療" },
+  "stem": "血液透析（HD）主要利用下列哪一種物理機轉清除小分子溶質（如尿素）？",
+  "options": [
+    { "key": "A", "text": "擴散（diffusion）" },
+    { "key": "B", "text": "蒸發（evaporation）" },
+    { "key": "C", "text": "沉澱（precipitation）" },
+    { "key": "D", "text": "凝固（coagulation）" }
+  ],
+  "answer": "A",
+  "explanation": "HD 主要以半透膜兩側濃度梯度進行擴散清除小分子；水分移除則以超濾（ultrafiltration）為主。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_DIAL_Q0004",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜己 透析治療" },
+  "stem": "血液透析中的超濾（ultrafiltration）主要用於達成下列何者？",
+  "options": [
+    { "key": "A", "text": "清除細菌" },
+    { "key": "B", "text": "移除水分/控制體液量" },
+    { "key": "C", "text": "增加紅血球生成" },
+    { "key": "D", "text": "提升補體活性" }
+  ],
+  "answer": "B",
+  "explanation": "超濾是以跨膜壓（TMP）移除水分，達到體液管理與乾體重（dry weight）調整。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_DIAL_Q0005",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜己 透析治療" },
+  "stem": "腹膜透析（PD）最典型的主要併發症為何？",
+  "options": [
+    { "key": "A", "text": "肺栓塞" },
+    { "key": "B", "text": "腹膜炎（peritonitis）" },
+    { "key": "C", "text": "腦出血" },
+    { "key": "D", "text": "甲狀腺風暴" }
+  ],
+  "answer": "B",
+  "explanation": "PD 最典型且重要的併發症是腹膜炎，常見表現為透析液混濁、腹痛、發燒。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_DIAL_Q0006",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜己 透析治療" },
+  "stem": "PD 相關腹膜炎最常見的致病菌類型為何？",
+  "options": [
+    { "key": "A", "text": "革蘭陰性菌（如 Pseudomonas）永遠最多" },
+    { "key": "B", "text": "皮膚常在菌的革蘭陽性球菌（如 Staphylococcus spp.）" },
+    { "key": "C", "text": "黴菌一定最多" },
+    { "key": "D", "text": "結核分枝桿菌一定最多" }
+  ],
+  "answer": "B",
+  "explanation": "PD 腹膜炎常由接觸污染導致，皮膚常在菌的革蘭陽性球菌（如 coagulase-negative staphylococci、S. aureus）常見。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_DIAL_Q0007",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜己 透析治療" },
+  "stem": "PD 腹膜炎最具代表性的臨床/透析液表現為何？",
+  "options": [
+    { "key": "A", "text": "透析液變清澈" },
+    { "key": "B", "text": "透析液混濁、腹痛，且透析液白血球上升" },
+    { "key": "C", "text": "只有咳嗽" },
+    { "key": "D", "text": "只有血壓上升" }
+  ],
+  "answer": "B",
+  "explanation": "PD 腹膜炎典型：透析液混濁（cloudy effluent）、腹痛±發燒，透析液細胞數（WBC）上升且以嗜中性球為主。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_DIAL_Q0008",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜己 透析治療" },
+  "stem": "血液透析中最常見的急性不適之一為「透析中低血壓」。下列何者最常見相關原因？",
+  "options": [
+    { "key": "A", "text": "超濾量過大或過快導致血管內容量下降" },
+    { "key": "B", "text": "紅血球突然大量生成" },
+    { "key": "C", "text": "補體過度上升" },
+    { "key": "D", "text": "透析使血鈉必然上升" }
+  ],
+  "answer": "A",
+  "explanation": "透析中低血壓常與超濾速率過高、乾體重設定不當、心臟功能不佳或自律神經障礙等相關。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_DIAL_Q0009",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜己 透析治療" },
+  "stem": "透析失衡症候群（dialysis disequilibrium syndrome）最常見於何種情境？",
+  "options": [
+    { "key": "A", "text": "長期規律透析且 BUN 很低" },
+    { "key": "B", "text": "初次或早期透析、尿素快速下降" },
+    { "key": "C", "text": "PD 腹膜炎治療中" },
+    { "key": "D", "text": "任何時候都一樣常見" }
+  ],
+  "answer": "B",
+  "explanation": "失衡症候群多見於初次/早期透析時尿素快速降低造成滲透壓梯度→腦水腫風險增加，表現頭痛、噁心、意識改變、抽搐。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_DIAL_Q0010",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜己 透析治療" },
+  "stem": "透析病人最重要的長期血管通路併發症之一為何？",
+  "options": [
+    { "key": "A", "text": "AV fistula 狹窄或血栓導致通路失效" },
+    { "key": "B", "text": "必然造成肺炎" },
+    { "key": "C", "text": "必然造成白血球過低" },
+    { "key": "D", "text": "必然造成甲亢" }
+  ],
+  "answer": "A",
+  "explanation": "透析通路常見問題為狹窄/血栓、感染（尤其 graft/CVC），需定期監測（thrill/bruit、透析壓力、血流量等）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_DIAL_Q0011",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜己 透析治療" },
+  "stem": "PD 相較 HD 的優點之一，下列何者較正確？",
+  "options": [
+    { "key": "A", "text": "需要每次到透析中心" },
+    { "key": "B", "text": "更連續、較溫和的體液移除，血流動力較穩定" },
+    { "key": "C", "text": "感染風險必然低於 AV fistula" },
+    { "key": "D", "text": "完全不需要自我照護能力" }
+  ],
+  "answer": "B",
+  "explanation": "PD 常被認為較連續且血流動力波動較小；但需要無菌操作與自我照護能力，且腹膜炎是重要風險。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_DIAL_Q0012",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜己 透析治療" },
+  "stem": "透析病人乾體重（dry weight）的概念，下列何者最符合？",
+  "options": [
+    { "key": "A", "text": "透析後體重越低越好" },
+    { "key": "B", "text": "無水腫/無低血壓等容量相關症狀時的目標體重" },
+    { "key": "C", "text": "不需要調整，固定不變" },
+    { "key": "D", "text": "只由 BMI 決定" }
+  ],
+  "answer": "B",
+  "explanation": "乾體重是估計的「正常容量狀態」體重，用於設定超濾目標；需依血壓、痙攣、肺水腫、下肢水腫等動態調整。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_DIAL_Q0013",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜己 透析治療" },
+  "stem": "透析病人為何常建議限制鹽分攝取？",
+  "options": [
+    { "key": "A", "text": "鹽分會直接破壞腎小球基底膜" },
+    { "key": "B", "text": "鹽分增加口渴與水分攝取，導致透析間體重增加與容量過負荷" },
+    { "key": "C", "text": "鹽分會讓透析器失效" },
+    { "key": "D", "text": "鹽分會讓血鈣必然上升" }
+  ],
+  "answer": "B",
+  "explanation": "限鹽可降低口渴與水分攝取，減少透析間體重增加（IDWG）與容量過負荷/高血壓。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_DIAL_Q0014",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜己 透析治療" },
+  "stem": "血液透析中使用 heparin 的主要目的為何？",
+  "options": [
+    { "key": "A", "text": "治療貧血" },
+    { "key": "B", "text": "避免體外循環與透析器凝血" },
+    { "key": "C", "text": "降低血鉀" },
+    { "key": "D", "text": "提升血鈣" }
+  ],
+  "answer": "B",
+  "explanation": "體外循環容易凝血，常需抗凝（如 heparin）；但有出血風險者需調整策略（低/無 heparin 或區域抗凝）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_DIAL_Q0015",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜己 透析治療" },
+  "stem": "下列何者為透析病人常見的骨礦物質問題與處置方向？",
+  "options": [
+    { "key": "A", "text": "高磷：以磷限制與磷結合劑為主" },
+    { "key": "B", "text": "低磷：必須大量補磷" },
+    { "key": "C", "text": "PTH 永遠不需追蹤" },
+    { "key": "D", "text": "透析能完全取代腎臟所有內分泌功能" }
+  ],
+  "answer": "A",
+  "explanation": "透析仍常見 CKD-MBD（高磷、PTH 異常等），需飲食/藥物與透析處方共同管理。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_DIAL_Q0016",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜己 透析治療" },
+  "stem": "透析病人若出現「通路感染」的警訊，下列何者最符合？",
+  "options": [
+    { "key": "A", "text": "穿刺點紅腫熱痛或化膿，合併發燒/寒顫" },
+    { "key": "B", "text": "只有食慾變好" },
+    { "key": "C", "text": "只有皮膚乾燥" },
+    { "key": "D", "text": "只有體重下降 0.1 kg" }
+  ],
+  "answer": "A",
+  "explanation": "通路感染可表現局部發炎（erythema、tenderness、drainage）與菌血症症狀（發燒、寒顫），需盡快評估與處置。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_DIAL_Q0017",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜己 透析治療" },
+  "stem": "透析病人若透析中出現肌肉痙攣（cramp），最常見相關因素為何？",
+  "options": [
+    { "key": "A", "text": "超濾過快導致血管內容量下降" },
+    { "key": "B", "text": "突然高血鈣" },
+    { "key": "C", "text": "突然高血糖" },
+    { "key": "D", "text": "補體上升" }
+  ],
+  "answer": "A",
+  "explanation": "透析痙攣常與容量快速移除（高 UF rate）相關，與透析中低血壓常同時出現；需評估乾體重與 UF 設定。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_DIAL_Q0018",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜己 透析治療" },
+  "stem": "PD 的超濾主要仰賴下列何者？",
+  "options": [
+    { "key": "A", "text": "透析液葡萄糖造成滲透壓梯度" },
+    { "key": "B", "text": "透析液的抗生素濃度" },
+    { "key": "C", "text": "透析液的血紅素濃度" },
+    { "key": "D", "text": "透析液的氧分壓" }
+  ],
+  "answer": "A",
+  "explanation": "PD 以腹膜為半透膜，透析液常以葡萄糖提供滲透壓梯度達到水分移除（超濾）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_DIAL_Q0019",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜己 透析治療" },
+  "stem": "下列何者較不利於選擇腹膜透析（PD）？",
+  "options": [
+    { "key": "A", "text": "反覆嚴重腹膜炎或腹部手術造成嚴重沾黏" },
+    { "key": "B", "text": "希望居家透析" },
+    { "key": "C", "text": "血流動力不穩定傾向" },
+    { "key": "D", "text": "可配合無菌操作" }
+  ],
+  "answer": "A",
+  "explanation": "嚴重腹腔沾黏、反覆難治腹膜炎、無法自我照護或不適合居家環境等，可能不利 PD。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_DIAL_Q0020",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜己 透析治療" },
+  "stem": "透析病人感染 B 型肝炎的風險管理，下列何者最重要？",
+  "options": [
+    { "key": "A", "text": "不需要任何疫苗" },
+    { "key": "B", "text": "疫苗接種與透析單位感染管制（含分區/器材管理）" },
+    { "key": "C", "text": "只要吃止痛藥即可預防" },
+    { "key": "D", "text": "只要限制蛋白質即可" }
+  ],
+  "answer": "B",
+  "explanation": "透析族群血液暴露機會高，需強化感染管制並建議 HBV 疫苗與抗體追蹤。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_DIAL_Q0021",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜己 透析治療" },
+  "stem": "透析 adequacy 常用的指標之一為 Kt/V。其最接近的概念為何？",
+  "options": [
+    { "key": "A", "text": "血紅素與血小板比值" },
+    { "key": "B", "text": "尿素清除量相對於體內分布容積的比例" },
+    { "key": "C", "text": "腎絲球基底膜厚度" },
+    { "key": "D", "text": "血壓波動幅度" }
+  ],
+  "answer": "B",
+  "explanation": "Kt/V 中 K 為清除率、t 為時間、V 為尿素分布容積（約等於總體水），用來評估透析清除充分性。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_DIAL_Q0022",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜己 透析治療" },
+  "stem": "下列何者屬於透析的「急症適應症」常用框架（AEIOU）之一？",
+  "options": [
+    { "key": "A", "text": "難治高血鉀（Electrolytes）" },
+    { "key": "B", "text": "輕微皮膚搔癢" },
+    { "key": "C", "text": "輕度蛋白尿" },
+    { "key": "D", "text": "單純失眠" }
+  ],
+  "answer": "A",
+  "explanation": "AEIOU：Acidosis、Electrolytes（高鉀）、Intoxications、Overload、Uremia（症狀）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_DIAL_Q0023",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜己 透析治療" },
+  "stem": "PD 病人若出現出口處（exit-site）感染，最可能的表現為何？",
+  "options": [
+    { "key": "A", "text": "出口處紅腫、分泌物或疼痛" },
+    { "key": "B", "text": "只有咳嗽" },
+    { "key": "C", "text": "只有血壓上升" },
+    { "key": "D", "text": "只有關節痛" }
+  ],
+  "answer": "A",
+  "explanation": "PD catheter exit-site infection 典型為出口處發炎與分泌物，需及早治療以降低隧道感染與腹膜炎風險。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_DIAL_Q0024",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜己 透析治療" },
+  "stem": "血液透析過程中若出現發燒寒顫，最需要優先考慮並處置的危險狀況為何？",
+  "options": [
+    { "key": "A", "text": "通路相關菌血症（access-related bloodstream infection）" },
+    { "key": "B", "text": "單純熱中暑" },
+    { "key": "C", "text": "甲狀腺低下" },
+    { "key": "D", "text": "偏頭痛" }
+  ],
+  "answer": "A",
+  "explanation": "透析中發燒寒顫須高度懷疑通路感染/菌血症（尤其 CVC），需快速評估、抽培養與給抗生素並處理通路。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_DIAL_Q0025",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜己 透析治療" },
+  "stem": "透析病人高血鉀急救中，最立即的心肌保護處置為何？",
+  "options": [
+    { "key": "A", "text": "口服樹脂" },
+    { "key": "B", "text": "胰島素加葡萄糖" },
+    { "key": "C", "text": "靜脈注射鈣劑" },
+    { "key": "D", "text": "利尿劑" }
+  ],
+  "answer": "C",
+  "explanation": "高血鉀合併心電圖變化時首要是 IV calcium 穩定心肌細胞膜；後續再做鉀轉移（insulin/glucose）與移除（透析等）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_DIAL_Q0026",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜己 透析治療" },
+  "stem": "透析病人常見的疫苗建議方向，下列何者較正確？",
+  "options": [
+    { "key": "A", "text": "不需要流感疫苗" },
+    { "key": "B", "text": "通常建議包含流感與 B 肝疫苗等（依個案與國家建議）" },
+    { "key": "C", "text": "只需要破傷風疫苗" },
+    { "key": "D", "text": "疫苗會導致透析失效所以避免" }
+  ],
+  "answer": "B",
+  "explanation": "透析病人感染風險較高，常建議流感、HBV 等疫苗與免疫狀態追蹤（依當地指引）。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_DIAL_Q0027",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜己 透析治療" },
+  "stem": "PD 透析液若發現混濁，最正確的下一步通常為何？",
+  "options": [
+    { "key": "A", "text": "不理會，等自然變清" },
+    { "key": "B", "text": "立即留取透析液檢體（細胞數、培養）並依懷疑腹膜炎處置" },
+    { "key": "C", "text": "只做胸部 X 光" },
+    { "key": "D", "text": "只要停掉降壓藥即可" }
+  ],
+  "answer": "B",
+  "explanation": "透析液混濁需高度懷疑腹膜炎；應迅速送檢（WBC/分類、Gram stain/培養）並及早開始適當抗生素。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_DIAL_Q0028",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜己 透析治療" },
+  "stem": "血液透析「透析器膜（dialyzer membrane）」的主要功能，下列何者最符合？",
+  "options": [
+    { "key": "A", "text": "提供半透膜進行溶質擴散與水分超濾" },
+    { "key": "B", "text": "製造 EPO" },
+    { "key": "C", "text": "合成維生素 D" },
+    { "key": "D", "text": "分泌胰島素" }
+  ],
+  "answer": "A",
+  "explanation": "dialyzer 提供半透膜，透過濃度/壓力梯度進行溶質清除與水分移除。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_DIAL_Q0029",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜己 透析治療" },
+  "stem": "下列何者較符合血液透析（HD）與腹膜透析（PD）在生活型態上的差異？",
+  "options": [
+    { "key": "A", "text": "HD 多為中心定期治療；PD 多可居家執行但需嚴格無菌操作" },
+    { "key": "B", "text": "HD 一定比 PD 更自由" },
+    { "key": "C", "text": "PD 一定不需要任何訓練" },
+    { "key": "D", "text": "兩者完全無差異" }
+  ],
+  "answer": "A",
+  "explanation": "HD 常在透析中心定期進行；PD 可居家（CAPD/APD）但仰賴病人訓練與無菌技術，並需處理出口處照護。"
+},
+{
+  "id": "MED3_RENAL_INF_ORI_DIAL_Q0030",
+  "source_type": "original",
+  "book": { "code": "MED_03_RENAL_INF", "title": "三(3) 腎內、感染" },
+  "location": { "section": "第一篇 腎內科｜己 透析治療" },
+  "stem": "透析病人若出現尿毒性症狀（如噁心、意識改變）且合併難治代謝性酸中毒，最符合的處置方向為何？",
+  "options": [
+    { "key": "A", "text": "僅給止吐藥即可" },
+    { "key": "B", "text": "評估透析（urgent dialysis）或加強透析策略" },
+    { "key": "C", "text": "只要補鈣即可" },
+    { "key": "D", "text": "完全不需處理" }
+  ],
+  "answer": "B",
+  "explanation": "尿毒症狀與難治酸中毒屬透析重要適應症；需依臨床嚴重度評估緊急或加強透析。"
 }
   
 ]
