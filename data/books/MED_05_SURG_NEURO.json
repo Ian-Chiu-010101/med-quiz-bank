@@ -2724,6 +2724,205 @@
     "explanation": "成人腦血流量約 50 mL/100 g/min（全腦約 700–900 mL/min），大致占心輸出量約 15% 左右；同時腦耗氧量約占全身耗氧量約 20%（兩者常一起考）。",
     "source": "子三 三叉神經痛及其他｜題 17（103一）專醫五-12",
     "tags": ["physiology", "cerebral blood flow"]
+  },
+
+
+  
+  {
+    "id": "MED_05_01_NS_Q0092",
+    "stem": "有關椎間盤退化疾病（degenerative disc disease）的敘述，下列何者最不適當？",
+    "options": [
+      { "key": "A", "text": "大部分椎間盤退化會引起背痛，可用磁振造影來判讀疼痛的椎間盤" },
+      { "key": "B", "text": "椎間盤退化會使椎間盤脫水、高度降低，並改變其機械特性" },
+      { "key": "C", "text": "椎間盤退化造成的背痛會因屈曲（flexion）而加劇；坐姿增加椎間盤內壓可加重疼痛，且可輻射至臀部、大腿或腹股溝" },
+      { "key": "D", "text": "椎間盤退化疾病的治療效果較其他脊椎病變差；若需手術，常合併脊椎融合術（spinal fusion）" }
+    ],
+    "answer": "A",
+    "explanation": "椎間盤退化非常常見，且「影像退化 ≠ 疼痛來源」。MRI 可顯示脫水、height loss、annular tear、Modic changes 等，但無法單憑影像就定位「哪一節一定是痛源」。臨床仍需病史/理學檢查（屈曲誘發、坐姿加重等）與排除其他痛源（facet、SI joint、hip）。\nB/C/D 為合理描述：退化→含水量下降/高度下降/力學改變；discogenic pain 常在前彎與久坐更痛；手術若做，多以融合/（或特定條件下）人工椎間盤為主，且整體療效與適應症挑選高度相關。",
+    "source": "辛 脊椎疾病｜題 13（112一）專醫五-62",
+    "tags": ["neurosurgery", "spine", "degenerative_disc_disease", "imaging_pitfall"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0093",
+    "stem": "下列關於頸椎退化性疾病的治療敘述，何者最不適當？",
+    "options": [
+      { "key": "A", "text": "急性頸椎神經根病變通常先以保守治療（休息、復健、藥物）處理，多數可改善" },
+      { "key": "B", "text": "若保守治療後症狀仍未改善，可考慮手術治療" },
+      { "key": "C", "text": "手術治療後肩頸疼痛與神經症狀都能全部改善，可回到原本生活和工作" },
+      { "key": "D", "text": "前位椎間盤切除減壓術後可能有聲音沙啞、喝水易嗆到、吞嚥困難等風險" }
+    ],
+    "answer": "C",
+    "explanation": "頸椎退化性疾病（含 radiculopathy / myelopathy）手術目標是「減壓、穩定、避免惡化」，症狀改善多為機率問題，且受術前病程長短、神經受損程度、影像壓迫型態等影響；不可能保證“全部改善”。因此 (C) 過度絕對。\nA/B/D 為正確臨床原則：多數急性神經根症狀可先保守；未改善或有進展性缺損再評估手術；前位頸椎手術常見咽喉部不適/吞嚥困難/聲音沙啞（多為暫時）。",
+    "source": "辛 脊椎疾病｜題 14（111二）專醫五-11",
+    "tags": ["neurosurgery", "spine", "cervical_spondylosis", "radiculopathy", "surgery_complications"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0094",
+    "stem": "有關椎間盤突出症（HIVD）的敘述，下列何者最不適當？",
+    "options": [
+      { "key": "A", "text": "protrusion、extrusion、sequestration 三種突出中，protrusion 最常見" },
+      { "key": "B", "text": "通常需要手術治療才能減壓神經並解除神經痛以達到最佳療效" },
+      { "key": "C", "text": "有症狀及徵象時，MRI 是診斷椎間盤突出最佳檢查" },
+      { "key": "D", "text": "術後感染、硬膜撕裂、神經根損傷及復發性椎間盤突出是常見併發症" }
+    ],
+    "answer": "B",
+    "explanation": "HIVD 大多可先保守治療（止痛/NSAIDs、活動調整、復健、必要時硬膜外注射等），許多病人症狀可在數週至 6 週內改善；手術多保留給「保守失敗且疼痛/功能障礙持續」或「進展性無力、馬尾症候群等紅旗」。因此 (B) 把手術說成“通常需要”是錯的。\n補充考點：手術適應症最常考進展性 motor deficit、大小便/會陰麻木；MRI 需與臨床對應（影像突出的節段未必就是症狀來源）。",
+    "source": "辛 脊椎疾病｜題 15（111二）專醫五-62",
+    "tags": ["neurosurosurgery", "spine", "hivd", "conservative_management", "red_flags"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0095",
+    "stem": "65 歲男性有頸椎退化病史，跌倒後頸痛；急診時四肢無力合併痛覺與溫度覺異常，上肢症狀比下肢嚴重，最可能的診斷為何？",
+    "options": [
+      { "key": "A", "text": "前脊髓症候群（anterior cord syndrome）" },
+      { "key": "B", "text": "中心脊髓症候群（central cord syndrome）" },
+      { "key": "C", "text": "脊髓半切症候群（Brown-Sequard syndrome）" },
+      { "key": "D", "text": "馬尾症候群（cauda equina syndrome）" }
+    ],
+    "answer": "B",
+    "explanation": "Central cord syndrome 典型：老年/頸椎狹窄基礎上遭受過伸性傷害（hyperextension）後，上肢運動受損 > 下肢，常合併溫痛覺異常（spinothalamic）。\n鑑別：anterior cord syndrome 以運動+溫痛覺受損、但本體覺保留為主，且不特別呈現上肢較重；Brown-Sequard 則是左右分離的運動/感覺缺損；cauda equina 為下腰薦神經根症狀（會陰麻木、大小便、下肢為主）。",
+    "source": "辛 脊椎疾病｜題 16（111一）專醫五-75",
+    "tags": ["neurosurgery", "spine", "trauma", "central_cord_syndrome"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0096",
+    "stem": "絞刑骨折（hangman's fracture）是指下列何者？",
+    "options": [
+      { "key": "A", "text": "C1 環狀骨多處斷裂（Jefferson fracture）" },
+      { "key": "B", "text": "齒突骨折 type II（through base）" },
+      { "key": "C", "text": "齒突骨折 type I（tip）" },
+      { "key": "D", "text": "雙側 C2 pars/pedicles 骨折合併滑脫（spondylolisthesis）" }
+    ],
+    "answer": "D",
+    "explanation": "Hangman's fracture = C2 pars interarticularis（或 pedicles）雙側骨折，常由高能量過伸/牽張造成，並可伴隨 C2 on C3 的滑脫。這是典型定義題。\n快速對照：Jefferson = C1 burst；odontoid fractures = C2 dens。",
+    "source": "辛 脊椎疾病｜題 17（111一）專醫五-2",
+    "tags": ["neurosurgery", "spine", "trauma", "hangmans_fracture"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0097",
+    "stem": "有關腰椎神經根（lumbar spinal root）支配的肌肉及動作，下列敘述何者最不適當？",
+    "options": [
+      { "key": "A", "text": "股四頭肌主要由 L3–L4 支配，動作為膝伸直（knee extension）" },
+      { "key": "B", "text": "脛前肌主要由 L4–L5 支配，動作為踝背屈（ankle dorsiflexion）" },
+      { "key": "C", "text": "腓骨長/短肌主要由 L5–S1 支配，動作為踝外翻（ankle eversion）" },
+      { "key": "D", "text": "伸拇趾長肌（extensor hallucis longus）主要由 S1 支配，動作為大拇趾伸展" }
+    ],
+    "answer": "D",
+    "explanation": "EHL（大拇趾背伸）經典考點是 L5（常用口訣：L5 大拇趾、S1 小拇趾/踝蹠屈）。因此把 EHL 說成主要由 S1 支配是錯。\n其餘配對為常考 myotome：L3–4 膝伸、L4–5 足背屈、L5–S1 外翻。",
+    "source": "辛 脊椎疾病｜題 18（110二）專醫五-62",
+    "tags": ["neurosurgery", "spine", "myotome", "radiculopathy"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0098",
+    "stem": "下列關於吊頸骨折（Hangman's fracture）之敘述何者正確？",
+    "options": [
+      { "key": "A", "text": "C1 lateral mass burst fracture" },
+      { "key": "B", "text": "C2 pars interarticularis fracture 並骨折移位" },
+      { "key": "C", "text": "C3–C4 伸張性損傷" },
+      { "key": "D", "text": "雙側性關節面鎖住（locked facet）" }
+    ],
+    "answer": "B",
+    "explanation": "Hangman's fracture 的本質就是 C2 pars interarticularis（或 pedicles）骨折，常見過伸性機轉並可伴移位/滑脫。\nA 是 Jefferson 的語意；D 多見於下頸椎的 facet dislocation；C 非定義。",
+    "source": "辛 脊椎疾病｜題 19（110二）專醫五-11",
+    "tags": ["neurosurgery", "spine", "trauma", "hangmans_fracture"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0099",
+    "stem": "關於 intraspinal tumors 的敘述，下列何者正確？",
+    "options": [
+      { "key": "A", "text": "最常見的 extradural tumor 為 metastatic tumor" },
+      { "key": "B", "text": "最常見的 intradural extramedullary tumor 為 metastatic tumor" },
+      { "key": "C", "text": "最常見的 intramedullary tumor 為 metastatic tumor" },
+      { "key": "D", "text": "最常見的 intramedullary tumor 為 meningioma" }
+    ],
+    "answer": "A",
+    "explanation": "脊椎/硬膜外腫瘤最常見是轉移（metastasis）。\n高頻分層考點：intradural extramedullary 常見為 meningioma、schwannoma；intramedullary 常見為 astrocytoma（兒童）/ ependymoma（成人）而非 metastasis（相對少）。",
+    "source": "辛 脊椎疾病｜題 20（110二）專醫五-9",
+    "tags": ["neurosurgery", "spine", "tumor", "metastasis"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0100",
+    "stem": "有關腰椎退化神經病變，下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "腰椎椎間盤突出（lumbar disc herniation）最常發生在 L3-4 或 L4-5" },
+      { "key": "B", "text": "退化性椎管狹窄常因小面關節增生、黃韌帶肥厚造成神經通道狹小" },
+      { "key": "C", "text": "間歇性跛行可藉由暫時坐下而使症狀緩解" },
+      { "key": "D", "text": "踝反射降低通常代表 S1 神經根壓迫" }
+    ],
+    "answer": "A",
+    "explanation": "腰椎椎間盤突出最常見是 L4-5，其次 L5-S1；L3-4 相對少見。因此 (A) 把 L3-4 拉到最常見並列，是錯。\nB/C/D 為典型退化性狹窄/神經根考點：facet hypertrophy + ligamentum flavum hypertrophy；neurogenic claudication 以前彎/坐下改善；Achilles reflex 對應 S1。",
+    "source": "辛 脊椎疾病｜題 21（110一）專醫五-10",
+    "tags": ["neurosurgery", "spine", "degenerative", "stenosis", "radiculopathy"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0101",
+    "stem": "30 歲男性車禍後短暫昏迷，恢復意識後左手腳無力、右側麻痛；左手前臂可彎曲但難抓握或伸直，右手腳對溫度與痛覺較不敏感。下列敘述何者正確？",
+    "options": [
+      { "key": "A", "text": "絕大多數脊椎損傷位於腰椎" },
+      { "key": "B", "text": "C6 傷害一定會造成立即呼吸衰竭" },
+      { "key": "C", "text": "central cord syndrome 對下肢影響大過上肢" },
+      { "key": "D", "text": "對於脊髓損傷，MRI 評估通常優於 CT" }
+    ],
+    "answer": "D",
+    "explanation": "本題同時在考「脊髓 vs 骨性結構」：CT 對骨折/排列佳；MRI 對脊髓挫傷、出血、韌帶、椎間盤、硬膜外血腫等軟組織/神經結構評估更關鍵，因此 (D) 正確。\nA 錯：脊椎損傷常見於頸椎。B 錯：橫膈膜 C3–5；C6 不必然呼吸衰竭。C 錯：central cord syndrome 典型上肢 > 下肢。",
+    "source": "辛 脊椎疾病｜題 22（110一）專醫五-51",
+    "tags": ["neurosurgery", "spine", "spinal_cord_injury", "imaging"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0102",
+    "stem": "承上題，此病人最可能的診斷是：",
+    "options": [
+      { "key": "A", "text": "Brown-Sequard syndrome" },
+      { "key": "B", "text": "central cord syndrome" },
+      { "key": "C", "text": "thalamic hemorrhage" },
+      { "key": "D", "text": "left humerus fracture" }
+    ],
+    "answer": "A",
+    "explanation": "左側運動無力（皮質脊髓束同側）合併對側溫痛覺下降（spinothalamic 交叉後對側上行）是典型 Brown-Sequard（半側脊髓損傷）圖像。\n考點：同側 motor + 同側本體覺↓、對側痛溫覺↓（起始通常在病灶下 1–2 節）。",
+    "source": "辛 脊椎疾病｜題 23（110一）專醫五-52",
+    "tags": ["neurosurgery", "spine", "brown_sequard", "neuroanatomy"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0103",
+    "stem": "55 歲女性近半年頸痛放射至右側三角肌區；手臂舉過頭維持外展可減輕疼痛，但頭後仰並轉向右側會誘發疼痛。下列敘述何者最適當？",
+    "options": [
+      { "key": "A", "text": "具有明顯上運動神經元徵象" },
+      { "key": "B", "text": "主要因旋轉肌袖與三角肌肌腱發炎" },
+      { "key": "C", "text": "主要因頸椎神經根受到壓迫" },
+      { "key": "D", "text": "大部分無法靠止痛消炎藥與復健改善" }
+    ],
+    "answer": "C",
+    "explanation": "這是頸椎神經根病變的典型模式：Spurling maneuver（伸展 + 同側旋轉/側彎）誘發症狀；shoulder abduction relief sign（手臂外展把手放頭上）可減輕症狀，代表神經根張力下降。\n因此最符合神經根壓迫（常見如 C5 radiculopathy 影響三角肌區域）。多數可先保守（NSAIDs、復健、姿勢/活動調整），不必一開始就否定非手術療效。",
+    "source": "辛 脊椎疾病｜題 24（110一）專醫五-63",
+    "tags": ["neurosurgery", "spine", "cervical_radiculopathy", "spurling", "shoulder_abduction_relief"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0104",
+    "stem": "腰椎椎間盤突出中，約 90% 發生在何處？",
+    "options": [
+      { "key": "A", "text": "L1-2 and L2-3" },
+      { "key": "B", "text": "L2-3 and L3-4" },
+      { "key": "C", "text": "L3-4 and L4-5" },
+      { "key": "D", "text": "L4-5 and L5-S1" }
+    ],
+    "answer": "D",
+    "explanation": "腰椎承重與活動度最大區段在下腰椎，因此 L4-5 與 L5-S1 為最常見突出位置，合計約占大多數（常用記憶：下腰椎是主戰場）。",
+    "source": "辛 脊椎疾病｜題 25（109一）專醫五-8",
+    "tags": ["neurosurgery", "spine", "hivd", "epidemiology"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0105",
+    "stem": "脊椎轉移性腫瘤中最常轉移的位置為：",
+    "options": [
+      { "key": "A", "text": "頸椎" },
+      { "key": "B", "text": "胸椎" },
+      { "key": "C", "text": "腰椎" },
+      { "key": "D", "text": "薦椎" }
+    ],
+    "answer": "B",
+    "explanation": "脊椎轉移最常見在胸椎（常見解釋：胸椎節段長、血流/靜脈叢與解剖因素使其成為常見落點；臨床上乳癌、肺癌等也常見脊椎轉移）。\n考點延伸：出現夜間骨痛、脊椎壓痛、進行性神經缺損/大小便異常需警覺 metastatic epidural spinal cord compression。",
+    "source": "辛 脊椎疾病｜題 26（109一）專醫五-9",
+    "tags": ["neurosurgery", "spine", "metastasis", "oncology"]
   }
 
 
