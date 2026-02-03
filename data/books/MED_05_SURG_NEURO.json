@@ -929,7 +929,514 @@
     ],
     "answer": "C",
     "explanation": "高風險者常需要 open abdomen/暫時性腹壁關閉策略，以避免關腹後腹內壓暴增。\n\nB（大量輸液）反而可能加重組織水腫與腹內壓；A/D 屬支持/監測，不能取代“避免早期關腹”的預防策略。"
+  },
+
+  
+  {
+    "id": "MED_05_01_COMP_Q0011",
+    "stem": "45 歲男性因急性冠狀動脈阻塞導致心因性休克，緊急完成冠狀動脈繞道手術後因心收縮不良而置放主動脈氣球幫浦（IABP）及體外膜氧合（ECMO），送加護病房觀察。左腳 6 小時後出現明顯鼓脹。下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "僅①②" },
+      { "key": "B", "text": "②③" },
+      { "key": "C", "text": "③④" },
+      { "key": "D", "text": "①②④" }
+    ],
+    "answer": "C",
+    "explanation": "臨床情境符合「急性腔室症候群（acute compartment syndrome）」：常見於周邊血管置管/缺血再灌流、出血或嚴重腫脹後。\n\n① 正確：第一步要做神經血管評估（疼痛、感覺/運動、毛細血管回填、遠端脈搏/多普勒），但注意腔室症候群可在仍有脈搏時發生（脈搏消失是晚期）。\n② 正確：肌肉缺血壞死可造成 CK 升高、肌紅蛋白尿與高鉀血症（考點：橫紋肌溶解）。\n③ 錯誤：壓力測量可輔助，但常用的手術判斷不是「>20 mmHg」單一門檻；多以「ΔP（舒張壓－腔室壓）≤30 mmHg」或腔室壓 ≥30–45 mmHg（依不同教科書/指引）作為筋膜切開指標，且若臨床高度懷疑應勿因等待數值而延誤。\n④ 錯誤：小腿標準為 4 個腔室：anterior、lateral、superficial posterior、deep posterior；不存在獨立的 medial 腔室（手術筋膜切開多採雙切口以減壓 4 腔室）。\n\n必背：最早且最敏感的臨床線索是「疼痛超出預期」與「被動牽拉痛（pain with passive stretch）」；處置上先移除外部壓迫（石膏/繃帶）、肢體與心臟同高、避免低血壓，並立即外科評估是否需筋膜切開。",
+    "source": "五(1) 外科概論、腦神外｜丁 外科併發症｜題 11（圖題）",
+    "tags": ["surgery", "compartment syndrome", "ecmo", "vascular complication"]
+  },
+  {
+    "id": "MED_05_01_INF_Q0001",
+    "stem": "有關手術預防性抗生素（surgical prophylactic antibiotics）的敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "清潔傷口（clean wound）不需要使用預防性抗生素" },
+      { "key": "B", "text": "清潔污染傷口（clean-contaminated wound）需要使用預防性抗生素" },
+      { "key": "C", "text": "在手術前 1 小時內給予預防性抗生素" },
+      { "key": "D", "text": "預防性抗生素通常在手術後不需要使用超過 24 小時" }
+    ],
+    "answer": "A",
+    "explanation": "清潔傷口是否「一律不需要」預防性抗生素是錯的：雖然低風險 clean wound 可不給，但若有植入物（mesh、人工關節、心血管植入物）、手術時間長、免疫抑制/糖尿病、或一旦感染後果嚴重（例如心臟手術）仍常建議預防性抗生素。\n\n考點整理：\n1) 給藥時機：切皮前 60 分鐘內（多數 β-lactam）；vancomycin/fluoroquinolone 因輸注時間較長，常需更早開始。\n2) 術中追加：手術時間超過 2 個半衰期或大量失血。\n3) 停藥：大多 ≤24 小時（心臟手術等少數例外亦多不超過 48 小時）。",
+    "source": "五(1) 外科概論、腦神外｜戊 外科感染｜題 1（113一）專醫五-15",
+    "tags": ["surgery", "infection", "antibiotic prophylaxis"]
+  },
+  {
+    "id": "MED_05_01_INF_Q0002",
+    "stem": "有關預防性抗生素（prophylactic antibiotic）的敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "對於手術部位感染（surgical site infection）有益處" },
+      { "key": "B", "text": "對於手術部位感染最常見的細菌是 Staphylococcus aureus" },
+      { "key": "C", "text": "若給予超過 48 小時會提高抗藥性的可能性" },
+      { "key": "D", "text": "術後 24 小時內停止就可以" }
+    ],
+    "answer": "A",
+    "explanation": "本題依原題答案為 A。臨床上更精確的表述是：預防性抗生素在「適當手術、適當時機與劑量」下可降低 SSI，但不能取代無菌技術，且並非所有手術皆需要。\n\n釐清重點：\n- 皮膚切口 SSI 常見菌：S. aureus / CoNS。\n- 延長使用（>24–48h）通常無助於降低 SSI，反增加抗藥性與 C. difficile 風險。\n\n（若你希望題庫更嚴謹：可在標註系統註明此題為『原題疑義/語意陷阱』。）",
+    "source": "五(1) 外科概論、腦神外｜戊 外科感染｜題 2（113一）專醫五-16",
+    "tags": ["surgery", "infection", "antibiotic prophylaxis"]
+  },
+  {
+    "id": "MED_05_01_INF_Q0003",
+    "stem": "下列何者屬於手術預防性抗生素的使用原則？",
+    "options": [
+      { "key": "A", "text": "手術前 48 小時開始使用" },
+      { "key": "B", "text": "手術前 1 小時內開始使用" },
+      { "key": "C", "text": "手術結束後再使用即可" },
+      { "key": "D", "text": "手術後使用 3 天" }
+    ],
+    "answer": "B",
+    "explanation": "預防性抗生素的核心是「切皮前達到足夠組織濃度」：通常切皮前 60 分鐘內給第一劑（vancomycin 等需更早完成輸注）。術後常規不需延長至 >24 小時。\n\n加分點：若手術時間過長或失血量大，需考慮術中追加劑量以維持有效濃度。",
+    "source": "五(1) 外科概論、腦神外｜戊 外科感染｜題 3（112二）專醫五-4",
+    "tags": ["surgery", "infection", "antibiotic prophylaxis"]
+  },
+  {
+    "id": "MED_05_01_INF_Q0004",
+    "stem": "下列何者為 clean wound（清潔傷口）最常見的致病菌？",
+    "options": [
+      { "key": "A", "text": "Escherichia coli" },
+      { "key": "B", "text": "Staphylococcus aureus" },
+      { "key": "C", "text": "Bacteroides fragilis" },
+      { "key": "D", "text": "Pseudomonas aeruginosa" }
+    ],
+    "answer": "B",
+    "explanation": "清潔切口的主要菌源來自皮膚常在菌：S. aureus 與 coagulase-negative staphylococci。\n\n考點：\n- 腸胃道/婦科/泌尿道等 clean-contaminated 需涵蓋腸道 G(-) 與厭氧菌（如 E. coli、B. fragilis）。\n- 燒燙傷或長期住院/器械相關感染才較常見 Pseudomonas。",
+    "source": "五(1) 外科概論、腦神外｜戊 外科感染｜題 4（112一）專醫五-15",
+    "tags": ["surgery", "infection", "ssi", "microbiology"]
+  },
+  {
+    "id": "MED_05_01_INF_Q0005",
+    "stem": "下列何種狀況最不容易導致手術傷口感染？",
+    "options": [
+      { "key": "A", "text": "手術時間超過 4 小時" },
+      { "key": "B", "text": "手術中大量出血" },
+      { "key": "C", "text": "使用人工植入物" },
+      { "key": "D", "text": "手術中維持正常體溫" }
+    ],
+    "answer": "A",
+    "explanation": "依原題答案為 A，但臨床上延長手術時間、失血、植入物皆會增加 SSI 風險；維持正常體溫反而是保護因子。\n\n較合理的考點整理：\n- 危險因子：手術時間長、失血/血腫、低體溫、低氧、糖尿病/營養不良、吸菸、污染程度、植入物。\n- 預防：維持體溫、氧合、血糖控制、適當抗生素與皮膚準備。\n\n建議：此題可在你的標籤系統註記「原題疑義/可能轉錄誤差」，以免學習者形成錯誤印象。",
+    "source": "五(1) 外科概論、腦神外｜戊 外科感染｜題 5（112一）專醫五-16",
+    "tags": ["surgery", "infection", "ssi", "risk factors"]
+  },
+  {
+    "id": "MED_05_01_INF_Q0006",
+    "stem": "下列何者不是外科病人手術後發燒（postoperative fever）的常見原因？",
+    "options": [
+      { "key": "A", "text": "肺不張（atelectasis）" },
+      { "key": "B", "text": "尿路感染（UTI）" },
+      { "key": "C", "text": "傷口感染" },
+      { "key": "D", "text": "深部靜脈栓塞（DVT）" }
+    ],
+    "answer": "C",
+    "explanation": "術後「極早期」（24–48h）發燒最常見是肺不張/炎症反應；傷口感染通常較晚（多在術後第 3–5 天或更晚）。因此選 (C)。\n\n時間軸速記（5W）：Wind（肺）、Water（UTI）、Wound（傷口）、Walking（DVT/PE）、Wonder drugs（藥物熱）。",
+    "source": "五(1) 外科概論、腦神外｜戊 外科感染｜題 6（111二）專醫五-3",
+    "tags": ["surgery", "infection", "postoperative fever"]
+  },
+  {
+    "id": "MED_05_01_INF_Q0007",
+    "stem": "下列何種手術傷口分類（wound classification）感染率最高？",
+    "options": [
+      { "key": "A", "text": "Clean" },
+      { "key": "B", "text": "Clean-contaminated" },
+      { "key": "C", "text": "Contaminated" },
+      { "key": "D", "text": "Dirty/Infected" }
+    ],
+    "answer": "D",
+    "explanation": "感染率隨污染程度遞增：Clean < Clean-contaminated < Contaminated < Dirty/Infected。\n\n分類速記：\n- Clean：無發炎、未進入呼吸/消化/泌尿/生殖道。\n- Clean-contaminated：受控進入管腔、無不尋常污染。\n- Contaminated：重大無菌破裂或明顯污染/急性非化膿性發炎。\n- Dirty/Infected：既存感染、膿瘍、穿孔、壞死組織。",
+    "source": "五(1) 外科概論、腦神外｜戊 外科感染｜題 7（111一）專醫五-15",
+    "tags": ["surgery", "infection", "wound classification"]
+  },
+  {
+    "id": "MED_05_01_INF_Q0008",
+    "stem": "關於術後傷口感染（wound infection）的敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "肥胖會增加感染風險" },
+      { "key": "B", "text": "糖尿病會增加感染風險" },
+      { "key": "C", "text": "維持正常體溫會增加感染風險" },
+      { "key": "D", "text": "低氧血症會增加感染風險" }
+    ],
+    "answer": "C",
+    "explanation": "維持正常體溫是降低 SSI 的重要策略：低體溫造成血管收縮、灌流下降、免疫功能受抑與凝血異常 → SSI 上升。\n\n其餘皆為常見風險因子：肥胖、糖尿病、低氧。",
+    "source": "五(1) 外科概論、腦神外｜戊 外科感染｜題 8（111一）專醫五-16",
+    "tags": ["surgery", "infection", "ssi", "perioperative care"]
+  },
+  {
+    "id": "MED_05_01_INF_Q0009",
+    "stem": "下列何者不是術後感染（postoperative infection）的危險因子？",
+    "options": [
+      { "key": "A", "text": "癌症病人接受手術" },
+      { "key": "B", "text": "營養不良" },
+      { "key": "C", "text": "高齡" },
+      { "key": "D", "text": "長時間手術" }
+    ],
+    "answer": "A",
+    "explanation": "依原題答案 A：癌症本身不必然等同感染危險因子；更關鍵是免疫抑制（化放療）、營養狀態與手術污染程度。\n\n其餘為公認風險因子：營養不良、高齡、手術時間長。",
+    "source": "五(1) 外科概論、腦神外｜戊 外科感染｜題 9（110二）專醫五-4",
+    "tags": ["surgery", "infection", "risk factors"]
+  },
+  {
+    "id": "MED_05_01_INF_Q0010",
+    "stem": "aspiration pneumonia（吸入性肺炎）相關敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "常見於意識改變或吞嚥功能障礙者" },
+      { "key": "B", "text": "放置鼻胃管不會增加吸入風險" },
+      { "key": "C", "text": "可由口咽分泌物或胃內容物吸入引起" },
+      { "key": "D", "text": "常需涵蓋厭氧菌的治療（視臨床情境）" }
+    ],
+    "answer": "B",
+    "explanation": "鼻胃管會增加胃食道逆流與誤吸風險，尤其在意識不清、鎮靜或仰臥者，因此 (B) 錯。\n\n補充：社區誤吸不一定常規加厭氧；若有肺膿瘍/壞死性肺炎、嚴重牙周病或明顯口腔污染才更需要厭氧涵蓋。",
+    "source": "五(1) 外科概論、腦神外｜戊 外科感染｜題 10（110一）專醫五-16",
+    "tags": ["surgery", "infection", "aspiration pneumonia"]
+  },
+  {
+    "id": "MED_05_01_INF_Q0011",
+    "stem": "有關 prophylactic antibiotics 的使用，下列何者不正確？",
+    "options": [
+      { "key": "A", "text": "可降低特定手術的 SSI" },
+      { "key": "B", "text": "需於切皮前給予以達足夠濃度" },
+      { "key": "C", "text": "clean wound 手術均應使用 prophylactic antibiotics" },
+      { "key": "D", "text": "多數情況術後不需超過 24 小時" }
+    ],
+    "answer": "C",
+    "explanation": "clean wound 並非「均」需 prophylaxis：低風險 clean wound 可不給；但植入物/免疫抑制/感染後果嚴重者才給。\n\n對照：clean-contaminated 通常需要；contaminated/dirty 多屬治療性抗生素（source control + antibiotics）。",
+    "source": "五(1) 外科概論、腦神外｜戊 外科感染｜題 11（109二）專醫五-3",
+    "tags": ["surgery", "infection", "antibiotic prophylaxis"]
+  },
+  {
+    "id": "MED_05_01_INF_Q0012",
+    "stem": "病人因單純性闌尾炎（simple appendicitis）接受闌尾切除術，術中無腸內容物外漏，屬於何種手術傷口分類？",
+    "options": [
+      { "key": "A", "text": "clean" },
+      { "key": "B", "text": "clean-contaminated" },
+      { "key": "C", "text": "contaminated" },
+      { "key": "D", "text": "dirty and infected" }
+    ],
+    "answer": "B",
+    "explanation": "在受控情況下進入腸道管腔 → clean-contaminated。\n\n若穿孔/膿瘍/外漏 → contaminated 或 dirty/infected（多數會歸 dirty）。",
+    "source": "五(1) 外科概論、腦神外｜戊 外科感染｜題 12（107二）專醫五-5",
+    "tags": ["surgery", "infection", "wound classification", "appendicitis"]
+  },
+  {
+    "id": "MED_05_01_INF_Q0013",
+    "stem": "有關各種抗生素作用機轉的敘述，下列何者正確？",
+    "options": [
+      { "key": "A", "text": "cephalosporins 抑制細菌細胞壁合成" },
+      { "key": "B", "text": "vancomycin 抑制細菌蛋白質合成" },
+      { "key": "C", "text": "rifampin 抑制細菌 DNA 合成" },
+      { "key": "D", "text": "quinolones 抑制細菌 RNA 合成" }
+    ],
+    "answer": "A",
+    "explanation": "機轉整理：\n- Cephalosporins：β-lactam，抑制細胞壁（PBP）。\n- Vancomycin：結合 D-Ala-D-Ala，抑制細胞壁（非蛋白質）。\n- Rifampin：抑制 DNA-dependent RNA polymerase（RNA 合成）。\n- Quinolones：抑制 DNA gyrase / topo IV（DNA 合成）。",
+    "source": "五(1) 外科概論、腦神外｜戊 外科感染｜題 13（106二）專醫五-63",
+    "tags": ["infectious disease", "antibiotics", "mechanism"]
+  },
+  {
+    "id": "MED_05_01_INF_Q0014",
+    "stem": "與腹腔內感染（intra-abdominal infections）相關敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "腹部 CT 有助診斷" },
+      { "key": "B", "text": "處置不當可能導致 MODS" },
+      { "key": "C", "text": "所有腹腔內感染都必須手術治療" },
+      { "key": "D", "text": "老年與營養不良者併發症風險較高" }
+    ],
+    "answer": "C",
+    "explanation": "腹腔內感染不一定都要開刀：部分可用抗生素合併影像導引引流（percutaneous drainage）。核心是「source control」：修補穿孔、切除壞死、引流膿瘍。\n\n是否需手術取決於是否廣泛腹膜炎、是否可引流、以及病人穩定度。",
+    "source": "五(1) 外科概論、腦神外｜戊 外科感染｜題 14（106一）專醫五-7",
+    "tags": ["surgery", "infection", "intra-abdominal infection", "source control"]
+  },
+  {
+    "id": "MED_05_01_INF_Q0015",
+    "stem": "下列敘述何者正確？",
+    "options": [
+      { "key": "A", "text": "植入物相關感染通常發生在肺部" },
+      { "key": "B", "text": "手術後發燒需立即給予抗生素" },
+      { "key": "C", "text": "尿路感染是手術後最常見的非手術感染（nonsurgical infection）" },
+      { "key": "D", "text": "經驗性治療最好一律同時涵蓋厭氧菌" }
+    ],
+    "answer": "C",
+    "explanation": "術後最常見的非手術部位感染多為尿路感染（尤其導尿者）。\n\n錯誤選項釐清：植入物感染多在植入部位；術後發燒需先分期評估；經驗性治療需依感染部位與風險分層，不是每次都要厭氧涵蓋。",
+    "source": "五(1) 外科概論、腦神外｜戊 外科感染｜題 15（105二）專醫五-2",
+    "tags": ["surgery", "infection", "postoperative infection"]
+  },
+  {
+    "id": "MED_05_01_INF_Q0016",
+    "stem": "導致手術部位感染（SSI）的危險因子，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "手術部位有血腫" },
+      { "key": "B", "text": "低氧血症" },
+      { "key": "C", "text": "不抽菸的年輕病人" },
+      { "key": "D", "text": "營養不良" }
+    ],
+    "answer": "C",
+    "explanation": "(C) 不是危險因子。\n\n必背危險因子：血腫/死腔、低氧、低體溫、吸菸、糖尿病/高血糖、營養不良、肥胖、免疫抑制、手術時間長、污染程度高、植入物。",
+    "source": "五(1) 外科概論、腦神外｜戊 外科感染｜題 16（105二）專醫五-8",
+    "tags": ["surgery", "infection", "ssi", "risk factors"]
+  },
+  {
+    "id": "MED_05_01_INF_Q0017",
+    "stem": "對於 Clostridium difficile colitis 的敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "外科病人中並不少見，特別是一般外科與血管外科" },
+      { "key": "B", "text": "臨床表現可從無症狀帶原到偽膜性大腸炎、猛爆性大腸炎、毒性巨結腸" },
+      { "key": "C", "text": "主要治療方法是 vancomycin 靜脈注射" },
+      { "key": "D", "text": "CT 可見結腸壁變厚、水腫，甚至腹水" }
+    ],
+    "answer": "C",
+    "explanation": "C. difficile 是腸腔內感染，治療以「口服」vancomycin 或 fidaxomicin 為主；IV vancomycin 在腸腔內濃度不足。\n\n重症併 ileus/megacolon 時：可加用口服/灌腸 vancomycin + IV metronidazole（因腸阻塞時口服藥到不了遠端）。",
+    "source": "五(1) 外科概論、腦神外｜戊 外科感染｜題 17（104一）專醫五-1",
+    "tags": ["infectious disease", "c difficile", "antibiotics"]
+  },
+  {
+    "id": "MED_05_01_INF_Q0018",
+    "stem": "58 歲糖尿病女性跌落水溝造成右小腿撕裂傷，傷口曾浸於水溝水中。下列何者是最適當治療？",
+    "options": [
+      { "key": "A", "text": "生理食鹽水沖洗後立即縫合" },
+      { "key": "B", "text": "清創後立即縫合" },
+      { "key": "C", "text": "清創後縫合並局部抗生素" },
+      { "key": "D", "text": "反覆清創＋局部或全身抗生素，待感染控制後再縫合或植皮" }
+    ],
+    "answer": "D",
+    "explanation": "高度污染 + 糖尿病 → 感染風險高：原則是徹底灌洗、反覆清創、系統性抗生素，並採延遲縫合（delayed primary closure）或後續植皮。\n\n立即縫合會把污染封在深部 → 深部感染/壞死風險上升。",
+    "source": "五(1) 外科概論、腦神外｜戊 外科感染｜題 18（104一）專醫五-6",
+    "tags": ["surgery", "wound care", "infection", "diabetes"]
+  },
+  {
+    "id": "MED_05_01_INF_Q0019",
+    "stem": "淺層手術部位感染（superficial SSI）定義為手術後幾天內發生？",
+    "options": [
+      { "key": "A", "text": "3 天" },
+      { "key": "B", "text": "7 天" },
+      { "key": "C", "text": "30 天" },
+      { "key": "D", "text": "1 年" }
+    ],
+    "answer": "C",
+    "explanation": "依 SSI 定義：superficial incisional SSI 於術後 30 天內發生。此題常見陷阱（3 天/7 天也包含在 30 天內），但題目問的是「定義」，以 30 天為準。",
+    "source": "五(1) 外科概論、腦神外｜戊 外科感染｜題 19（104一）專醫五-7",
+    "tags": ["surgery", "infection", "ssi", "definition"]
+  },
+  {
+    "id": "MED_05_01_INF_Q0020",
+    "stem": "下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "胃惡性腫瘤的根治性切除手術是使用預防性抗生素的適應症" },
+      { "key": "B", "text": "clean-contaminated wound 指在控制情形下進入呼吸/消化/生殖/泌尿道且無不尋常污染" },
+      { "key": "C", "text": "正確使用預防性抗生素就不必注意皮膚消毒" },
+      { "key": "D", "text": "低風險 clean wound 手術可不必使用預防性抗生素" }
+    ],
+    "answer": "C",
+    "explanation": "抗生素不能取代無菌技術：皮膚準備、無菌操作、止血與減少死腔、維持氧合與體溫、血糖控制等都同等重要，因此 (C) 錯。",
+    "source": "五(1) 外科概論、腦神外｜戊 外科感染｜題 20（104一）專醫五-8",
+    "tags": ["surgery", "infection", "antibiotic prophylaxis", "asepsis"]
+  },
+  {
+    "id": "MED_05_01_INF_Q0021",
+    "stem": "70 歲女性接受亞全胃切除術（subtotal gastrectomy），下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "不需要使用預防性抗生素" },
+      { "key": "B", "text": "要有良好的止血" },
+      { "key": "C", "text": "不要殘留異物於手術部位" },
+      { "key": "D", "text": "維持病人正常體溫" }
+    ],
+    "answer": "A",
+    "explanation": "胃切除屬於進入消化道的 clean-contaminated 手術，通常需要預防性抗生素。\n\n其餘皆為降低 SSI 的標準措施：止血避免血腫、避免異物、維持體溫。",
+    "source": "五(1) 外科概論、腦神外｜戊 外科感染｜題 21（103一）專醫五-1",
+    "tags": ["surgery", "infection", "antibiotic prophylaxis", "gastrectomy"]
+  },
+  {
+    "id": "MED_05_01_TXP_Q0001",
+    "stem": "腎臟移植前評估接受者是否需抗體誘導療法（antibody induction therapy），下列何者不是常用來評估的免疫危險因素（immunologic risk factor）？",
+    "options": [
+      { "key": "A", "text": "患有全身性紅斑狼瘡（SLE）" },
+      { "key": "B", "text": "ABO 血型不相容" },
+      { "key": "C", "text": "嗜伊紅白血球（eosinophil）過高" },
+      { "key": "D", "text": "先前輸血導致 HLA 抗體升高" }
+    ],
+    "answer": "C",
+    "explanation": "移植免疫危險因素的核心在「致敏/預存抗體」與「配型不合」：ABO 不合、HLA 抗體（PRA/DSA）升高、先前移植/輸血/懷孕等。\n嗜伊紅白血球偏高多與過敏/寄生蟲相關，非移植免疫風險標準指標。",
+    "source": "五(1) 外科概論、腦神外｜己 移植外科｜題 1（112一）專醫五-70",
+    "tags": ["transplant", "kidney transplant", "immunologic risk"]
+  },
+  {
+    "id": "MED_05_01_TXP_Q0002",
+    "stem": "腎移植手術前，下列何種情況通常不需要將原本腎臟切除（native nephrectomy）？",
+    "options": [
+      { "key": "A", "text": "腎腫瘤" },
+      { "key": "B", "text": "有症狀的多囊腎（polycystic kidneys）" },
+      { "key": "C", "text": "腎結石導致反覆腎盂腎炎" },
+      { "key": "D", "text": "高血壓但可用藥物控制" }
+    ],
+    "answer": "D",
+    "explanation": "native nephrectomy 適應症多為：惡性腫瘤、反覆感染來源、巨大多囊腎造成壓迫/疼痛/出血、嚴重難治性高血壓等。若高血壓可控制，通常不需切除原腎。",
+    "source": "五(1) 外科概論、腦神外｜己 移植外科｜題 2（112一）專醫五-71",
+    "tags": ["transplant", "kidney transplant", "surgery"]
+  },
+  {
+    "id": "MED_05_01_TXP_Q0003",
+    "stem": "腎臟移植後使用免疫抑制劑的感染副作用敘述，下列何者最不恰當？",
+    "options": [
+      { "key": "A", "text": "術後可預防性使用 acyclovir 或 valganciclovir 以降低病毒感染風險（依風險分層）" },
+      { "key": "B", "text": "免疫抑制相關多瘤病毒（BK）腎病可致移植腎功能喪失" },
+      { "key": "C", "text": "長期免疫抑制增加病毒活化與移植後癌症風險" },
+      { "key": "D", "text": "移植後淋巴增生性病變（PTLD）與 HPV 活化相關" }
+    ],
+    "answer": "D",
+    "explanation": "PTLD 最典型與 EBV 相關（尤其受者 EBV 陰性、強免疫抑制）。HPV 主要與子宮頸癌/肛門癌等相關。\n\n其餘正確：CMV 預防依血清狀態分層；BK virus 可致移植腎失敗；長期免疫抑制增加感染與腫瘤風險。",
+    "source": "五(1) 外科概論、腦神外｜己 移植外科｜題 3（111二）專醫五-6",
+    "tags": ["transplant", "infection", "ptld", "ebv"]
+  },
+  {
+    "id": "MED_05_01_TXP_Q0004",
+    "stem": "下列何者不是肝臟移植適應症？",
+    "options": [
+      { "key": "A", "text": "primary biliary cirrhosis" },
+      { "key": "B", "text": "hepatocellular carcinoma（符合移植條件者）" },
+      { "key": "C", "text": "biliary atresia" },
+      { "key": "D", "text": "liver cirrhosis due to heart failure" }
+    ],
+    "answer": "D",
+    "explanation": "嚴重心衰竭導致的肝硬化若未矯正心臟病因，單純肝移植無法解決主要病因且手術風險高，通常不是適應症。\n\n其餘皆為常見適應症：PBC、符合條件的 HCC、膽道閉鎖。",
+    "source": "五(1) 外科概論、腦神外｜己 移植外科｜題 4（111一）專醫五-5",
+    "tags": ["transplant", "liver transplant", "indication"]
+  },
+  {
+    "id": "MED_05_01_TXP_Q0005",
+    "stem": "在臺灣，目前下列何者不適合作為腦死器官捐贈者？",
+    "options": [
+      { "key": "A", "text": "HBsAg 陽性" },
+      { "key": "B", "text": "CMV 抗體陽性" },
+      { "key": "C", "text": "HTLV 抗體陽性" },
+      { "key": "D", "text": "Toxoplasma 抗體陽性" }
+    ],
+    "answer": "C",
+    "explanation": "HTLV 帶原與成人 T 細胞白血病/淋巴瘤等相關，通常不接受器官捐贈。\n\nHBV/CMV/Toxo 的血清陽性多可作風險配對與術後預防策略的一部分，非絕對排除（需依中心與受者狀況）。",
+    "source": "五(1) 外科概論、腦神外｜己 移植外科｜題 5（111一）專醫五-3",
+    "tags": ["transplant", "donor selection", "htlv"]
+  },
+  {
+    "id": "MED_05_01_TXP_Q0006",
+    "stem": "下列何項關於人體器官移植的陳述是錯誤的？",
+    "options": [
+      { "key": "A", "text": "移植排斥與 HLA（第 6 對染色體）密切相關" },
+      { "key": "B", "text": "超急性排斥主要與捐贈者體內既存抗體（preformed antibody）有關" },
+      { "key": "C", "text": "同種識別可經由直接或間接途徑發生，皆可造成 T 細胞活化" },
+      { "key": "D", "text": "急性排斥可分為細胞型與體液型（抗體媒介）" }
+    ],
+    "answer": "B",
+    "explanation": "超急性排斥的既存抗體在「受者」體內（針對供者 ABO 或 HLA），不是供者體內。\n\n典型：移植後數分鐘至數小時內，血管內皮受損、血栓形成、移植器官急性缺血壞死。",
+    "source": "五(1) 外科概論、腦神外｜己 移植外科｜題 6（110二）專醫五-8",
+    "tags": ["transplant", "rejection", "hyperacute rejection"]
+  },
+  {
+    "id": "MED_05_01_TXP_Q0007",
+    "stem": "腎臟移植後 1 個月內，何種感染較少發生？",
+    "options": [
+      { "key": "A", "text": "B 型肝炎活化" },
+      { "key": "B", "text": "傷口感染" },
+      { "key": "C", "text": "泌尿道感染" },
+      { "key": "D", "text": "隱球菌感染" }
+    ],
+    "answer": "D",
+    "explanation": "移植後 0–1 月多為手術/住院相關細菌感染（傷口、UTI、導管菌血症）；1–6 月較常見機會感染（CMV、PJP、Aspergillus、Nocardia、Cryptococcus 等）。因此隱球菌較少在 1 個月內發生。",
+    "source": "五(1) 外科概論、腦神外｜己 移植外科｜題 7（110二）專醫五-4",
+    "tags": ["transplant", "infection timeline", "cryptococcus"]
+  },
+  {
+    "id": "MED_05_01_TXP_Q0008",
+    "stem": "對於人類白血球抗原（HLA）的描述，下列何者正確？\n① HLA 位於第 9 對染色體短臂\n② HLA 完全相同的腎臟移植預後較好\n③ HLA-DP、HLA-DQ、HLA-DR 屬於 MHC class II\n④ MHC class I 主要表現在 APC（B 細胞、樹突細胞等）\n⑤ HLA 致敏可因懷孕、輸血或曾移植而產生",
+    "options": [
+      { "key": "A", "text": "②③⑤" },
+      { "key": "B", "text": "①③⑤" },
+      { "key": "C", "text": "②④⑤" },
+      { "key": "D", "text": "①②④" }
+    ],
+    "answer": "A",
+    "explanation": "正確為 ②③⑤。\n① 錯：HLA/MHC 在第 6 對染色體短臂（6p）。\n② 對：HLA 越相近，排斥風險越低，腎移植存活較佳。\n③ 對：DP/DQ/DR 為 class II。\n④ 錯：class I 表現在所有有核細胞；class II 才主要在 APC。\n⑤ 對：懷孕、輸血、曾移植會造成致敏。",
+    "source": "五(1) 外科概論、腦神外｜己 移植外科｜題 8（110二）專醫五-1",
+    "tags": ["immunology", "transplant", "hla", "mhc"]
+  },
+  {
+    "id": "MED_05_01_TXP_Q0009",
+    "stem": "器官移植病患初期常使用高劑量類固醇，下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "長期合併類固醇使用仍是移植病患標準給藥模式" },
+      { "key": "B", "text": "副作用與劑量相關（dose dependent）" },
+      { "key": "C", "text": "急性排斥常需高劑量類固醇注射治療" },
+      { "key": "D", "text": "初期高劑量可能造成全身水腫" }
+    ],
+    "answer": "A",
+    "explanation": "現代免疫抑制策略常採類固醇減量或停用（steroid minimization/withdrawal），並非所有移植皆以「長期類固醇」為必然標準。\n\n其餘皆正確：副作用與劑量相關；急性排斥常用 pulse steroid；初期高劑量可水腫、血糖上升等。",
+    "source": "五(1) 外科概論、腦神外｜己 移植外科｜題 9（110一）專醫五-3",
+    "tags": ["transplant", "immunosuppression", "steroid"]
+  },
+  {
+    "id": "MED_05_01_TXP_Q0010",
+    "stem": "下列何者屬於 MHC class II 分子？",
+    "options": [
+      { "key": "A", "text": "HLA-A" },
+      { "key": "B", "text": "HLA-B" },
+      { "key": "C", "text": "HLA-C" },
+      { "key": "D", "text": "HLA-DR" }
+    ],
+    "answer": "D",
+    "explanation": "class I：HLA-A/B/C（所有有核細胞）。class II：HLA-DP/DQ/DR（主要 APC）。",
+    "source": "五(1) 外科概論、腦神外｜己 移植外科｜題 10（109一）專醫五-1",
+    "tags": ["immunology", "mhc class ii", "hla"]
+  },
+  {
+    "id": "MED_05_01_TXP_Q0011",
+    "stem": "器官移植相關敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "歷史上最早完成的器官移植為腎臟移植" },
+      { "key": "B", "text": "心臟移植比肝臟移植更早完成" },
+      { "key": "C", "text": "多數胰臟移植常合併腎臟移植" },
+      { "key": "D", "text": "超急性排斥可在移植後數十分鐘到數小時，因受者抗體攻擊供者抗原" }
+    ],
+    "answer": "B",
+    "explanation": "肝臟移植的歷史完成時間早於心臟移植，因此 (B) 錯。\n\n其餘：腎移植最早且最普及；胰臟移植常與腎移植合併（T1DM + ESRD）；超急性排斥為既存抗體造成。",
+    "source": "五(1) 外科概論、腦神外｜己 移植外科｜題 11（108一）專醫五-6",
+    "tags": ["transplant", "history", "rejection"]
+  },
+  {
+    "id": "MED_05_01_TXP_Q0012",
+    "stem": "下列何者不是器官移植後使用的抗排斥藥物？",
+    "options": [
+      { "key": "A", "text": "basiliximab" },
+      { "key": "B", "text": "rabbit antithymocyte globulin" },
+      { "key": "C", "text": "tacrolimus" },
+      { "key": "D", "text": "valacyclovir" }
+    ],
+    "answer": "D",
+    "explanation": "valacyclovir 是抗病毒藥（HSV/VZV），不屬免疫抑制/抗排斥藥。\n\nbasiliximab：抗 IL-2R（CD25）；ATG：T 細胞去除；tacrolimus：calcineurin inhibitor。",
+    "source": "五(1) 外科概論、腦神外｜己 移植外科｜題 12（107一）專醫五-3",
+    "tags": ["transplant", "immunosuppression", "pharmacology"]
+  },
+  {
+    "id": "MED_05_01_TXP_Q0013",
+    "stem": "依據人體器官移植條例，醫師摘取器官規定，下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "屍體摘取器官可依死者生前書面/遺囑同意" },
+      { "key": "B", "text": "屍體摘取器官可依最近親屬書面或口頭同意" },
+      { "key": "C", "text": "活體摘取前應向捐贈者說明範圍、過程與風險" },
+      { "key": "D", "text": "摘取器官時應善盡醫療及禮儀上必要注意" }
+    ],
+    "answer": "B",
+    "explanation": "依法應以「書面同意」為原則；口頭同意不具足夠可追溯性，易衍生爭議。\n\n實務也強調：自願、充分知情、非受脅迫與倫理審查流程。",
+    "source": "五(1) 外科概論、腦神外｜己 移植外科｜題 13（104一）專醫五-80",
+    "tags": ["transplant", "law", "ethics"]
+  },
+  {
+    "id": "MED_05_01_TXP_Q0014",
+    "stem": "器官移植受贈者順位決定主要依據，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "疾病嚴重度" },
+      { "key": "B", "text": "等待時間長短" },
+      { "key": "C", "text": "接受移植的預後" },
+      { "key": "D", "text": "社經地位" }
+    ],
+    "answer": "D",
+    "explanation": "器官分配以公平與醫療需求為核心：嚴重度、等待時間、配型與預後等；社經地位不應成為分配依據。",
+    "source": "五(1) 外科概論、腦神外｜己 移植外科｜題 14（103一）專醫五-78",
+    "tags": ["transplant", "allocation", "ethics"]
   }
+
 
 
 ]
