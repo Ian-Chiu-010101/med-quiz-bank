@@ -337,6 +337,599 @@
     ],
     "answer": "B",
     "explanation": "B 錯：腫瘤溶解症候群典型電解質是「高磷、低鈣、高鉀、高尿酸」。機轉是細胞內磷釋放上升，與鈣結合沉積 → 低血鈣。\n\n其餘選項：\n- A 對：原發性副甲狀腺亢進是高血鈣常見原因之一。\n- C 大方向對：復甦/重症情境（如大量輸血枸櫞酸鹽、胰臟炎、休克後變化）可出現急性低鈣。\n- D 對：IV 鈣在使用 digoxin 時需謹慎，過快可能誘發心律不整（考題取向：慢滴、監測心電圖）。"
+  },
+
+  
+  {
+    "id": "MED_05_01_SHOCK_Q0002",
+    "stem": "一位生命跡象不穩定的出血外傷病人到達急診室時，若決定啟動大量輸血的流程（massive transfusion protocol），有關各種血品的使用單位比例以下列何者有最好的臨床結果？",
+    "options": [
+      { "key": "A", "text": "血漿：血小板：紅血球 = 1：1：4" },
+      { "key": "B", "text": "血漿：血小板：紅血球 = 1：1：3" },
+      { "key": "C", "text": "血漿：血小板：紅血球 = 1：1：2" },
+      { "key": "D", "text": "血漿：血小板：紅血球 = 1：1：1" }
+    ],
+    "answer": "C",
+    "explanation": "本題題幹問「最佳臨床結果」且書內詳解把 1:1:2 定位為主要建議比例之一；因此答案取 C。\n\n高頻考點：大量輸血的死亡主軸不只缺血容量/缺氧，還包括「稀釋性凝血障礙＋低體溫＋酸中毒」（lethal triad）。MTP 目的在早期同步補足 RBC（攜氧）與 plasma/platelet（止血）。\n\n選項鑑別：\n- A/B：plasma、platelet 相對不足，較易出現凝血障礙。\n- C/D：都屬“balanced resuscitation”概念；D 在某些流程也常用，但本書此題以 C 為標準答案。"
+  },
+  {
+    "id": "MED_05_01_SHOCK_Q0003",
+    "stem": "一位外傷病人被送到急診急救，若決定病人需要緊急輸血，但又不清楚病人的血型時，下列敘述何者最恰當？",
+    "options": [
+      { "key": "A", "text": "可以輸 O 型的全血" },
+      { "key": "B", "text": "可以輸 O 型的紅血球" },
+      { "key": "C", "text": "可以輸 O 型的血漿" },
+      { "key": "D", "text": "不可以馬上輸血，應等到血型清楚以後再輸同血型的血品" }
+    ],
+    "answer": "B",
+    "explanation": "未知血型、需要立刻輸血時，最安全的通用選擇是「O 型濃縮紅血球」。\n\n為何不是 O 全血/血漿：\n- O 型全血/血漿含有抗 A、抗 B 抗體，輸給非 O 型病人可能引發溶血反應。\n\n考點延伸：\n- 緊急 FFP 的「通用血漿」是 AB 型血漿（不含抗 A/抗 B）。"
+  },
+  {
+    "id": "MED_05_01_SHOCK_Q0004",
+    "stem": "40 歲行人被汽車撞擊後送到急診，檢查發現脾臟破裂、腹內出血，心跳 130/min，呼吸 20/min，血壓 80/46 mmHg，Base deficit -8 mEq/L。下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "病人至少是第三級出血" },
+      { "key": "B", "text": "若需啟動大量輸血，建議的比例為紅血球：血漿：血小板 = 1：1：1" },
+      { "key": "C", "text": "若需緊急輸 packed RBC，可選用 O 型紅血球" },
+      { "key": "D", "text": "若需緊急輸 FFP，可選用 O 型血漿" }
+    ],
+    "answer": "D",
+    "explanation": "D 錯：緊急血漿的通用選擇是 AB 血漿，不是 O 血漿（O 血漿含抗 A/抗 B）。\n\n其餘選項：\n- A：HR 130、低血壓、base deficit 明顯 → 至少 Class III。\n- B：balanced transfusion 是 MTP 的核心概念。\n- C：未知血型緊急 RBC → O 型 RBC。"
+  },
+  {
+    "id": "MED_05_01_SHOCK_Q0005",
+    "stem": "車禍現場發現一受傷中年男性病人，身下一灘血面積約 0.2 m²，病人心跳 125/min，脈搏微弱，血壓 75/40 mmHg，意識清醒但混亂。該病人最可能的失血量為下列何者？",
+    "options": [
+      { "key": "A", "text": "< 500 mL" },
+      { "key": "B", "text": "800 mL" },
+      { "key": "C", "text": "1,800 mL" },
+      { "key": "D", "text": "3,000 mL" }
+    ],
+    "answer": "C",
+    "explanation": "HR >120、低血壓、意識改變（但未到昏迷）→ 典型偏 Class III（約 1500–2000 mL）。\n\n易錯點：不要被「地面血跡面積」帶走；臨床分級主要看生命徵象與器官灌流指標（意識、尿量、脈壓）。"
+  },
+  {
+    "id": "MED_05_01_SHOCK_Q0006",
+    "stem": "急診室：30 歲 70 公斤男性，60 分鐘前左上腹刀刺傷。心跳 105/min、血壓 110/95 mmHg、呼吸 22/min，略顯焦慮，四肢濕冷。預估體內出血量最可能為下列何者？",
+    "options": [
+      { "key": "A", "text": "500 mL" },
+      { "key": "B", "text": "1,000 mL" },
+      { "key": "C", "text": "1,700 mL" },
+      { "key": "D", "text": "2,500 mL" }
+    ],
+    "answer": "B",
+    "explanation": "HR >100、呼吸增快、血壓大致維持（但脈壓偏窄 110/95）→ 偏 Class II（約 750–1500 mL），最貼近選項為 1,000 mL。"
+  },
+  {
+    "id": "MED_05_01_SHOCK_Q0007",
+    "stem": "承上題，病人經 20 分鐘初步處理突然意識不清，心跳 145/min、血壓 60/45 mmHg、呼吸 32/min。下列何項處置不適當？",
+    "options": [
+      { "key": "A", "text": "插上氣管內管以維持呼吸道暢通" },
+      { "key": "B", "text": "準備緊急手術以控制出血" },
+      { "key": "C", "text": "緊急輸血及使用升壓劑，以維持收縮壓在 120 mmHg" },
+      { "key": "D", "text": "此時輸液除血液製品外，以 lactated Ringer’s 或生理食鹽水為主" }
+    ],
+    "answer": "C",
+    "explanation": "C 不適當：出血性休克復甦重點是「止血＋足夠灌流」，而非硬把 SBP 拉到 120。\n\n考點：\n- 在未控制出血前，過度升壓可能增加出血（尤其穿透傷/未止血情境），臨床常以 MAP 約 65 左右或能維持基本器官灌流作為較合理目標（細節依情境而異）。"
+  },
+  {
+    "id": "MED_05_01_SHOCK_Q0008",
+    "stem": "39 歲男性，病態性肥胖接受腹腔鏡袖狀胃切除。術後 4 小時主訴呼吸困難、焦慮；BP 120/95、HR 117、RR 26；給氧 3 L/min 後 SpO₂ 可達 100%。此時最可能診斷為何？",
+    "options": [
+      { "key": "A", "text": "急性肺栓塞" },
+      { "key": "B", "text": "急性心肌梗塞" },
+      { "key": "C", "text": "急性失血" },
+      { "key": "D", "text": "急性疼痛" }
+    ],
+    "answer": "C",
+    "explanation": "本書此題的關鍵判讀是：PE/AMI 常伴難以完全以低流量氧氣「校正到 100%」的缺氧；而術後早期焦慮、呼吸急促、心跳快且血壓未必先掉，仍可見於出血早期代償。\n\n陷阱提醒：真實臨床上仍需合併出血徵象（引流量、Hb 變化、腹痛/肩痛、血壓趨勢）與 DVT/PE 風險評估，不是只靠 SpO₂ 做結論。"
+  },
+  {
+    "id": "MED_05_01_SHOCK_Q0009",
+    "stem": "對一體重 60 公斤的成人而言，關於出血性休克的分期，何者正確？",
+    "options": [
+      { "key": "A", "text": "第一期小便輸出量：5–15 mL/h" },
+      { "key": "B", "text": "第二期呼吸速率：14–20 次/min" },
+      { "key": "C", "text": "第三期出血量約占全身血量：30–40%" },
+      { "key": "D", "text": "第四期心跳速率約 100–120 次/min" }
+    ],
+    "answer": "C",
+    "explanation": "Class III 出血約 30–40%（或 1500–2000 mL 成人）是經典分級。\n\n快速排除：\n- Class I 尿量多仍可 >30 mL/hr；\n- Class II RR 通常 >20；\n- Class IV HR 多 >140。"
+  },
+  {
+    "id": "MED_05_01_SHOCK_Q0010",
+    "stem": "25 歲女性高處跌落，C5 骨折神經壓迫、四肢癱瘓但意識清楚，四肢不冰冷。HR 60/min、BP 75/55 mmHg。最適當診斷為何？",
+    "options": [
+      { "key": "A", "text": "過敏性休克" },
+      { "key": "B", "text": "失血性休克" },
+      { "key": "C", "text": "神經性休克" },
+      { "key": "D", "text": "心因性休克" }
+    ],
+    "answer": "C",
+    "explanation": "低血壓合併相對性心跳偏慢（不符合出血性常見的反射性心搏過速）＋高位脊髓損傷 → 神經性休克（交感阻斷、血管擴張）。\n\n鑑別點：\n- 失血性休克：多見皮膚濕冷、心搏過速；\n- 過敏性休克：常見氣道/皮膚症狀；\n- 心因性休克：多見 CVP 上升、肺水腫等。"
+  },
+  {
+    "id": "MED_05_01_SHOCK_Q0011",
+    "stem": "SIRS 的臨床條件包含體溫、心率、呼吸（含 PaCO₂）、白血球等。病患要被診斷為 SIRS，至少須合乎上列幾種條件？",
+    "options": [
+      { "key": "A", "text": "一種" },
+      { "key": "B", "text": "二種" },
+      { "key": "C", "text": "三種" },
+      { "key": "D", "text": "四種" }
+    ],
+    "answer": "B",
+    "explanation": "SIRS 定義：符合 ≥2 項。"
+  },
+  {
+    "id": "MED_05_01_SHOCK_Q0012",
+    "stem": "急診面對一位發燒病人，血壓 75/40 mmHg、心跳 105/min，cardiac index 下降但 CVP 上升，最可能診斷為何？",
+    "options": [
+      { "key": "A", "text": "心因性休克" },
+      { "key": "B", "text": "敗血性休克" },
+      { "key": "C", "text": "低血容積休克" },
+      { "key": "D", "text": "神經性休克" }
+    ],
+    "answer": "A",
+    "explanation": "CI 下降 + CVP 上升 → 泵衰竭型（心因性）最典型。\n\n鑑別：\n- 低血容積：CVP 多低；\n- 敗血性早期可高 CI、低 SVR；\n- 神經性：多血管擴張、CVP 不一定上升。"
+  },
+  {
+    "id": "MED_05_01_SHOCK_Q0013",
+    "stem": "有關 lactated Ringer’s solution 組成成分，下列何者正確？",
+    "options": [
+      { "key": "A", "text": "鈉離子 130 mEq/L" },
+      { "key": "B", "text": "鉀離子 3 mEq/L" },
+      { "key": "C", "text": "鈣離子 4 mEq/L" },
+      { "key": "D", "text": "乳酸 24 mEq/L" }
+    ],
+    "answer": "A",
+    "explanation": "LR 常用記憶：Na 約 130、Cl 約 109、K 約 4、Ca 約 3、lactate 約 28（不同版本小幅差異）。四選項中最貼近標準值的是 Na 130。"
+  },
+  {
+    "id": "MED_05_01_SHOCK_Q0014",
+    "stem": "成人急性大量失血 2,000 mL 以上時，下列何者不是臨床常見表徵？",
+    "options": [
+      { "key": "A", "text": "意識焦慮及錯亂" },
+      { "key": "B", "text": "Pulse pressure 上升" },
+      { "key": "C", "text": "血壓下降" },
+      { "key": "D", "text": "尿量減少" }
+    ],
+    "answer": "B",
+    "explanation": "大量失血時常見「脈壓變窄」而非上升（周邊血管收縮、每搏量下降）。"
+  },
+  {
+    "id": "MED_05_01_SHOCK_Q0015",
+    "stem": "32 歲女性 60 kg 外傷腹內出血；初步檢查收縮壓正常，但脈壓明顯下降，HR 112/min，尿量 20–30 mL/hr。此病人約流失多少血液？",
+    "options": [
+      { "key": "A", "text": "500 mL" },
+      { "key": "B", "text": "700–1,100 mL" },
+      { "key": "C", "text": "1,300–1,700 mL" },
+      { "key": "D", "text": "1,900–2,300 mL" }
+    ],
+    "answer": "B",
+    "explanation": "SBP 仍可維持但脈壓變窄 + HR >100 + 尿量下降 → 偏 Class II（約 750–1500 mL），最貼近 B。"
+  },
+  {
+    "id": "MED_05_01_SHOCK_Q0016",
+    "stem": "外傷復甦中以尿量作為組織灌流客觀指標，下列何者為正確指標？",
+    "options": [
+      { "key": "A", "text": "成人 >1 mL/kg/hr；小孩 >0.5 mL/kg/hr" },
+      { "key": "B", "text": "成人 >0.5 mL/kg/hr；小孩 >1 mL/kg/hr" },
+      { "key": "C", "text": "成人 >1 mL/kg/hr；小孩 >1 mL/kg/hr" },
+      { "key": "D", "text": "成人 >0.5 mL/kg/hr；小孩 >0.5 mL/kg/hr" }
+    ],
+    "answer": "B",
+    "explanation": "成人目標約 ≥0.5 mL/kg/hr；兒童通常 ≥1 mL/kg/hr（嬰幼兒可更高）。"
+  },
+  {
+    "id": "MED_05_01_SHOCK_Q0017",
+    "stem": "低血容性休克（hypovolemic shock）最符合下列何種血流動力學型態？（中心靜脈壓、動脈壓、心輸出量、混合靜脈血氧飽和度）",
+    "options": [
+      { "key": "A", "text": "CVP↓、動脈壓↓、CO↓、SvO₂↓" },
+      { "key": "B", "text": "CVP↑、動脈壓↓、CO↓、SvO₂↓" },
+      { "key": "C", "text": "CVP↑、動脈壓↑、CO↑、SvO₂↑" },
+      { "key": "D", "text": "CVP↓、動脈壓↑、CO↓、SvO₂↑" }
+    ],
+    "answer": "A",
+    "explanation": "低血容量 → preload 下降（CVP↓）→ CO↓ → 動脈壓↓；組織抽取氧增加 → SvO₂↓。"
+  },
+  {
+    "id": "MED_05_01_SHOCK_Q0018",
+    "stem": "下列與大量輸血相關的敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "大量輸血時，常規性給予 bicarbonate 可以防止輸血後 alkalosis" },
+      { "key": "B", "text": "大量輸注 citrated blood products，會導致鈣離子濃度短暫下降" },
+      { "key": "C", "text": "大量輸血後會發生稀釋性血小板減少症" },
+      { "key": "D", "text": "大量輸注非新鮮血品時，有可能發生高血鉀" }
+    ],
+    "answer": "A",
+    "explanation": "A 錯：bicarbonate 是治療酸中毒的工具，不會被「常規性」拿來預防 alkalosis。\n\n其餘皆為經典大量輸血併發症：citrate 造成低鈣、稀釋性凝血障礙/血小板低下、舊血高鉀。"
+  },
+  {
+    "id": "MED_05_01_SHOCK_Q0019",
+    "stem": "4 歲女童 20 kg 車禍休克（BP 68/40、HR 200）。何種輸液最恰當？",
+    "options": [
+      { "key": "A", "text": "NS 800 mL + 400 mL 全血" },
+      { "key": "B", "text": "NS 800 mL + 200 mL 全血" },
+      { "key": "C", "text": "NS 200 mL 重複 3 次 + 100 mL 全血" },
+      { "key": "D", "text": "NS 400 mL 重複 3 次 + 200 mL 全血" }
+    ],
+    "answer": "D",
+    "explanation": "小兒外傷初期晶體液 20 mL/kg → 20 kg 即 400 mL，可重複；若仍不穩定再給 pRBC/全血 10 mL/kg → 200 mL。\n\n因此 NS 400 mL×3 次後 + 200 mL 血品最符合流程。"
+  },
+  {
+    "id": "MED_05_01_SHOCK_Q0020",
+    "stem": "災難現場無血壓量測工具時，以橈/股/頸動脈脈搏估計血壓。當血壓下降時，三種脈搏消失先後次序何者正確？",
+    "options": [
+      { "key": "A", "text": "股 → 頸 → 橈" },
+      { "key": "B", "text": "頸 → 股 → 橈" },
+      { "key": "C", "text": "橈 → 股 → 頸" },
+      { "key": "D", "text": "頸 → 橈 → 股" }
+    ],
+    "answer": "C",
+    "explanation": "周邊灌流先下降：橈動脈先消失，其次股動脈，最後才是頸動脈。"
+  },
+  {
+    "id": "MED_05_01_SHOCK_Q0021",
+    "stem": "有關 SIRS 的定義，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "心跳 > 90/min" },
+      { "key": "B", "text": "收縮壓 < 90 mmHg" },
+      { "key": "C", "text": "呼吸速率 > 20/min 或 PaCO₂ < 32 mmHg" },
+      { "key": "D", "text": "WBC > 12,000 或 < 4,000 或 band > 10%" }
+    ],
+    "answer": "B",
+    "explanation": "低血壓不是 SIRS 的定義條件；屬於更後段（severe sepsis/shock、器官灌流不良）才會被強調的指標。"
+  },
+  {
+    "id": "MED_05_01_SHOCK_Q0022",
+    "stem": "42 歲男性低血壓且懷疑敗血症，放置中央靜脈導管後應如何給予輸液？",
+    "options": [
+      { "key": "A", "text": "晶體液 100 mL/hr" },
+      { "key": "B", "text": "晶體液 200 mL/hr" },
+      { "key": "C", "text": "晶體液 500 mL/15 min；若仍低血壓且 CVP < 8–12 mmHg，再給 500 mL" },
+      { "key": "D", "text": "晶體液 500 mL/15 min；若仍低血壓且 CVP > 15 mmHg，再給 500 mL" }
+    ],
+    "answer": "C",
+    "explanation": "EGDT/復甦概念：先快速 bolus，再用 CVP（或替代指標）判斷是否仍需補容量；CVP 目標常設 8–12 mmHg（機械通氣可更高）。"
+  },
+  {
+    "id": "MED_05_01_SHOCK_Q0023",
+    "stem": "下列有關神經性休克（neurogenic shock）之敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "低血壓" },
+      { "key": "B", "text": "心跳慢" },
+      { "key": "C", "text": "周邊血管灌流變差" },
+      { "key": "D", "text": "可使用 alpha-agonist 治療" }
+    ],
+    "answer": "C",
+    "explanation": "神經性休克是交感阻斷造成血管擴張，皮膚常偏溫暖、潮紅，並不典型呈現周邊血管收縮/灌流變差的「冷休克」樣態。\n\n治療主軸：補容量＋升壓（以血管收縮劑為主）＋必要時處理相對性心搏過慢。"
+  },
+  {
+    "id": "MED_05_01_SHOCK_Q0024",
+    "stem": "校車與卡車對撞後，6 歲小孩生命垂危，周邊靜脈穿刺兩次皆失敗，此時最佳給予輸液路徑為何？",
+    "options": [
+      { "key": "A", "text": "腹內導管（intraperitoneal catheter）" },
+      { "key": "B", "text": "脛骨骨內針（intraosseous cannulation）" },
+      { "key": "C", "text": "中心靜脈導管" },
+      { "key": "D", "text": "繼續嘗試周邊靜脈導管" }
+    ],
+    "answer": "B",
+    "explanation": "急救情境、快速建立通路且 IV 困難時：IO 是標準替代路徑（兒童尤其常用；成人也越來越常用）。"
+  },
+  {
+    "id": "MED_05_01_SHOCK_Q0025",
+    "stem": "70 kg 多重外傷病人，急診輸血量 >2,500 mL，止血手術後第 1 天總輸血量仍 >5,000 mL。ICU 照護初期，下列何種變化較少出現？",
+    "options": [
+      { "key": "A", "text": "稀釋性血小板缺乏" },
+      { "key": "B", "text": "代謝性酸中毒" },
+      { "key": "C", "text": "高血鉀症" },
+      { "key": "D", "text": "溶血性反應" }
+    ],
+    "answer": "D",
+    "explanation": "溶血性反應多見於 ABO 不合等輸血相容性問題，通常在輸血當下或短時間內出現，不太會「延到」送 ICU 後才首次表現。\n\nA/B/C 都是大量輸血＋休克情境常見問題。"
+  },
+  {
+    "id": "MED_05_01_SHOCK_Q0026",
+    "stem": "疑似敗血症合併低血壓之成人急救流程，下列何者不適當？",
+    "options": [
+      { "key": "A", "text": "做體液培養，包括血液" },
+      { "key": "B", "text": "放中心靜脈或肺動脈導管，保持 CVP/PAWP < 8 mmHg" },
+      { "key": "C", "text": "復甦目標：MAP > 65 mmHg 或脈搏 < 120/min" },
+      { "key": "D", "text": "監測靜脈氧氣濃度與尿量" }
+    ],
+    "answer": "B",
+    "explanation": "B 錯：EGDT 的傳統目標 CVP 常為 8–12 mmHg（而非 <8）。本題在考「目標值方向」。"
+  },
+  {
+    "id": "MED_05_01_SHOCK_Q0027",
+    "stem": "插鼻胃管的成年病人，有多量類似膽汁的鼻胃管分泌物，何種輸液補充最恰當？",
+    "options": [
+      { "key": "A", "text": "生理食鹽水（normal saline）" },
+      { "key": "B", "text": "葡萄糖水（glucose water）" },
+      { "key": "C", "text": "乳酸林格氏液（lactated Ringer’s）" },
+      { "key": "D", "text": "半食鹽水（half saline）" }
+    ],
+    "answer": "C",
+    "explanation": "上消化道/膽汁消化液流失會帶走電解質並影響酸鹼；本書此題以 LR 作為較合適的晶體液選項。\n\n考場技巧：\n- 單純糖水缺電解質；半食鹽水偏低滲；NS 大量使用可能帶來高氯性代謝性酸中毒風險。"
+  },
+  {
+    "id": "MED_05_01_SHOCK_Q0028",
+    "stem": "下列何者不屬於 SIRS？",
+    "options": [
+      { "key": "A", "text": "核心體溫 < 36°C" },
+      { "key": "B", "text": "心跳 > 90/min" },
+      { "key": "C", "text": "PaCO₂ > 32 mmHg" },
+      { "key": "D", "text": "白血球 < 4,000 cells/mm³" }
+    ],
+    "answer": "C",
+    "explanation": "SIRS 呼吸條件是 RR > 20 或 PaCO₂ < 32（過度換氣）。PaCO₂ > 32 不符合。"
+  },
+  {
+    "id": "MED_05_01_SHOCK_Q0029",
+    "stem": "25 歲男性摩托車追撞卡車，雙下肢骨折；BP 80/50、HR 120、RR 26、神智不清。屬於第幾級出血休克，應採何種輸液治療？",
+    "options": [
+      { "key": "A", "text": "第一級；LR 2 L 靜脈灌注" },
+      { "key": "B", "text": "第三級；LR 1 L 靜脈灌注" },
+      { "key": "C", "text": "第一級；pRBC 1,000 mL 灌注" },
+      { "key": "D", "text": "第二級；pRBC 1,000 mL 灌注" }
+    ],
+    "answer": "B",
+    "explanation": "已低血壓＋意識改變 → 至少 Class III；初期仍以晶體液快速復甦（並視反應決定是否啟動 MTP/血品）。題目給的標準配對是「Class III + LR 1 L」。"
+  },
+  {
+    "id": "MED_05_01_SHOCK_Q0030",
+    "stem": "心因性休克（cardiogenic shock）最符合下列何種血流動力學型態？（中心靜脈壓、動脈壓、心輸出量、混合靜脈血氧飽和度）",
+    "options": [
+      { "key": "A", "text": "CVP↓、動脈壓↓、CO↓、SvO₂↓" },
+      { "key": "B", "text": "CVP↑、動脈壓↓、CO↓、SvO₂↓" },
+      { "key": "C", "text": "CVP↓、動脈壓↑、CO↑、SvO₂↑" },
+      { "key": "D", "text": "CVP↑、動脈壓↑、CO↑、SvO₂↑" }
+    ],
+    "answer": "B",
+    "explanation": "泵衰竭 → CO↓、動脈壓↓；左/右心充盈壓上升 → CVP↑；組織抽氧增加 → SvO₂↓。"
+  },
+  {
+    "id": "MED_05_01_SHOCK_Q0031",
+    "stem": "38 歲男性 70 kg 外傷內出血；收縮壓輕微下降，但脈壓明顯下降，HR 110/min，尿量 25 mL/hr。病人約流失多少血液？",
+    "options": [
+      { "key": "A", "text": "< 750 mL" },
+      { "key": "B", "text": "750–1,500 mL" },
+      { "key": "C", "text": "1,600–2,000 mL" },
+      { "key": "D", "text": "2,100–3,000 mL" }
+    ],
+    "answer": "B",
+    "explanation": "SBP 尚未崩、但脈壓變窄＋HR >100＋尿量下降 → 偏 Class II（750–1500 mL）。"
+  },
+  {
+    "id": "MED_05_01_SHOCK_Q0032",
+    "stem": "下列敘述，何者錯誤？（敗血性休克）",
+    "options": [
+      { "key": "A", "text": "大部分敗血性休克病人有低血壓及血管收縮（vasoconstriction）的現象" },
+      { "key": "B", "text": "敗血性休克病人有血管舒張時，其心輸出量高於正常人" },
+      { "key": "C", "text": "敗血性休克時微血管通透性增加，需大量晶體液以恢復 CVP" },
+      { "key": "D", "text": "足夠輸液後仍低血壓，可給 dopamine 或 norepinephrine" }
+    ],
+    "answer": "A",
+    "explanation": "A 錯：敗血性休克的典型核心是「周邊血管擴張、SVR 下降、有效循環血容量不足」。\n\nB/C/D 是考題常見敘述方向：早期可呈高心輸出量；需大量補液；若補液後仍低血壓則使用升壓劑。"
+  },
+  {
+    "id": "MED_05_01_SHOCK_Q0033",
+    "stem": "35 歲男性血培 E. coli，BP 82/45、T 38.8°C、脈搏 100/min、尿量減少。經靜脈輸液後症狀改善。診斷為何？",
+    "options": [
+      { "key": "A", "text": "SIRS" },
+      { "key": "B", "text": "Sepsis" },
+      { "key": "C", "text": "Severe sepsis" },
+      { "key": "D", "text": "Septic shock" }
+    ],
+    "answer": "C",
+    "explanation": "有感染證據（E. coli）+ 低血壓/少尿等器官灌流不良，但「補液後改善」→ 不符合“持續低血壓需升壓劑”的 septic shock 定義；本題取 severe sepsis 的分層。\n\n考點：septic shock 的關鍵是復甦後仍需升壓劑維持灌流（或持續低血壓）。"
+  },
+  {
+    "id": "MED_05_01_SHOCK_Q0034",
+    "stem": "下列敘述，何者錯誤？（輸血/貧血處理）",
+    "options": [
+      { "key": "A", "text": "手術前應考慮停止使用抗凝血劑" },
+      { "key": "B", "text": "需要輸血時應以全血（whole blood）為優先考量" },
+      { "key": "C", "text": "手術時應做好止血" },
+      { "key": "D", "text": "Hb > 8 g/dL 且非緊急手術者，應優先考慮非輸血方式改善紅血球量" }
+    ],
+    "answer": "B",
+    "explanation": "B 錯：現代輸血原則以「成分輸血」為主（依缺什麼補什麼：RBC/FFP/platelet/cryoprecipitate），全血並非一般優先選項。\n\nD 的考點是輸血門檻與病況導向（缺氧、出血、心血管風險、手術急迫性）而非只看數字。"
+  },
+
+  {
+    "id": "MED_05_01_COMP_Q0001",
+    "stem": "有關手術後肺坍塌（atelectasis）的敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "麻醉藥使用會降低咳嗽反射" },
+      { "key": "B", "text": "術後肺部表面張力素分泌下降" },
+      { "key": "C", "text": "術後肺部併發症以肺坍塌最常見" },
+      { "key": "D", "text": "氣管內插管與肺坍塌無關" }
+    ],
+    "answer": "D",
+    "explanation": "D 錯：插管相關因素（插管過深造成單側通氣、分泌物阻塞、通氣策略）都可導致或加重 atelectasis。\n\n高頻處置考點：早期下床、深呼吸/肺量計、有效止痛、拍痰與必要時支氣管鏡清除痰栓。"
+  },
+  {
+    "id": "MED_05_01_COMP_Q0002",
+    "stem": "肺水腫為手術後肺部併發症之一，下列何種狀況較不容易造成肺水腫？",
+    "options": [
+      { "key": "A", "text": "胰臟炎" },
+      { "key": "B", "text": "體液容積過量" },
+      { "key": "C", "text": "急性左心衰竭" },
+      { "key": "D", "text": "高血壓" }
+    ],
+    "answer": "D",
+    "explanation": "單純高血壓通常不直接導致肺水腫；肺水腫更常見於容量負荷過多、左心衰竭（心因性）、或發炎造成通透性增加（非心因性，如嚴重胰臟炎/ARDS）。"
+  },
+  {
+    "id": "MED_05_01_COMP_Q0003",
+    "stem": "困難梭狀芽孢桿菌感染症（Clostridioides difficile infection）為抗生素相關性腹瀉常見原因。下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "症狀可出現水瀉、血便、發燒" },
+      { "key": "B", "text": "診斷可用糞便毒素檢測，必要時可大腸鏡觀察假膜性結腸炎" },
+      { "key": "C", "text": "治療需停止目前抗生素，並使用廣效性抗革蘭氏陰性菌抗生素" },
+      { "key": "D", "text": "腹瀉會造成水分及電解質不平衡，需補充水分及電解質" }
+    ],
+    "answer": "C",
+    "explanation": "C 錯：C. difficile 的治療是停用誘發抗生素後，改用「針對 C. difficile」的藥（常考：口服 vancomycin 或 fidaxomicin）；廣效 GN 抗生素反而常是誘因/會加重。\n\n延伸考點：避免止瀉藥；重症需評估中毒性巨結腸與外科介入。"
+  },
+  {
+    "id": "MED_05_01_COMP_Q0004",
+    "stem": "腔室症候群須靠下列哪個條件來確定診斷？",
+    "options": [
+      { "key": "A", "text": "腔室內壓力 > 30 mmHg" },
+      { "key": "B", "text": "血清肌酸酐 > 2 mg/dL" },
+      { "key": "C", "text": "血清鉀 > 6.0 mmol/L" },
+      { "key": "D", "text": "CPK > 1000 IU/L" }
+    ],
+    "answer": "A",
+    "explanation": "確診依賴「腔室壓」測量（臨床常搭配 delta pressure：diastolic BP − compartment pressure）。血液數值反映肌壞死/腎損傷，不能作為確診標準。"
+  },
+  {
+    "id": "MED_05_01_COMP_Q0005",
+    "stem": "Compartment syndrome 表現的 5 個 P 不包括下列何者？",
+    "options": [
+      { "key": "A", "text": "painless" },
+      { "key": "B", "text": "paresthesia" },
+      { "key": "C", "text": "pulselessness" },
+      { "key": "D", "text": "pressure" }
+    ],
+    "answer": "A",
+    "explanation": "典型是「Pain（尤其被動牽拉痛）」，不是 painless。其他 P 常記：Pallor、Paresthesia、Paralysis、Pulselessness（但脈搏消失是晚期，不能用來 rule out）。"
+  },
+  {
+    "id": "MED_05_01_COMP_Q0006",
+    "stem": "術後 48 至 72 小時內發燒較常見的原因是：",
+    "options": [
+      { "key": "A", "text": "傷口感染" },
+      { "key": "B", "text": "腹內膿瘍" },
+      { "key": "C", "text": "肺泡塌陷（atelectasis）" },
+      { "key": "D", "text": "尿道感染" }
+    ],
+    "answer": "C",
+    "explanation": "本書以「48–72 小時」這個灰區時間窗，仍以非感染性原因（atelectasis）作為考題標準答案。\n\n臨床鑑別提示：若有明顯感染源線索（傷口紅腫化膿、尿液檢查異常、腹膜炎徵象），要優先走感染評估與培養/影像。"
+  },
+  {
+    "id": "MED_05_01_COMP_Q0007",
+    "stem": "急性肌腔室症候群（acute compartment syndrome）為骨科急症。下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "骨折是最常見原因" },
+      { "key": "B", "text": "創傷後大腿遠比小腿容易發生" },
+      { "key": "C", "text": "即使周邊脈搏與毛細血管回填正常，仍不可排除" },
+      { "key": "D", "text": "疼痛常是最早出現的症狀" }
+    ],
+    "answer": "B",
+    "explanation": "B 錯：臨床更常見部位是小腿（以及前臂）；大腿也會發生但並非“遠比小腿容易”。\n\n關鍵鑑別點：正常脈搏不能排除（C 是考點）。最早、最敏感線索通常是「不成比例的疼痛」與「被動牽拉痛」。"
+  },
+  {
+    "id": "MED_05_01_COMP_Q0008",
+    "stem": "有關腹部腔室症候群（abdominal compartment syndrome）之敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "為腹壓上升導致多發器官功能受影響的狀態，一般腹腔手術打開時能緩解" },
+      { "key": "B", "text": "膀胱內壓力在 35 mmHg 以上時需積極減壓，否則可能器官受損" },
+      { "key": "C", "text": "太晚減壓死亡率可能很高" },
+      { "key": "D", "text": "腹腔壓力可由下腔靜脈壓力表示最為準確" }
+    ],
+    "answer": "AD",
+    "explanation": "本題為複選（書內答案為 A、D）。\n\nA 問題點：ACS 是持續性腹內高壓造成多器官灌流/通氣受損，並非“打開腹腔就一定能解決”，常需要系統性減壓策略與 open abdomen 管理。\nD 問題點：腹內壓的床邊代表性測量以「膀胱壓」最常用、最具實務性；下腔靜脈壓不是標準代表。\n\nB/C 屬常見考點方向（高壓需及時減壓，延誤預後差）。"
+  },
+  {
+    "id": "MED_05_01_COMP_Q0009",
+    "stem": "下列與腹部腔室症候群（abdominal compartment syndrome）相關的症狀，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "腹內壓突然增加" },
+      { "key": "B", "text": "尿量減少" },
+      { "key": "C", "text": "缺氧（hypoxia）" },
+      { "key": "D", "text": "血壓正常" }
+    ],
+    "answer": "D",
+    "explanation": "ACS 常見：回心血量下降、心輸出量下降 → 低血壓/需升壓；同時腎灌流差少尿、膈肌上推造成通氣不良與缺氧。"
+  },
+  {
+    "id": "MED_05_01_COMP_Q0010",
+    "stem": "治療麻醉氣體引起的惡性高溫（malignant hyperthermia）最主要藥物為何？",
+    "options": [
+      { "key": "A", "text": "propranolol" },
+      { "key": "B", "text": "dantrolene" },
+      { "key": "C", "text": "doxazosin" },
+      { "key": "D", "text": "nifedipine" }
+    ],
+    "answer": "B",
+    "explanation": "Dantrolene 抑制骨骼肌 SR 的鈣釋放（降低肌肉代謝風暴）。\n\n必背處置組合：立刻停用誘發麻醉藥/琥珀膽鹼、給 dantrolene、積極降溫、處理高鉀與酸中毒、監測 CK/肌紅蛋白尿與腎功能。"
+  },
+
+  {
+    "id": "MED_05_01_COMP_Q0012",
+    "stem": "40 歲女性右半結腸根除術後 48 小時高燒不退。下列何者最可能原因？",
+    "options": [
+      { "key": "A", "text": "肺炎" },
+      { "key": "B", "text": "吻合處滲漏" },
+      { "key": "C", "text": "肺部膨脹不全（atelectasis）" },
+      { "key": "D", "text": "傷口感染" }
+    ],
+    "answer": "C",
+    "explanation": "本書的時間軸設定：術後早期（約 48 小時）較偏向非感染性肺部併發症（atelectasis）作為首要考點。\n\n臨床提醒：若合併腹膜炎徵象、持續心搏過速、乳酸上升或腹痛惡化，吻合口問題要立即往前排。"
+  },
+  {
+    "id": "MED_05_01_COMP_Q0013",
+    "stem": "承上題，下列何者最合適處理？",
+    "options": [
+      { "key": "A", "text": "血液培養後給廣效抗生素" },
+      { "key": "B", "text": "立刻剖腹探查修補" },
+      { "key": "C", "text": "深呼吸、加強拍痰與咳痰" },
+      { "key": "D", "text": "把傷口打開清創" }
+    ],
+    "answer": "C",
+    "explanation": "若原因是 atelectasis，處置核心是肺擴張與排痰：深呼吸/肺量計、拍痰、有效止痛與早期下床。"
+  },
+  {
+    "id": "MED_05_01_COMP_Q0014",
+    "stem": "病患改善後，術後第 5 天又再度高燒不退，下列處置何者錯誤？",
+    "options": [
+      { "key": "A", "text": "血球、胸部 X 光、尿液分析、血液培養" },
+      { "key": "B", "text": "懷疑導管感染：拔導管並給 vancomycin 或 linezolid" },
+      { "key": "C", "text": "懷疑心內膜炎：至少給抗生素 4–6 週" },
+      { "key": "D", "text": "嚴重敗血症/免疫抑制者：抗生素需涵蓋 gram-positive cocci 和 fungus" }
+    ],
+    "answer": "BD",
+    "explanation": "本題為複選（書內答案 B、D）。\n\nB 問題點：linezolid 通常用於特定情境（例如對 vancomycin 抗藥性或特定適應症），不是與 vancomycin 並列的“常規首選搭配”。\nD 問題點：嚴重敗血症/免疫抑制的經驗性治療重點常是要把「Gram-negative（含 Pseudomonas）」納入；直接把“fungus”當必覆蓋對象並不精準（需依風險分層與臨床情境決定是否加抗黴菌）。"
+  },
+  {
+    "id": "MED_05_01_COMP_Q0015",
+    "stem": "有關急性肌腔室症候群之敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "組織缺血常導致疼痛" },
+      { "key": "B", "text": "被動伸展痛與靜息痛的診斷敏感度/特異度差不多" },
+      { "key": "C", "text": "神經缺血常導致感覺異常及感覺遲鈍" },
+      { "key": "D", "text": "若周邊脈搏仍存在，幾乎可以排除其可能性" }
+    ],
+    "answer": "D",
+    "explanation": "D 錯：周邊脈搏存在不能 rule out。腔室壓上升初期常先影響微循環與神經肌肉灌流，脈搏消失是晚期且不可靠指標。\n\n臨床高敏線索：不成比例疼痛、被動牽拉痛、緊繃腫脹。"
+  },
+  {
+    "id": "MED_05_01_COMP_Q0016",
+    "stem": "腹部腔室症候群造成呼吸困難、低血壓、腎衰竭時，應立即採用何種方法處理為佳？",
+    "options": [
+      { "key": "A", "text": "插氣管內管" },
+      { "key": "B", "text": "使用升壓劑" },
+      { "key": "C", "text": "施打利尿劑" },
+      { "key": "D", "text": "立即採用減壓處置或手術" }
+    ],
+    "answer": "D",
+    "explanation": "Compartment syndrome 類問題的根本治療是「減壓」。A/B/C 可作為支持治療，但無法解除腹內高壓對器官灌流/通氣的結構性壓迫。"
+  },
+  {
+    "id": "MED_05_01_COMP_Q0017",
+    "stem": "腹部手術後若評估有腹部腔室症候群風險，應採取下列何種措施？",
+    "options": [
+      { "key": "A", "text": "供給氧氣" },
+      { "key": "B", "text": "供給大量輸液" },
+      { "key": "C", "text": "避免將傷口做初期縫合（primary closure）" },
+      { "key": "D", "text": "放置中心靜脈導管" }
+    ],
+    "answer": "C",
+    "explanation": "高風險者常需要 open abdomen/暫時性腹壁關閉策略，以避免關腹後腹內壓暴增。\n\nB（大量輸液）反而可能加重組織水腫與腹內壓；A/D 屬支持/監測，不能取代“避免早期關腹”的預防策略。"
   }
+
 
 ]
