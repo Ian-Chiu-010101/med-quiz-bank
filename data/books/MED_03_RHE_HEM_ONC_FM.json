@@ -474,7 +474,251 @@
     ],
     "answer": "B",
     "explanation": "vWD 主要影響 primary hemostasis（血小板黏附）且 vWF 攜帶/穩定 factor VIII，因此 PT 通常正常，aPTT 可因 FVIII 下降而延長或正常；出血時間/血小板功能檢查異常較具提示性。C 是 DIC 的典型組合。"
+  },
+
+  
+  {
+    "id": "MED3_04_Q0056",
+    "stem": "42 歲周女士因為類風濕性關節炎，自 1 年前開始接受腫瘤壞死因子拮抗劑（tumor necrosis factor-alpha inhibitor）adalimumab 每 2 週 40 mg 注射治療。大概 3 週前，周女士發現臉上、手臂伸側、上背部及頸部後側開始出現紅疹，驗血發現抗核抗體（ANA）以及抗雙股 DNA 抗體（anti-dsDNA）由用藥前的陰性轉為陽性，下列處置何者最適當？",
+    "options": [
+      { "key": "A", "text": "停掉 adalimumab，改用 etanercept" },
+      { "key": "B", "text": "加上 prednisolone 1 mg/kg/day，繼續使用 adalimumab" },
+      { "key": "C", "text": "停掉 adalimumab，改用 rituximab" },
+      { "key": "D", "text": "停掉 adalimumab，改用 infliximab" }
+    ],
+    "answer": "C",
+    "explanation": "臨床表現（光敏感樣皮疹）合併 ANA/anti-dsDNA 由陰轉陽，符合 anti-TNF 誘發的 lupus-like syndrome（TILL）。處置原則為停用致病的 TNF inhibitor，並改用不同機轉的免疫調節/生物製劑（如 rituximab）；不建議改換同類（etanercept/infliximab）以避免再誘發。"
+  },
+  {
+    "id": "MED3_04_Q0057",
+    "stem": "38 歲謝先生約半年前開始出現陣發性關節腫痛。病人痛過的關節包括左膝關節、雙手腕關節、左手第 2、3、4 掌指關節、右手第 2 掌指關節及右手第 2 近端指間關節與右肘關節。每次腫痛只侵犯 1 個關節，約 3 至 5 天自癒，從來沒有痛過足部的關節。但近 2 個月雙腕關節及雙手第 2、3 掌指關節與右手第 2 近端指間關節腫痛一直不消退，造成生活極大不便。以下何種檢查對確診病人為類風濕性關節炎最為重要？",
+    "options": [
+      { "key": "A", "text": "血清尿酸（serum uric acid）" },
+      { "key": "B", "text": "雙手 X 光照相（X-ray of both hands）" },
+      { "key": "C", "text": "抗環瓜氨酸抗體（anti-cyclic citrullinated peptide antibodies, anti-CCP）" },
+      { "key": "D", "text": "腕關節超音波檢查" }
+    ],
+    "answer": "C",
+    "explanation": "anti-CCP 對 RA 具高特異性，對「早期或不典型」關節炎的鑑別尤其有價值；影像（X 光/超音波）可輔助但在確診層級上，anti-CCP 的鑑別力通常更高。"
+  },
+  {
+    "id": "MED3_04_Q0058",
+    "stem": "下列有關 anti-CCP（anti-cyclic citrullinated peptide antibody）之敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "多出現在類風濕性關節炎（RA）病患" },
+      { "key": "B", "text": "一般而言此抗體高低與 RA 疾病的嚴重度相關" },
+      { "key": "C", "text": "此 CCP 之形成，是由精氨酸（arginine）經由 PAD 酶轉換成瓜氨酸（citrulline）" },
+      { "key": "D", "text": "使用 anti-TNFα 治療 RA，anti-CCP 抗體不會下降" }
+    ],
+    "answer": "B",
+    "explanation": "本題原書以「B、D 皆可給分」：anti-CCP 與侵蝕性/預後較差相關，但其滴度常相對穩定，未必反映當下活動度或嚴重度（故 B 可視為錯）；多數研究顯示在 anti-TNF 治療下 anti-CCP 滴度常不明顯下降（故 D 常被視為正確）。為了保留原書評分彈性，此題答題端可接受「B」或「BD」視你系統規則。"
+  },
+  {
+    "id": "MED3_04_Q0059",
+    "stem": "一位 34 歲類風濕關節炎患者兩手 PIP 及 MCP joints 有腫脹，腕關節有腫脹及活動受限，兩側肘關節有腫脹及變形。ESR: 83 mm/1h，CRP: 5.36 mg/dL（normal < 0.8），RF: 635 IU/mL（normal < 10）。經以 methotrexate 15 mg/week + sulfasalazine 500 mg QID 及 prednisolone 10 mg QD 治療約半年無顯著效果，下一步應該選擇何種治療藥物最為恰當？",
+    "options": [
+      { "key": "A", "text": "anti-TNF-α" },
+      { "key": "B", "text": "IL-1 receptor antagonist" },
+      { "key": "C", "text": "prednisolone 1,000 mg/day pulse therapy for 3 days" },
+      { "key": "D", "text": "anti-pyrimidine agent" }
+    ],
+    "answer": "A",
+    "explanation": "已使用傳統 DMARD 組合（MTX + SSZ）合併口服類固醇仍控制不佳，屬治療反應不良 RA，典型升階為生物製劑（常以 anti-TNF-α 作為選項之一）。"
+  },
+  {
+    "id": "MED3_04_Q0060",
+    "stem": "63 歲男性為 HBV 帶原者。5 年前開始有兩手小關節、手腕、手肘、膝蓋及腳踝關節酸痛，抽血檢查發現 RF: 29.7 IU/mL（normal < 10），ESR: 18 mm/1h，CRP: 1.0 mg/dL（normal < 0.8），ALT: 62 U/L。下列何種檢查結果陽性對患者的鑑別診斷最有幫助？",
+    "options": [
+      { "key": "A", "text": "anti-nuclear antibody" },
+      { "key": "B", "text": "anti-SSA/anti-SSB antibody" },
+      { "key": "C", "text": "anti-cyclic citrullinated peptide antibody" },
+      { "key": "D", "text": "C3 and C4" }
+    ],
+    "answer": "C",
+    "explanation": "HBV 帶原者可有多種關節表現且 RF 可輕度上升；anti-CCP 對 RA 特異性高，可用於與感染/病毒相關關節病變或其他結締組織病做鑑別。"
+  },
+  {
+    "id": "MED3_04_Q0061",
+    "stem": "下列何者免疫抑制劑與 FKBP-12 接合，可減少 IL-2 之產生？",
+    "options": [
+      { "key": "A", "text": "cyclosporine" },
+      { "key": "B", "text": "tacrolimus" },
+      { "key": "C", "text": "mycophenolate mofetil" },
+      { "key": "D", "text": "sirolimus" }
+    ],
+    "answer": "B",
+    "explanation": "Tacrolimus 與 FKBP-12 結合後抑制 calcineurin，降低 NFAT 活化，進而減少 IL-2 轉錄。Cyclosporine 是與 cyclophilin 結合；sirolimus 與 FKBP-12 結合但抑制 mTOR（偏向抑制 IL-2 訊號傳遞而非產生）。"
+  },
+  {
+    "id": "MED3_04_Q0062",
+    "stem": "46 歲女病人主訴兩側手腕關節及手指關節腫痛已 3 個多月。抽血檢查 ESR 及 CRP 皆明顯上升，且類風濕因子也呈陽性。雙手 X 光也發現關節邊緣性腐蝕現象。此時，除給予消炎止痛劑（NSAID）外，最適宜再給予的免疫調節劑為下列那一種？",
+    "options": [
+      { "key": "A", "text": "methotrexate" },
+      { "key": "B", "text": "cyclosporine" },
+      { "key": "C", "text": "cyclophosphamide" },
+      { "key": "D", "text": "azathioprine" }
+    ],
+    "answer": "A",
+    "explanation": "典型 RA 合併侵蝕性改變與發炎指標上升，首選傳統 DMARD 以 MTX 為核心（除非有禁忌）。"
+  },
+  {
+    "id": "MED3_04_Q0063",
+    "stem": "下列何者對 Cyclooxygenase（COX）-2 之選擇性抑制性最高？",
+    "options": [
+      { "key": "A", "text": "阿斯匹靈（Aspirin）" },
+      { "key": "B", "text": "Celecoxib" },
+      { "key": "C", "text": "Ibuprofen" },
+      { "key": "D", "text": "Indomethacin" }
+    ],
+    "answer": "B",
+    "explanation": "Celecoxib 為典型 COX-2 選擇性抑制劑；Aspirin/Ibuprofen/Indomethacin 皆屬非選擇性（或 COX-1 偏重）抑制。"
+  },
+  {
+    "id": "MED3_04_Q0064",
+    "stem": "以免疫螢光法做抗核抗體（ANA）時，其結果除了濃度高低外，另能看出核染色之類型（pattern），下列那一種類型與全身性硬化症（systemic sclerosis）最具相關性？",
+    "options": [
+      { "key": "A", "text": "Centromere pattern" },
+      { "key": "B", "text": "Peripheral pattern" },
+      { "key": "C", "text": "Cytoplasmic pattern" },
+      { "key": "D", "text": "Homogenous pattern" }
+    ],
+    "answer": "A",
+    "explanation": "SSc（特別 limited/CREST）與 anti-centromere 抗體高度相關，ANA 常呈 centromere pattern。"
+  },
+  {
+    "id": "MED3_04_Q0065",
+    "stem": "Anti-neutrophil cytoplasmic antibodies（ANCA）最常出現在那種疾病？",
+    "options": [
+      { "key": "A", "text": "Wegener's granulomatosis" },
+      { "key": "B", "text": "Behçet's disease" },
+      { "key": "C", "text": "Rheumatoid arthritis" },
+      { "key": "D", "text": "Sjogren's syndrome" }
+    ],
+    "answer": "A",
+    "explanation": "ANCA 最典型與 ANCA-associated vasculitis 相關（如 GPA／Wegener’s granulomatosis）。"
+  },
+  {
+    "id": "MED3_04_Q0066",
+    "stem": "有關乾燥症（Sjogren's syndrome），下列敘述何者最適當？",
+    "options": [
+      { "key": "A", "text": "大於半數以上病人會有明顯臨床症狀之腎臟侵犯" },
+      { "key": "B", "text": "唾液腺發炎是以 CD8+ T 淋巴球浸潤為主" },
+      { "key": "C", "text": "關節炎大部分是屬於 non-erosive" },
+      { "key": "D", "text": "跟 HLA-DR5 有關" }
+    ],
+    "answer": "C",
+    "explanation": "Sjogren 關節炎多為 non-erosive；唾液腺浸潤以 CD4+ T 細胞為主；顯著腎臟侵犯比例不高；常見 HLA 關聯為 DR3 而非 DR5。"
+  },
+  {
+    "id": "MED3_04_Q0067",
+    "stem": "針對乾燥症（Sjogren's syndrome）合併腺體外表現（extraglandular manifestations）的治療，下列何者正確？",
+    "options": [
+      { "key": "A", "text": "若併發關節炎通常使用抗腫瘤壞死因子（anti-TNF）治療" },
+      { "key": "B", "text": "若併發血管炎可使用類固醇與免疫抑制劑治療" },
+      { "key": "C", "text": "若併發淋巴癌使用高劑量類固醇治療即可" },
+      { "key": "D", "text": "若併發雷諾氏症要使用非類固醇類消炎止痛藥治療" }
+    ],
+    "answer": "B",
+    "explanation": "Sjogren 合併血管炎屬較嚴重腺體外表現，常需類固醇合併免疫抑制劑；關節炎多以 NSAIDs/HCQ 等為主；淋巴瘤需腫瘤治療；Raynaud 首選血管擴張藥物（如 CCB）。"
+  },
+  {
+    "id": "MED3_04_Q0068",
+    "stem": "30 歲女性主訴近半年來口乾眼乾越來越嚴重，即使每天喝很多水也無法改善，眼科醫師經過 Schirmer's test 之後確認為乾眼症，轉介至風濕免疫科門診。下列何種處置比較恰當？",
+    "options": [
+      { "key": "A", "text": "直接使用高劑量類固醇治療" },
+      { "key": "B", "text": "直接使用 Cyclophosphamide 治療" },
+      { "key": "C", "text": "直接使用 Rituximab 治療" },
+      { "key": "D", "text": "先抽血檢驗 Anti-SSA/SSB 抗體" }
+    ],
+    "answer": "D",
+    "explanation": "疑似 Sjogren 應先進行免疫學與客觀乾燥評估（如 Anti-SSA/SSB、必要時唇腺切片/唾液腺功能等）；高強度免疫抑制並非初始步驟。"
+  },
+  {
+    "id": "MED3_04_Q0069",
+    "stem": "一位 56 歲婦女主訴兩側手指關節及膝關節疼痛已 3 個月，且兩眼乾澀，也常口渴喝水，最近 2 星期右側腮腺突然腫脹，下列那一項檢驗最不會出現陽性結果？",
+    "options": [
+      { "key": "A", "text": "rheumatoid factors" },
+      { "key": "B", "text": "antinuclear antibodies" },
+      { "key": "C", "text": "anti-SS-A（Ro）/SS-B（La） antibodies" },
+      { "key": "D", "text": "anticardiolipin IgG and IgM" }
+    ],
+    "answer": "D",
+    "explanation": "臨床像 Sjogren（口乾眼乾、腮腺腫、關節痛），常見 RF/ANA/SSA/SSB 陽性；anticardiolipin 屬 APS 相關抗體，非 Sjogren 的典型陽性項目。"
+  },
+  {
+    "id": "MED3_04_Q0070",
+    "stem": "目前診斷 Sjogren's 症候群，下列何種條件可診斷原發性乾燥症（primary Sjogren's syndrome）？（題幹以符號組合呈現：口乾、眼乾、Schirmer's test(+)、唾液腺體切片異常、唾液腺功能檢查異常、血中抗 SSA 或 SSB 抗體陽性、關節疼痛等）",
+    "options": [
+      { "key": "A", "text": "（原書選項為符號組合；本題原書註記一律給分）" },
+      { "key": "B", "text": "（原書選項為符號組合；本題原書註記一律給分）" },
+      { "key": "C", "text": "（原書選項為符號組合；本題原書註記一律給分）" },
+      { "key": "D", "text": "（原書選項為符號組合；本題原書註記一律給分）" }
+    ],
+    "answer": "ABCD",
+    "explanation": "原書此題標註「本題一律給分」。概念上：原發性 Sjogren 的診斷需主觀乾燥症狀合併客觀證據（Schirmer、唇腺切片）與/或免疫學證據（Anti-SSA/SSB），關節疼痛屬非特異性表現。若你的系統不支援多答案，建議保留 answer=ABCD 並在前端顯示此題為『送分/全給分』。"
+  },
+  {
+    "id": "MED3_04_Q0071",
+    "stem": "Sjogren's syndrome 病人最有可能出現那一種腫瘤？",
+    "options": [
+      { "key": "A", "text": "thymoma" },
+      { "key": "B", "text": "small cell carcinoma of lung" },
+      { "key": "C", "text": "renal cell carcinoma" },
+      { "key": "D", "text": "non-Hodgkin's lymphoma" }
+    ],
+    "answer": "D",
+    "explanation": "Sjogren 與淋巴瘤風險上升（特別是 non-Hodgkin lymphoma，如 MZL）相關。"
+  },
+  {
+    "id": "MED3_04_Q0072",
+    "stem": "當懷疑病人有乾眼症時，下列那種檢查最常使用以檢測淚腺分泌功能的低下？",
+    "options": [
+      { "key": "A", "text": "Rose Bengal score" },
+      { "key": "B", "text": "slit lamp examination" },
+      { "key": "C", "text": "Schirmer's test" },
+      { "key": "D", "text": "lacrimal gland biopsy" }
+    ],
+    "answer": "C",
+    "explanation": "Schirmer’s test 為最常用的淚液分泌量客觀測試；Rose Bengal 偏向角結膜染色評估上皮受損。"
+  },
+  {
+    "id": "MED3_04_Q0073",
+    "stem": "有關 inflammatory myopathies 的鑑別診斷，下列何者正確？",
+    "options": [
+      { "key": "A", "text": "dermatomyositis 主要以成人為主，polymyositis 則是成人跟幼童都可以發生" },
+      { "key": "B", "text": "inclusion body myositis 主要發生在大於 50 歲病人，且以女性居多" },
+      { "key": "C", "text": "polymyositis 病人的肌肉切片以 endomysial 與 perivascular inflammation 表現，且以 CD8+ T cells 浸潤為主" },
+      { "key": "D", "text": "necrotizing myopathy 與惡性腫瘤較無關" }
+    ],
+    "answer": "C",
+    "explanation": "PM 肌切片典型為 endomysial 炎症且以 CD8+ T 細胞為主；DM 可見 perivascular/perimysial 炎症且成人與兒童皆可；IBM 多見於 >50 歲男性；necrotizing autoimmune myopathy 可能與惡性腫瘤或藥物（如 statin）相關。"
+  },
+  {
+    "id": "MED3_04_Q0074",
+    "stem": "有關發炎性肌肉病變（inflammatory myopathies）的敘述，下列何者正確？",
+    "options": [
+      { "key": "A", "text": "inclusion body myositis 好發於年輕人" },
+      { "key": "B", "text": "dermatomyositis 通常不會有肌肉之外的表現（extramuscular manifestations）" },
+      { "key": "C", "text": "polymyositis 通常會有強烈的家族遺傳相關（familial association）" },
+      { "key": "D", "text": "dermatomyositis 有可能與癌症相關" }
+    ],
+    "answer": "D",
+    "explanation": "DM 與惡性腫瘤風險上升相關；IBM 多見於 50 歲以上；DM 常有皮膚與系統性表現；PM 多屬自體免疫疾病，通常無強烈家族聚集。"
+  },
+  {
+    "id": "MED3_04_Q0075",
+    "stem": "36 歲女性，自覺有微燒並發現上眼瞼及臉頰部有紅疹。近 2 週來，早上醒來時身體無力，必須側身以雙手扶持起床。血液常規檢查正常，血清學檢查 ANA 1:40 speckled，C3 116 mg/dL，C4 9.8 mg/dL，ESR 31 mm/1h，CRP 1.1 mg/dL。最有可能的診斷為下列何者？",
+    "options": [
+      { "key": "A", "text": "dermatomyositis" },
+      { "key": "B", "text": "systemic lupus erythematosus" },
+      { "key": "C", "text": "eczema" },
+      { "key": "D", "text": "photosensitivity" }
+    ],
+    "answer": "A",
+    "explanation": "近端肌肉無力（起身困難）合併上眼瞼紅疹（可對應 heliotrope rash）高度支持 dermatomyositis；SLE 的 malar rash 常有 nasolabial sparing，且肌無力型態與 DM 更吻合。"
   }
+
+
 
 
 
