@@ -716,9 +716,248 @@
     ],
     "answer": "A",
     "explanation": "近端肌肉無力（起身困難）合併上眼瞼紅疹（可對應 heliotrope rash）高度支持 dermatomyositis；SLE 的 malar rash 常有 nasolabial sparing，且肌無力型態與 DM 更吻合。"
-  }
+  },
 
-
+{
+  "id": "MED_03_04_Q0101",
+  "stem": "一位 22 歲的男性病人主訴右膝關節腫痛已一個多月。最近半年來時常睡至下半夜因下背痛而醒來。上星期突然眼痛、視力模糊，被眼科醫師診斷為葡萄膜炎 (uveitis)。請問下列那一種檢查對診斷最有幫助？",
+  "options": [
+    { "key": "A", "text": "骨盆腔 X 光" },
+    { "key": "B", "text": "右膝關節 X 光" },
+    { "key": "C", "text": "抽血檢查 RF 及 ANA" },
+    { "key": "D", "text": "右膝關節液的檢查" }
+  ],
+  "answer": "A",
+  "explanation": "題幹是典型中軸脊椎關節炎/僵直性脊椎炎光譜：年輕男性、夜間背痛（發炎性背痛特徵）、周邊關節炎（膝）與急性前葡萄膜炎。最能支持診斷、也最符合考題思路的檢查是評估薦腸關節的影像學；首選通常從骨盆腔 X 光（看 sacroiliitis）開始。\\n\\n(B) 右膝 X 光多半無法解釋發炎性背痛與葡萄膜炎的系統性關聯；(C) RF/ANA 偏向 RA/SLE 等，與發炎性背痛、葡萄膜炎連結較弱；(D) 關節液可排除感染/結晶，但無法整合中軸病灶。"
+},
+{
+  "id": "MED_03_04_Q0102",
+  "stem": "有關風濕免疫疾病合併眼病變，下列何種組合最正確？",
+  "options": [
+    { "key": "A", "text": "類風濕性關節炎合併葡萄膜炎 (uveitis) 及全身性紅斑性狼瘡 (SLE) 合併眼視網膜病變" },
+    { "key": "B", "text": "類風濕性關節炎合併鞏膜炎 (scleritis) 及原發性膽道硬化症合併乾燥症 (Sjogren's syndrome)" },
+    { "key": "C", "text": "僵直性脊椎炎合併後房葡萄膜炎 (posterior uveitis) 及 SLE 合併視網膜病變" },
+    { "key": "D", "text": "乾癬性關節炎合併鞏膜炎及僵直性脊椎炎合併前房葡萄膜炎 (anterior uveitis)" }
+  ],
+  "answer": "BD",
+  "explanation": "本題原書標示「答 (B) 或 (D) 或 (BD) 者均給分」。核心概念：\\n1) RA 常見眼部併發症是乾眼、上鞏膜炎/鞏膜炎（scleritis）相對符合；RA 與 uveitis 的典型連結不如脊椎關節炎族群。\\n2) 僵直性脊椎炎（SpA）典型是急性前葡萄膜炎（anterior uveitis/iritis），不是 posterior uveitis。\\n因此 (D) 的後半句正確；(B) 將 RA-scleritis 與膽道疾病合併乾燥症的臨床聯想也被視為可接受答案。\\n\\n(A) 把 RA 與 uveitis 綁在一起較不典型；(C) 把 AS 與 posterior uveitis 連結是常見陷阱。"
+},
+{
+  "id": "MED_03_04_Q0103",
+  "stem": "超音波最適合用來診斷下列何種肌肉骨骼疾病？",
+  "options": [
+    { "key": "A", "text": "metastatic bone lesion" },
+    { "key": "B", "text": "chronic bone infection" },
+    { "key": "C", "text": "avascular bone necrosis" },
+    { "key": "D", "text": "tenosynovitis" }
+  ],
+  "answer": "D",
+  "explanation": "肌肉骨骼超音波的強項是「軟組織與表淺結構」：滑膜增厚、關節積液、肌腱/腱鞘炎、bursitis、導引注射/抽吸等。\\n\\n骨頭本身因聲阻抗大，超音波穿透差，對骨髓/深部骨內病灶（轉移、慢性感染、AVN）敏感度不佳，這類通常靠 X 光、MRI、CT 或核醫。"
+},
+{
+  "id": "MED_03_04_Q0104",
+  "stem": "30 歲男病人主訴左手第 2、3 指及右手 3、4 指的遠端指骨關節 (distal interphalangeal joint) 紅腫熱痛已 3 星期。同時兩側下肢皮膚也出現許多突出會脫屑的紅疹塊。最可能診斷為何？",
+  "options": [
+    { "key": "A", "text": "類風濕性關節炎" },
+    { "key": "B", "text": "細菌性關節炎" },
+    { "key": "C", "text": "全身性紅斑性狼瘡" },
+    { "key": "D", "text": "乾癬性關節炎" }
+  ],
+  "answer": "D",
+  "explanation": "關鍵線索：DIP 關節炎 + 乾癬樣脫屑紅斑（psoriatic plaques）。乾癬性關節炎常見 DIP 受累、非對稱、可合併指(趾)炎(dactylitis)、指甲凹陷/甲剝離等。\\n\\nRA 多見 MCP/PIP，且較少以 DIP 為主；SLE 關節炎通常非侵蝕性；細菌性關節炎通常是急性單關節、全身症狀明顯，與乾癬皮疹組合不吻合。"
+},
+{
+  "id": "MED_03_04_Q0105",
+  "stem": "一位罹患僵直性脊椎炎的患者，有一天突覺左眼腫脹、怕光及視力模糊。下列何者為首選治療藥物？",
+  "options": [
+    { "key": "A", "text": "methotrexate" },
+    { "key": "B", "text": "hydroxychloroquine" },
+    { "key": "C", "text": "local glucocorticoid administration" },
+    { "key": "D", "text": "azathioprine" }
+  ],
+  "answer": "C",
+  "explanation": "僵直性脊椎炎常見急性前葡萄膜炎/虹彩炎發作：眼痛、畏光、視力模糊。第一線多為局部治療（類固醇眼藥水 ± 散瞳劑以防後粘連），必要時才升級全身性免疫治療。\\n\\nMTX/AZA/HCQ 並非急性 uveitis 的首選立即處置，且 HCQ 主要用於 SLE/RA 的部分表現，對 SpA 相關 uveitis 不作為第一線。"
+},
+{
+  "id": "MED_03_04_Q0106",
+  "stem": "55 歲男性，有下背痛伴隨晨間僵硬 (>30 分鐘) 已 2 年，骨盆 X 光無明顯異常；曾有左跟 (Achilles tendon) 發炎病史。以目前病情判斷，何種疾病最有可能？",
+  "options": [
+    { "key": "A", "text": "僵直性脊椎炎 (ankylosing spondylitis)" },
+    { "key": "B", "text": "中軸脊椎關節炎 (axial spondyloarthropathy)" },
+    { "key": "C", "text": "退化性關節炎 (osteoarthritis)" },
+    { "key": "D", "text": "乾癬性關節炎 (psoriatic arthritis)" }
+  ],
+  "answer": "B",
+  "explanation": "骨盆 X 光尚未出現明顯 sacroiliitis，但臨床有發炎性背痛（晨僵、慢性）+ 肌腱附著點炎（Achilles enthesitis）提示 SpA 光譜。這符合「非放射學性中軸脊椎關節炎 (non-radiographic axial SpA)」概念。\\n\\n(A) 傳統 AS 多指已出現影像學 sacroiliitis 的放射學型；(C) OA 的背痛多為機械性，與 enthesitis 不合；(D) PsA 多有乾癬皮膚/指甲表現線索。"
+},
+{
+  "id": "MED_03_04_Q0107",
+  "stem": "38 歲男性約半年前開始出現陣發性關節腫痛。痛過的關節包括左膝、雙手腕、左手第 2、3、4 掌指關節、右手第 2 掌指關節、右手第 2 近端指間關節與右肘。每次腫痛只侵犯 1 個關節，約 3 至 5 天自癒，從來沒有痛過足部關節。但近 2 個月雙腕與雙手第 2、3 掌指關節及右手第 2 近端指間關節腫痛一直不消退，造成生活極大不便。以下何種檢查對確診病人為類風濕性關節炎最為重要？",
+  "options": [
+    { "key": "A", "text": "血清尿酸 (serum uric acid)" },
+    { "key": "B", "text": "雙手 X 光照相 (X-ray of both hands)" },
+    { "key": "C", "text": "抗環瓜氨酸抗體 (anti-cyclic citrullinated peptide antibodies)" },
+    { "key": "D", "text": "腕關節超音波檢查" }
+  ],
+  "answer": "C",
+  "explanation": "題幹從「反覆短暫單關節發作」逐漸轉變為「對稱性小關節持續性滑膜炎」是 RA 的典型演變之一。要“確診/高度支持 RA”最具鑑別力的是 anti-CCP：特異性高，且與侵蝕性病程、較差預後相關。\\n\\n(B) X 光可見侵蝕改變但早期可能正常；(D) 超音波對滑膜炎很敏感但特異性不足；(A) 尿酸無法支持 RA。"
+},
+{
+  "id": "MED_03_04_Q0108",
+  "stem": "下列有關 anti-CCP (anti-cyclic citrullinated peptide antibody) 之敘述，何者錯誤？",
+  "options": [
+    { "key": "A", "text": "多出現在類風濕性關節炎 (RA) 病患" },
+    { "key": "B", "text": "一般而言此抗體高低與 RA 疾病的嚴重度相關" },
+    { "key": "C", "text": "此 CCP 之形成，是由精氨酸 (arginine) 經由 PAD 酶轉換成瓜氨酸 (citrulline)" },
+    { "key": "D", "text": "使用 anti-TNFα 治療 RA，anti-CCP 抗體不會下降" }
+  ],
+  "answer": "B",
+  "explanation": "題幹問「錯誤」。anti-CCP 的“存在”與侵蝕性/較差預後相關，但「滴度高低」並不穩定反映當前活動度或嚴重度；多數研究顯示滴度相對穩定、與疾病活動度變化不一定同步，因此 (B) 以“高低直接反映嚴重度”過度簡化。\\n\\n(A) 正確：anti-CCP 常見於 RA 且特異性高。\\n(C) 正確：瓜氨酸化（citrullination）由 PAD 酶催化。\\n(D) 多數情況下 anti-TNF 治療並不一定使 anti-CCP 明顯下降。\\n\\n原書註記「答 (B) 或 (D) 給分」，原因在於不同資料對 (D) 的描述可能被解讀為“並非一定不降/或變化不大”，但就典型考點仍以 (B) 為主要錯誤選項。"
+},
+{
+  "id": "MED_03_04_Q0109",
+  "stem": "一位 34 歲類風濕關節炎患者兩手 PIP 及 MCP joints 有腫脹，腕關節腫脹及活動受限，兩側肘關節有腫脹及變形。ESR 83 mm/hr，CRP 5.36 mg/dL，RF 635 IU/mL。以 methotrexate 15 mg/week + sulfasalazine 500 mg QID 及 prednisolone 10 mg QD 治療約半年無顯著效果，下一步應該選擇何種治療藥物最為恰當？",
+  "options": [
+    { "key": "A", "text": "anti-TNF-α" },
+    { "key": "B", "text": "IL-1 receptor antagonist" },
+    { "key": "C", "text": "prednisolone 1,000 mg/day pulse therapy for 3 days" },
+    { "key": "D", "text": "anti-pyrimidine agent" }
+  ],
+  "answer": "A",
+  "explanation": "已接受 csDMARD 組合（MTX + sulfasalazine）+ 低劑量類固醇，仍高活動度且有多關節受累，屬「對傳統 DMARD 反應不佳」情境；常規升級是加入生物製劑或標靶合成 DMARD，其中 anti-TNF 是經典第一線生物製劑選項。\\n\\n(B) IL-1 antagonist 較典型用於 AOSD/某些自體發炎；(C) 類固醇 pulse 用於特定重症（如血管炎、某些器官危急），不作為 RA 長期策略；(D) anti-pyrimidine（如 leflunomide）是 csDMARD，可考慮但在「已經 MTX+SSZ 無效」的情境，考題通常期待升級生物製劑。"
+},
+{
+  "id": "MED_03_04_Q0110",
+  "stem": "63 歲男性為 HBV 帶原者。5 年前開始有兩手小關節、手腕、手肘、膝蓋及腳踝關節酸痛。抽血：RF 29.7 IU/mL (normal <10)，ESR 18 mm/hr，CRP 1.0 mg/dL，ALT 62 U/L。下列何種檢查結果陽性對患者的鑑別診斷最有幫助？",
+  "options": [
+    { "key": "A", "text": "anti-nuclear antibody" },
+    { "key": "B", "text": "anti-SSA/anti-SSB antibody" },
+    { "key": "C", "text": "anti-cyclic citrullinated peptide antibody" },
+    { "key": "D", "text": "C3 and C4" }
+  ],
+  "answer": "C",
+  "explanation": "HBV 帶原者出現慢性關節症狀時，鑑別包括：RA、病毒相關關節炎、免疫複合體相關表現等。RF 輕度升高並不特異（慢性感染/肝病亦可陽性）。anti-CCP 對 RA 具高特異性，若陽性可大幅支持 RA 診斷並影響後續免疫治療策略。\\n\\n(A) ANA 偏向 SLE/CTD，(B) SSA/SSB 偏向 Sjogren，(D) 補體下降較支持免疫複合體疾病/血管炎等，但在本題鑑別中，最能直接把診斷推向 RA 的是 anti-CCP。"
+},
+{
+  "id": "MED_03_04_Q0111",
+  "stem": "下列何者免疫抑制劑與 FKBP-12 接合，可減少 IL-2 之產生？",
+  "options": [
+    { "key": "A", "text": "cyclosporine" },
+    { "key": "B", "text": "tacrolimus" },
+    { "key": "C", "text": "mycophenolate mofetil" },
+    { "key": "D", "text": "sirolimus" }
+  ],
+  "answer": "B",
+  "explanation": "Tacrolimus 與 FKBP-12 結合後抑制 calcineurin，降低 NFAT 活化，進而減少 IL-2 轉錄與 T 細胞活化。\\n\\nCyclosporine 是與 cyclophilin 結合再抑制 calcineurin；MMF 抑制 IMPDH（嘌呤合成）；Sirolimus 與 FKBP-12 結合但主要抑制 mTOR、阻斷 IL-2 訊號下游（不是減少 IL-2 產生）。"
+},
+{
+  "id": "MED_03_04_Q0112",
+  "stem": "46 歲女病人主訴兩側手腕關節及手指關節腫痛已 3 個多月。抽血檢查 ESR 及 CRP 皆明顯上升，類風濕因子也呈陽性，雙手 X 光發現關節邊緣性腐蝕現象。此時除給予消炎止痛劑 (NSAID) 外，最適宜再給予的免疫調節劑為下列那一種？",
+  "options": [
+    { "key": "A", "text": "methotrexate" },
+    { "key": "B", "text": "cyclosporine" },
+    { "key": "C", "text": "cyclophosphamide" },
+    { "key": "D", "text": "azathioprine" }
+  ],
+  "answer": "A",
+  "explanation": "RA 合併侵蝕性改變（erosion）應儘早啟動 DMARD，以 MTX 作為第一線 anchor drug 是標準考點。\\n\\nCyclosporine/AZA 可作為部分病人替代/合併，但不是典型第一線；cyclophosphamide 毒性高，多用於血管炎或器官危急之自體免疫疾病，不用於一般 RA。"
+},
+{
+  "id": "MED_03_04_Q0113",
+  "stem": "下列何者對 Cyclooxygenase (COX)-2 之選擇性抑制性最高？",
+  "options": [
+    { "key": "A", "text": "阿斯匹靈 (Aspirin)" },
+    { "key": "B", "text": "Celecoxib" },
+    { "key": "C", "text": "Ibuprofen" },
+    { "key": "D", "text": "Indomethacin" }
+  ],
+  "answer": "B",
+  "explanation": "Celecoxib 為選擇性 COX-2 inhibitor（coxib 類），相對減少 COX-1 相關胃腸道副作用，但需注意心血管風險。\\n\\nAspirin、ibuprofen、indomethacin 均屬較非選擇性 NSAID（Aspirin 偏抑制 COX-1 且不可逆）。"
+},
+{
+  "id": "MED_03_04_Q0114",
+  "stem": "下列敘述何者錯誤？（急性痛風性關節炎相關）",
+  "options": [
+    { "key": "A", "text": "急性痛風性關節炎如果不治療也可在 3 至 10 天內自然緩解" },
+    { "key": "B", "text": "治療急性痛風性關節炎時，如合併使用 colchicine 和降尿酸藥物（例如 allopurinol），會有最好的消炎效果" },
+    { "key": "C", "text": "使用 allopurinol 治療痛風時，若帶有 HLA-B*5801 基因，嚴重皮膚過敏反應風險顯著上升" },
+    { "key": "D", "text": "Febuxostat 為 xanthine oxidase inhibitor，在腎功能不全的病人也可使用" }
+  ],
+  "answer": "B",
+  "explanation": "急性發作期的核心是「抗發炎」（NSAID/colchicine/類固醇）。在急性期啟動或劇烈調整降尿酸治療可能誘發或延長發作，並不會帶來“更好的消炎效果”；因此 (B) 的敘述錯誤。\\n\\n(A) 急性痛風確可自限；(C) HLA-B*5801 與 allopurinol 嚴重皮膚不良反應高度相關（尤其東亞族群常考）；(D) febuxostat 多可於 CKD 使用（仍需整體風險評估）。"
+},
+{
+  "id": "MED_03_04_Q0115",
+  "stem": "一名 50 歲婦女主訴突發性右肩嚴重疼痛，先前使用消炎鎮痛劑數天仍無法有效緩解。到院時右肩活動困難，觸診 subdeltoid bursa 有明顯壓痛。尿酸 8.0 mg/dL，rheumatoid factor 30 U/mL（正常 <20），經由 X 光及 MRI 結果如下列何種疾病最有可能？",
+  "options": [
+    { "key": "A", "text": "痛風關節炎" },
+    { "key": "B", "text": "類風濕性關節炎" },
+    { "key": "C", "text": "apatite 晶體引發之關節炎" },
+    { "key": "D", "text": "冰凍肩 (frozen shoulder)" }
+  ],
+  "answer": "C",
+  "explanation": "突發劇烈肩痛、以肩峰下/三角肌下滑囊（subdeltoid/subacromial bursa）壓痛為主，且影像學若呈現鈣化沉積/旋轉肌袖附近沉積（考題常以 X 光/MRI 圖呈現），典型聯想到 basic calcium phosphate（apatite）晶體相關的 calcific tendinitis / acute calcific periarthritis。\\n\\n尿酸偏高不等於痛風；RA 不會以單側急性肩滑囊炎型態典型呈現；frozen shoulder 多是漸進性活動度受限，不是“突發劇痛 + bursitis 壓痛點”型態。"
+},
+{
+  "id": "MED_03_04_Q0116",
+  "stem": "60 歲女病患主訴右膝關節腫脹及輕微疼痛已 2 週。抽出關節液檢驗：外表黃色透明、黏稠度甚高，白血球濃度 250 cells/mm3。最適宜的診斷為何？",
+  "options": [
+    { "key": "A", "text": "痛風性關節炎" },
+    { "key": "B", "text": "退化性關節炎" },
+    { "key": "C", "text": "細菌性關節炎" },
+    { "key": "D", "text": "乾癬性關節炎" }
+  ],
+  "answer": "B",
+  "explanation": "關節液：黃色透明、黏稠度高、WBC 250/mm3 → 典型非發炎性關節液（non-inflammatory），常見於 OA。\\n\\n痛風/乾癬性關節炎屬發炎性，WBC 通常更高；細菌性關節炎為高度發炎/化膿性，WBC 往往數萬以上且外觀混濁。"
+},
+{
+  "id": "MED_03_04_Q0117",
+  "stem": "下列關於關節炎分類的鑑別診斷中，何種組合最正確？",
+  "options": [
+    { "key": "A", "text": "tuberculous arthritis — acute monoarticular arthritis" },
+    { "key": "B", "text": "virus-induced arthritis — chronic monoarticular arthritis" },
+    { "key": "C", "text": "sarcoidosis — chronic polyarticular arthritis" },
+    { "key": "D", "text": "infectious arthritis — acute polyarticular arthritis" }
+  ],
+  "answer": "C",
+  "explanation": "考分類直覺：\\n- TB arthritis 典型是慢性單關節（chronic monoarticular），不是急性。\\n- 病毒性關節炎多為急性、常呈多關節（acute polyarticular）或短期自限，不是典型慢性單關節。\\n- Sarcoidosis 可出現關節表現（可急性如 Lofgren，也可慢性），以「慢性多關節」作為配對在本題選項中最相對合理。\\n- Infectious arthritis（尤其非淋病性化膿性）典型是急性單關節；淋病性可遷移性多關節，但題目未限定，作為一般配對不如 (C) 合理。"
+},
+{
+  "id": "MED_03_04_Q0118",
+  "stem": "最容易造成移植後糖尿病之免疫抑制劑為：",
+  "options": [
+    { "key": "A", "text": "cyclosporine" },
+    { "key": "B", "text": "tacrolimus" },
+    { "key": "C", "text": "mycophenolate mofetil" },
+    { "key": "D", "text": "sirolimus" }
+  ],
+  "answer": "B",
+  "explanation": "Tacrolimus 對胰島 β 細胞毒性較高、可降低胰島素分泌，是移植後新發糖尿病（PTDM）常考高風險藥物。\\n\\nCyclosporine 也可能影響糖代謝但相對較低；MMF 主要是腸胃道/骨髓抑制；Sirolimus 常見高血脂、延遲傷口癒合等。"
+},
+{
+  "id": "MED_03_04_Q0119",
+  "stem": "抗磷脂質抗體症候群 (antiphospholipid antibody syndrome) 與下列何種異常最有相關？",
+  "options": [
+    { "key": "A", "text": "thrombocytopenia" },
+    { "key": "B", "text": "proteinuria" },
+    { "key": "C", "text": "photosensitivity" },
+    { "key": "D", "text": "arthritis" }
+  ],
+  "answer": "A",
+  "explanation": "APS 的核心是血栓與妊娠併發症；此外存在多種 non-criteria manifestation，其中血小板減少（thrombocytopenia）是常考的關聯表現。\\n\\nProteinuria、photosensitivity、arthritis 更偏向 SLE 本身的器官/皮膚/關節表現，不是 APS 的代表性關聯異常。"
+},
+{
+  "id": "MED_03_04_Q0120",
+  "stem": "36 歲女性，過去無特殊不適亦未服藥。最近兩天出現左下肢腫脹疼痛，血管超音波顯示深層靜脈栓塞。周邊血：Hb 12.1 g/dL，WBC 8,750/µL，platelet 123,000/µL。凝血：PT INR 1.1，aPTT 55 秒（control 28 秒），thrombin time 14.7 秒（control 5.1 秒）。以下何者是最優先要做的檢查？",
+  "options": [
+    { "key": "A", "text": "lupus anticoagulant" },
+    { "key": "B", "text": "factor VIII" },
+    { "key": "C", "text": "protein S" },
+    { "key": "D", "text": "protein C" }
+  ],
+  "answer": "A",
+  "explanation": "年輕女性 DVT + aPTT 延長，需高度懷疑 APS。lupus anticoagulant 會造成試管內 aPTT 延長但臨床上反而增加血栓風險（“抗凝”是假象）。再加上血小板偏低亦支持 APS 可能。\\n\\nProtein C/S 缺乏也會血栓，但不會典型造成 aPTT 延長；factor VIII 升高可增加血栓風險但與 aPTT 延長不符。優先檢查以 LA（並搭配 anticardiolipin、anti-β2GPI）為主。"
+}
 
 
 
