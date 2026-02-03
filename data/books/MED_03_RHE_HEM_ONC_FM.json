@@ -957,6 +957,247 @@
   ],
   "answer": "A",
   "explanation": "年輕女性 DVT + aPTT 延長，需高度懷疑 APS。lupus anticoagulant 會造成試管內 aPTT 延長但臨床上反而增加血栓風險（“抗凝”是假象）。再加上血小板偏低亦支持 APS 可能。\\n\\nProtein C/S 缺乏也會血栓，但不會典型造成 aPTT 延長；factor VIII 升高可增加血栓風險但與 aPTT 延長不符。優先檢查以 LA（並搭配 anticardiolipin、anti-β2GPI）為主。"
+},
+
+  {
+  "id": "P034_Q0171",
+  "stem": "一位 57 歲女性因腹痛、體重減輕就醫，檢查發現肝臟多處轉移。病理切片顯示腺癌（adenocarcinoma），免疫染色：CK7(-)、CK20(+) 、CDX2(+) 、ER(-)、PR(-)、HER2(-)。最可能的原發腫瘤為下列何者？",
+  "options": [
+    { "key": "A", "text": "卵巢癌（ovarian cancer）" },
+    { "key": "B", "text": "大腸直腸癌（colorectal cancer）" },
+    { "key": "C", "text": "肺腺癌（lung adenocarcinoma）" },
+    { "key": "D", "text": "乳癌（breast cancer）" }
+  ],
+  "answer": "B",
+  "explanation": "此題核心是免疫表現型推回原發部位。CK7(-)/CK20(+) 加上 CDX2(+) 是典型腸道（尤其結直腸）分化的組合，常用於「腺癌不明原發」的鑑別。相對地：肺腺癌多為 CK7(+) 且常見 TTF-1(+)/Napsin A(+)（題幹未給且 CK7(-) 不支持）；乳癌常見 ER/PR(+)，部分 HER2(+)；卵巢上皮癌多為 CK7(+) 且常見 PAX8(+)/WT1(+)（題幹亦不符）。因此最符合結直腸癌。"
+},
+{
+  "id": "P034_Q0172",
+  "stem": "關於癌症預防的敘述，下列何者錯誤？",
+  "options": [
+    { "key": "A", "text": "避免日光曝曬，可以降低皮膚癌（melanoma）發生率" },
+    { "key": "B", "text": "戒菸可降低口腔癌及其他癌症發生率" },
+    { "key": "C", "text": "低紅肉及低燒烤肉類的攝取會增加大腸癌發生率" },
+    { "key": "D", "text": "避免大量飲酒可降低口咽癌發生率" }
+  ],
+  "answer": "C",
+  "explanation": "整體概念：多數生活型態介入可降低多種癌症風險。(A) 紫外線曝曬與黑色素瘤/非黑色素瘤皮膚癌風險相關，避免過度曝曬可降低風險；(B) 抽菸與口腔、咽喉、肺、膀胱等多癌種風險上升，戒菸可下降；(D) 酒精與頭頸部（口腔/口咽/下咽/喉）及食道等風險相關，避免大量飲酒可降低。唯 (C) 方向顛倒：高紅肉/加工肉與高溫燒烤（產生多環芳香烴、雜環胺等）一般被認為與結直腸癌風險上升相關，『低紅肉、低燒烤』是風險下降而非上升，因此 (C) 錯。"
+},
+{
+  "id": "P034_Q0173",
+  "stem": "一位 42 歲女性新診斷乳癌，IHC 檢查結果：ER(+)、PR(+)、HER2 1+，FISH 檢查無 HER2 基因擴增。下列治療選項何者最適合？",
+  "options": [
+    { "key": "A", "text": "使用 trastuzumab（Herceptin）" },
+    { "key": "B", "text": "使用 aromatase inhibitors（例如 letrozole）" },
+    { "key": "C", "text": "較可能對 neoadjuvant chemotherapy 有完全病理反應（pathological complete response）" },
+    { "key": "D", "text": "較可能屬於 triple-negative breast cancer" }
+  ],
+  "answer": "B",
+  "explanation": "判讀重點：ER/PR(+)、HER2 1+ 且 FISH 無擴增 → HER2 陰性、荷爾蒙受體陽性（HR+ / HER2-），治療基石是內分泌治療。(A) trastuzumab 僅適用於 HER2 陽性（IHC 3+ 或 IHC 2+ 且 FISH/ISH 擴增），此例不符；(C) pCR 在三陰性或 HER2 陽性接受適當 NAC/anti-HER2 時較常見，HR+/HER2- 一般 pCR 率較低；(D) triple-negative 定義是 ER(-)/PR(-)/HER2(-)，與本例相反。至於 (B) aromatase inhibitor 屬標準內分泌治療之一；臨床上是否需合併卵巢功能抑制取決於停經狀態與風險分層，但方向仍是「內分泌治療」而非抗 HER2。"
+},
+{
+  "id": "P034_Q0174",
+  "stem": "下列關於頭頸癌的敘述何者錯誤？",
+  "options": [
+    { "key": "A", "text": "抽菸與飲酒是頭頸癌的主要危險因子" },
+    { "key": "B", "text": "HPV 陽性的口咽癌（oropharyngeal cancer）通常預後較佳" },
+    { "key": "C", "text": "鼻咽癌（nasopharyngeal cancer）與 Epstein-Barr virus（EBV）感染有關" },
+    { "key": "D", "text": "HPV 陽性的口腔癌（oral cancer）主要發生於口腔（oral cavity）" }
+  ],
+  "answer": "D",
+  "explanation": "此題在考 HPV 的解剖部位關聯。(A) 菸酒是經典危險因子；(B) HPV(+) 口咽鱗癌通常治療反應較佳、整體預後較好，是常考點；(C) 鼻咽癌與 EBV 的關聯亦為經典。錯在 (D)：臨床上 HPV 相關的頭頸鱗癌以「口咽部（tonsil、base of tongue）」最典型，而非以口腔前段（oral cavity）為主，因此把 HPV(+) 的主戰場說成 oral cavity 方向不對。"
+},
+{
+  "id": "P034_Q0175",
+  "stem": "下列腫瘤指數與其適用腫瘤種類的配對，何者錯誤？",
+  "options": [
+    { "key": "A", "text": "AFP－肝癌（hepatocellular carcinoma）" },
+    { "key": "B", "text": "PSA－攝護腺癌（prostate cancer）" },
+    { "key": "C", "text": "LDH－大腸癌（colorectal cancer）" },
+    { "key": "D", "text": "CA19-9－胰臟癌（pancreatic cancer）" }
+  ],
+  "answer": "C",
+  "explanation": "AFP 與 HCC（也可見於部分生殖細胞腫瘤）為經典配對；PSA 是攝護腺癌最常用的腫瘤指標；CA19-9 常用於胰臟癌的病程監測/治療反應評估。LDH 則多反映細胞周轉與腫瘤負荷，常用於淋巴瘤、部分生殖細胞腫瘤、溶血/組織壞死等情境，並不是結直腸癌的典型「腫瘤指數」配對，因此 (C) 錯。"
+},
+{
+  "id": "P034_Q0176",
+  "stem": "根據美國疾病管制署（CDC）對人類免疫不全病毒（HIV）感染及相關機遇性感染與腫瘤的分類，下列何者錯誤？",
+  "options": [
+    { "key": "A", "text": "食道念珠菌感染（esophageal candidiasis）屬於 Category C" },
+    { "key": "B", "text": "肺結核（pulmonary tuberculosis）屬於 Category C" },
+    { "key": "C", "text": "何杰金氏淋巴瘤（Hodgkin's lymphoma）屬於 Category C" },
+    { "key": "D", "text": "持續性全身性淋巴結腫大（persistent generalized lymphadenopathy）屬於 Category A" }
+  ],
+  "answer": "C",
+  "explanation": "CDC 分類中，Category C 代表 AIDS-defining conditions（定義性機遇性感染/腫瘤）。(A) 食道念珠菌屬典型 AIDS-defining；(B) 結核（含肺結核）在該分類中亦屬於 AIDS-defining 的重要項目；(D) persistent generalized lymphadenopathy 是早期/較輕症的表現，歸入 Category A 的概念合理。何杰金氏淋巴瘤雖與 HIV 有關、發生率上升，但傳統 CDC 的 AIDS-defining malignancies 主要是 Kaposi sarcoma、特定非何杰金氏淋巴瘤（含原發性中樞神經系統淋巴瘤）、以及侵襲性子宮頸癌；Hodgkin lymphoma 並非典型 Category C，因此 (C) 錯。"
+},
+{
+  "id": "P034_Q0177",
+  "stem": "有關「血清 CA19-9 值」於胰臟癌診療上的敘述，何者正確？",
+  "options": [
+    { "key": "A", "text": "可做為診斷胰臟癌的篩檢指數" },
+    { "key": "B", "text": "CA19-9 可做為治療後的復發指標，也可做為預後指標" },
+    { "key": "C", "text": "CA19-9 值的升高建議使用於胰臟癌的篩檢" },
+    { "key": "D", "text": "CA19-9 值可於非惡性腫瘤疾病中升高，如慢性膽管炎、胰臟炎" }
+  ],
+  "answer": "B",
+  "explanation": "CA19-9 的定位不是一般族群『篩檢』，因為特異性不足且會受膽道阻塞/發炎影響；因此 (A)(C) 都不適當。臨床上 CA19-9 主要用於：疾病負荷的間接追蹤、治療反應監測、以及術前/治療前高值常與較差預後相關，故 (B) 為最標準且最常被考的正確敘述。另 (D) 也描述了 CA19-9 的重要限制：在膽管炎、胰臟炎或膽道阻塞等良性狀況也可能升高；這正是它不適合作為篩檢工具的原因。"
+},
+{
+  "id": "P034_Q0178",
+  "stem": "一位 64 歲女性，診斷為子宮頸鱗狀上皮癌（squamous cell carcinoma）。骨盆腔檢查發現癌細胞擴散至上段陰道（upper vagina）2 cm，但無侵犯到子宮旁組織（parametrial invasion）。最可能的診斷為何？",
+  "options": [
+    { "key": "A", "text": "FIGO stage IA" },
+    { "key": "B", "text": "FIGO stage IB2" },
+    { "key": "C", "text": "FIGO stage IIA" },
+    { "key": "D", "text": "FIGO stage IIB" }
+  ],
+  "answer": "C",
+  "explanation": "FIGO 分期重點在於：是否超出子宮頸、是否侵犯陰道、以及是否有 parametrial invasion。此例有「侵犯上段陰道」→ 已超出子宮頸但仍侷限於陰道上段，且『無』parametrial invasion，因此是 stage IIA（侵犯陰道但不侵犯子宮旁）。IIB 的定義是有 parametrial invasion，與題幹相反。IA/IB2 都屬於仍侷限於子宮頸者，不符合。"
+},
+{
+  "id": "P034_Q0179",
+  "stem": "下列何者不是口咽部原發鱗狀上皮癌（oropharyngeal cancer）的危險因子？",
+  "options": [
+    { "key": "A", "text": "抽菸（smoking）" },
+    { "key": "B", "text": "人類乳突病毒（HPV）感染" },
+    { "key": "C", "text": "Epstein-Barr virus（EBV）感染" },
+    { "key": "D", "text": "飲酒（alcohol consumption）" }
+  ],
+  "answer": "C",
+  "explanation": "口咽鱗癌的兩大風險軸：傳統的菸酒暴露，以及 HPV（特別是 HPV16）相關路徑。(A)(D) 為經典危險因子，(B) 是近年最重要的致病因子之一。EBV 主要與鼻咽癌（nasopharyngeal carcinoma）關聯最強，而非口咽原發鱗癌，因此 (C) 不是口咽癌的典型危險因子。"
+},
+{
+  "id": "P034_Q0180",
+  "stem": "下列何種微生物感染與癌症形成最不相關？",
+  "options": [
+    { "key": "A", "text": "H. pylori 感染－胃癌（gastric cancer）" },
+    { "key": "B", "text": "B 型肝炎病毒感染（HBV）－肝癌（HCC）" },
+    { "key": "C", "text": "HTLV-1 感染－成人 T 細胞白血病（adult T-cell leukemia）" },
+    { "key": "D", "text": "HSV-1 感染－胰臟癌（pancreatic cancer）" }
+  ],
+  "answer": "D",
+  "explanation": "三個高度經典的感染致癌配對：(A) H. pylori 與胃腺癌/黏膜相關淋巴組織淋巴瘤；(B) HBV 與 HCC；(C) HTLV-1 與成人 T 細胞白血病/淋巴瘤。HSV-1 與胰臟癌並無公認的強因果關聯或經典考點配對，因此 (D) 最不相關。"
+},
+{
+  "id": "P034_Q0181",
+  "stem": "一位 33 歲男性病人，有 6 cm 前縱膈腔腫瘤（anterior mediastinal tumor），AFP 以及 beta-HCG 皆升高，最可能的診斷為何？",
+  "options": [
+    { "key": "A", "text": "胸腺瘤（thymoma）" },
+    { "key": "B", "text": "淋巴瘤（lymphoma）" },
+    { "key": "C", "text": "非精原細胞生殖細胞瘤（non-seminomatous germ cell tumor）" },
+    { "key": "D", "text": "精原細胞瘤（seminoma）" }
+  ],
+  "answer": "C",
+  "explanation": "前縱膈腔腫瘤的鑑別常用「4T」：thymoma、terrible lymphoma、teratoma/germ cell tumor、thyroid。此題給了關鍵腫瘤指標：AFP 與 beta-hCG 同時升高，強烈指向非精原細胞型生殖細胞腫瘤（例如 yolk sac/embryonal carcinoma/混合型）。純 seminoma 通常 AFP 不會升高（AFP 升高基本上排除純 seminoma），而 thymoma/lymphoma 也不會有這種 AFP + hCG 的典型組合，因此最合理是 (C)。"
+},
+{
+  "id": "P034_Q0182",
+  "stem": "一位 28 歲男性，這兩個月來一直覺得胸悶，電腦斷層發現縱膈腔有一腫塊，另外發現左睪丸輕微腫大。抽血發現 AFP 250 ng/mL、beta-HCG 2 mIU/mL、LDH 850 U/L。最有可能的診斷為何？",
+  "options": [
+    { "key": "A", "text": "精原細胞瘤（seminoma）" },
+    { "key": "B", "text": "非精原細胞生殖細胞瘤（non-seminomatous germ cell tumor）" },
+    { "key": "C", "text": "胸腺瘤（thymoma）" },
+    { "key": "D", "text": "霍奇金氏淋巴瘤（Hodgkin lymphoma）" }
+  ],
+  "answer": "B",
+  "explanation": "AFP 250 明顯升高是本題最關鍵：AFP 升高高度支持非精原細胞型生殖細胞腫瘤（NSGCT），且幾乎排除純 seminoma。beta-hCG 幾乎正常也不影響判斷，因為 NSGCT 的 hCG 可能升高也可能不升高；LDH 上升則常反映腫瘤負荷或細胞周轉。合併睪丸腫大與縱膈腔腫塊，臨床要高度懷疑生殖細胞腫瘤（睪丸原發或縱膈腔原發/轉移）。Thymoma、Hodgkin lymphoma 並不會以 AFP 當典型標記。"
+},
+{
+  "id": "P034_Q0183",
+  "stem": "一位男性肺部腫瘤病患其病理切片呈現神經內分泌瘤（neuroendocrine tumor），且呈現下列 marker 陽性，請問下列哪一種 marker 較不可能是此 tumor 會呈現陽性？",
+  "options": [
+    { "key": "A", "text": "neuron-specific enolase" },
+    { "key": "B", "text": "synaptophysin" },
+    { "key": "C", "text": "chromogranin" },
+    { "key": "D", "text": "CD7" }
+  ],
+  "answer": "D",
+  "explanation": "神經內分泌腫瘤的常用免疫標記包括 synaptophysin、chromogranin、（以及部分情境下的）NSE 等，反映神經內分泌分化。CD7 則是偏 T 細胞相關的表面抗原（常見於 T 細胞淋巴性疾病或部分血液腫瘤免疫表現），不是典型 neuroendocrine tumor marker，因此最不可能陽性的是 (D)。"
+},
+{
+  "id": "P034_Q0184",
+  "stem": "根據目前證據，下列那一個癌症與病毒或細菌感染最不相關？",
+  "options": [
+    { "key": "A", "text": "子宮頸癌（cervical cancer）" },
+    { "key": "B", "text": "大腸癌（colon cancer）" },
+    { "key": "C", "text": "肝癌（hepatocellular carcinoma）" },
+    { "key": "D", "text": "胃癌（gastric cancer）" }
+  ],
+  "answer": "B",
+  "explanation": "這題是在考「經典感染致癌」對應：子宮頸癌與 HPV；肝癌與 HBV/HCV；胃癌與 H. pylori（亦可與 EBV 相關的部分胃癌亞型）。相對而言，大腸癌並沒有像上述癌種那樣公認、可直接拿來當國考考點的『單一特定病毒或細菌』因果對應，因此在此四者中最不相關的是 (B)。"
+},
+{
+  "id": "P034_Q0185",
+  "stem": "一位 25 歲的男子，因感覺胸部有壓迫感求診。電腦斷層顯示前縱膈腔腫瘤 5 cm，血清 β-hCG 為 5200 mIU/mL，AFP 2 ng/mL、LDH 195 U/L，且睪丸超音波顯示兩側睪丸均正常。最可能的診斷為下列何者？",
+  "options": [
+    { "key": "A", "text": "精原細胞瘤（seminoma）" },
+    { "key": "B", "text": "絨毛膜癌（choriocarcinoma）" },
+    { "key": "C", "text": "卵黃囊瘤（yolk sac tumor）" },
+    { "key": "D", "text": "畸胎瘤（teratoma）" }
+  ],
+  "answer": "B",
+  "explanation": "前縱膈腔原發生殖細胞腫瘤在年輕男性是重要鑑別。此題的關鍵是 β-hCG 非常高（5200），而 AFP 正常：\n1) AFP 正常：不支持 yolk sac tumor（AFP 常顯著升高）。\n2) Seminoma 可能有 β-hCG 輕度升高，但通常幅度不會到這麼高，且 AFP 應維持正常；若 hCG 很高要強烈懷疑含 syncytiotrophoblastic 成分較多的非精原細胞腫瘤。\n3) Choriocarcinoma 的典型特徵就是 hCG 極高、AFP 通常不升（除非混合型）。\n此外睪丸超音波正常支持縱膈腔原發（extragonadal）可能性。綜合最符合 (B)。"
+},
+{
+  "id": "P034_Q0186",
+  "stem": "癌症治療學的進展，部分患者可能出現慢性的治療後副作用（late consequences），以下何者是一個正確的治療藥物與後遺症的配對？",
+  "options": [
+    { "key": "A", "text": "anthracycline—neuropathy" },
+    { "key": "B", "text": "cisplatin—cardiomyopathy" },
+    { "key": "C", "text": "taxane—end-stage renal disease" },
+    { "key": "D", "text": "子宮頸癌放射線治療—不孕" }
+  ],
+  "answer": "D",
+  "explanation": "判斷方式：抓每個藥物最典型的器官毒性。\n(A) anthracycline（如 doxorubicin）典型是心肌毒性（心衰竭/心肌病變），不是周邊神經病變。\n(B) cisplatin 典型是腎毒性、耳毒性、周邊神經病變；「心肌病變」不是其最典型長期後遺症。\n(C) taxane（paclitaxel/docetaxel）典型是周邊神經病變、骨髓抑制、指甲/皮膚改變等，非末期腎病。\n(D) 子宮頸癌放療可造成卵巢功能衰竭（若卵巢在照射野或散射劑量影響）、子宮/子宮內膜血流與彈性受損、以及骨盆腔纖維化，導致不孕或妊娠併發症風險上升，故為正確配對。"
+},
+{
+  "id": "P034_Q0187",
+  "stem": "有關癌症治療（cancer therapies）所帶來之長期後遺症（late consequences）的敘述，何者錯誤？",
+  "options": [
+    { "key": "A", "text": "血液惡性腫瘤（hematologic malignancies）常發生在接受 alkylating agents 之後約 5 年左右" },
+    { "key": "B", "text": "放射線治療誘發的實體腫瘤（solid tumor）常在約 10 年後出現" },
+    { "key": "C", "text": "手術後的副作用較放射線治療及化學治療的副作用發生得早" },
+    { "key": "D", "text": "trastuzumab（Herceptin）治療相關的心毒性（cardiotoxicity）為劑量相關" }
+  ],
+  "answer": "D",
+  "explanation": "此題考長期毒性『型態』與『時間軸』。\n(A) 治療相關血液腫瘤（如 therapy-related MDS/AML）確實可在接受 alkylating agents 後數年出現（常見落在 5–7 年區間，依藥物/累積劑量而異）。\n(B) 放療誘發的實體腫瘤通常潛伏期更長，10 年左右或更久是常見考點。\n(C) 手術相關併發症（出血、感染、器官功能改變等）通常在治療後較早期顯現，時間軸上確實早於放療/化療造成的第二癌或慢性器官毒性。\n(D) trastuzumab 的心毒性特色是『多非累積劑量依賴』、且相對可逆，與 anthracycline 那種明顯累積劑量相關的不可逆心肌毒性不同；因此 (D) 說成劑量相關是錯的。"
+},
+{
+  "id": "P034_Q0188",
+  "stem": "下列何者是 invasive trophoblastic disease 的 high risk factor？",
+  "options": [
+    { "key": "A", "text": "年齡 40 歲以上" },
+    { "key": "B", "text": "hCG level > 100,000 IU/L" },
+    { "key": "C", "text": "Antecedent pregnancy is term delivery" },
+    { "key": "D", "text": "Interval between index pregnancy and treatment > 12 months" }
+  ],
+  "answer": "C",
+  "explanation": "此題在考妊娠滋養層腫瘤（GTN）的 FIGO/WHO risk scoring 觀念：既往妊娠型態、hCG 高低、間隔時間、轉移部位/數量等都會影響風險分層。『前次妊娠為足月生產（term delivery）』相較於前次為葡萄胎，通常代表風險分數較高、預後較差，是常見高風險因子之一，因此選 (C)。其餘選項在不同評分系統/分段下可能也會加分，但題目設計通常用 (C) 當最具代表性的高風險因子。"
+},
+{
+  "id": "P034_Q0189",
+  "stem": "下列何種做法，對於降低癌症治療造成的中性球低下併發燒（febrile neutropenia, FN）的發生率較無幫助？",
+  "options": [
+    { "key": "A", "text": "對於預期 FN 風險較高的化療方案，在第一個療程即預防性使用 G-CSF（primary prophylaxis）" },
+    { "key": "B", "text": "針對高風險病人，適當調整化療劑量或延後療程以避免嚴重骨髓抑制" },
+    { "key": "C", "text": "一旦發生 FN，立即給予適當的廣效性抗生素治療" },
+    { "key": "D", "text": "在特定高風險情境下，考慮使用抗生素預防（antibacterial prophylaxis）以降低感染事件" }
+  ],
+  "answer": "C",
+  "explanation": "題目問的是『降低 FN 發生率（incidence）』，而不是『降低 FN 的死亡率/併發症』。\n(A) primary prophylaxis G-CSF 可降低中性球低下與 FN 發生率，是標準策略之一。\n(B) 劑量調整或延後療程可降低嚴重中性球低下的機率，因此也會影響 FN 發生率（但需在治療效果與劑量強度間權衡）。\n(D) 在特定高風險（例如預期長期嚴重中性球低下）下，抗菌預防可減少感染事件，亦可能降低 FN 事件。\n(C) 『發生 FN 後立即給抗生素』是治療策略，主要目的是降低敗血症、器官衰竭與死亡，並不會讓 FN「不發生」，因此對『發生率』較無幫助，故選 (C)。"
+},
+{
+  "id": "P034_Q0190",
+  "stem": "下列關於 EGFR 標靶治療的敘述，何者錯誤？",
+  "options": [
+    { "key": "A", "text": "cetuximab 藉由和 EGFR extracellular domain 結合，阻斷 ligand 與 EGFR 的結合" },
+    { "key": "B", "text": "EGFR 屬於 ErbB receptor family 的一員（EGFR = ErbB1）" },
+    { "key": "C", "text": "對於轉移性大腸直腸癌，若腫瘤帶有 KRAS mutation，仍可從 cetuximab 治療中獲益" },
+    { "key": "D", "text": "EGFR 過度表現常見於部分頭頸部鱗狀上皮癌，臨床可使用 EGFR 抑制劑作為治療之一" }
+  ],
+  "answer": "C",
+  "explanation": "EGFR 抑制劑的臨床關鍵在於下游訊號是否已被『繞過』。\n(A) cetuximab（單株抗體）結合 EGFR extracellular domain，阻斷 ligand binding 並促進受體內化/下調，是正確。\n(B) EGFR = ErbB1，屬 ErbB 家族（ErbB1/2/3/4），正確。\n(D) 頭頸部鱗癌常見 EGFR 過度表現，cetuximab 等可作治療的一部分，正確。\n(C) KRAS mutation 會造成 RAS/MAPK 下游路徑持續活化，使得阻斷上游 EGFR 的效果大幅降低；因此在轉移性結直腸癌中，RAS mutation（尤其 KRAS/NRAS）通常預測 anti-EGFR（cetuximab/panitumumab）無效，故 (C) 錯。"
 }
 
 
