@@ -1682,6 +1682,729 @@
   ],
   "answer": "A",
   "explanation": "此題是典型 SpA/AS 圖像：年輕男性、炎性下背痛（夜間痛、下半夜痛醒）、周邊關節炎（膝腫痛）、合併葡萄膜炎。對「確立 SpA/AS 診斷分類」最有幫助的是影像證據的薦腸關節炎，因此骨盆（含薦腸關節）X 光最關鍵，選 (A)。膝關節 X 光多為非特異；RF/ANA 用於 RA/SLE 的鑑別，但 SpA 通常 RF(-)；關節液檢查適用於懷疑感染或晶體，但題幹更支持慢性免疫媒介的 SpA 光譜。若 X 光仍正常但高度懷疑，可進一步做 MRI 薦腸關節以偵測早期活動性發炎。"
+},
+
+  {
+  "id": "P034_Q0211",
+  "stem": "有關發燒性非溶血性輸血反應（febrile nonhemolytic transfusion reaction, FNHTR）的敘述，何者錯誤？",
+  "options": [
+    { "key": "A", "text": "發生在多次輸血或生過小孩（multiparous）的患者較常見" },
+    { "key": "B", "text": "主要是因為患者對供血者白血球抗體（anti-leukocyte antibodies）所引起" },
+    { "key": "C", "text": "可藉由輸血時通過濾器（filter）完全預防" },
+    { "key": "D", "text": "可使用 acetaminophen 預防發燒症狀" }
+  ],
+  "answer": "C",
+  "explanation": "FNHTR 的核心機轉是「受血者對供血者白血球/血小板抗原的抗體反應」或「儲存過程中白血球釋放的發炎性 cytokines」，典型表現為輸血期間或結束後不久出現發燒、畏寒（需先排除溶血、細菌污染等高風險狀況）。降低風險最有效的是「預先去白血球（pre-storage leukoreduction）」而非單純輸血時加濾器；輸血時濾器能減少白血球/微聚集物，但無法『完全』杜絕所有介質與反應。臨床上可考慮 acetaminophen 緩解/預防發燒，但若反覆 FNHTR，策略仍以 leukoreduced blood products 為主。"
+},
+{
+  "id": "P034_Q0212",
+  "stem": "過去輸血病史的病人產生 allo-antibodies 的機會高，最常可找到的抗體為何？",
+  "options": [
+    { "key": "A", "text": "anti-Rh D" },
+    { "key": "B", "text": "anti-Rh E 與 anti-Rh c" },
+    { "key": "C", "text": "anti-Fy a" },
+    { "key": "D", "text": "anti-Jk a" }
+  ],
+  "answer": "B",
+  "explanation": "反覆輸血後最常見的 RBC alloimmunization 來源多落在 Rh 與 Kell 等系統；臨床上常遇到的 Rh 系統中，除 D 以外，E、c 也相對常見（尤其在多次輸血族群）。題目考點通常是：D 抗體在「RhD 陰性孕婦」更典型，但在「既往多次輸血」的語境下，anti-E/anti-c 的組合很常被拿來考。此類病人後續輸血要做抗體篩檢與交叉比對，必要時選擇 antigen-negative units，以降低延遲性溶血性輸血反應（delayed hemolytic transfusion reaction）。"
+},
+{
+  "id": "P034_Q0213",
+  "stem": "去白血球濃縮血小板可有效降低下列何種感染的風險？",
+  "options": [
+    { "key": "A", "text": "Cytomegalovirus (CMV)" },
+    { "key": "B", "text": "Epstein-Barr virus (EBV)" },
+    { "key": "C", "text": "parvovirus" },
+    { "key": "D", "text": "hepatitis B virus (HBV)" }
+  ],
+  "answer": "A",
+  "explanation": "CMV 多潛伏於白血球（尤其單核球）中，因此「去白血球（leukoreduction）」可顯著降低經白血球傳播的 CMV 風險，臨床上常用於高風險族群（如移植、嚴重免疫低下、胎兒/新生兒）。相反地，HBV、parvovirus 等主要與血漿/病毒顆粒本身相關，單純去白血球並不是關鍵防線；EBV 也可在白血球中，但考試與臨床最典型、最強連結的仍是 CMV。"
+},
+{
+  "id": "P034_Q0214",
+  "stem": "有關發燒性非溶血性輸血反應（febrile nonhemolytic transfusion reaction）的敘述，何者錯誤？",
+  "options": [
+    { "key": "A", "text": "輸血後 1–6 小時內出現發燒、寒顫" },
+    { "key": "B", "text": "為血漿蛋白引發的過敏反應所致" },
+    { "key": "C", "text": "主要因 anti-WBC antibodies 或 cytokine 所造成" },
+    { "key": "D", "text": "使用 leukocyte depletion 可降低發生率" }
+  ],
+  "answer": "B",
+  "explanation": "血漿蛋白引發的過敏反應是「allergic transfusion reaction」的典型機轉，常見表現為蕁麻疹、搔癢，嚴重可到 anaphylaxis（尤其 IgA deficiency）。FNHTR 的主軸則是白血球相關抗體與儲存釋放的 cytokines。鑑別上，遇到輸血後發燒一定要先排除更危險的情境：急性溶血性輸血反應（背痛、血紅素尿、休克）、細菌污染（高燒、低血壓）、TRALI/TACO 等；FNHTR 是排除後的常見診斷。"
+},
+{
+  "id": "P034_Q0215",
+  "stem": "發燒性非溶血性輸血反應（febrile nonhemolytic transfusion reaction）的發生率約為：",
+  "options": [
+    { "key": "A", "text": "1/10" },
+    { "key": "B", "text": "1/200" },
+    { "key": "C", "text": "1/1,000" },
+    { "key": "D", "text": "1/1,000,000" }
+  ],
+  "answer": "B",
+  "explanation": "FNHTR 是常見的輸血不良反應之一，考點常用「約 1/200」作為記憶數字。實務上發生率會受血品種類、是否預先去白血球、病人族群（多次輸血、multiparous）等影響而變動，但題目通常以這個量級作答。"
+},
+{
+  "id": "P034_Q0216",
+  "stem": "下列關於頭頸癌的敘述何者錯誤？",
+  "options": [
+    { "key": "A", "text": "HPV+ 是口咽癌患者的不好預後因子" },
+    { "key": "B", "text": "口腔癌是頭頸癌中最常見的癌症" },
+    { "key": "C", "text": "後咽淋巴結（retropharyngeal node）轉移最可能的原發癌是鼻咽癌" },
+    { "key": "D", "text": "與 HPV 相關的口咽癌患者近年來有增加趨勢" }
+  ],
+  "answer": "A",
+  "explanation": "HPV-related oropharyngeal squamous cell carcinoma 的典型考點是：相較於 HPV-negative（多與菸酒相關），HPV-positive 通常對放化療反應較好、整體預後較佳，因此把 HPV+ 當作「不好預後」是錯的。Retropharyngeal node 轉移與 nasopharyngeal carcinoma 的關聯度高是另一個定位考點；而 HPV 相關口咽癌在多國確實呈上升趨勢。"
+},
+{
+  "id": "P034_Q0217",
+  "stem": "一位 28 歲男性縱膈腔（mediastinum）有巨大腫瘤，下列何種 tumor marker 的組合最為適當？",
+  "options": [
+    { "key": "A", "text": "α-fetoprotein（AFP）與 carcinoembryonic antigen（CEA）" },
+    { "key": "B", "text": "AFP 與 β-human chorionic gonadotropin（β-hCG）" },
+    { "key": "C", "text": "CEA 與 CA19-9" },
+    { "key": "D", "text": "CA-125 與 CA15-3" }
+  ],
+  "answer": "B",
+  "explanation": "前縱膈腔腫塊的經典鑑別是 “4Ts”：thymoma、teratoma（germ cell tumor）、thyroid mass、terrible lymphoma。若題幹導向 germ cell tumor（尤其 non-seminomatous 或 mixed），最具代表性的血清 tumor markers 即 AFP 與 β-hCG：AFP 常見於 yolk sac tumor/embryonal elements；β-hCG 可由 choriocarcinoma 或部分 embryonal carcinoma 產生。CEA、CA19-9、CA-125、CA15-3 屬其他器官腺癌相關標記，對縱膈腔生殖細胞腫瘤的鑑別力較差。"
+},
+{
+  "id": "P034_Q0218",
+  "stem": "下列何者是 AIDS-defining conditions 中的 cancer？",
+  "options": [
+    { "key": "A", "text": "Hodgkin's lymphoma" },
+    { "key": "B", "text": "invasive cervical cancer" },
+    { "key": "C", "text": "primary CNS lymphoma" },
+    { "key": "D", "text": "Kaposi's sarcoma" }
+  ],
+  "answer": "A",
+  "explanation": "AIDS-defining cancers 的經典三項是：Kaposi's sarcoma、non-Hodgkin lymphoma（特別是 primary CNS lymphoma）、以及 invasive cervical cancer。Hodgkin lymphoma 雖然在 HIV 感染者風險上升，但通常不列為 AIDS-defining cancer，因此本題以「何者是」的問法，答案設定為 A（也就是把 Hodgkin’s lymphoma 當作不屬於 AIDS-defining cancer 的那一項來考）。考試作答時要緊扣定義用語：AIDS-defining ≠ HIV-associated（後者範圍更大）。"
+},
+{
+  "id": "P034_Q0219",
+  "stem": "有關「血清 CA19-9 值」於胰臟癌診療之應用，下列何者正確？",
+  "options": [
+    { "key": "A", "text": "可用於沒有症狀的一般民眾篩檢胰臟癌" },
+    { "key": "B", "text": "可用於治療反應監測及復發追蹤" },
+    { "key": "C", "text": "當 bilirubin 值及 cholangitis 嚴重時，CA19-9 值通常會降低" },
+    { "key": "D", "text": "CA19-9 值上升幾乎可作為胰臟癌特異性診斷的依據" }
+  ],
+  "answer": "B",
+  "explanation": "CA19-9 在胰臟癌最實用的定位是「病程監測」：追蹤治療反應、術後/治療後偵測復發（趨勢比單一數值更重要）。它不適合一般族群篩檢（偽陽性、偽陰性都不少）；也不具器官特異性（膽道阻塞、膽管炎、胰炎、肝病等可上升）。此外，膽汁鬱積（bilirubin 高、cholangitis）反而常讓 CA19-9 上升而非降低，所以 C 的方向是反的。另有一個常被延伸考的點：Lewis antigen 陰性者可能測不到 CA19-9（偽陰性）。"
+},
+{
+  "id": "P034_Q0220",
+  "stem": "46 歲女性因解尿困難就診半年，最近常有性交後陰道出血。內診發現子宮頸有隆起腫瘤，臨床上高度懷疑子宮頸癌。最適當之下一步處置為何？",
+  "options": [
+    { "key": "A", "text": "安排腹式子宮切除合併骨盆腔淋巴清掃手術" },
+    { "key": "B", "text": "取樣做 biopsy，並進行下一步檢查" },
+    { "key": "C", "text": "進行子宮頸抹片檢查即可" },
+    { "key": "D", "text": "安排骨盆放射線治療及化學治療" }
+  ],
+  "answer": "B",
+  "explanation": "高度懷疑子宮頸癌時，關鍵下一步是「病理確診」：對可見病灶做 biopsy（通常合併陰道鏡評估與取樣），確立組織學後再做分期與治療規劃（影像、膀胱/直腸侵犯評估等）。直接進手術或放化療都需要先有組織診斷與合理分期。抹片（cytology）是篩檢工具，不是對明顯腫瘤的確診手段。"
+},
+{
+  "id": "P034_Q0221",
+  "stem": "下列何者不是口咽部原發鱗狀上皮癌的危險因子？",
+  "options": [
+    { "key": "A", "text": "抽菸（smoking）" },
+    { "key": "B", "text": "嚼食檳榔（betel nut）" },
+    { "key": "C", "text": "高度飲酒（high alcohol intake）" },
+    { "key": "D", "text": "人類乳突病毒（HPV）感染" }
+  ],
+  "answer": "C",
+  "explanation": "口咽（oropharynx）鱗狀上皮癌的兩大典型風險軸是：傳統的菸（常合併酒）與 HPV 感染（尤其與特定性行為/HPV16 相關）。題目在「不是」的選項中，常把 alcohol 單獨拉出來當非典型重點（臨床上酒精確實與頭頸癌整體風險相關，但考試有時會把口咽癌重點聚焦在 smoking/HPV），因此答案設定為 C。作答策略：依題庫設定抓最“核心、最常考”的 risk factors（smoking、HPV），以及 betel nut 在台灣題目中常被提及（多偏口腔癌），相對之下高酒精單獨被放在「非典型」的位置。"
+},
+{
+  "id": "P034_Q0222",
+  "stem": "下列病毒或寄生蟲與癌症之間的關聯何者最低？",
+  "options": [
+    { "key": "A", "text": "H. pylori 與胃癌" },
+    { "key": "B", "text": "B 型肝炎病毒與肝細胞癌" },
+    { "key": "C", "text": "HSV2 與子宮頸癌" },
+    { "key": "D", "text": "血吸蟲與膀胱癌" }
+  ],
+  "answer": "C",
+  "explanation": "子宮頸癌最強、最直接的致癌因子是高風險 HPV（如 HPV16/18），而不是 HSV-2；HSV-2 與子宮頸癌的關聯在現代證據中並不如 HPV 明確且不屬核心致癌因子。相對地：H. pylori 與胃腺癌/ MALT lymphoma、HBV 與 HCC、Schistosoma haematobium 與膀胱鱗狀細胞癌都是經典強連結。"
+},
+{
+  "id": "P034_Q0223",
+  "stem": "一位 25 歲男性，胸腔 X 光顯示 anterior mediastinum mass，下列何種 tumor marker 對 diagnosis 最有幫助？",
+  "options": [
+    { "key": "A", "text": "CA-125" },
+    { "key": "B", "text": "β-hCG" },
+    { "key": "C", "text": "NSE" },
+    { "key": "D", "text": "CEA" }
+  ],
+  "answer": "B",
+  "explanation": "前縱膈腔腫塊常考鑑別與 tumor marker 的對應。β-hCG（以及 AFP）最能支持縱膈腔生殖細胞腫瘤（extragonadal germ cell tumor），尤其在年輕男性、前縱膈腔巨大腫塊時要高度懷疑。NSE 偏神經內分泌/小細胞或神經母細胞等語境；CEA、CA-125 多屬腺癌/卵巢相關，與年輕男性前縱膈腔 mass 的鑑別力較差。"
+},
+{
+  "id": "P034_Q0224",
+  "stem": "一位 28 歲男性這兩個月來一直覺得胸悶，X 光顯示縱膈腔有一腫塊，同時發現左側陰囊有輕微腫大。胸部電腦斷層顯示縱膈腔有一腫塊但雙側肺野無明顯病變。下列何者是最可能診斷？",
+  "options": [
+    { "key": "A", "text": "extragonadal germ cell tumor" },
+    { "key": "B", "text": "lung carcinoma" },
+    { "key": "C", "text": "malignant lymphoma" },
+    { "key": "D", "text": "non-small cell lung cancer" }
+  ],
+  "answer": "A",
+  "explanation": "年輕男性 + 前縱膈腔腫塊 + 合併睪丸/陰囊異常，且肺野無明顯原發病灶時，最典型導向是生殖細胞腫瘤光譜（包含 extragonadal germ cell tumor；也需同步評估是否為睪丸原發合併縱膈轉移）。臨床下一步常會做：睪丸超音波、AFP/β-hCG/LDH、以及病理確認（多以可及性較高且安全的方式取樣）。淋巴瘤也會造成縱膈腫塊，但題幹刻意給「陰囊腫大」來強化 GCT 線索。"
+},
+{
+  "id": "P034_Q0225",
+  "stem": "上述病人下列何種 tumor marker 最有幫助？",
+  "options": [
+    { "key": "A", "text": "CA-125 與 CA19-9" },
+    { "key": "B", "text": "CEA 與 AFP" },
+    { "key": "C", "text": "AFP 與 β-hCG" },
+    { "key": "D", "text": "CA15-3 與 β-hCG" }
+  ],
+  "answer": "C",
+  "explanation": "若懷疑（extragonadal）germ cell tumor，最具鑑別力的標記就是 AFP 與 β-hCG（另常加 LDH 作為 tumor burden/預後的輔助指標）。把 CEA、CA-125、CA19-9、CA15-3 放進選項，目的通常是測你是否能把「生殖細胞腫瘤」與「腺癌/婦科腫瘤」的 marker 直覺區分開。"
+},
+{
+  "id": "P034_Q0226",
+  "stem": "下列微生物與癌症之間的關聯，何者最不相關？",
+  "options": [
+    { "key": "A", "text": "Epstein-Barr virus 與 squamous cell carcinoma of vulva" },
+    { "key": "B", "text": "Schistosoma haematobium 與 squamous cell carcinoma of bladder" },
+    { "key": "C", "text": "HHV-8 與 Kaposi's sarcoma" },
+    { "key": "D", "text": "Hepatitis C virus 與 hepatocellular carcinoma" }
+  ],
+  "answer": "A",
+  "explanation": "EBV 的經典腫瘤關聯是 nasopharyngeal carcinoma、部分 gastric carcinoma、以及多種淋巴瘤（如 Burkitt、Hodgkin 的部分亞型、移植後淋巴增生等），並非外陰部鱗狀細胞癌的典型病因。相對地：Schistosoma haematobium 與膀胱鱗狀細胞癌、HHV-8 與 Kaposi sarcoma、HCV 與 HCC 都是高度經典的連結。"
+},
+{
+  "id": "P034_Q0227",
+  "stem": "一位 25 歲男性，胸腔 X 光顯示 anterior mediastinum mass，AFP = 560 ng/mL，β-hCG = 420 ng/mL，LDH = 408 U/L。下列何者最符合？",
+  "options": [
+    { "key": "A", "text": "seminoma" },
+    { "key": "B", "text": "non-seminomatous germ cell tumor (NSGCT)" },
+    { "key": "C", "text": "thymoma" },
+    { "key": "D", "text": "lymphoma" }
+  ],
+  "answer": "B",
+  "explanation": "AFP 明顯上升強烈指向 non-seminomatous 成分（seminoma 不會產生 AFP；若 AFP 升高就應視為 NSGCT/mixed GCT 直到證明相反）。β-hCG 也可上升（如 choriocarcinoma 或部分 embryonal carcinoma、甚至少數 seminoma 也可能輕度上升，但 AFP 這一點更具決定性）。LDH 反映腫瘤負荷與細胞周轉率，可作為預後/追蹤指標。thymoma、lymphoma 一般不會呈現這種 AFP/β-hCG 型態。"
+},
+{
+  "id": "P034_Q0228",
+  "stem": "一位 60 歲男性，PSA 連三年分別為 1.6、1.9、2.2 ng/mL。下列何種 PSA 參數最能提示需進一步檢查？",
+  "options": [
+    { "key": "A", "text": "PSA > 2.5 ng/mL" },
+    { "key": "B", "text": "PSA doubling time < 3 years" },
+    { "key": "C", "text": "PSA velocity > 0.35 ng/mL/year" },
+    { "key": "D", "text": "free PSA < 25%" }
+  ],
+  "answer": "C",
+  "explanation": "題目用連續三年 PSA 讓你計算「PSA velocity」：1.6→2.2，兩年增加 0.6，平均 0.3 ng/mL/year，接近門檻的概念題；而題庫設定的警訊參數是 PSA velocity > 0.35 ng/mL/year。臨床上 PSA 的解讀需合併年齡、前列腺體積、感染/發炎、用藥（5-ARI）等；但考試常用 velocity、density、free-to-total PSA 這些參數作鑑別與進一步檢查（如 MRI、biopsy）的指標。"
+},
+{
+  "id": "P034_Q0229",
+  "stem": "一位 60 歲男性，左上肺 non-small cell lung cancer 合併腦轉移，下列何者是最適當治療？",
+  "options": [
+    { "key": "A", "text": "neoadjuvant chemotherapy 再手術切除左上肺葉" },
+    { "key": "B", "text": "whole brain radiotherapy" },
+    { "key": "C", "text": "切除腫瘤再給予術後化學治療" },
+    { "key": "D", "text": "切除左上肺葉合併 bronchovascular reconstruction，再加上術後化療" }
+  ],
+  "answer": "B",
+  "explanation": "在「NSCLC 合併腦轉移」的典型題幹設定下，已屬遠端轉移（stage IV）的系統性疾病，局部根治性肺葉切除通常不是首選；治療重點轉向對腦轉移的控制與全身治療策略。選項中以 whole brain radiotherapy（WBRT）最符合典型考題答案（雖然現代臨床會依腦轉移數目/位置/分子標記使用 SRS、標靶/免疫治療等更細緻策略，但題庫多用 WBRT 作為腦轉移的代表處置）。"
+},
+{
+  "id": "P034_Q0230",
+  "stem": "一位 30 歲男性，胸悶、呼吸困難，胸部 X 光顯示縱膈腔腫瘤；flow cytometry：TdT(+), CD3(+), CD7(+), CD19(-)。最可能診斷為何？",
+  "options": [
+    { "key": "A", "text": "adult ALL" },
+    { "key": "B", "text": "T-lymphoblastic lymphoma" },
+    { "key": "C", "text": "Burkitt’s lymphoma" },
+    { "key": "D", "text": "large cell lymphoma" }
+  ],
+  "answer": "B",
+  "explanation": "TdT(+) 代表淋巴母細胞（lymphoblast）來源；CD3/CD7(+)、CD19(-) 指向 T-lineage。臨床上「縱膈腔腫瘤」是 T-lymphoblastic lymphoma/ T-ALL 的經典表現（源自胸腺/前縱膈 T 細胞前驅）。T-LBL 與 T-ALL 本質上是同一疾病光譜，差別多以骨髓 blasts 比例作分類（常用 25% 為界），但題目給的是縱膈腔 mass + T-lineage + TdT，最標準答案是 T-lymphoblastic lymphoma。Burkitt 是成熟 B 細胞腫瘤（CD19/20+、高增殖、t(8;14) 等），large cell lymphoma 亦多為成熟 B 細胞表型，不會以 TdT+ 的淋巴母細胞表型呈現。"
+},
+
+  {
+  "id": "P034_Q0231",
+  "stem": "陳先生是一位45 歲有吸菸習慣的業務員，平日無身體不適，他的一位同事在 1 個月前因為攝護腺癌接受手術治療，使他對自己的健康狀況產生焦慮，找他的家庭醫師作攝護腺癌的檢查。你如果是陳先生的家庭醫師，你認為最符合實證醫學的處理方式為何？",
+  "options": [
+    { "key": "A", "text": "陳先生目前無攝護腺癌檢查的必要" },
+    { "key": "B", "text": "陳先生有吸菸習慣，有必要作攝護腺特異性抗原（prostate-specific antigen）檢查" },
+    { "key": "C", "text": "肛門指診敏感度低，陳先生需接受經直腸超音波檢查" },
+    { "key": "D", "text": "陳先生已步入中年，有必要作攝護腺特異性抗原檢查" }
+  ],
+  "answer": "A",
+  "explanation": "本題考「無症狀族群的攝護腺癌篩檢」與 shared decision-making 的概念。45 歲、無症狀、題幹未提示高風險（如：一等親早發攝護腺癌家族史、非裔族群、已知遺傳突變等），不屬於常規需啟動 PSA 篩檢的典型族群，因此最符合實證做法是先衛教與風險溝通，而非直接檢查。\n\n為什麼其他選項不適當：\n- (B) 吸菸是多種癌症危險因子，但並不是攝護腺癌篩檢啟動的核心指標；以「吸菸→一定要 PSA」在實證上站不住腳。\n- (C) TRUS 的定位主要在「診斷/切片引導」而非篩檢；且在無症狀族群直接做影像檢查會造成過度檢查。\n- (D) 「步入中年」過於籠統，篩檢是否進行取決於年齡區間與個人風險/偏好，而不是單純年齡敘述。\n\n補充考點（高鑑別）：PSA 篩檢的主要問題是 overdiagnosis/ overtreatment（偵測到低風險惰性癌），可能帶來不必要的切片併發症、焦慮，以及治療後尿失禁/性功能障礙等代價；因此即使到了建議討論的年齡帶，通常也強調「告知利益與風險後共同決策」，而非一律篩檢。"
+},
+{
+  "id": "P034_Q0232",
+  "stem": "關於睪丸生殖細胞癌（germ cell tumor）治癒後，下列敘述何者錯誤？",
+  "options": [
+    { "key": "A", "text": "如果當初接受過包括 cisplatin 的化學治療，會增加後續發生高血壓、高血脂、代謝症候群、心血管事件的風險" },
+    { "key": "B", "text": "如果當初接受過高累積劑量的 etoposide 的化學治療，會增加發生 11q23 轉位（translocation）的急性骨髓性白血病的絕對風險至 80%" },
+    { "key": "C", "text": "如果當初接受過 cisplatin 的化學治療，會增加後續發生第二個固態癌症的風險" },
+    { "key": "D", "text": "如果當初接受過放射治療，會增加後續發生第二個固態癌症的風險" }
+  ],
+  "answer": "B",
+  "explanation": "錯在 (B) 的「80% 絕對風險」誇大到不合理。Etoposide 的確與治療相關 AML（therapy-related AML）有關，且常見 11q23（MLL/KMT2A）重排，屬於典型考點；但即便在較高累積劑量下，增加的是「相對風險」，其絕對風險仍遠低於題目所述的 80%，一般是百分之幾的等級（受累積劑量、合併用藥與放療等影響）。\n\n其餘選項為什麼合理：\n- (A) Cisplatin-based 化療後的長期代謝/血管風險（HTN、dyslipidemia、metabolic syndrome、CV events）是 survivorship 常見議題。\n- (C) 部分化療/放療暴露與「第二癌（second primary malignancy）」風險上升相關，尤其長期追蹤會被強調。\n- (D) 放射治療的確與照射野相關的第二固態癌風險增加有關。\n\n補充：臨床追蹤重點包含心血管風險因子管理（血壓、血脂、體重、運動）、第二癌警覺、以及生育/內分泌（testosterone）與心理社會支持。"
+},
+{
+  "id": "P034_Q0233",
+  "stem": "一名 20 歲男士有隱睪症病史，因睪丸腫大求診。體格檢查發現雙邊鎖骨上淋巴結腫大和乳房女性化。在這個階段最不合適的檢查應為：",
+  "options": [
+    { "key": "A", "text": "血清甲型胎兒蛋白（AFP）" },
+    { "key": "B", "text": "血清 β-人類絨毛膜促性腺激素（β-HCG）" },
+    { "key": "C", "text": "血清 LDH" },
+    { "key": "D", "text": "乳房超音波" }
+  ],
+  "answer": "D",
+  "explanation": "此情境（隱睪病史＋睪丸腫大＋鎖骨上淋巴結＋男性女乳）高度懷疑睪丸生殖細胞腫瘤，評估的核心是「確立腫瘤與分期」：腫瘤標記（AFP、β-HCG、LDH）與影像分期（陰囊超音波、胸腹骨盆 CT 等）。因此 (D) 乳房超音波不是此時最優先、也不具關鍵診斷價值。\n\n關鍵推理：\n- 男性女乳在睪丸腫瘤可由 β-HCG 上升引發（β-HCG 具 LH 類作用，增加雌激素產生/相對雌激素效應），所以要測 β-HCG，而不是先做乳房影像。\n- AFP：非精母細胞性生殖細胞腫瘤（non-seminomatous GCT）常升高；純 seminoma 通常不升 AFP（若 AFP 升高要懷疑混合/非純 seminoma 成分）。\n- LDH：雖不特異，但與腫瘤負荷、預後風險分層常相關。\n\n補充（常考陷阱）：真正需要乳房影像通常是「原發乳房病灶懷疑」或乳房症狀局部化情境；本題是系統性惡性腫瘤線索，乳房超音波不會改變主要診斷路徑。"
+},
+{
+  "id": "P034_Q0234",
+  "stem": "一位 30 歲男子因流鼻血 4 週求診。理學檢查顯示左邊 submandibular angle 有一 firm、non-tender and fixed mass，該腫塊沒有局部感染之徵候，在這個階段最適當的檢查為何？",
+  "options": [
+    { "key": "A", "text": "淋巴結超音波" },
+    { "key": "B", "text": "切除生檢（excisional biopsy）" },
+    { "key": "C", "text": "細針穿刺（fine needle aspiration）" },
+    { "key": "D", "text": "fiberoscopic 檢查和鼻咽部的生檢" }
+  ],
+  "answer": "D",
+  "explanation": "鼻出血合併頸部固定、無壓痛淋巴結腫大（且無感染徵象）是鼻咽癌常見臨床圖像之一。此時最關鍵是找到原發病灶並取得組織診斷，因此首選是鼻咽纖維內視鏡檢查（fiberoscopy）直接觀察鼻咽黏膜，對可疑病灶做 biopsy。\n\n為什麼其他選項不是「最適當」：\n- (A) 淋巴結超音波可作輔助，但無法取代「找原發＋確診」的路徑。\n- (B) 直接做淋巴結切除生檢侵入性較高，且若高度懷疑 NPC，應優先從鼻咽原發處取樣。\n- (C) FNA 對頸部腫塊的惡性評估很常用，但本題在高度懷疑 NPC 的設定下，仍應以鼻咽部位 biopsy 作為關鍵確診步驟（同時也利於後續分期與治療規劃）。\n\n補充：NPC 的診斷流程通常是「內視鏡＋原發 biopsy」確診後，再以影像（MRI/CT、PET/CT 依情境）做局部與遠端分期，並配合 EBV 相關檢測作風險/追蹤。"
+},
+{
+  "id": "P034_Q0235",
+  "stem": "鼻咽癌患者經放射治療後，追蹤檢查項目中那一項對於發現腫瘤遠隔轉移最無價值？",
+  "options": [
+    { "key": "A", "text": "血液 LDH" },
+    { "key": "B", "text": "EBV anti-VCA titer" },
+    { "key": "C", "text": "血液中 EBV DNA" },
+    { "key": "D", "text": "胸部 X 光" }
+  ],
+  "answer": "B",
+  "explanation": "EBV anti-VCA（特別是 IgG）多反映「曾感染 EBV」的免疫記憶，治療後也常持續陽性，對於偵測復發或遠端轉移的動態追蹤價值有限，因此 (B) 最不具價值。\n\n相對地：\n- (C) 血中 EBV DNA（定量）更能反映腫瘤負荷與復發/轉移風險，常被用於追蹤。\n- (D) 胸部影像可用來偵測肺轉移或第二原發等。\n- (A) LDH 雖不特異，但在某些腫瘤情境（包括 NPC 的追蹤框架中）可作為輔助的疾病活動指標之一。\n\n補充（高鑑別）：考題常用「EBV 抗體（IgG） vs EBV DNA」做區分：前者偏“感染史”，後者偏“腫瘤活動度/殘存疾病”。"
+},
+{
+  "id": "P034_Q0236",
+  "stem": "一位 55 歲健康狀況良好的男性因上鎖骨窩淋巴腺腫大求醫，下列檢查何者最不需要？",
+  "options": [
+    { "key": "A", "text": "頭頸部理學檢查" },
+    { "key": "B", "text": "淋巴腺穿刺細胞學檢查" },
+    { "key": "C", "text": "頭頸部磁振影像檢查" },
+    { "key": "D", "text": "胸部電腦斷層掃描" }
+  ],
+  "answer": "C",
+  "explanation": "上鎖骨窩淋巴結腫大（尤其左側常聯想到 Virchow node）需要先做「確認惡性與找來源」的初步評估：理學檢查（頭頸部含口咽/鼻咽/甲狀腺等）、淋巴結 FNA/細胞學（或後續組織學）以證實病理型態、以及胸部（必要時腹部）影像去找胸腔/縱膈/肺部原發或轉移。因此在尚未確定局部頭頸部原發、也未進入精細局部分期前，頭頸部 MRI 通常不是最優先的初步檢查，(C) 最不需要。\n\n補充：MRI 的優勢在軟組織對比與局部侵犯評估，較適用於「已高度懷疑或已確診頭頸部腫瘤」的 staging；而單純“鎖骨上淋巴結不明原因”更需要先用病理＋跨腔室影像（如 CT）縮小鑑別。"
+},
+{
+  "id": "P034_Q0237",
+  "stem": "一位 16 歲的高中生打籃球後左膝蓋一直疼痛不癒。國術館推拿後反而漸漸腫脹。骨科檢查，X 光發現遠端股骨有異常；切片診斷為惡性骨肉瘤。下列敘述何者錯誤？",
+  "options": [
+    { "key": "A", "text": "X 光檢查可能發現 Codman's triangle" },
+    { "key": "B", "text": "胸部 X 光檢查發現有一個可能是轉移的腫瘤，此階段已無法治療" },
+    { "key": "C", "text": "胸部電腦斷層檢查是必要的" },
+    { "key": "D", "text": "化學治療是不可缺少的" }
+  ],
+  "answer": "B",
+  "explanation": "錯在 (B) 的「已無法治療」：骨肉瘤即使出現單一或少數肺轉移灶，仍可能透過多專科整合治療（含系統性化療＋肺轉移灶切除/局部控制）達到長期存活，並非等同“不可治療”。\n\n其餘選項：\n- (A) Codman triangle（骨膜被快速抬起形成三角影）是侵襲性骨病灶（如骨肉瘤）常見影像線索之一。\n- (C) 胸部 CT 用於肺轉移評估更敏感，是分期與手術規劃關鍵。\n- (D) 目前標準治療通常包含新輔助化療＋手術（肢體保留或截肢依情況）＋術後化療；化療反應也常是重要預後因子。\n\n補充：骨肉瘤常見影像還包括 sunburst appearance、骨質破壞（moth-eaten）等；診斷後的第一件事之一就是完整分期（肺最常見遠端轉移部位）。"
+},
+{
+  "id": "P034_Q0238",
+  "stem": "關於第四期的皮膚惡性黑色素細胞癌（malignant melanoma）之治療，下列敘述何者最不適當？",
+  "options": [
+    { "key": "A", "text": "標靶治療（BRAF 抑制劑、MEK 抑制劑）相較於免疫治療（抗 CTLA-4 抗體、抗 PD-1 抗體）最大的好處是標靶治療效果的持久性（durability）較佳" },
+    { "key": "B", "text": "使用標靶治療的副作用之一為產生皮膚鱗狀上皮癌。合併使用 BRAF 抑制劑加上 MEK 抑制劑，產生此一副作用之機會比單獨使用 BRAF 抑制劑為低" },
+    { "key": "C", "text": "如果是沒有 BRAF 突變的惡性黑色素細胞癌，第一線的治療可以使用免疫治療" },
+    { "key": "D", "text": "如果是有 BRAF 突變的惡性黑色素細胞癌，第一線的治療可以使用免疫治療或標靶治療（BRAF 抑制劑加上 MEK 抑制劑）" }
+  ],
+  "answer": "A",
+  "explanation": "最不適當是 (A)。一般而言，BRAF/MEK 標靶治療的優勢是「反應快、腫瘤縮小率高」，但常見問題是較容易在數月到一年左右出現抗藥性，持久性不如免疫治療；反之免疫檢查點抑制劑（anti-PD-1 ± anti-CTLA-4）雖初始反應率未必最高，但一旦反應，緩解往往更持久，是其核心優勢。\n\n(B)(C)(D) 的邏輯：\n- (B) BRAF 抑制劑相關的皮膚角化性病灶/鱗狀上皮癌風險，在合併 MEK 抑制後可下降，是常見考點。\n- (C) 無 BRAF 突變者仍可用免疫治療作第一線。\n- (D) 有 BRAF 突變者第一線可依疾病負荷、症狀急迫性、共病與偏好，在免疫治療與 BRAF/MEK 標靶間選擇。\n\n補充（決策鑑別）：若病人腫瘤負荷高、症狀重、需快速縮小腫瘤，常傾向先標靶；若追求長期持久控制、且可承受免疫相關不良反應風險，常傾向免疫治療。"
+},
+{
+  "id": "P034_Q0239",
+  "stem": "下列關於惡性黑色素細胞癌（malignant melanoma）的敘述，何者正確？",
+  "options": [
+    { "key": "A", "text": "西方病患惡性黑色素細胞癌的基因突變最多的是 NRAS 突變" },
+    { "key": "B", "text": "東方病患惡性黑色素細胞癌的型態最常見的是 肢端黑色素瘤（acral lentiginous）型" },
+    { "key": "C", "text": "惡性黑色素細胞癌的初級預防是教育、篩檢、早期偵測" },
+    { "key": "D", "text": "轉移惡性黑色素細胞癌的藥物治療只有標靶治療有效" }
+  ],
+  "answer": "B",
+  "explanation": "(B) 正確：在亞洲族群，較常見的黑色素瘤亞型包括肢端黑色素瘤（acral lentiginous melanoma），常出現在手掌、足底、指（趾）甲下等部位，與典型間歇性強烈日曬的關聯相對不同。\n\n其他選項：\n- (A) 西方族群最常見驅動突變通常是 BRAF（NRAS 次之），因此 A 不正確。\n- (C) 初級預防是「避免發生」：例如避免 UV 暴露、防曬、避免日光浴床等；教育/篩檢/早期偵測屬於二級預防。\n- (D) 轉移性黑色素瘤除了標靶（BRAF/MEK）外，免疫檢查點抑制劑（anti-PD-1 ± anti-CTLA-4）同樣是主要且有效的治療，且常帶來更持久的反應。\n\n補充：臨床常用的風險辨識包含 ABCDE（Asymmetry/Border/Color/Diameter/Evolving），但對 acral/subungual 病灶也要特別提高警覺（容易延誤）。"
+},
+{
+  "id": "P034_Q0240",
+  "stem": "子宮頸癌治療預後常跟原發腫瘤之侵犯位置與侵犯周邊器官有關，下列何者臨床狀況，其 5 年預後最差？",
+  "options": [
+    { "key": "A", "text": "子宮頸癌只侵犯到子宮頸區域" },
+    { "key": "B", "text": "子宮頸癌侵犯到陰道之下 1/3 區域" },
+    { "key": "C", "text": "子宮頸癌侵犯到骨盆側壁（pelvic side wall）" },
+    { "key": "D", "text": "子宮頸癌侵犯到膀胱區域" }
+  ],
+  "answer": "D",
+  "explanation": "侵犯膀胱（或直腸）黏膜代表腫瘤已超越子宮頸與旁組織，屬更晚期（典型對應 FIGO IVA 的概念），因此整體預後最差，(D) 正確。\n\n分期直覺（從好到差的方向）：\n- 只限子宮頸（A）→ 仍屬較早期、治癒率相對高。\n- 侵犯陰道下 1/3（B）→ 較晚。\n- 侵犯骨盆側壁/合併水腎（C）→ 更晚。\n- 侵犯膀胱黏膜（D）→ 局部晚期中更不良的族群。\n\n補充：子宮頸癌的治療策略常隨分期由手術（較早期）轉為同步化療放療（局部進展），遠端轉移則以系統性治療為主。"
+},
+{
+  "id": "P034_Q0241",
+  "stem": "以下何者不是子宮內膜癌（endometrial carcinoma）的危險因子？",
+  "options": [
+    { "key": "A", "text": "肥胖" },
+    { "key": "B", "text": "使用 tamoxifen 治療乳癌" },
+    { "key": "C", "text": "單獨使用 estrogen 來治療停經後症候群" },
+    { "key": "D", "text": "使用 progestin 治療不孕症" }
+  ],
+  "answer": "D",
+  "explanation": "(D) 不是危險因子，反而傾向保護。子宮內膜癌的核心致病風險是「長期未被孕激素拮抗的雌激素刺激（unopposed estrogen）」造成子宮內膜增生與惡變風險上升；progestin 會拮抗雌激素對內膜的增生作用，因此一般不會增加、反而可降低內膜癌風險。\n\n其餘選項為何是危險因子：\n- (A) 肥胖：脂肪組織芳香化使雌激素暴露增加，且常伴胰島素阻抗等代謝環境。\n- (B) Tamoxifen 在子宮內膜具有部分致效（estrogen agonist-like）效應，增加內膜增生/癌風險。\n- (C) 停經後單用 estrogen（未合併 progestin）屬典型 unopposed estrogen，風險上升。\n\n補充：常與 PCOS、無排卵、初經早/停經晚、未生育等「雌激素暴露累積較多」的因子一起被考。"
+},
+{
+  "id": "P034_Q0242",
+  "stem": "以下那個遺傳基因變異導致卵巢癌發生的風險最高？",
+  "options": [
+    { "key": "A", "text": "BRCA1" },
+    { "key": "B", "text": "BRCA2" },
+    { "key": "C", "text": "MSH2" },
+    { "key": "D", "text": "CHK2" }
+  ],
+  "answer": "A",
+  "explanation": "卵巢癌遺傳風險中，BRCA1 通常最高（終生風險可達數十％等級），BRCA2 次之；Lynch syndrome（如 MSH2）也會增加風險但整體通常低於 BRCA1 的量級；CHK2 與卵巢癌關聯相對不如前述基因典型與強烈。因此選 (A)。\n\n補充（臨床延伸）：BRCA1/2 不僅影響卵巢癌風險，也與乳癌高度相關，並影響治療（如 PARP inhibitor）與預防策略（風險降低性輸卵管卵巢切除等）討論。"
+},
+{
+  "id": "P034_Q0243",
+  "stem": "以下何者不是 Krukenberg tumor 常見的原發腫瘤部位？",
+  "options": [
+    { "key": "A", "text": "大腸（colon）" },
+    { "key": "B", "text": "肺（lung）" },
+    { "key": "C", "text": "胃（stomach）" },
+    { "key": "D", "text": "乳房（breast）" }
+  ],
+  "answer": "B",
+  "explanation": "Krukenberg tumor 指「轉移至卵巢」的腫瘤，典型病理是含黏液的 signet ring cell，最常見原發部位是胃，亦可來自大腸；乳房也可能但較少見。肺並非典型或常見來源，因此 (B) 正確。\n\n補充：臨床遇到雙側卵巢腫瘤、合併黏液性 signet ring cell 時，務必反向追原發（胃鏡/大腸鏡等）而不要先假設是原發卵巢癌。"
+},
+{
+  "id": "P034_Q0244",
+  "stem": "臨床上偶見雙側卵巢轉移癌（Krukenberg tumor），最可能由何種細胞型態的消化系原發癌發生轉移？",
+  "options": [
+    { "key": "A", "text": "鱗狀上皮細胞癌" },
+    { "key": "B", "text": "不分泌黏液之腺癌" },
+    { "key": "C", "text": "分泌黏液之腺癌" },
+    { "key": "D", "text": "肝細胞癌" }
+  ],
+  "answer": "C",
+  "explanation": "Krukenberg tumor 的典型關鍵字是「mucin-producing signet ring cell」，因此最符合的是「分泌黏液之腺癌」(C)。\n\n鑑別重點：\n- 鱗狀上皮癌與 HCC 都不是 Krukenberg 的典型來源病理。\n- 腺癌中又以黏液分泌/ signet ring cell 最具代表性。\n\n補充：雖然 Krukenberg 常被簡化成“胃癌轉移卵巢”，但本質是「特定病理型態＋卵巢轉移」的組合概念，來源可包含胃/大腸/乳房等。"
+},
+{
+  "id": "P034_Q0245",
+  "stem": "有關腫瘤溶解症候群（tumor lysis syndrome），下列敘述何者最不適當？",
+  "options": [
+    { "key": "A", "text": "因為大量腫瘤細胞死亡，細胞內代謝物釋放至血液中導致高尿酸血症、高血鉀症、高血磷症" },
+    { "key": "B", "text": "由於尿酸結晶會堆積於腎小管，處置上必須給與大量補充體液，並用 rasburicase 藥物來預防高尿酸血症" },
+    { "key": "C", "text": "鹼化尿液能夠減少磷酸鈣（calcium phosphate）的沉澱而降低急性腎損傷" },
+    { "key": "D", "text": "若造成急性腎損傷合併寡尿、高血鉀症，可考慮透析治療" }
+  ],
+  "answer": "C",
+  "explanation": "最不適當是 (C)。尿液鹼化曾被用來減少尿酸結晶，但鹼性環境會增加「磷酸鈣結晶」沉澱風險，反而可能加重腎損傷，因此現代臨床多不再常規推薦以尿液鹼化預防 TLS 相關腎損傷。\n\n其餘選項：\n- (A) TLS 的典型代謝型態：K↑、PO4↑、uric acid↑，進而 Ca↓（因磷酸鈣沉澱/結合）。\n- (B) 治療核心是 aggressive hydration；降尿酸可用 allopurinol（預防）或 rasburicase（更快速分解尿酸，常用於高風險或已發生 TLS）。\n- (D) 若出現難治性高血鉀、嚴重腎衰/寡尿、體液負荷等，可考慮透析。\n\n補充：TLS 高風險族群常見於高增殖血液腫瘤（如 Burkitt lymphoma、ALL）或對治療高度敏感且腫瘤負荷大的情境。"
+},
+{
+  "id": "P034_Q0246",
+  "stem": "下列有關癌症治療引起副作用的敘述，何者最不恰當？",
+  "options": [
+    { "key": "A", "text": "預防 tumor lysis syndrome 最重要的方式是 urine alkalization" },
+    { "key": "B", "text": "輸注 rituximab 時發生的 fever、chill 和 bronchospasm，是一種 infusion reaction" },
+    { "key": "C", "text": "使用 chimeric antigen receptor（CAR）-engineered T cell therapy 重要的急性毒性（acute toxicity）之一是 cytokine release syndrome" },
+    { "key": "D", "text": "某些化學治療藥物可能引起過敏反應（hypersensitivity reaction），如：taxane 類藥物的過敏反應大多於第一或第二療程發生；而 platinum 類藥物的過敏反應則常於長期暴露後發生" }
+  ],
+  "answer": "A",
+  "explanation": "(A) 最不恰當。TLS 預防的核心是「大量輸液（hydration）」以提高尿流量、促進鉀/磷/尿酸排出，並依風險使用 allopurinol 或 rasburicase；尿液鹼化並非現代常規最重要策略，且可能增加磷酸鈣沉澱造成腎損傷。\n\n其餘選項正確性：\n- (B) Rituximab 常見輸注反應（infusion reaction）：發燒、寒顫、支氣管痙攣、低血壓等，與細胞激素/補體活化相關。\n- (C) CAR-T 的關鍵急毒性之一是 cytokine release syndrome（CRS），另常考神經毒性（ICANS）。\n- (D) Taxane 過敏多在早期療程出現（與溶劑/致敏相關）；platinum（尤其多次暴露後）過敏風險上升，是典型考點。\n\n補充：遇到 TLS 高風險治療前，除了 hydration/降尿酸，也要密切監測電解質與腎功能，並提前規劃處置路徑（如高鉀處置、透析可近性）。"
+},
+{
+  "id": "P034_Q0247",
+  "stem": "癌細胞透過製造並釋放類似內分泌的體液因子（humoral factors）而產生了所謂的 paraneoplastic syndrome。下列 paraneoplastic syndrome 與其肇因的癌細胞分泌的類似內分泌的體液因子之組合，何者錯誤？",
+  "options": [
+    { "key": "A", "text": "hypercalcemia of malignancy；1,25-dihydroxyvitamin D" },
+    { "key": "B", "text": "Cushing's syndrome；adrenocorticotropic hormone（ACTH）" },
+    { "key": "C", "text": "syndrome of inappropriate antidiuretic hormone secretion（SIADH）；vasopressin" },
+    { "key": "D", "text": "hypercalcemia of malignancy；thyroid hormone" }
+  ],
+  "answer": "D",
+  "explanation": "錯誤組合是 (D)。惡性腫瘤相關高血鈣的主要機轉包含：PTHrP（最常見，特別是鱗狀細胞癌等）、1,25-(OH)2 vitamin D（某些淋巴瘤可由腫瘤/巨噬細胞表現 1α-hydroxylase 增加活化維生素 D）、以及骨轉移造成 osteolytic hypercalcemia；並不涉及 thyroid hormone 作為典型致病體液因子。\n\n其他選項：\n- (A) 以 1,25-(OH)2 vitamin D 造成高血鈣在淋巴瘤等情境是典型考點。\n- (B) 異位 ACTH 造成 Cushing’s（常聯想到小細胞肺癌）。\n- (C) SIADH 的體液因子是 ADH/vasopressin（也常聯想到小細胞肺癌）。\n\n補充：考題常把「高血鈣」拆成 PTHrP vs vitamin D vs osteolytic 三路徑，要能用 PTH、PTHrP、1,25-(OH)2D、PO4、骨病灶與腫瘤型態去回推。"
+},
+{
+  "id": "P034_Q0248",
+  "stem": "42 歲男性患有鼻咽癌且正接受放射治療，近數日食慾不振且全身倦怠，抽血檢查 Ca++ 16.0 mg/dL，Albumin 2.9 g/dL。下列敘述何者最不適當？",
+  "options": [
+    { "key": "A", "text": "校正後 Ca 應為 16.88 mg/dL" },
+    { "key": "B", "text": "心電圖可能出現 QT 段縮短" },
+    { "key": "C", "text": "血液透析對於高血鈣治療效果有限" },
+    { "key": "D", "text": "calcitonin 的治療效果比 bisphosphonates 快" }
+  ],
+  "answer": "C",
+  "explanation": "最不適當是 (C)。血液透析在嚴重高血鈣（特別合併腎衰、體液負荷無法補液、或需快速降鈣）是有效且快速的降鈣方式之一，並非「效果有限」。\n\n逐一核對：\n- (A) 校正鈣公式：Corrected Ca = measured Ca + 0.8 × (4.0 − albumin)。= 16.0 + 0.8×(1.1) = 16.88 mg/dL，正確。\n- (B) 高血鈣可使 QT interval 縮短，正確。\n- (D) Calcitonin 起效快（數小時內）但效果較短暫；bisphosphonates 起效較慢（約 24–48 小時）但維持較久，因此「calcitonin 比 bisphosphonates 快」正確。\n\n臨床處置總結（高鑑別）：嚴重高血鈣通常先 aggressive IV normal saline（促進 calciuresis），必要時加 calcitonin 快速橋接，再用 bisphosphonate（或特定情境用 denosumab）作較持久控制；若合併腎衰或無法補液/需極速降鈣，透析是重要選項。"
+},
+{
+  "id": "P034_Q0249",
+  "stem": "60 歲婦女獨自來家庭醫學科門診，主訴左側臉部麻及左側身體疼痛已經兩年，看過多家醫院且做過腦部核磁共振等多項檢查，均無異常發現且治療效果不佳。病史詢問發現其先生兩年前過世，她很擔心會發生腦中風成為子女負擔。初步診察並無異常發現，認知功能與判斷力正常，下一步處置何者最為適當？",
+  "options": [
+    { "key": "A", "text": "安排正子攝影進一步確認" },
+    { "key": "B", "text": "轉介神經科醫師評估" },
+    { "key": "C", "text": "轉介精神科醫師評估" },
+    { "key": "D", "text": "進行家庭功能評估" }
+  ],
+  "answer": "D",
+  "explanation": "題幹已呈現：長期症狀、多次檢查陰性、功能未受損、近期重大喪偶壓力、對「中風成為負擔」的災難化擔憂。此時最符合家庭醫學與生物心理社會模式的下一步，是先釐清心理社會脈絡與支持系統（包含家庭功能、照顧資源、哀傷反應、健康焦慮），因此 (D) 家庭功能評估最適當。\n\n為什麼不是先做更多檢查或立刻轉介：\n- (A) PET 在既有多項陰性檢查、缺乏新神經學局徵下，屬過度檢查，增加醫療化與病人焦慮。\n- (B) 已多次就醫且影像陰性，沒有提示進行性神經缺損或紅旗徵象；再次轉神經科多半重複評估。\n- (C) 精神科轉介可能在後續需要，但「下一步」更合理是先以家庭醫學門診做系統性心理社會評估（含憂鬱/焦慮/失落、家庭支持），再決定是否轉介。\n\n補充：可同時進行的高價值作法包括：同理與再保證（不是單純說“沒事”）、功能導向評估、睡眠/情緒/壓力篩檢、以及建立可追蹤的照護計畫，避免在不確定性中不斷升級檢查。"
+},
+{
+  "id": "P034_Q0250",
+  "stem": "臨床上有關生物心理社會模式中的心理因素，可使用人格特質五因素模型（five-factor model of personality, OCEAN）來探討，下列有關此模型意涵之敘述何者錯誤？",
+  "options": [
+    { "key": "A", "text": "經驗開放性（Openness to experience）：對不同經驗傾向保持好奇和欣賞" },
+    { "key": "B", "text": "盡責性（Conscientiousness）：傾向自我訓練，有計畫地達成目標" },
+    { "key": "C", "text": "效能性（Efficacy）：傾向能達成任務的能力和信念" },
+    { "key": "D", "text": "親和性（Agreeableness）：傾向與其他人合作，較喜歡融洽" }
+  ],
+  "answer": "C",
+  "explanation": "OCEAN 五因素為：Openness（開放性）、Conscientiousness（盡責性）、Extraversion（外向性）、Agreeableness（親和性）、Neuroticism（神經質/情緒不穩定）。(C) 的「Efficacy」不屬於 OCEAN 五大向度，因此為錯。\n\n其餘選項都能正確對應：\n- (A) 開放性：好奇、想像力、審美、願意嘗試新事物。\n- (B) 盡責性：自律、目標導向、組織性。\n- (D) 親和性：合作、同理、傾向維持和諧。\n\n補充：Efficacy（自我效能）是另一個心理學概念（常與 Bandura 的 self-efficacy 理論相關），可用於解釋行為改變與治療依從性，但不等同五大人格特質。"
+},
+
+  {
+  "id": "P034_Q0171",
+  "stem": "根據 Barbara Starfield 的基層醫療研究，下列何者敘述最不適當？",
+  "options": [
+    { "key": "A", "text": "專科醫師 (specialists) 所占比例越高，照護品質越高，醫療花費越高" },
+    { "key": "B", "text": "全科醫師 (generalists) 所占比例越高，照護品質越高，醫療花費越低" },
+    { "key": "C", "text": "基層醫療較完善充足的地區，心臟病 (heart disease) 及中風 (stroke) 的發生率減少" },
+    { "key": "D", "text": "基層醫療較完善充足的地區，低出生體重 (low birth weight) 嬰兒比率減少" }
+  ],
+  "answer": "A",
+  "explanation": "本題陷阱在「專科醫師比例越高 → 照護品質越高」這段。Starfield 的核心論述是：強健的基層醫療（較高 generalists 比例、可近性、連續性、協調性、周全性）與更佳的族群健康結果相關，且多半伴隨較低或較可控的醫療花費；相對地，專科醫師比例上升常見的是醫療花費上升，但照護品質與健康結果不必然等比例更好，甚至可能因碎片化照護而變差。選項 B/C/D 都符合「基層醫療越健全 → 結果更好」的典型敘述；A 把『花費上升』與『品質一定更好』綁在一起，因此最不適當。"
+},
+{
+  "id": "P034_Q0172",
+  "stem": "有關健康與疾病照護模式 (models of health, illness & health care) 的敘述，下列何者正確？",
+  "options": [
+    { "key": "A", "text": "醫療化 (medicalization) 是 biopsychosocial model 的優點" },
+    { "key": "B", "text": "生物適應 (biological adaptation) 是 biomedical model 的特性" },
+    { "key": "C", "text": "holistic model 認為 illness is a creative opportunity" },
+    { "key": "D", "text": "ethnomedical cultural model 是合併 biomedical, holistic and cultural factors" }
+  ],
+  "answer": "C",
+  "explanation": "Holistic model 強調健康是身心社靈的整體狀態，疾病可被視為促進自我理解、生活調整與成長的契機，因此 (C) 是典型正確敘述。A 錯在『medicalization』通常指把原本非醫療問題過度醫療化，常被視為需要警惕的現象，不是 biopsychosocial 的優點；biopsychosocial 的重點是把生物、心理、社會脈絡一併納入。B 的 biological adaptation 是演化/族群適應概念，並非 biomedical model 的典型特性描述（biomedical 更偏向生理病理、器官/機制導向、相對忽略心理社會層面）。D 對 ethnomedical cultural model 的描述過度簡化；民族醫學模型重點在文化脈絡下對疾病與治療的解釋系統（含自然/超自然因果與社會學習），不等同於把 biomedical+holistic+cultural 『混合加總』。"
+},
+{
+  "id": "P034_Q0173",
+  "stem": "motivational interview 的 RULE 原則，下列何者不包括？",
+  "options": [
+    { "key": "A", "text": "Required to change" },
+    { "key": "B", "text": "Avoid argumentation" },
+    { "key": "C", "text": "Roll with resistance" },
+    { "key": "D", "text": "Express empathy" }
+  ],
+  "answer": "A",
+  "explanation": "MI 的 RULE 常用來提醒臨床溝通策略：R（Resist the righting reflex，避免急著糾正/說教）、U（Understand the patient’s motivations，理解病人自己的動機與價值）、L（Listen with empathy，同理傾聽）、E（Empower the patient，強化自主與自我效能）。選項 B/C/D 都符合 MI 的精神：避免辯論、順著阻抗並探索、展現同理。A「Required to change」是典型反 MI 的作法：把改變變成『被要求』會增加抗拒、降低內在動機，因此不包含在 RULE。"
+},
+{
+  "id": "P034_Q0174",
+  "stem": "下列有關鏡相姿勢 (mirroring posture) 的敘述，何者正確？",
+  "options": [
+    { "key": "A", "text": "為敵對的關係" },
+    { "key": "B", "text": "希望建立互信及友好的關係" },
+    { "key": "C", "text": "感到不舒服想要離開現場" },
+    { "key": "D", "text": "嘗試主導及控制此互動關係" }
+  ],
+  "answer": "B",
+  "explanation": "鏡相姿勢指雙方在互動中不自覺地模仿對方的姿勢、動作或節奏，常見於融洽互動與 rapport 建立，代表彼此同步化、同頻與關係較正向，因此 (B) 正確。A（敵對）通常更可能出現身體後仰、交叉手臂、目光迴避或語速/音量對抗；C（不舒服想離開）常見轉向出口、腳尖朝外、身體後撤；D（控制互動）更常表現為侵入性距離、打斷、姿勢壓迫等，而非單純 mirror。"
+},
+{
+  "id": "P034_Q0175",
+  "stem": "下列有關 Emanuel 所提出的 shared decision making 的敘述，何者正確？",
+  "options": [
+    { "key": "A", "text": "醫師只提供其認為最好的治療方式給病人" },
+    { "key": "B", "text": "病人根據醫師所提供的資訊自己做決定" },
+    { "key": "C", "text": "醫師提供所有可行的治療選項，並協助病人做出最適當的選擇" },
+    { "key": "D", "text": "醫師根據其專業與病人共同做出決定" }
+  ],
+  "answer": "C",
+  "explanation": "Shared decision making 的核心是：醫師提供可行選項（含利弊與不確定性）、引導病人釐清價值與偏好，最後形成共同決策。C 完整涵蓋「多選項 + 風險效益溝通 + 價值偏好整合」。A 比較像 paternalistic model（醫師主導）。B 近似 informative model（醫師給資訊、病人自行決定），缺少『共同釐清偏好與協作』。D 文字看似接近，但易滑向「醫師主導、病人附和」的模糊共同決定；Emanuel 的 SDM 更強調系統性呈現選項並協助病人做價值取向的選擇，因此以 C 最貼切。"
+},
+{
+  "id": "P034_Q0176",
+  "stem": "若想協助當地民眾找出健康問題並予以改善，下列何種方式最有效且可靠？",
+  "options": [
+    { "key": "A", "text": "隨機訪問當地居民以了解其健康需求" },
+    { "key": "B", "text": "找出關鍵人物 (key persons) 舉行座談，以了解當地民眾的健康需求" },
+    { "key": "C", "text": "收集當地衛生所資料以了解民眾健康需求" },
+    { "key": "D", "text": "檢討過去政府在該地區執行的健康政策，以了解民眾的健康需求" }
+  ],
+  "answer": "B",
+  "explanation": "在社區健康需求評估與社區導向基層照護（COPC）的脈絡中，「找出社區關鍵人物/意見領袖並進行座談（focus group / key informant interview）」通常最能有效掌握社區真實脈絡：包含隱性需求、文化障礙、資源斷點與可行介入方式，因此 (B) 最佳。A 的隨機訪問可行但成本高、回應偏差與信任建立不易，且未必能快速抓到關鍵問題。C 的衛生所資料偏向就醫者/既有服務使用者，容易低估未就醫、隱性或結構性問題。D 的政策回顧可以提供背景，但無法取代直接從社區成員獲得的需求與優先順序。實務上常採「量化（次級資料）+ 質化（key persons）」混合方法，但單選最佳會選 B。"
+},
+{
+  "id": "P034_Q0177",
+  "stem": "35 歲王小姐，餐廳服務員，主訴雙膝痠痛已三個月。她的身體質量指數 (BMI) 為 32 kg/m2，最近她了解膝痛與體重有關，覺得現在是該減重的時候了，準備在一個月內採取行動。根據跨越理論模式 (transtheoretical model)，王小姐是處於行為改變的那一階段？",
+  "options": [
+    { "key": "A", "text": "未考慮階段 (precontemplation)" },
+    { "key": "B", "text": "考慮階段 (contemplation)" },
+    { "key": "C", "text": "準備階段 (preparation)" },
+    { "key": "D", "text": "行動階段 (action)" }
+  ],
+  "answer": "C",
+  "explanation": "跨越理論模式重點是以『是否已開始做出可觀察到的行為改變』區分階段。未考慮期：無意改變；考慮期：打算改變但多仍停在想法層次；準備期：已決定改變且有明確近程計畫（常在 1 個月內準備開始），可能已做小幅準備（蒐集資訊、試行）；行動期：已實際開始改變且仍在前 6 個月內。題幹明確寫「準備在一個月內採取行動」—典型準備期，因此選 (C)。臨床對應策略：協助訂 SMART 目標、排除障礙、設計可持續的飲食/運動處方與追蹤計畫。"
+},
+{
+  "id": "P034_Q0178",
+  "stem": "下列何者是全民健康保險自 1995 年開辦以後，臺灣醫療環境所發生的變遷？",
+  "options": [
+    { "key": "A", "text": "地區醫院數目減少" },
+    { "key": "B", "text": "基層診所數目減少" },
+    { "key": "C", "text": "惡性腫瘤死亡率，超過心臟疾病成為第一大死亡原因" },
+    { "key": "D", "text": "分級醫療及轉診制度的開始" }
+  ],
+  "answer": "A",
+  "explanation": "健保開辦後，醫療體系結構出現「醫院數目減少且大型化」的趨勢，地區醫院減少是典型描述，因此 (A) 正確。B 錯：基層診所數目整體趨勢並非減少，反而多呈上升或維持。C 錯：惡性腫瘤在臺灣十大死因中早於健保（民國 71 年起）即已是第一名，不是健保後才『超過』。D 錯：分級醫療/轉診概念在健保前的勞保等制度時代就已存在，健保可能改變模式與誘因，但不是『開始』。"
+},
+{
+  "id": "P034_Q0179",
+  "stem": "82 歲的李奶奶，最近有些小感冒，醫師開了一些藥物給她吃。從 3 天前起，她開始活動力下降、胃口不好，昨天開始發燒。今天早上家人發現她情緒不穩、坐立不安、不知道自己身處何處、一度口齒不清，問她問題也不容易回答。下列何者不是最優先應該做的檢查？",
+  "options": [
+    { "key": "A", "text": "Chest X-ray" },
+    { "key": "B", "text": "Lumbar puncture" },
+    { "key": "C", "text": "Urinalysis" },
+    { "key": "D", "text": "Complete blood count" }
+  ],
+  "answer": "B",
+  "explanation": "題幹是典型高齡急性意識/注意力波動、定向力障礙與精神運動激動—高度懷疑 delirium，首要任務是找可逆原因（感染、代謝、缺氧、藥物副作用等）。最常見與最優先的初始檢查通常包含：生命徵象與血氧、CBC（感染/貧血）、尿液檢查（UTI 常見）、胸部影像（肺炎）、電解質/腎肝功能/血糖等；因此 A/C/D 都很合理。Lumbar puncture 只有在懷疑中樞感染（腦膜炎/腦炎）或有對應神經學徵象時才會優先，並非一般 delirium 初篩最優先，因此 (B) 為「不是最優先」。臨床也要同步檢視新開立藥物（抗膽鹼、鎮靜安眠、鴉片類等）是否誘發。"
+},
+{
+  "id": "P034_Q0180",
+  "stem": "下列有關醫病溝通的敘述，何者正確？",
+  "options": [
+    { "key": "A", "text": "大部分病人均可完整描述病情而不被醫師打斷" },
+    { "key": "B", "text": "醫師看病人時，眼神接觸 (eye contact) 的時間約占全部交談時間的 1/3 為最適當" },
+    { "key": "C", "text": "病人的非語言表達可提供約 20% 的訊息來源" },
+    { "key": "D", "text": "開放式問題 (open-ended questions) 可以促進病人敘述其病情" }
+  ],
+  "answer": "D",
+  "explanation": "開放式問題能讓病人用自己的語言描述主訴、時間軸與關切點，通常能提升資訊完整性並建立關係，因此 (D) 正確。A 錯：臨床研究常指出醫師往往在病人尚未完整陳述前就介入打斷，造成資訊遺漏。B 的『1/3』屬僵化比例，眼神接觸需依文化、情境與病人舒適度調整，沒有單一固定最佳值。C 錯：非語言訊息在溝通中的占比常被引用遠高於 20%（雖需注意不同研究情境），故此數字偏低。實務技巧：先用開放式問題開場，再用聚焦式/封閉式問題確認關鍵鑑別點。"
+},
+{
+  "id": "P034_Q0181",
+  "stem": "溝通的空間因子 (spatial factors)，Hall 區分出四種人際距離，下列何者正確？",
+  "options": [
+    { "key": "A", "text": "intimate distance：大約 1.5–4 feet" },
+    { "key": "B", "text": "personal distance：大約 4–12 feet" },
+    { "key": "C", "text": "intimate distance：大約 0–1.5 feet" },
+    { "key": "D", "text": "social distance：大約 0–1.5 feet" }
+  ],
+  "answer": "C",
+  "explanation": "Hall 的 proxemics 常用四分法：intimate（最靠近，約 0–1.5 feet）、personal（約 1.5–4 feet）、social（約 4–12 feet）、public（>12 feet）。因此 (C) 正確。其餘選項把距離區間對錯位：A 把 personal 誤寫成 intimate；B 把 social 誤寫成 personal；D 把 intimate 誤寫成 social。臨床應用：身體檢查或侵入性操作屬 intimate 距離，需事前告知、取得同意並維持隱私；一般問診多落在 personal/social 的邊界，視空間與關係調整。"
+},
+{
+  "id": "P034_Q0182",
+  "stem": "關於非語言溝通 (nonverbal communication) 的描述，下列何者正確？",
+  "options": [
+    { "key": "A", "text": "在溝通中，非語言所蒐集的訊息約占全部訊息的十分之一" },
+    { "key": "B", "text": "個人情緒及臉部所呈現之表情，在不同文化其表現方式有很大差異" },
+    { "key": "C", "text": "在溝通中，非語言所蒐集的訊息約占全部訊息的 55%" },
+    { "key": "D", "text": "兩手臂交叉於胸前代表放鬆" }
+  ],
+  "answer": "C",
+  "explanation": "(C) 為題庫設定的正確答案：臨床溝通教學常引用『非語言占很大比例』的觀念，用來提醒醫師注意表情、姿勢、語調與距離等。A 的 10% 明顯過低。B 錯：雖然文化會影響非語言表達，但許多基本情緒表情具有跨文化的相似性（文化差異更多在表達規範與解讀）。D 錯：雙臂交叉更常被解讀為防衛、封閉或不安（需結合語境判讀，不是絕對）。臨床上更重要的是：當病人「語言內容」與「非語言訊號」不一致時，要溫和地反映與澄清。"
+},
+{
+  "id": "P034_Q0183",
+  "stem": "有關臺灣的社區醫療體系中，沒有從事基層醫療服務的單位或組織為何？",
+  "options": [
+    { "key": "A", "text": "衛生所" },
+    { "key": "B", "text": "社區健康營造中心" },
+    { "key": "C", "text": "社區醫療群" },
+    { "key": "D", "text": "基層診所" }
+  ],
+  "answer": "B",
+  "explanation": "社區健康營造中心多以公衛與健康促進為主（社區宣導、健康生活型態、預防保健概念推廣），並非直接提供基層醫療照護服務，因此 (B) 正確。衛生所與基層診所本身即承擔基層醫療/公共衛生功能；社區醫療群則是多家診所等形成的合作網絡，強調協調轉介、整合照護與持續性服務。考點在「健康促進/公衛介入」與「第一線醫療照護」的功能區隔。"
+},
+{
+  "id": "P034_Q0184",
+  "stem": "45 歲馮科長，無故突然的胸痛發作，伴隨心悸、呼吸困難、噁心、冷汗、手抖及頭暈，且總是擔心未來會再次發作。最可能的診斷為恐慌症 (panic disorder)。下列何種藥物最適合作為第一線長期治療？",
+  "options": [
+    { "key": "A", "text": "Sertraline 25mg 起始每日口服，視情況調整至 50mg" },
+    { "key": "B", "text": "Haloperidol 0.5mg 起始每日口服，視情況調整至 2mg" },
+    { "key": "C", "text": "Quetiapine 50mg 起始每日口服，視情況調整至 200mg" },
+    { "key": "D", "text": "LSD 20ug 起始每日口服，視情況調整至 40ug" }
+  ],
+  "answer": "A",
+  "explanation": "恐慌症的長期第一線藥物治療以 SSRI/SNRI 為主，合併認知行為治療（CBT）效果最佳；sertraline 低劑量起始、逐步上調是標準做法，因此 (A) 正確。B/C 為抗精神病藥，並非 panic disorder 的第一線維持治療，且副作用風險（EPS、代謝症候群、嗜睡等）不合理。D（LSD）為致幻劑，臨床上不作為恐慌症治療。補充：急性發作期可短期使用 benzodiazepine 作橋接，但需注意依賴與停藥策略；長期仍以 SSRI/SNRI + CBT 為核心。"
+},
+{
+  "id": "P034_Q0185",
+  "stem": "過去十年來，周小姐經常抱怨身體不舒服而大量求醫看診，卻未發現特定的身體疾病，她仍非常擔心自己的健康。最可能的診斷為：",
+  "options": [
+    { "key": "A", "text": "Somatic Symptom Disorder" },
+    { "key": "B", "text": "Functional Neurological Symptom Disorder" },
+    { "key": "C", "text": "Illness Anxiety Disorder" },
+    { "key": "D", "text": "Factitious Disorder" }
+  ],
+  "answer": "A",
+  "explanation": "Somatic Symptom Disorder 的重點不是「有沒有找到器質性疾病」，而是：存在一個或多個令人困擾的身體症狀，並伴隨過度的健康焦慮、過度的想法/情緒/行為（反覆就醫、持續擔心、耗費大量時間精力）且持續 ≥6 個月。題幹強調長期反覆身體不適主訴與大量就醫、持續擔心健康，最吻合 SSD，因此選 (A)。C（Illness Anxiety Disorder）較偏「症狀很少或輕微」但健康焦慮很強；本題明確有長期身體不適抱怨更符合 SSD。B 是神經症狀型（癱瘓、失語、癲癇樣發作等）不符。D（Factitious）核心是『刻意偽造/誘發症狀以獲得病人角色』，題幹未見刻意性。臨床處置重點：固定回診、避免過度檢查、建立一致照護團隊、處理共病焦慮憂鬱。"
+},
+{
+  "id": "P034_Q0186",
+  "stem": "王小姐是一位憂鬱症患者，長期使用藥物治療。最近由於和男朋友吵架，情緒低落，並向門診醫師表示有強烈自殺意念，想要燒炭自殺，並買了一包炭回家。下列何者為最適當的處理方式？",
+  "options": [
+    { "key": "A", "text": "增加抗憂鬱劑劑量" },
+    { "key": "B", "text": "增加門診追蹤頻率（例如每週回診）" },
+    { "key": "C", "text": "轉介心理治療或心理諮商" },
+    { "key": "D", "text": "立即安排住院治療並確保安全（例如移除自殺工具、密切觀察）" }
+  ],
+  "answer": "D",
+  "explanation": "這是高自殺風險情境：有明確自殺意念、具體方法（燒炭）、已取得工具（買炭）、且近期壓力事件與情緒低落。此時最優先是『立即安全處置』，包括急診評估、必要時強制/自願住院、限制自傷機會、家屬安全計畫與密切觀察，因此 (D) 最適當。A/B/C 都可能是後續治療的一部分，但不能取代急性期的安全管理；在已具備手段與高意圖的情境下，僅加藥或加密門診、轉介諮商的風險控制不足。臨床要點：同時評估意圖強度、可近性、過去自傷史、保護因子；建立 safety plan 並動員支持系統。"
+},
+{
+  "id": "P034_Q0187",
+  "stem": "37 歲男性，1 小時前吞服 acetaminophen 10–20 gm，16 小時後有噁心嘔吐及右上腹痛，ALT 5000。最適當的治療是：",
+  "options": [
+    { "key": "A", "text": "Activated charcoal" },
+    { "key": "B", "text": "Sodium bicarbonate" },
+    { "key": "C", "text": "N-acetylcysteine" },
+    { "key": "D", "text": "Dimercaprol" }
+  ],
+  "answer": "C",
+  "explanation": "Acetaminophen 中毒的特效解毒劑是 N-acetylcysteine（補充 glutathione、減少 NAPQI 造成的肝細胞壞死），且在服藥後 8–10 小時內效果最佳，但即使已 16 小時且出現顯著肝損傷（ALT 5000），仍應立即給 NAC，因為仍可改善預後並降低肝衰竭風險，所以 (C) 正確。Activated charcoal 主要用於早期（通常 1–2 小時內）減少吸收；本題時間點已過且已有肝毒性表現，不是首要。Sodium bicarbonate 是用於三環抗憂鬱劑等造成的心毒性/Na channel blockade 或特定酸中毒策略，非 APAP 解毒。Dimercaprol 是金屬螯合劑（砷、汞等），不適用。補充：需同時監測 INR、bilirubin、腎功能、酸鹼狀態，評估肝移植指標。"
+},
+{
+  "id": "P034_Q0188",
+  "stem": "一位 25 歲女性常常在搭捷運及坐飛機的途中出現 tachycardia、sweating、trembling、chills/heat sensations 等症狀，發作時擔心會死掉。最可能的診斷是：",
+  "options": [
+    { "key": "A", "text": "Specific phobia" },
+    { "key": "B", "text": "Agoraphobia" },
+    { "key": "C", "text": "Social anxiety disorder" },
+    { "key": "D", "text": "Panic attack" }
+  ],
+  "answer": "D",
+  "explanation": "題幹描述典型恐慌發作：突然出現自主神經症狀（心悸、出汗、發抖、冷/熱感）、伴隨強烈災難化認知（擔心會死掉）。因此最貼切診斷是 panic attack (D)。B（agoraphobia）是對「逃離困難或無法獲得協助」情境（大眾運輸、開放/封閉空間、人群、獨自外出等）的恐懼與迴避，通常是更持續的情境性恐懼；題幹重點在發作性生理症狀與『快死了』的恐慌核心，所以單題更選 panic attack。A（specific phobia）偏向特定物件/情境的持續恐懼；C 是社交場合的負向評價恐懼。臨床上也要評估是否符合 panic disorder（反覆恐慌發作 + 持續擔心/行為改變）。"
+},
+{
+  "id": "P034_Q0189",
+  "stem": "病人長期情緒低落，但仍可以工作，人際關係不好，且長期食慾不好、失眠，持續超過 2 年，最可能的診斷是：",
+  "options": [
+    { "key": "A", "text": "Major depressive disorder" },
+    { "key": "B", "text": "Dysthymia (persistent depressive disorder)" },
+    { "key": "C", "text": "Adjustment disorder" },
+    { "key": "D", "text": "Generalized anxiety disorder" }
+  ],
+  "answer": "B",
+  "explanation": "持續超過 2 年的慢性低落情緒，伴隨失眠、食慾差、低能量或低自尊等，且功能仍可維持但生活品質受影響，典型符合 persistent depressive disorder（舊稱 dysthymia），因此 (B) 正確。A（MDD）多為較明顯的症狀群聚與功能受損，且以發作性（≥2 週）為主；雖可慢性化，但題幹強調『長期、仍可工作』更貼 dysthymia。C（適應障礙）需有明確壓力源且症狀通常不持續到 2 年以上（除非壓力源持續並符合慢性型）。D（GAD）核心是過度擔憂與焦慮伴隨緊張等，不以持續低落心境為主。臨床補充：PDD 可與 MDD 疊加（double depression），問診需確認是否有更嚴重的重鬱發作插入。"
+},
+{
+  "id": "P034_Q0190",
+  "stem": "依據美國內科醫學會 (The American Board of Internal Medicine) 與歐洲內科醫學會 (The European Federation of Internal Medicine) 於 2002 年提出之醫師憲章 (Physician Charter)。下列何者不是醫師專業素養之基本原則？",
+  "options": [
+    { "key": "A", "text": "病人福祉優先原則 (principle of primacy of patient welfare)" },
+    { "key": "B", "text": "社會正義原則 (principle of social justice)" },
+    { "key": "C", "text": "實證醫學執業原則 (principle of evidence-based practice)" },
+    { "key": "D", "text": "病人自主原則 (principle of patient autonomy)" }
+  ],
+  "answer": "C",
+  "explanation": "Physician Charter 的三大基本原則是：病人福祉優先（primacy of patient welfare）、病人自主（patient autonomy）、社會正義（social justice）。因此 A/B/D 都屬基本原則。實證醫學執業（evidence-based practice）雖然是重要的專業責任與實作方法，但不屬於該憲章所列的「三大基本原則」，因此 (C) 為正確答案（不是基本原則）。延伸：Charter 也列出多項專業責任（如維持能力、誠實、保密、改善品質、資源公平分配、管理利益衝突等），EBM 常被歸在『維持能力/改善品質』相關的責任層面。"
 }
 
 
