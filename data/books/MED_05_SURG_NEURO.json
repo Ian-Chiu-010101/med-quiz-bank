@@ -94,5 +94,249 @@
     ],
     "answer": "C",
     "explanation": "C 錯：手術目標通常不是『把膨出的腦組織回置』。\n\n關鍵概念：\n- Encephalocele 是顱骨/硬腦膜缺損造成腦組織與腦膜突出，屬神經管/顱骨發育缺陷的一類。\n- 膨出內容常包含非功能性、發育不良或已受損的腦組織；硬塞回顱內通常沒有意義，且可能增加感染/癲癇/壓力問題。\n\n標準手術原則（考點）：\n1) 切除或處理膨出囊內容（以保留可用組織為前提，但“回置”不是常規描述）。\n2) 確實修補硬腦膜與顱骨缺損（防 CSF leak/感染），必要時做顱顏整形。\n\n其餘選項：\nA 正確：多在中線（尤其枕部/額鼻部等型態）。\nB 正確：顱底型相對少見但臨床更易被漏診（可表現為鼻腔腫塊/CSF rhinorrhea）。\nD 正確：神經發育問題、癲癇、智力障礙常見，預後與膨出大小、是否含重要腦組織、是否合併水腦/其他畸形相關。\n\n延伸陷阱：\n- 若題目出現『可壓回去的鼻腔腫塊』要想到顱底腦膨出，處置上避免粗暴切除以免造成致命 CSF leak/腦膜炎。"
+  },
+
+  
+  {
+    "id": "MED_05_01_NUT_Q0001",
+    "stem": "手術後使用全中心靜脈營養（total parenteral nutrition, TPN）注射之病人，中心靜脈導管感染為常見之併發症，下列敘述何者最不適當？",
+    "options": [
+      { "key": "A", "text": "置放於股靜脈之導管感染率較高" },
+      { "key": "B", "text": "為避免感染，中心靜脈導管放置後，須每週更換" },
+      { "key": "C", "text": "導管相關之感染以葡萄球菌為主" },
+      { "key": "D", "text": "使用 TPN 之病人若發燒時，若無其他原因，應考慮拔除導管並作細菌培養" }
+    ],
+    "answer": "B",
+    "explanation": "考點是「CVC 不建議固定週期性更換」。\n\nB 錯的原因：例行（routine）每週更換 CVC 會增加導管置入相關風險（氣胸、出血、血栓）且未證實可降低感染率，反而可能因反覆置入增加感染機會。\n\n其餘選項：\nA 對：股靜脈位置易污染、皮膚菌叢多，CLABSI 風險通常高於鎖骨下/頸內。\nC 對：最常見病原多為 Staphylococcus aureus 與 coagulase-negative staphylococci（皮膚常在菌）。\nD 大方向對：TPN + 不明原因發燒要高度懷疑導管相關感染；處置上至少要抽血培養（含周邊與導管），若重症/化膿性血栓/菌血症高度懷疑或導管不再必要，可拔除並送導管尖端培養。\n\n延伸陷阱：\n- 「拔不拔」取決於病況與病原：S. aureus、Candida、持續菌血症/膿毒症通常傾向拔除；若輕症且需保留導管可考慮導管保留策略合併抗生素鎖定治療（但考題多走保守：懷疑就要處理/培養）。"
+  },
+  {
+    "id": "MED_05_01_NUT_Q0002",
+    "stem": "營養支持對於外科重症的病人極為重要，下列何者最接近正常體重病人一天的基礎能量消耗（basal energy expenditure）？",
+    "options": [
+      { "key": "A", "text": "10–15 kcal × BW（kg）" },
+      { "key": "B", "text": "15–20 kcal × BW（kg）" },
+      { "key": "C", "text": "25–30 kcal × BW（kg）" },
+      { "key": "D", "text": "30–35 kcal × BW（kg）" }
+    ],
+    "answer": "C",
+    "explanation": "一般臨床快速估算：維持/中輕度壓力下約 25–30 kcal/kg/day（或 25–35 依來源）。因此最接近者為 C。\n\n延伸：\n- 重度外傷/燒傷/敗血等高壓力狀態需求可上升到 35–45 kcal/kg/day（題幹問「正常體重、基礎」所以不選 D）。\n- 精確評估可用 Harris–Benedict 或間接熱量測定（indirect calorimetry）。"
+  },
+  {
+    "id": "MED_05_01_NUT_Q0003",
+    "stem": "對於慢性不癒合傷口的敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "最常見的原因是傷口感染" },
+      { "key": "B", "text": "放射線的暴露會造成內皮細胞（endothelial cell）的傷害和 endarteritis，導致組織萎縮、纖維化和癒合延緩" },
+      { "key": "C", "text": "Vitamin B12 缺乏會妨礙單核細胞的活化和 fibronectin 沉積，然後影響細胞的黏著和妨礙 TGF-β receptors" },
+      { "key": "D", "text": "糖尿病會影響傷口癒合的每一個步驟" }
+    ],
+    "answer": "C",
+    "explanation": "C 的敘述把「Vitamin A」的考點錯嫁到 B12。\n\n真正的高頻考點：\n- Vitamin A：與上皮化、免疫調節、膠原合成/交聯相關，缺乏會影響單核球/巨噬細胞功能、降低 fibronectin 沉積、影響 TGF-β 相關修復訊號 → 延遲癒合。\n- Vitamin C：膠原羥化（prolyl/lysyl hydroxylation），缺乏會造成傷口裂開、出血傾向。\n- Zinc：DNA/RNA 合成與上皮修復，缺乏也延遲癒合。\n\n其餘選項：\nA 多數考題視角下為對（感染/異物/缺血為最常見導致慢性化的因素）。\nB 對：放射線→血管內膜炎、灌流差、纖維化。\nD 對：糖尿病造成微血管灌流差、免疫功能下降、神經病變與高糖環境，從發炎到增生/重塑皆受影響。"
+  },
+  {
+    "id": "MED_05_01_NUT_Q0004",
+    "stem": "下列那一種胺基酸是腸黏膜細胞（enterocytes）之能量來源？",
+    "options": [
+      { "key": "A", "text": "histidine" },
+      { "key": "B", "text": "glutamine" },
+      { "key": "C", "text": "valine" },
+      { "key": "D", "text": "alanine" }
+    ],
+    "answer": "B",
+    "explanation": "Glutamine 是腸黏膜細胞與免疫細胞的重要燃料（亦是維持腸道屏障與免疫功能的高頻考點）。\n\n延伸對照：\n- 大腸上皮更常被強調的能量來源是短鏈脂肪酸（尤其 butyrate），但題目問 enterocytes（多指小腸黏膜）→ glutamine。"
+  },
+  {
+    "id": "MED_05_01_NUT_Q0005",
+    "stem": "長期禁食後再重新給與營養時，為避免造成再餵食症候群（refeeding syndrome），於早期餵食時，應注意下列那些離子的補充？",
+    "options": [
+      { "key": "A", "text": "鉀、磷、鎂" },
+      { "key": "B", "text": "鈉、磷、鈣" },
+      { "key": "C", "text": "鉀、磷、鈣" },
+      { "key": "D", "text": "鉀、鈉、鎂" }
+    ],
+    "answer": "A",
+    "explanation": "Refeeding syndrome 的核心是胰島素上升後造成電解質「往細胞內移動」：低磷、低鉀、低鎂（外加高血糖），所以早期補充重點是 K/Phos/Mg。\n\n高鑑別點：\n- 低磷是最具代表性的危險因子（呼吸肌無力、橫紋肌溶解、溶血、心衰/心律不整）。\n- 另要補充 thiamine（B1）以避免 Wernicke/乳酸堆積（常被考在步驟題）。"
+  },
+  {
+    "id": "MED_05_01_NUT_Q0006",
+    "stem": "使用全靜脈營養（TPN）之後產生膽汁鬱積（cholestasis），下列何者是最理想的治療方法？",
+    "options": [
+      { "key": "A", "text": "增加脂肪乳劑施打" },
+      { "key": "B", "text": "增加脂溶性維生素的補充量" },
+      { "key": "C", "text": "使用中鏈三酸甘油酯（medium-chain triglyceride）的配方" },
+      { "key": "D", "text": "儘可能恢復腸道營養" }
+    ],
+    "answer": "D",
+    "explanation": "TPN-associated cholestasis 的關鍵處理是「恢復/增加 enteral stimulation」。腸道餵食可促進膽汁分泌與膽囊收縮、改善膽汁鬱積，是最根本策略。\n\n其餘選項為次要/非根本：\n- A：脂肪乳劑過量反而可能加重肝功能異常/脂肪肝。\n- B：補脂溶性維生素可處理缺乏，但不是 cholestasis 的首要治療。\n- C：MCT 可作為能量來源調整，但無法取代「腸道刺激」這個病理核心。\n\n延伸：也常考到週期性輸注（cyclic TPN）、避免過度餵食（overfeeding）、治療感染與精準估算熱量。"
+  },
+  {
+    "id": "MED_05_01_NUT_Q0007",
+    "stem": "相較於靜脈營養，腸道營養對手術病人營養支持之好處，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "吃進去的多醣（polysaccharides）在大腸會被細菌發酵（bacterial fermentation），以維持腸道正常菌落" },
+      { "key": "B", "text": "嚴重血流動力學不穩定（marked hemodynamic instability）的病人適合給與腸道營養" },
+      { "key": "C", "text": "有較好的腸胃道免疫功能（gastrointestinal immunity）" },
+      { "key": "D", "text": "可以維持腸胃屏障功能（gastrointestinal barrier function）" }
+    ],
+    "answer": "B",
+    "explanation": "B 錯：血流動力學嚴重不穩定時，腸灌流差、腸蠕動差，給 enteral feeding 可能增加腸缺血/餵食不耐/吸入等風險。\n\n腸道營養優點（A/C/D 的主軸）：\n- 維持腸黏膜完整、降低 bacterial translocation。\n- 支持 GALT（gut-associated lymphoid tissue）免疫。\n- 生理性刺激膽汁分泌與腸道激素，有助降低感染與併發症。"
+  },
+  {
+    "id": "MED_05_01_NUT_Q0008",
+    "stem": "下列有關營養補充的敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "腸胃道有功能時應儘可能使用腸道餵食（enteral feeding）" },
+      { "key": "B", "text": "從鼻胃管餵食時，為了防止餵食物反流和吸入，病人上半身應保持在 90° 的坐姿" },
+      { "key": "C", "text": "最常做的鼻胃管灌食是在開始時以 10 至 20 mL/hr 灌食，每 4 至 6 小時檢查胃殘留量，再決定是否增加灌食量" },
+      { "key": "D", "text": "使用胃造瘻或空腸造瘻灌食的病人，可能會有肉芽組織在造瘻處過度積聚的情形" }
+    ],
+    "answer": "B",
+    "explanation": "B 錯在角度過度絕對且不符合常用建議：預防 aspiration 的標準作法是半坐臥（head-of-bed elevation 約 30–45°），而非必須 90°。\n\n其餘選項：\n- A：腸道可用就優先 enteral（生理性、併發症與成本較佳）。\n- C：循序漸進的起始速率 + 定期評估胃殘留量，是常見的 titration 方式。\n- D：造瘻口周圍肉芽增生/刺激性皮膚炎是臨床常見問題。\n\n延伸考點：\n- 高風險（鎮靜、胃排空差、重症）可考慮 post-pyloric feeding（鼻空腸/空腸造瘻）降低吸入風險。"
+  },
+  {
+    "id": "MED_05_01_NUT_Q0009",
+    "stem": "進行全靜脈營養（total parenteral nutrition, TPN）時，下列與中央靜脈導管相關之併發症的敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "導管內血栓（thrombus）" },
+      { "key": "B", "text": "氣胸（pneumothorax）" },
+      { "key": "C", "text": "臂叢神經損傷（brachial plexus injury）" },
+      { "key": "D", "text": "尿路感染（urinary tract infection）" }
+    ],
+    "answer": "D",
+    "explanation": "D 錯：UTI 與 CVC 置入無直接關聯，不屬中央靜脈導管相關併發症。\n\nA/B/C 都是典型 CVC 相關：\n- 機械性：氣胸、血胸、動脈穿刺、空氣栓塞。\n- 損傷：神經損傷（含臂叢）、心律不整（導絲刺激）。\n- 血栓：導管相關血栓/血栓性靜脈炎。"
+  },
+  {
+    "id": "MED_05_01_NUT_Q0010",
+    "stem": "嚴重外傷之病患，術後需要足量營養補充，以維持各項生理功能與組織復原。營養補充是否足夠，可藉由下列各種生化檢定來評估，何者除外？",
+    "options": [
+      { "key": "A", "text": "白蛋白（albumin）" },
+      { "key": "B", "text": "球蛋白（globulin）" },
+      { "key": "C", "text": "前白蛋白（prealbumin）" },
+      { "key": "D", "text": "轉鐵蛋白（transferrin）" }
+    ],
+    "answer": "B",
+    "explanation": "B（globulin）不是標準的營養評估指標。\n\n常考的營養生化指標與特性：\n- Albumin：半衰期長（約 2–3 週），受發炎/液體狀態影響大，不敏感於短期變化。\n- Prealbumin（transthyretin）：半衰期短（約 2–3 天），較能反映近期變化（仍受發炎影響）。\n- Transferrin：半衰期中等（約 1 週），也會受鐵代謝與發炎影響。\n\n高分陷阱：在重症/發炎狀態，這些蛋白多是 negative acute-phase reactants，低值不等於「單純吃不夠」，需合併 CRP/臨床判讀。"
+  },
+  {
+    "id": "MED_05_01_NUT_Q0011",
+    "stem": "下列對於再餵食症候群（refeeding syndrome）的敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "Refeeding syndrome 又稱為 magnesium steal syndrome" },
+      { "key": "B", "text": "為避免 refeeding syndrome，在給予大量營養時要添加鎂（magnesium）、鉀（potassium）和磷（phosphate）" },
+      { "key": "C", "text": "避免 refeeding syndrome 最好的方法是隨時調整 TPN 的量和電解質" },
+      { "key": "D", "text": "當病患大量嘔吐時要補充鉀（potassium）" }
+    ],
+    "answer": "A",
+    "explanation": "A 錯：Refeeding syndrome 並沒有標準別名叫 magnesium steal syndrome。\n\n核心機轉（考點要背得很穩）：\n- 碳水回補 → 胰島素上升 → 促進糖原/脂肪/蛋白合成 → 需要大量磷（ATP/2,3-DPG）、鉀、鎂進入細胞 → 低磷、低鉀、低鎂 + 高血糖。\n\nB/C/D：\n- B 正確：預防重點就是補 K/Phos/Mg（及 thiamine）。\n- C 正確：起始慢、逐步增加熱量，並密切監測/調整電解質。\n- D 正確：嘔吐是低鉀的常見原因之一（胃酸丟失與體液變化/腎代償）。"
+  },
+  {
+    "id": "MED_05_01_NUT_Q0012",
+    "stem": "下列何者是給予腸道外營養（parenteral feeding）的適應性？",
+    "options": [
+      { "key": "A", "text": "甲狀腺機能亢進（hyperthyroidism）" },
+      { "key": "B", "text": "急性膽囊炎（acute cholecystitis）" },
+      { "key": "C", "text": "胃腸道皮膚瘻管（gastrointestinal-cutaneous fistulas）" },
+      { "key": "D", "text": "靜脈血栓栓塞（venous thromboembolism）" }
+    ],
+    "answer": "C",
+    "explanation": "Parenteral nutrition 的適應症本質是「腸道不能用或不安全使用」，典型包括高輸出腸瘻、短腸症、長期腸麻痺、腸阻塞、嚴重吸收不良等。\n\nC 正確：GI-cutaneous fistula（尤其高輸出/近端）常無法有效 enteral feeding，PN 常被考成代表性適應症。\nA/B 多半仍可依情況採 enteral 或短期禁食支持；D 與營養途徑無直接適應症關係。"
+  },
+  {
+    "id": "MED_05_01_NUT_Q0013",
+    "stem": "在長期無法進食之受傷病人，其體內營養之補充途徑，已經證明以腸道營養（enteral nutrition）優於非腸道營養（parenteral nutrition），下列原因何者錯誤？",
+    "options": [
+      { "key": "A", "text": "價格較低" },
+      { "key": "B", "text": "合併症較少" },
+      { "key": "C", "text": "腸道黏膜（intestinal mucosa）較不易萎縮" },
+      { "key": "D", "text": "易引發吸入性肺炎（aspiration pneumonia）" }
+    ],
+    "answer": "D",
+    "explanation": "D 錯：吸入性肺炎是 enteral feeding 的風險/併發症之一，不可能是「優於 PN」的理由。\n\nA/B/C 是常見優勢：\n- 成本較低。\n- 維持腸道屏障與免疫、降低感染與部分併發症。\n- 減少黏膜萎縮與 bacterial translocation。\n\n延伸：考題有時會把「enteral 併發症較少」與「特定風險」並列，解題要抓住“相對於 PN 的整體感染/代謝/導管併發症”而非否認 aspiration 風險。"
+  },
+  {
+    "id": "MED_05_01_NUT_Q0014",
+    "stem": "下列何者不是全靜脈營養（total parenteral nutrition）的適應症？",
+    "options": [
+      { "key": "A", "text": "嚴重頭部外傷引起之昏迷" },
+      { "key": "B", "text": "長期腸麻痺（prolonged ileus）" },
+      { "key": "C", "text": "腸道－皮瘻管（entero-cutaneous fistula）" },
+      { "key": "D", "text": "短腸症（short bowel syndrome）" }
+    ],
+    "answer": "A",
+    "explanation": "A 不是 TPN 的「必然適應症」：昏迷不等於腸道不能用。若腸道功能可用，通常可放置鼻胃/鼻空腸管進行 enteral feeding（更符合生理、併發症較少）。\n\nB/C/D 都是典型 PN 適應症（腸道功能不足或無法安全供應足量營養）。\n\n高分陷阱：題目在考「適應症的本質＝腸道不可用」，而不是考病人多重或看起來很嚴重就給 TPN。"
+  },
+
+  {
+    "id": "MED_05_01_EAB_Q0001",
+    "stem": "一位 51 歲男性，大腸腫瘤病人術後食慾不佳，造成電解質不平衡，下列那一種電解質不平衡最容易造成腸阻塞（ileus）？",
+    "options": [
+      { "key": "A", "text": "高血鈣" },
+      { "key": "B", "text": "低血鉀" },
+      { "key": "C", "text": "高血鉀" },
+      { "key": "D", "text": "低血鈣" }
+    ],
+    "answer": "B",
+    "explanation": "低血鉀會使腸道平滑肌興奮性與收縮力下降，最典型導致腸蠕動變差 → ileus。\n\n鑑別：\n- 高血鈣也可能造成便秘/腸蠕動下降，但考題中「術後 ileus」最標準連結仍是低鉀。\n- 高鉀主要致命點在心律不整；低鈣多見神經肌肉興奮性增加（tetany），不以 ileus 為主訴考點。"
+  },
+  {
+    "id": "MED_05_01_EAB_Q0002",
+    "stem": "下列何者並非術後發生低血鈉症（hyponatremia）時的常見症狀？",
+    "options": [
+      { "key": "A", "text": "頭痛" },
+      { "key": "B", "text": "心跳加速" },
+      { "key": "C", "text": "噁心嘔吐" },
+      { "key": "D", "text": "虛弱疲乏" }
+    ],
+    "answer": "B",
+    "explanation": "低鈉的典型症狀是腦水腫相關：噁心、嘔吐、頭痛、嗜睡、意識改變、抽搐等；「心跳加速」不是低鈉本身的典型表現。\n\n例外情境（題目在暗示但不選）：若低鈉是合併明顯低血容量（大量體液流失）才可能出現反射性心搏過速；但術後常見低鈉機轉更偏 euvolemic（如 SIADH）或體液過多。"
+  },
+  {
+    "id": "MED_05_01_EAB_Q0003",
+    "stem": "下列敘述，何者正確？",
+    "options": [
+      { "key": "A", "text": "病人從上消化道或腹瀉大量流失碳酸氫鹽（bicarbonate）時，會造成鹼血症（alkalemia）" },
+      { "key": "B", "text": "醫源性呼吸性酸中毒（iatrogenic respiratory acidosis）常見的原因之一是氣管插管後的呼吸器過度機械性通氣（mechanical ventilation）" },
+      { "key": "C", "text": "敗血性休克（septic shock）病人會有代謝性鹼中毒（metabolic alkalosis）" },
+      { "key": "D", "text": "快速靜脈輸注大量等張氯化鈉溶液（isotonic sodium chloride solutions）時，會發生代謝性酸血症（metabolic acidemia）" }
+    ],
+    "answer": "D",
+    "explanation": "D 正確：大量 0.9% NS 會造成高氯性代謝性酸中毒（hyperchloremic metabolic acidosis，通常為 normal anion gap）。\n\n其餘選項為典型錯誤方向：\n- A：腹瀉是「HCO3- 流失」→ 代謝性酸中毒，而非鹼血症。\n- B：呼吸性酸中毒是低通氣（hypoventilation）造成 CO2 retention；過度通氣反而造成呼吸性鹼中毒。\n- C：敗血性休克常見乳酸堆積 → 高 anion gap 代謝性酸中毒，不是代謝性鹼中毒。"
+  },
+  {
+    "id": "MED_05_01_EAB_Q0004",
+    "stem": "54 歲男性，直腸癌手術後併迴腸造瘻，術後第八天倦怠無力；BP 90/40、HR 100；每日尿量 800 mL；迴腸造口排出量約 3000 mL/day；Na 125、K 2.5。此時造成倦怠感最可能的原因為何？",
+    "options": [
+      { "key": "A", "text": "腎上腺功能不全合併電解質不平衡" },
+      { "key": "B", "text": "急性失血合併低血壓" },
+      { "key": "C", "text": "腹腔內感染合併輕微敗血症" },
+      { "key": "D", "text": "大量體液自迴腸造口流失而致電解質不平衡" }
+    ],
+    "answer": "D",
+    "explanation": "題眼是「高輸出造口（high-output stoma）」：3000 mL/day 明顯偏高 → 體液與電解質（尤其 Na/K）流失 → 低血容量與低鈉低鉀造成倦怠、低血壓。\n\n排除法：\n- A：原發性腎上腺功能不全典型是低鈉 + 高鉀（缺乏 aldosterone 造成留不住鈉、排不掉鉀），與本題低鈉低鉀不符。\n- B：若急性失血通常有更明顯的循環代償（更快心跳、尿量更低），且題幹提供關鍵線索在造口大量流失。\n- C：敗血症通常伴發燒/感染徵象；本題生理數據更支持脫水/電解質流失。\n\n延伸處置考點（若出延伸題）：補液（等張液）、補 Na/K/Mg，並處理高輸出造口（止瀉藥/調整飲食與口服補液、必要時減少腸分泌）。"
+  },
+  {
+    "id": "MED_05_01_EAB_Q0005",
+    "stem": "52 歲男性術後抽血 Na 117 mEq/L。下列敘述何者正確？",
+    "options": [
+      { "key": "A", "text": "此病人除了疼痛之外，沒有其他症狀" },
+      { "key": "B", "text": "此病人的低鈉血症歸類為中度低鈉血症（moderate hyponatremia）" },
+      { "key": "C", "text": "無症狀病人以含鈉輸液治療時，其輸液速率應使血清鈉上升不超過 0.5 mEq/L/hr，一天不超過 8–12 mEq/L" },
+      { "key": "D", "text": "可以觀察其病情，不必採取其他的治療" }
+    ],
+    "answer": "C",
+    "explanation": "C 正確：矯正速率控制是低鈉題目的必考核心。\n\n關鍵規則（考場背法）：\n- 慢矯正以避免 ODS/CPM（osmotic demyelination syndrome / central pontine myelinolysis）。\n- 無症狀或慢性低鈉：通常建議 ≤0.5 mEq/L/hr，24 小時總上升多以 8–10（或 8–12）mEq/L 作上限（各版本略有差異，但題目給的這組就是要選）。\n\n排除：\n- A：Na 117 仍可能出現虛弱、噁心、意識改變甚至抽搐，不能說只有疼痛。\n- B：117 屬 severe hyponatremia（常用分層：<120 severe）。\n- D：需要找原因與分型（hypo/eu/hypervolemic），並針對處理；不是放著觀察。"
+  },
+  {
+    "id": "MED_05_01_EAB_Q0006",
+    "stem": "下列敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "副甲狀腺機能亢進（hyperparathyroidism）是高鈣血症（hypercalcemia）的常見原因" },
+      { "key": "B", "text": "腫瘤溶解症候群（tumor lysis syndrome）會造成高鈣血症" },
+      { "key": "C", "text": "休克病人治療復甦後會有急性低鈣血症（hypocalcemia）的情形" },
+      { "key": "D", "text": "以靜脈鈣輸液治療低鈣血症，而病人有服用毛地黃時，輸液速率不可太快以免引起心律失常" }
+    ],
+    "answer": "B",
+    "explanation": "B 錯：腫瘤溶解症候群典型電解質是「高磷、低鈣、高鉀、高尿酸」。機轉是細胞內磷釋放上升，與鈣結合沉積 → 低血鈣。\n\n其餘選項：\n- A 對：原發性副甲狀腺亢進是高血鈣常見原因之一。\n- C 大方向對：復甦/重症情境（如大量輸血枸櫞酸鹽、胰臟炎、休克後變化）可出現急性低鈣。\n- D 對：IV 鈣在使用 digoxin 時需謹慎，過快可能誘發心律不整（考題取向：慢滴、監測心電圖）。"
   }
+
 ]
