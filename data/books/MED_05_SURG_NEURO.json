@@ -1731,8 +1731,900 @@
     "explanation": "C 錯：腸繫膜血管損傷代表腸段灌流可能受損、壞死風險提高，未必適合直接修復；需要依血流、污染程度、病人穩定性與損傷範圍決定切除/重建或分流。\n\nA/B/D 為正確原則：決策取決於「生理狀態 + 污染/感染 + 局部灌流與損傷範圍」；直腸傷常更深、更難清創與引流，故更常需要分流與引流策略。",
     "source": "五(1) 外科概論、腦神外｜庚 急救外傷｜題 21（103一）專醫五-51",
     "tags": ["trauma", "colon injury", "rectal injury", "surgery decision"]
-  }
+  },
 
+
+  {
+    "id": "MED_05_01_NS_Q0022",
+    "stem": "一位嚴重頭部外傷病人（GCS = 7 分），在第一時間的處置，下列何者最不適當？",
+    "options": [
+      { "key": "A", "text": "應放置氣管內管" },
+      { "key": "B", "text": "應趕緊給與類固醇以減少受傷後引起的腦腫或腦壓上升" },
+      { "key": "C", "text": "若有合併低血壓情形，應趕緊給與輸液穩定血壓" },
+      { "key": "D", "text": "應使用頸圈固定病人頸部" }
+    ],
+    "answer": "B",
+    "explanation": "嚴重 TBI 的急性處置核心是避免次發性腦損傷：確保氧合/通氣（GCS ≤ 8 通常需插管）、維持灌流（避免低血壓）、並保護頸椎。\n類固醇並非 TBI 降腦壓或改善預後的標準治療，臨床試驗顯示無效且可能增加感染與死亡風險，因此最不適當。",
+    "source": "第二篇 腦神外｜甲 昏迷指數與腦死｜題 1（113一）專醫五-1",
+    "tags": ["neurosurgery", "tbi", "initial management", "gcs"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0023",
+    "stem": "下列對於意識不清之頭部外傷患者的處置何者錯誤？",
+    "options": [
+      { "key": "A", "text": "評估意識狀況（GCS）、瞳孔大小及對光反射" },
+      { "key": "B", "text": "評估生命徵象及有無其他 associated injury" },
+      { "key": "C", "text": "在生命徵象穩定後安排頭部電腦斷層檢查有無顱內出血" },
+      { "key": "D", "text": "應先給與低劑量抗癲癇藥（therapeutic trial of anticonvulsant agents），24 小時後再停藥" }
+    ],
+    "answer": "D",
+    "explanation": "意識不清的頭部外傷：先做神經評估（GCS/瞳孔）、生命徵象與全身外傷評估；穩定後再影像（CT）。\n預防性抗癲癇藥的考點在「使用情境與療程」：對高風險 TBI 常用於預防 early post-traumatic seizure，典型做法是給予約 7 天，而不是“試用 24 小時就停”。",
+    "source": "第二篇 腦神外｜甲 昏迷指數與腦死｜題 2（109二）專醫五-10",
+    "tags": ["neurosurgery", "tbi", "seizure prophylaxis"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0024",
+    "stem": "25 歲男性頭部外傷送急診：瞳孔對光反應遲鈍；痛刺激會張眼；發出他人無法了解的聲音；右手臂變形對痛刺激無反應；左手對痛刺激會用手撥開。其 Glasgow coma scale 分數為何？",
+    "options": [
+      { "key": "A", "text": "7" },
+      { "key": "B", "text": "8" },
+      { "key": "C", "text": "9" },
+      { "key": "D", "text": "10" }
+    ],
+    "answer": "C",
+    "explanation": "GCS = E + V + M（取“最佳”的運動反應）。\nE：痛刺激張眼 = E2。\nV：他人無法了解的聲音（incomprehensible sounds）= V2。\nM：左手能撥開刺激（localize pain）= M5（右手臂無反應不影響，因取最佳）。\n總分 = 2 + 2 + 5 = 9。",
+    "source": "第二篇 腦神外｜甲 昏迷指數與腦死｜題 3（109二）專醫五-77",
+    "tags": ["neurosurgery", "gcs", "exam"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0025",
+    "stem": "有關腦死判定（brain death），下列何者不是臨床要件（clinical criteria）？",
+    "options": [
+      { "key": "A", "text": "患者需處於深度昏迷（deep coma），且對語言及疼痛刺激無反應" },
+      { "key": "B", "text": "患者有自發性呼吸（spontaneous respiration）" },
+      { "key": "C", "text": "患者喪失腦幹反射（brain stem reflex）" },
+      { "key": "D", "text": "患者無自主性活動或自主性姿態（spontaneous movement/posturing）" }
+    ],
+    "answer": "B",
+    "explanation": "腦死的臨床重點是「不可逆深昏迷 + 腦幹反射消失 + 無自發呼吸（apnea test 證實）」。\n因此“有自發性呼吸”與腦死判定相反，故不是臨床要件。",
+    "source": "第二篇 腦神外｜甲 昏迷指數與腦死｜題 4（108二）專醫五-11",
+    "tags": ["neurosurgery", "brain death"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0026",
+    "stem": "路倒病人到院：眼睛僅對痛有反應；會發出呻吟；四肢呈現不正常彎曲（abnormal flexion）。其 GCS 為幾分？",
+    "options": [
+      { "key": "A", "text": "6" },
+      { "key": "B", "text": "7" },
+      { "key": "C", "text": "8" },
+      { "key": "D", "text": "9" }
+    ],
+    "answer": "B",
+    "explanation": "E：痛刺激張眼 = E2。\nV：呻吟（incomprehensible sounds）= V2。\nM：不正常彎曲（decorticate/abnormal flexion）= M3。\n總分 = 2 + 2 + 3 = 7。",
+    "source": "第二篇 腦神外｜甲 昏迷指數與腦死｜題 5（108二）專醫五-47",
+    "tags": ["neurosurgery", "gcs", "exam"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0027",
+    "stem": "承上題：急救過程需放置中央靜脈導管大量輸液，下列何者不是最常使用的血管？",
+    "options": [
+      { "key": "A", "text": "內頸靜脈（internal jugular vein）" },
+      { "key": "B", "text": "股靜脈（femoral vein）" },
+      { "key": "C", "text": "頭靜脈（cephalic vein）" },
+      { "key": "D", "text": "鎖骨下靜脈（subclavian vein）" }
+    ],
+    "answer": "C",
+    "explanation": "大量快速輸液需要大口徑、流量佳且位置可控的中心靜脈通路；內頸、鎖骨下、股靜脈皆常用。\n頭靜脈多為周邊靜脈、管徑與流量受限，不適合作為大量輸液的主要通路。",
+    "source": "第二篇 腦神外｜甲 昏迷指數與腦死｜題 6（108二）專醫五-48",
+    "tags": ["critical care", "central line", "resuscitation"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0028",
+    "stem": "外傷病人：痛刺激時會睜眼；對刺激無言語反應；對痛刺激只有退縮反應（withdrawal）。其 GCS 為何？",
+    "options": [
+      { "key": "A", "text": "8" },
+      { "key": "B", "text": "9" },
+      { "key": "C", "text": "10" },
+      { "key": "D", "text": "7" }
+    ],
+    "answer": "D",
+    "explanation": "E：痛刺激張眼 = E2。\nV：無言語反應 = V1。\nM：退縮反應（withdrawal）= M4。\n總分 = 2 + 1 + 4 = 7。",
+    "source": "第二篇 腦神外｜甲 昏迷指數與腦死｜題 7（106二）專醫五-2",
+    "tags": ["neurosurgery", "gcs", "exam"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0029",
+    "stem": "頭部外傷病人：痛刺激會睜眼；不會言語和出聲；痛刺激下左上肢不動、右上肢不正常伸張（abnormal extension）。其 GCS 為多少？",
+    "options": [
+      { "key": "A", "text": "3" },
+      { "key": "B", "text": "4" },
+      { "key": "C", "text": "5" },
+      { "key": "D", "text": "6" }
+    ],
+    "answer": "C",
+    "explanation": "E：痛刺激張眼 = E2。\nV：無言語/無聲 = V1。\nM：右上肢 abnormal extension = M2（左上肢不動 M1，但取最佳運動反應）。\n總分 = 2 + 1 + 2 = 5。",
+    "source": "第二篇 腦神外｜甲 昏迷指數與腦死｜題 8（104一）專醫五-5",
+    "tags": ["neurosurgery", "gcs", "exam"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0030",
+    "stem": "頭部外傷病人，GCS 13 分，額葉腦出血 10 c.c.，下列處置何者最不適當？",
+    "options": [
+      { "key": "A", "text": "預防性投與抗癲癇藥物" },
+      { "key": "B", "text": "血中二氧化碳濃度（PaCO2）維持在 35–40 mmHg" },
+      { "key": "C", "text": "開顱手術移除血塊，以降腦壓" },
+      { "key": "D", "text": "維持收縮壓在 100 mmHg 以上" }
+    ],
+    "answer": "C",
+    "explanation": "小量腦出血（10 c.c.）且 GCS 13（輕度頭傷範圍）多以保守治療、密切神經學追蹤與避免次發性傷害為主。\n開顱移除血塊通常保留給：出血量大/造成顯著 mass effect、中線偏移、神經惡化或腦疝風險者；此題情境不符合，故最不適當是 (C)。\n其餘選項皆屬常見保守策略：維持氧合與正常 PaCO2、避免低血壓、並視風險給予癲癇預防。",
+    "source": "第二篇 腦神外｜乙 頭部創傷｜題 1（113二）專醫五-12",
+    "tags": ["neurosurgery", "head trauma", "ich", "management"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0031",
+    "stem": "60 歲男性機車車禍：意識模糊、大量嘔吐；雙眼眶周圍瘀青（raccoon eye）且耳朵流出澄清液體。下列何種處置最不適當？",
+    "options": [
+      { "key": "A", "text": "準備置放氣管內管" },
+      { "key": "B", "text": "使用藥物（如 etomidate）輔助插管" },
+      { "key": "C", "text": "放置鼻胃管引流，減輕胃部壓力，避免持續嘔吐" },
+      { "key": "D", "text": "安排頭部電腦斷層檢查" }
+    ],
+    "answer": "C",
+    "explanation": "raccoon eye + 清澈液體耳漏高度懷疑顱底骨折/CSF 漏。\n顱底骨折時應避免經鼻置管（NG tube、nasal airway），因可能穿入顱腔造成嚴重併發症（出血、感染）。\n意識模糊合併嘔吐需評估插管保護呼吸道；etomidate 常用於 RSI 誘導；頭部 CT 用於確認顱內出血與顱底骨折線索。",
+    "source": "第二篇 腦神外｜乙 頭部創傷｜題 2（113二）專醫五-75",
+    "tags": ["neurosurgery", "basilar skull fracture", "airway", "ng tube"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0032",
+    "stem": "有關第二級腦震盪（Grade 2 concussion）的敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "頭部外傷後失去意識一段時間，即屬於第二級腦震盪" },
+      { "key": "B", "text": "受傷後 1–2 週容易再度受傷，應避免劇烈撞擊型運動" },
+      { "key": "C", "text": "這類病人容易有失憶症狀" },
+      { "key": "D", "text": "受傷後 1–2 週容易有記憶障礙或頭痛症狀" }
+    ],
+    "answer": "A",
+    "explanation": "常見分級概念：Grade 2 典型是「無意識喪失」但有較久的混亂/症狀（例如 >15 分鐘）與可能的短暫記憶障礙；一旦有意識喪失，通常被歸在更高級別（較嚴重）。\n因此把“有意識喪失”歸為 Grade 2 為錯誤敘述。",
+    "source": "第二篇 腦神外｜乙 頭部創傷｜題 3（112二）專醫五-13",
+    "tags": ["neurosurgery", "concussion", "sports medicine"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0033",
+    "stem": "頭骨骨裂病患，下列何種情形須馬上手術？",
+    "options": [
+      { "key": "A", "text": "顳骨骨折導致顏面神經麻痺" },
+      { "key": "B", "text": "前顱窩骨折導致腦脊髓液鼻漏" },
+      { "key": "C", "text": "顳骨骨折導致腦脊髓液鼻漏" },
+      { "key": "D", "text": "腦實質出血 35 mL，造成 CT 中線偏移 > 1 cm 並合併神智改變" }
+    ],
+    "answer": "D",
+    "explanation": "需要立即手術的關鍵是：顯著 mass effect、腦疝風險或神經學快速惡化。\n35 mL 腦內出血合併 >1 cm 中線偏移與意識改變＝典型神外急症，常需緊急血腫移除/減壓。\n相對地，CSF 漏多數可先保守（抬頭、避免擤鼻等），持續不癒或合併感染再手術；顏面神經麻痺也常先保守或觀察，除非證據顯示明確斷裂/嚴重壓迫且無恢復跡象。",
+    "source": "第二篇 腦神外｜乙 頭部創傷｜題 4（112一）專醫五-13",
+    "tags": ["neurosurgery", "intracerebral hemorrhage", "mass effect", "surgery"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0034",
+    "stem": "29 歲女性車禍，右側硬腦膜下出血（血塊厚度 0.2 cm、GCS 14），深夜出現持續抽搐已 3 分鐘。下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "病人雙眼可能偏向右側（forced eye deviation to right）" },
+      { "key": "B", "text": "這時考慮使用的第一線藥物是 propofol" },
+      { "key": "C", "text": "如果給與第一線藥物 1 分鐘後癲癇仍持續發作，則考慮給與第二線用藥" },
+      { "key": "D", "text": "如果癲癇持續 5 分鐘以上，則要考慮插管予以完全鎮靜" }
+    ],
+    "answer": "B",
+    "explanation": "這是急性癲癇持續狀態的處置考點。\n第一線應先用 benzodiazepine（如 lorazepam/diazepam/midazolam）快速終止發作；若持續或復發，立即加上第二線負荷（如 phenytoin/fosphenytoin、valproate、levetiracetam 等）。\npropofol 屬於麻醉/第三線策略，通常用於 refractory status epilepticus（在一、二線無效且多需插管監測下），因此作為“第一線”是錯誤敘述。",
+    "source": "第二篇 腦神外｜乙 頭部創傷｜題 5（111一）專醫五-16",
+    "tags": ["neurosurgery", "status epilepticus", "benzodiazepine", "icu"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0035",
+    "stem": "行走中跌倒後病人，腦部 CT 顯示顱內出血。下列敘述何者正確？",
+    "options": [
+      { "key": "A", "text": "右側頭部著地造成顱內出血，通常僅右側腦部會受傷" },
+      { "key": "B", "text": "硬腦膜上出血常因靜脈血管斷裂造成" },
+      { "key": "C", "text": "與老人相比，小孩較容易有硬腦膜下出血的情形" },
+      { "key": "D", "text": "若出血位於 basal ganglia 或小腦，較可能是高血壓性出血性腦中風而非車禍造成" }
+    ],
+    "answer": "D",
+    "explanation": "A 錯：可出現 contrecoup injury（對側腦挫傷）。\nB 錯：EDH 經典是中腦膜動脈（arterial）出血；SDH 常見是橋靜脈破裂。\nC 錯：SDH 在老人更常見（腦萎縮、橋靜脈張力較大、輕微外力也可出血）。\nD 對：深部基底核/小腦出血分布更典型於高血壓性 ICH；外傷出血較常見於皮質挫傷、SDH/EDH、SAH 等型態（仍需綜合機轉與影像）。",
+    "source": "第二篇 腦神外｜乙 頭部創傷｜題 6（111二）專醫五-1",
+    "tags": ["neurosurgery", "ich", "edh", "sdh", "differential"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0036",
+    "stem": "顏面外傷（facial trauma）處置，下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "要先評估是否有大出血或顱內出血" },
+      { "key": "B", "text": "生命威脅的大出血，可用大量失血（如需多單位輸血）或嚴重貧血作為警訊" },
+      { "key": "C", "text": "一旦 X 光片確認有顏面骨骨折，應立即手術復位及固定" },
+      { "key": "D", "text": "撞及眼眶可能導致全盲及視神經壓迫或眼壓升高" }
+    ],
+    "answer": "C",
+    "explanation": "顏面骨折的手術時機取決於：氣道/出血是否可控制、眼球與神經血管威脅、骨折型態與位移、軟組織腫脹程度等。\n多數顏面骨折並非“X 光一確認就立刻開刀”，常需先穩定病人與處理危及生命問題，待腫脹下降後再行復位固定；只有特定急症（如眼眶嚴重壓迫、不可控制出血、氣道阻塞等）才需要緊急介入。",
+    "source": "第二篇 腦神外｜乙 頭部創傷｜題 7（111一）專醫五-25",
+    "tags": ["trauma", "facial trauma", "surgery timing"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0037",
+    "stem": "小朋友左眼遭棒球擊中：眼眶立即腫大、結膜下出血，左眼球無法向上移動。下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "可能有眼眶下緣骨折（infra-orbital rim fracture）" },
+      { "key": "B", "text": "可能有眼眶底部骨折（orbital floor fracture）" },
+      { "key": "C", "text": "左眼球無法向上移動是因為上直肌卡在眼眶底部骨折" },
+      { "key": "D", "text": "需要接受眼眶電腦斷層檢查（orbital CT）" }
+    ],
+    "answer": "C",
+    "explanation": "棒球等鈍力撞擊常造成 blow-out fracture（多見於眼眶底或內側壁）。\n向上凝視受限典型機轉是「下直肌（inferior rectus）或周邊軟組織」被夾擠在眼眶底骨折缺口（muscle entrapment），導致上視受阻與複視。\n因此把“上直肌卡住”作為眼眶底骨折的典型原因是錯誤。",
+    "source": "第二篇 腦神外｜乙 頭部創傷｜題 8（109一）專醫五-15",
+    "tags": ["trauma", "orbital blowout fracture", "entrapment"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0038",
+    "stem": "25 歲男性車禍顏面受傷：右側鼻翼撕裂傷、流鼻血與腫痛。下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "高度懷疑鼻骨骨折，可安排 X-ray 檢查" },
+      { "key": "B", "text": "若鼻中膈血腫（septal hematoma），應保守治療等待自行吸收" },
+      { "key": "C", "text": "鼻部可分皮膚覆蓋、結構支撐及黏膜內襯，重建需依缺損層次考量" },
+      { "key": "D", "text": "鼻部重建常用 nasolabial flap 與 paramedian forehead flap 等局部皮瓣" }
+    ],
+    "answer": "B",
+    "explanation": "鼻中膈血腫是急症：血腫會阻斷鼻中膈軟骨的營養供應，若未及時引流，可能造成軟骨壞死、鞍鼻畸形，並增加感染/膿瘍風險。\n因此不應“保守等待吸收”，而是應儘速切開引流 + 適當固定與追蹤。",
+    "source": "第二篇 腦神外｜乙 頭部創傷｜題 9（109一）專醫五-16",
+    "tags": ["trauma", "ent", "septal hematoma", "emergency"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0039",
+    "stem": "下列何種情形不會造成腦壓升高？",
+    "options": [
+      { "key": "A", "text": "蜘蛛膜下腔出血" },
+      { "key": "B", "text": "降低血中二氧化碳濃度" },
+      { "key": "C", "text": "阻塞性水腦症" },
+      { "key": "D", "text": "腦實質出血 30 c.c." }
+    ],
+    "answer": "B",
+    "explanation": "ICP 受顱內容積影響（Monro-Kellie）：出血、水腦症、腦水腫皆可升高腦壓。\n降低 PaCO2（通常指過度換氣）會造成腦血管收縮、腦血容量下降，短期內可“降低”ICP，因此不會造成腦壓升高。",
+    "source": "第二篇 腦神外｜丙 顱內壓｜題 1（113一）專醫五-12",
+    "tags": ["neurosurgery", "intracranial pressure", "physiology"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0040",
+    "stem": "頭部外傷患者於 ICU 裝置腦壓監視器：血壓 150/90 mmHg、顱內壓 25 mmHg。其腦灌流壓（CPP）為多少 mmHg？",
+    "options": [
+      { "key": "A", "text": "105" },
+      { "key": "B", "text": "95" },
+      { "key": "C", "text": "90" },
+      { "key": "D", "text": "85" }
+    ],
+    "answer": "D",
+    "explanation": "CPP = MAP − ICP。\nMAP = (SBP + 2×DBP)/3 = (150 + 2×90)/3 = (150 + 180)/3 = 110 mmHg。\nCPP = 110 − 25 = 85 mmHg。",
+    "source": "第二篇 腦神外｜丙 顱內壓｜題 2（111一）專醫五-18",
+    "tags": ["neurosurgery", "cpp", "calculation"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0041",
+    "stem": "下列何種處置不建議用來降低腦壓（intracranial pressure）？",
+    "options": [
+      { "key": "A", "text": "頭抬高 30 度" },
+      { "key": "B", "text": "過度換氣使 PaCO2 降到 20 mmHg" },
+      { "key": "C", "text": "低溫（hypothermia）治療" },
+      { "key": "D", "text": "腦室引流腦脊髓液（ventricular CSF drainage）" }
+    ],
+    "answer": "B",
+    "explanation": "過度換氣可短期降 ICP，但若把 PaCO2 壓到 20 mmHg 會造成過度腦血管收縮、腦血流下降，反而增加腦缺血與次發性損傷風險。\n考點是“目標值”：需要時多以短期將 PaCO2 調到約 30–35 mmHg 作為橋接，並同時處理根本原因（血腫/水腫/CSF 阻塞）。",
+    "source": "第二篇 腦神外｜丙 顱內壓｜題 3（109一）專醫五-11",
+    "tags": ["neurosurgery", "icp", "hyperventilation"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0042",
+    "stem": "對於頭部外傷的病人，下列何種方法降低腦壓的效果最差？",
+    "options": [
+      { "key": "A", "text": "頭抬高 30 度" },
+      { "key": "B", "text": "使用 mannitol 或 glycerol 等藥物" },
+      { "key": "C", "text": "hypoventilation" },
+      { "key": "D", "text": "craniectomy" }
+    ],
+    "answer": "C",
+    "explanation": "hypoventilation 會使 PaCO2 上升 → 腦血管擴張 → 腦血容量增加 → ICP 上升，方向完全相反，因此是“最差/最不該用”的作法。\n其餘三者皆可降低 ICP：抬頭促進靜脈回流、滲透性利尿劑減少腦水分、減壓性顱骨切除降低顱內壓力負荷。",
+    "source": "第二篇 腦神外｜丙 顱內壓｜題 4（107一）專醫五-12",
+    "tags": ["neurosurgery", "icp", "ventilation"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0043",
+    "stem": "下列何種做法，無法讓嚴重頭部外傷病人的腦壓降低？",
+    "options": [
+      { "key": "A", "text": "平躺" },
+      { "key": "B", "text": "止痛" },
+      { "key": "C", "text": "使用鎮定劑" },
+      { "key": "D", "text": "腦脊髓液引流" }
+    ],
+    "answer": "A",
+    "explanation": "嚴重 TBI 降 ICP 的基本策略包含：抬頭 30–45°、止痛鎮靜減少代謝與躁動、必要時 CSF 引流。\n平躺會降低靜脈回流、增加顱內靜脈壓，通常不利於降 ICP（除非因循環不穩需短暫平躺，仍應權衡）。",
+    "source": "第二篇 腦神外｜丙 顱內壓｜題 5（104二）專醫五-11",
+    "tags": ["neurosurgery", "icp", "positioning"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0044",
+    "stem": "60 歲男性：清晨出現左側無力，隔日因意識不清就醫；急診時右側瞳孔放大無反射，CT（題目附圖）提示嚴重顱內壓升高。下列何項處置對病人並無幫助？",
+    "options": [
+      { "key": "A", "text": "給予 mannitol" },
+      { "key": "B", "text": "施打靜脈血栓溶解劑（intravenous tPA）" },
+      { "key": "C", "text": "插管並給予過度換氣（hyperventilation）" },
+      { "key": "D", "text": "施行顱骨切除術（craniectomy）" }
+    ],
+    "answer": "B",
+    "explanation": "題幹已呈現腦疝/顱內壓危象（單側散大無光反射），重點是立刻降 ICP 與解除 mass effect。\nmannitol、短期過度換氣、以及減壓性顱骨切除皆屬於降 ICP 或減壓策略。\n相反地，tPA 適用於缺血性腦中風且需嚴格排除顱內出血；若影像為出血或已高度懷疑出血/大範圍腦水腫，tPA 不但無助且可能惡化出血，因此為不適當處置。",
+    "source": "第二篇 腦神外｜丙 顱內壓｜題 6（103一）專醫五-11",
+    "tags": ["neurosurgery", "herniation", "icp crisis", "tpa"]
+  },
+
+  
+  {
+    "id": "MED_05_01_NS_Q0045",
+    "stem": "有關評估顱內動脈瘤破裂後之預後的量表，下列何者正確？",
+    "options": [
+      { "key": "A", "text": "Hunt and Hess scale 0 分代表影像上無法判斷有無動脈瘤" },
+      { "key": "B", "text": "Fisher grading 是藉由評估核磁共振影像中蜘蛛網膜下腔的出血量，預測發生腦血管痙攣的可能性" },
+      { "key": "C", "text": "World Federation of Neurological Surgeons (WFNS) Clinical Grading Scale 數字越小預後越好" },
+      { "key": "D", "text": "Glasgow Coma Scale (GCS) 的分數與預後無關" }
+    ],
+    "answer": "C",
+    "explanation": "動脈瘤破裂/SAH 的嚴重度與預後常用多種量表互補：\n- Hunt & Hess：臨床分級（約 1–5 分），依頭痛、頸僵、神經缺損、意識程度等；沒有「0 分」。(A) 錯\n- Fisher：以「CT 上 SAH 血塊量/分布」分級來推估血管痙攣風險，不是 MRI。(B) 錯\n- WFNS：以 GCS + 是否有局部神經缺損分級（約 1–5），數字越小病情越輕、預後越好。(C) 對\n- GCS 與預後高度相關。(D) 錯",
+    "source": "五(1) 外科概論、腦神外｜戊 顱內動脈瘤｜題 1（113一）專醫五-10",
+    "tags": ["neurosurgery", "aneurysm", "sah", "grading"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0046",
+    "stem": "有關附圖之電腦斷層血管攝影影像（CTA），下列敘述何者正確？（彩圖略）",
+    "options": [
+      { "key": "A", "text": "建議服用抗血小板藥物，防止血栓產生進一步造成腦血管梗塞" },
+      { "key": "B", "text": "此為顱內動脈瘤好發的位置之一" },
+      { "key": "C", "text": "此影像顯示為中大腦動脈動脈瘤" },
+      { "key": "D", "text": "影像中可以看出此動脈瘤已破裂" }
+    ],
+    "answer": "B",
+    "explanation": "CTA 顯示 Willis 環是顱內動脈瘤最常見的好發區域（ACom、PCom、MCA 分叉等）。\n(A) 錯：未破裂動脈瘤並非以抗血小板作為標準治療；若已破裂更可能增加出血風險。\n(C) 錯：僅憑題示影像（原書判讀）不支持一定是 MCA 動脈瘤。\n(D) 錯：CTA 主要用於找動脈瘤位置/型態；是否「已破裂」仍需結合臨床（雷擊樣頭痛、神經惡化）與非顯影 CT/LP 等證據判定。",
+    "source": "五(1) 外科概論、腦神外｜戊 顱內動脈瘤｜題 2（112二）專醫五-10",
+    "tags": ["neurosurgery", "cta", "aneurysm", "diagnosis"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0047",
+    "stem": "關於腦動脈瘤破裂出血後的腦血管痙攣（cerebral vasospasm），下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "好發於腦動脈瘤破裂出血後的 1–5 天" },
+      { "key": "B", "text": "Hunt and Hess clinical grading scale 越高，發生腦血管痙攣的機會越高" },
+      { "key": "C", "text": "CT 上基底腦池的出血量越多，發生腦血管痙攣的機會越高" },
+      { "key": "D", "text": "可以用 hemodynamic augmentation 的方式治療腦血管痙攣" }
+    ],
+    "answer": "A",
+    "explanation": "動脈瘤破裂後的血管痙攣/延遲性缺血（DIND）典型發生在 SAH 後第 4–10 天，常在第 7 天達到高峰，可持續 2–3 週。\n因此 (A)「1–5 天」不正確。\n(B)(C) 反映臨床與影像分級越嚴重、血塊越多，痙攣風險越高。\n(D) 傳統上可用 hemodynamic augmentation（Triple-H 概念）來改善缺血灌流（臨床上需依病況與出血風險調整）。",
+    "source": "五(1) 外科概論、腦神外｜戊 顱內動脈瘤｜題 3（111一）專醫五-15",
+    "tags": ["neurosurgery", "sah", "vasospasm", "dind"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0048",
+    "stem": "下列哪種疾病常屬於後天發生的？",
+    "options": [
+      { "key": "A", "text": "動靜脈畸形（arteriovenous malformation, AVM）" },
+      { "key": "B", "text": "毛細血管擴張（capillary telangiectasia）" },
+      { "key": "C", "text": "腦部漿果動脈瘤（cerebral berry aneurysm）" },
+      { "key": "D", "text": "腦部靜脈異常（venous anomaly）" }
+    ],
+    "answer": "C",
+    "explanation": "AVM、毛細血管擴張、靜脈異常多屬先天性血管發育異常。\n漿果（囊狀）動脈瘤雖可能有先天血管壁結構弱點，但其形成與增大常和後天因素（血流動力學、動脈硬化、高血壓等）相關，臨床考題多歸類為相對「後天形成/進展」的病灶，因此選 (C)。",
+    "source": "五(1) 外科概論、腦神外｜戊 顱內動脈瘤｜題 4（111一）專醫五-19",
+    "tags": ["neurosurgery", "cerebrovascular", "aneurysm", "avm"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0049",
+    "stem": "傳統預防腦動脈瘤破裂出血後的腦血管痙攣（cerebral vasospasm）有所謂的 Triple-H therapy，下列何者不包含於 Triple-H？",
+    "options": [
+      { "key": "A", "text": "hypervolemia" },
+      { "key": "B", "text": "hypertension" },
+      { "key": "C", "text": "hemodilution" },
+      { "key": "D", "text": "hyperventilation" }
+    ],
+    "answer": "D",
+    "explanation": "Triple-H 指的是 hypertension、hypervolemia、hemodilution，用於改善痙攣相關的腦灌流。\nhyperventilation 不在其中，且過度換氣可能降低腦血流、增加缺血風險。",
+    "source": "五(1) 外科概論、腦神外｜戊 顱內動脈瘤｜題 5（108一）專醫五-10",
+    "tags": ["neurosurgery", "vasospasm", "triple-h"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0050",
+    "stem": "糖尿病中年婦女突然頭部劇痛、左眼瞼下垂、複視、瞳孔放大至急診，神智清楚，腦部電腦斷層如附圖（略）。下列處置何者最恰當？",
+    "options": [
+      { "key": "A", "text": "住院，馬上安排腦部血管攝影" },
+      { "key": "B", "text": "抽血密切注意血糖的變化" },
+      { "key": "C", "text": "住院，檢驗是否有重症肌無力（myasthenia gravis）" },
+      { "key": "D", "text": "安排腦部核磁共振，再決定是否要住院" }
+    ],
+    "answer": "A",
+    "explanation": "雷擊樣頭痛 + 第三對腦神經麻痺表現（ptosis、複視、瞳孔散大）高度懷疑顱內動脈瘤（常見 PCom）且可能已造成 SAH。\n此時優先是住院並以血管影像確認出血來源與動脈瘤型態（DSA/CTA/MRA 依資源與急迫性），以便盡快進行夾閉或栓塞等處置來防再出血。\n單純追血糖或先朝 MG 檢驗會延誤致命診斷；MRI 也不應作為是否住院的前提。",
+    "source": "五(1) 外科概論、腦神外｜戊 顱內動脈瘤｜題 6（107二）專醫五-54",
+    "tags": ["neurosurgery", "aneurysm", "cn3 palsy", "sah", "workup"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0051",
+    "stem": "承上題，下列何者最可能的診斷？",
+    "options": [
+      { "key": "A", "text": "重症肌無力" },
+      { "key": "B", "text": "糖尿病神經病變" },
+      { "key": "C", "text": "後交通動脈瘤破裂" },
+      { "key": "D", "text": "前交通動脈瘤破裂" }
+    ],
+    "answer": "C",
+    "explanation": "第三對腦神經（動眼神經）麻痺合併瞳孔散大最典型的壓迫性病因是後交通動脈（PCom）動脈瘤，且合併劇烈頭痛需高度懷疑已破裂造成 SAH。\n前交通動脈瘤較常以 SAH 表現，但不典型造成 CN III 壓迫症狀。",
+    "source": "五(1) 外科概論、腦神外｜戊 顱內動脈瘤｜題 7（107二）專醫五-55",
+    "tags": ["neurosurgery", "pcom aneurysm", "cn3 palsy", "sah"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0052",
+    "stem": "34 歲男性車禍外傷，劇烈頭痛、意識混亂，CT 影像圖 A 可見左臉頰腫脹。根據圖 B 箭頭所指的是何者？（圖略）",
+    "options": [
+      { "key": "A", "text": "contusion parenchymal hemorrhage" },
+      { "key": "B", "text": "traumatic subarachnoid hemorrhage (SAH)" },
+      { "key": "C", "text": "thin layer acute subdural hematoma (SDH)" },
+      { "key": "D", "text": "traumatic pneumoencephalus" }
+    ],
+    "answer": "B",
+    "explanation": "外傷性 SAH 常在 CT 上呈現沿腦溝/腦池分布的高密度出血，與腦挫傷（實質內）、硬腦膜下血腫（新月狀沿硬腦膜內側）及氣顱（低密度氣體）影像型態不同。",
+    "source": "五(1) 外科概論、腦神外｜戊 顱內動脈瘤｜題 8（107二）專醫五-74",
+    "tags": ["neurosurgery", "trauma", "ct", "sah", "sdh"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0053",
+    "stem": "根據 Hunt and Hess SAH classification，一個蜘蛛膜下腔出血（SAH）病人臨床上只有輕微頭痛及輕微頸部僵硬，且無其他局部神經學缺損，其 grade 應為何者？",
+    "options": [
+      { "key": "A", "text": "1" },
+      { "key": "B", "text": "2" },
+      { "key": "C", "text": "3" },
+      { "key": "D", "text": "4" }
+    ],
+    "answer": "A",
+    "explanation": "Hunt & Hess Grade 1：無症狀或僅輕微頭痛/輕微頸僵，沒有局部神經缺損。\nGrade 2 通常包含較明顯頭痛/頸僵，或腦神經麻痺等。",
+    "source": "五(1) 外科概論、腦神外｜戊 顱內動脈瘤｜題 9（105二）專醫五-15",
+    "tags": ["neurosurgery", "sah", "hunt-hess", "grading"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0054",
+    "stem": "最常造成自發性蜘蛛網膜下腔出血（spontaneous SAH）的原因是：",
+    "options": [
+      { "key": "A", "text": "高血壓" },
+      { "key": "B", "text": "腫瘤出血" },
+      { "key": "C", "text": "顱內動脈瘤破裂" },
+      { "key": "D", "text": "顱內動靜脈畸形破裂" }
+    ],
+    "answer": "C",
+    "explanation": "自發性 SAH 最常見病因是顱內動脈瘤破裂（約占多數），其次才是 AVM、血管炎/剝離等其他原因。\n高血壓更典型造成深部腦內出血（ICH，如基底核、視丘、橋腦、小腦）。",
+    "source": "五(1) 外科概論、腦神外｜戊 顱內動脈瘤｜題 10（105一）專醫五-11",
+    "tags": ["neurosurgery", "sah", "aneurysm", "etiology"]
+  },
+
+
+  {
+    "id": "MED_05_01_NS_Q0055",
+    "stem": "除了再出血外，動脈瘤破裂的病人最常出現嚴重後遺症及死亡的原因為：",
+    "options": [
+      { "key": "A", "text": "水腦（hydrocephalus）" },
+      { "key": "B", "text": "癲癇（seizure）" },
+      { "key": "C", "text": "血管攣縮（vasospasm）" },
+      { "key": "D", "text": "頭痛（headache）" }
+    ],
+    "answer": "C",
+    "explanation": "動脈瘤性 SAH 的關鍵致死/致殘因素除再出血外，最典型且最常造成嚴重後遺症的是延遲性腦缺血（DCI），其核心機轉與腦血管攣縮密切相關（通常在 SAH 後第 4–10 天、約第 7 天高峰）。水腦也常見，但在「最常造成嚴重後遺症與死亡」的考點上，vasospasm/DCI 更具代表性。",
+    "source": "丁 蜘蛛膜下腔出血｜題 11（103二）專醫五-11",
+    "tags": ["neurosurgery", "sah", "vasospasm", "dci"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0056",
+    "stem": "57 歲男性突發劇烈頭痛合併頸部僵硬，腦部電腦斷層檢查如附圖。最可能的診斷為何？",
+    "options": [
+      { "key": "A", "text": "硬腦膜上出血（epidural hematoma）" },
+      { "key": "B", "text": "蜘蛛膜下腔出血（subarachnoid hemorrhage）" },
+      { "key": "C", "text": "硬腦膜下出血（subdural hemorrhage）" },
+      { "key": "D", "text": "缺血性腦中風（ischemic stroke）" }
+    ],
+    "answer": "B",
+    "explanation": "雷擊樣頭痛 + 頸部僵硬高度指向 SAH。非顯影 CT 典型表現為高密度沿腦池/腦溝/腦裂或腦室分布；與 EDH（雙凸透鏡狀）、SDH（新月狀貼附硬腦膜）及缺血性中風（早期多為低密度或細微變化）不同。",
+    "source": "丁 蜘蛛膜下腔出血｜題 12（103一）專醫五-14",
+    "tags": ["neurosurgery", "sah", "ct", "differential"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0057",
+    "stem": "承上題：經初步治療，待狀況穩定後，應進一步安排下列何項檢查以確定病灶位置？",
+    "options": [
+      { "key": "A", "text": "神經傳導速率檢查（nerve conduction velocity testing）" },
+      { "key": "B", "text": "腰椎穿刺（lumbar puncture）" },
+      { "key": "C", "text": "腦部電腦斷層血管攝影（computed tomography angiography, CTA）" },
+      { "key": "D", "text": "腦電圖（EEG）" }
+    ],
+    "answer": "C",
+    "explanation": "若非顯影 CT 已顯示 SAH，下一步重點是「找出出血來源（多為動脈瘤）」，需做血管影像（CTA 或 DSA）。LP 主要用於「CT 陰性但臨床仍高度懷疑 SAH」時的確診輔助；EEG/神經傳導檢查不適用於定位出血血管病灶。",
+    "source": "丁 蜘蛛膜下腔出血｜題 13（103一）專醫五-15",
+    "tags": ["neurosurgery", "sah", "cta", "workup"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0058",
+    "stem": "有關出血性腦中風（ICH）後之照護，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "血糖控制小於 180 mg/dL" },
+      { "key": "B", "text": "血壓控制，收縮壓小於 140–160 mmHg" },
+      { "key": "C", "text": "注意壓瘡" },
+      { "key": "D", "text": "一定要投與預防癲癇用藥" }
+    ],
+    "answer": "D",
+    "explanation": "ICH 照護核心為：避免過高血糖（但也避免低血糖）、適度降壓避免血腫擴大、臥床照護與併發症預防。抗癲癇藥物並非所有 ICH 都要例行預防性使用；通常在有實際癲癇發作、或出血涉及皮質等高風險情境才考慮，否則可能增加嗜睡/認知下降等副作用。",
+    "source": "己 腦內出血｜題 1（112二）專醫五-9",
+    "tags": ["neurosurgery", "ich", "post-stroke care", "seizure"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0059",
+    "stem": "68 歲男性清晨被發現叫不醒、口邊有嘔吐物，GCS E1V1M4，血壓 196/103 mmHg，CT 如附圖。下列敘述何者正確？",
+    "options": [
+      { "key": "A", "text": "病人來到急診時會以半側肢體無力表現" },
+      { "key": "B", "text": "為維持腦部血管灌流充足，不可以降血壓" },
+      { "key": "C", "text": "應為外傷造成的出血，應懷疑家人是否有謊報病史" },
+      { "key": "D", "text": "病人的高血壓、冠狀動脈心臟病病史與這次的出血有相關性" }
+    ],
+    "answer": "D",
+    "explanation": "題幹與解題重點指向小腦出血：常見表現是噁心、嘔吐、眩暈、步態不穩/運動失調，嚴重可因腦幹壓迫或急性阻塞性水腦而昏迷。\n高血壓是自發性 ICH（包含小腦出血）的最重要危險因子；適度降壓可降低血腫擴大風險（但避免過度快速降壓造成灌流不足）。因此正確為 (D)。",
+    "source": "己 腦內出血｜題 2（112一）專醫五-9",
+    "tags": ["neurosurgery", "ich", "cerebellar hemorrhage", "hypertension"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0060",
+    "stem": "承上題：有關這位病人的治療處置，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "可能合併阻塞性水腦症，需做腦室外引流" },
+      { "key": "B", "text": "僅需保守治療給與類固醇降低腦腫脹即可，不需要手術移除血塊" },
+      { "key": "C", "text": "若出血惡化擴大，可能壓迫腦幹造成猝死" },
+      { "key": "D", "text": "此為常見自發性出血區域之一" }
+    ],
+    "answer": "B",
+    "explanation": "小腦出血若量大、壓迫第四腦室/腦幹或造成阻塞性水腦，常需緊急處置（EVD、血腫移除/後顱窩減壓等）。單靠類固醇並非 ICH 的主要治療，且對改善腦壓/預後效益有限；延誤減壓會增加腦幹壓迫與猝死風險，因此 (B) 錯。",
+    "source": "己 腦內出血｜題 3（112一）專醫五-10",
+    "tags": ["neurosurgery", "ich", "cerebellar hemorrhage", "evd"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0061",
+    "stem": "70 歲男性晚飯後劇烈頭痛、頭暈、噁心嘔吐，CT 如附圖。下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "須立即進行手術移除顱內血塊，否則會有生命危險" },
+      { "key": "B", "text": "可能是動靜脈畸形出血" },
+      { "key": "C", "text": "可能是類澱粉血管病變（amyloid angiopathy）出血" },
+      { "key": "D", "text": "可能是一個轉移性腫瘤出血" }
+    ],
+    "answer": "A",
+    "explanation": "題意為 lobar ICH：位置相對遠離腦幹生命中樞，若無顯著 mass effect/中線偏移或神經惡化，並非一律需要「立即」開刀。\n此外，lobar ICH 屬非典型高血壓出血部位，鑑別診斷常包含血管病灶（AVM 等）、類澱粉血管病變、腫瘤出血等，因此 B/C/D 皆合理。",
+    "source": "己 腦內出血｜題 4（111二）專醫五-10",
+    "tags": ["neurosurgery", "ich", "lobar hemorrhage", "differential"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0062",
+    "stem": "高血壓性腦內出血（hypertensive ICH），最好發的位置在：",
+    "options": [
+      { "key": "A", "text": "豆狀核（putamen）" },
+      { "key": "B", "text": "小腦（cerebellum）" },
+      { "key": "C", "text": "橋腦（pons）" },
+      { "key": "D", "text": "視丘（thalamus）" }
+    ],
+    "answer": "A",
+    "explanation": "高血壓性 ICH 最常見部位為深部穿通動脈供應區：putamen（最常見，約占最大宗）> thalamus，其次可見於 pons、cerebellum。此題考「最常」因此選 putamen。",
+    "source": "己 腦內出血｜題 5（105一）專醫五-13",
+    "tags": ["neurosurgery", "ich", "hypertension", "anatomy"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0063",
+    "stem": "有關腦部海綿狀血管畸形（cerebral cavernous malformations），下列何者正確？",
+    "options": [
+      { "key": "A", "text": "診斷以血管攝影為主" },
+      { "key": "B", "text": "以 Spetzler-Martin grading system 評估海綿狀血管畸形，分數越低越容易處理" },
+      { "key": "C", "text": "一旦出血破裂常是致命的" },
+      { "key": "D", "text": "可能產生的症狀包含癲癇" }
+    ],
+    "answer": "D",
+    "explanation": "海綿狀血管畸形多為低流速病灶，血管攝影常呈陰性；診斷以 MRI（特別是 T2*/SWI）最具敏感度。\nSpetzler-Martin 是 AVM 的分級系統，非用於 cavernous malformation。\n其出血多為低壓靜脈性出血，致命性通常不如動脈瘤/AVM 破裂。\n臨床表現可包含癲癇（尤其皮質/顳葉病灶）、局部神經缺損、頭痛等，因此 (D) 正確。",
+    "source": "庚 血管畸形｜題 1（113二）專醫五-10",
+    "tags": ["neurosurgery", "cavernous malformation", "mri", "seizure"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0064",
+    "stem": "車禍後一個星期，病人發現右眼突出、泛紅、眼睛疼痛、視力減弱，抽血確定無感染。下列敘述何者正確？",
+    "options": [
+      { "key": "A", "text": "總頸動脈分支處受傷，血栓向遠端移行導致" },
+      { "key": "B", "text": "常因頸椎過度旋轉導致" },
+      { "key": "C", "text": "通常是產生低流速（low flow）的動靜脈瘻管所致" },
+      { "key": "D", "text": "往往不用開刀，而藉由血管介入治療" }
+    ],
+    "answer": "D",
+    "explanation": "典型為外傷性頸動脈—海綿竇瘻（carotid-cavernous fistula）：chemosis、pulsatile proptosis、orbital bruit、眼痛與視力下降。\n外傷性多屬 high-flow fistula；治療多以血管介入（如球囊/線圈/支架栓塞）為主，通常不需傳統開刀，因此 (D) 正確。",
+    "source": "庚 血管畸形｜題 2（111二）專醫五-13",
+    "tags": ["neurosurgery", "carotid-cavernous fistula", "endovascular"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0065",
+    "stem": "下列有關顱內動靜脈畸形（arteriovenous malformation, AVM）的敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "AVM 的組成包括灌流的動脈、引流的靜脈、交通動靜脈的微血管" },
+      { "key": "B", "text": "AVM 常出現的症狀包括出血、癲癇及局部缺血" },
+      { "key": "C", "text": "雖然 CT 及 MRI 可以診斷，但最好的診斷工具為顱內四條血管的血管攝影（four-vessel cerebral angiography）" },
+      { "key": "D", "text": "AVM 24 小時內再出血的機率比動脈瘤低" }
+    ],
+    "answer": "A",
+    "explanation": "AVM 的本質是「動脈直接連到靜脈」，中間缺乏正常的毛細血管床（capillary bed），形成 nidus。\n因此把“交通動靜脈的微血管”納入 AVM 組成是不正確的。\n其餘選項：出血/癲癇/局部缺血（steal phenomenon）皆為常見表現；DSA（四血管攝影）仍是解剖與治療規劃的黃金標準；動脈瘤破裂的早期再出血風險通常高於 AVM。",
+    "source": "庚 血管畸形｜題 3（107一）專醫五-10",
+    "tags": ["neurosurgery", "avm", "ds a", "pathophysiology"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0066",
+    "stem": "20 歲林同學上課中突然意識昏迷送急診，CT 與血管攝影如附圖。林同學可能診斷為何？",
+    "options": [
+      { "key": "A", "text": "高血壓腦出血（hypertensive intracranial hemorrhage）" },
+      { "key": "B", "text": "蜘蛛膜下腔出血（subarachnoid hemorrhage）" },
+      { "key": "C", "text": "動靜脈畸形破裂出血（AVM rupture）" },
+      { "key": "D", "text": "類澱粉血管病變（amyloid angiopathy）" }
+    ],
+    "answer": "C",
+    "explanation": "年輕人自發性 ICH 需優先考慮血管病灶。題示血管攝影可見血管團塊、動靜脈直接交通的典型影像，最符合 AVM 破裂出血。",
+    "source": "庚 血管畸形｜題 4（106二）專醫五-46",
+    "tags": ["neurosurgery", "avm", "ich", "young patient"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0067",
+    "stem": "承上題：下列何項評估最能預測林同學的預後？",
+    "options": [
+      { "key": "A", "text": "Spetzler-Martin grading system" },
+      { "key": "B", "text": "Hunt-Hess scale" },
+      { "key": "C", "text": "Fisher scale" },
+      { "key": "D", "text": "World Federation of Neurosurgical Societies (WFNS) classification" }
+    ],
+    "answer": "A",
+    "explanation": "Spetzler-Martin 分級用於 AVM（依大小、是否在 eloquent area、深部靜脈引流）以預測手術風險與術後預後。\nHunt-Hess、Fisher、WFNS 主要用於 aneurysmal SAH 的臨床/影像嚴重度與預後評估。",
+    "source": "庚 血管畸形｜題 5（106二）專醫五-47",
+    "tags": ["neurosurgery", "avm", "spetzler-martin", "grading"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0068",
+    "stem": "承上題：若林同學病灶大小為 4 cm，下列何項處置最為適當？",
+    "options": [
+      { "key": "A", "text": "立體定位放射手術（stereotactic radiosurgery）" },
+      { "key": "B", "text": "放射線治療（radiotherapy）" },
+      { "key": "C", "text": "僅以血管栓塞治療（endovascular embolization）即可" },
+      { "key": "D", "text": "手術完全切除" }
+    ],
+    "answer": "D",
+    "explanation": "AVM 治療需依大小/位置/分級整體規劃：\n- 立體定位放射手術常較適合較小病灶（典型考點：<3 cm）。\n- 栓塞多作為輔助（術前縮小 nidus、降低出血風險），通常難以單獨達到完全治癒。\n- 4 cm 病灶在典型國考取向下，較偏向以手術切除作為主要治療選項（若可切除/風險可接受）。",
+    "source": "庚 血管畸形｜題 6（106二）專醫五-48",
+    "tags": ["neurosurgery", "avm", "treatment", "radiosurgery", "embolization"]
+  },
+
+
+  
+  {
+    "id": "MED_05_01_NS_Q0069",
+    "stem": "關於顱內動靜脈畸形（AVM）的治療，下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "手術切除適合低分級（Spetzler-Martin grade I–II）且可安全到達之病灶" },
+      { "key": "B", "text": "血管內栓塞常作為輔助治療，以降低手術或放射手術風險" },
+      { "key": "C", "text": "立體定位放射手術需等血管立即閉塞後才算成功，通常於術後 24–48 小時即可完成" },
+      { "key": "D", "text": "治療策略需依病灶大小、位置（eloquent area）、深部引流與出血史綜合評估" }
+    ],
+    "answer": "C",
+    "explanation": "立體定位放射手術（SRS）對 AVM 的閉塞是「延遲性」：常需 2–3 年（甚至更久）才逐漸引起血管內膜增生與閉塞，期間仍有出血風險。因此 (C) 描述成 24–48 小時內立即閉塞是錯誤。\nA/B/D 皆為正確原則：低分級較適合切除；栓塞多為輔助；治療需個別化。",
+    "source": "庚 血管畸形｜題 7（推估續章原題序）",
+    "tags": ["neurosurgery", "avm", "treatment", "radiosurgery"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0070",
+    "stem": "顱內 AVM 以 Spetzler–Martin grading system 分級時，下列因子何者不包含在分級項目中？",
+    "options": [
+      { "key": "A", "text": "病灶大小（size）" },
+      { "key": "B", "text": "是否位於功能重要區域（eloquent cortex）" },
+      { "key": "C", "text": "是否有深部靜脈引流（deep venous drainage）" },
+      { "key": "D", "text": "是否曾經出血（history of hemorrhage）" }
+    ],
+    "answer": "D",
+    "explanation": "Spetzler–Martin 分級只看三項：size、eloquence、deep venous drainage。\n出血史是臨床決策的重要因子，但不列入 S–M 分級本身，因此選 (D)。",
+    "source": "庚 血管畸形｜題 8（推估續章原題序）",
+    "tags": ["neurosurgery", "avm", "spetzler-martin"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0071",
+    "stem": "對於疑似顱內動靜脈畸形（AVM）的影像檢查，下列何者最能提供血流動力學與餵養動脈/引流靜脈的細節以利治療規劃？",
+    "options": [
+      { "key": "A", "text": "非顯影腦部電腦斷層（non-contrast CT）" },
+      { "key": "B", "text": "腦部核磁共振（MRI）" },
+      { "key": "C", "text": "電腦斷層血管攝影（CTA）" },
+      { "key": "D", "text": "數位減影血管攝影（DSA）" }
+    ],
+    "answer": "D",
+    "explanation": "DSA 仍是 AVM 診斷與治療規劃的黃金標準：能動態顯示 feeding arteries、nidus、early venous drainage、合併動脈瘤與血流動力學。\nCT/MRI/CTA 可提供定位與出血/結構資訊，但對血流相位與血管細節通常不如 DSA 完整。",
+    "source": "庚 血管畸形｜題 9（推估續章原題序）",
+    "tags": ["neurosurgery", "avm", "ds a", "imaging"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0072",
+    "stem": "外傷後出現眼球突出、結膜水腫（chemosis）、眼壓升高與聽到眼眶雜音（orbital bruit），最可能的診斷為何？",
+    "options": [
+      { "key": "A", "text": "眼眶蜂窩組織炎（orbital cellulitis）" },
+      { "key": "B", "text": "頸動脈—海綿竇瘻（carotid-cavernous fistula）" },
+      { "key": "C", "text": "視神經炎（optic neuritis）" },
+      { "key": "D", "text": "眼眶底骨折（orbital floor fracture）" }
+    ],
+    "answer": "B",
+    "explanation": "pulsatile proptosis + chemosis + orbital bruit 在外傷情境高度典型為 carotid-cavernous fistula。\norbital cellulitis 以感染徵象（發燒、WBC 上升、疼痛明顯）為主；視神經炎以視力下降與疼痛性眼球轉動為主；眼眶底骨折則以複視與上視受限（下直肌夾擠）為主，通常不會有雜音與搏動性突出。",
+    "source": "庚 血管畸形｜題 10（推估續章原題序）",
+    "tags": ["neurosurgery", "carotid-cavernous fistula", "trauma", "diagnosis"]
+  },
+
+
+  {
+    "id": "MED_05_01_NS_Q0073",
+    "stem": "下列關於 L5 root 的敘述，何者正確？",
+    "options": [
+      { "key": "A", "text": "沿著 L4 椎莖（pedicle）下方，L4-5 椎間盤之前出神經孔" },
+      { "key": "B", "text": "感覺分布於大腿後外側到小腿、足踝" },
+      { "key": "C", "text": "主管 tibialis anterior 力量，若有病變會有 drop foot 情況" },
+      { "key": "D", "text": "若有病變，knee jerk reflex 會減少" }
+    ],
+    "answer": "C",
+    "explanation": "L5 神經根典型運動：足背屈（tibialis anterior）與大拇趾伸展（EHL），受損常見垂足。皮節以小腿外側、足背/足內側較典型；大腿後外側與足踝的描述較偏 S1。膝反射主要是 L3–4（股四頭肌）而非 L5；L5 相關反射較常提 medial hamstring 反射而非 knee jerk。A 的走行描述也不符合：L5 神經根由 L5/S1 神經孔離開，常被 L4-5 椎間盤的「下行根」壓迫。",
+    "source": "辛 脊椎疾病｜題 1（113二）專醫五-11",
+    "tags": ["neurosurgery", "spine", "radiculopathy", "dermatome", "myotome"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0074",
+    "stem": "有關頸椎損傷（cervical spine injury），下列敘述何者最適當？",
+    "options": [
+      { "key": "A", "text": "上頸椎損傷較下頸椎損傷容易合併脊髓損傷" },
+      { "key": "B", "text": "最常見的原因是車禍，緊急治療原則先評估 A（airway）、B（breathing）、C（circulation）" },
+      { "key": "C", "text": "中央脊髓症候群好發於年輕人因嚴重過度屈曲（hyperflexion），且預後不理想" },
+      { "key": "D", "text": "後柱脊髓症候群是最常見的不完全脊髓損傷，通常發生於伸張傷（extension type injury）" }
+    ],
+    "answer": "B",
+    "explanation": "急救處置以 trauma ABC 為優先，並同時維持頸椎固定避免二次傷害；車禍是常見機轉。臨床上不完全脊髓損傷最常見的是 central cord syndrome，且典型好發於老年頸椎退化合併過伸（hyperextension），相對下肢恢復通常優於上肢。上頸椎（C1–C2）因椎管較寬等解剖因素，合併脊髓損傷比例不一定高於下頸椎（C5–C7）。posterior cord syndrome 反而少見。",
+    "source": "辛 脊椎疾病｜題 2（113二）專醫五-57",
+    "tags": ["neurosurgery", "spine", "trauma", "central cord syndrome", "initial management"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0075",
+    "stem": "有關先天性脊椎側彎（congenital scoliosis），下列敘述何者最不適當？",
+    "options": [
+      { "key": "A", "text": "發生原因主要是脊椎的形成失敗（failure of formation）或分節失敗（failure of segmentation）所造成" },
+      { "key": "B", "text": "因為脊椎可屈性較大，故以背架治療可以得到良好的效果" },
+      { "key": "C", "text": "病人有可能合併先天性心臟、腎臟及顱內缺陷" },
+      { "key": "D", "text": "小於 10 歲的病人只做後側骨融合時，可能造成曲軸現象（crankshaft phenomenon）" }
+    ],
+    "answer": "B",
+    "explanation": "先天性側彎的核心是椎體先天結構異常（如 hemivertebra、融合椎等），屬結構性變形，通常不像青少年特發性側彎那樣「可塑性高」，因此背架矯正效果有限。先天性側彎常需評估合併畸形（心、腎、神經系統）。幼兒若僅做後融合，前柱仍生長可能出現 crankshaft 現象，造成旋轉/側彎惡化。",
+    "source": "辛 脊椎疾病｜題 3（113二）專醫五-62",
+    "tags": ["neurosurgery", "spine", "scoliosis", "congenital", "crankshaft"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0076",
+    "stem": "某病患有頸椎狹窄病史，車禍後意識正常；肩膀以下感覺異常，雙臂刺痛，上肢肌力 1–2 分、下肢肌力 3–4 分。依 ASIA 分類，其 ASIA impairment scale 與臨床症狀最符合下列何者？",
+    "options": [
+      { "key": "A", "text": "B 級，central cord syndrome" },
+      { "key": "B", "text": "C 級，anterior cord syndrome" },
+      { "key": "C", "text": "D 級，central cord syndrome" },
+      { "key": "D", "text": "E 級，anterior cord syndrome" }
+    ],
+    "answer": "C",
+    "explanation": "central cord syndrome 典型為上肢運動/感覺受損較下肢嚴重（常見於頸椎狹窄合併過伸性傷害）。ASIA D：屬不完全損傷且多數關鍵肌群肌力 ≥3 分；題幹下肢 3–4 分符合 D 級。ASIA B 是只有感覺、無運動；E 則為完全正常，皆不符。",
+    "source": "辛 脊椎疾病｜題 4（113一）專醫五-11",
+    "tags": ["neurosurgery", "spine", "as ia", "central cord syndrome"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0077",
+    "stem": "50 歲男性下背痛與雙側下肢酸麻；X 光顯示 L5 椎弓斷裂，L5/S1 Meyerding grade I 向前滑脫（L5 on S1 spondylolisthesis）。最可能受壓迫的神經根為？",
+    "options": [
+      { "key": "A", "text": "L3 神經根" },
+      { "key": "B", "text": "L4 神經根" },
+      { "key": "C", "text": "L5 神經根" },
+      { "key": "D", "text": "S1 神經根" }
+    ],
+    "answer": "C",
+    "explanation": "L5/S1 滑脫最常影響的是下行中的 L5 神經根（經 L5/S1 神經孔離開），可表現為足背屈或大拇趾伸展無力、足背/小腿外側感覺異常等。雖然 S1 也可能受影響（尤其中央型狹窄或特定解剖），但典型考點是 L5 root compression。",
+    "source": "辛 脊椎疾病｜題 5（113一）專醫五-62",
+    "tags": ["neurosurgery", "spine", "spondylolisthesis", "radiculopathy"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0078",
+    "stem": "有關兒童頸椎融合症候群（Klippel-Feil syndrome）的敘述，下列何者最適當？",
+    "options": [
+      { "key": "A", "text": "受孕後第 3–8 週頸椎分節失敗（failure of segmentation）所造成" },
+      { "key": "B", "text": "很少合併泌尿、神經、心肺系統與聽力等障礙" },
+      { "key": "C", "text": "常見頭髮後緣線高（high posterior hairline）" },
+      { "key": "D", "text": "常見頸部較長與頭頸活動度受限" }
+    ],
+    "answer": "A",
+    "explanation": "KFS 是胚胎期頸椎分節失敗導致先天頸椎融合，常見 classic triad：短頸、低後髮際線、頸部活動受限。合併異常並不少見（腎臟、心血管、聽力、神經系統等）。因此 B/C/D 的敘述方向都不正確或相反。",
+    "source": "辛 脊椎疾病｜題 6（113一）專醫五-63",
+    "tags": ["neurosurgery", "spine", "klippel-feil", "congenital"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0079",
+    "stem": "下列關於急性腰椎椎間盤突出疾病的敘述，何者最不適當？",
+    "options": [
+      { "key": "A", "text": "大部分腰椎椎間盤突出發生在 L4-5 與 L5-S1，少部分在 L3-4" },
+      { "key": "B", "text": "主要病因為長期腰椎損傷，如前傾彎腰與負重等" },
+      { "key": "C", "text": "主要症狀為下背痛合併急性下肢神經病變，以下肢神經根放射痛為主" },
+      { "key": "D", "text": "若數日後疼痛緩解、下肢麻木感取代部分疼痛，表示神經根病變有緩解" }
+    ],
+    "answer": "D",
+    "explanation": "疼痛緩解不等於神經根壓迫解除；若麻木/感覺遲鈍持續甚至加重，反而可能代表神經仍受壓迫或已出現較持久的神經損傷。臨床上也要警覺進展性無力、會陰麻木、大小便功能異常（cauda equina red flags）。A/B/C 皆屬合理描述。",
+    "source": "辛 脊椎疾病｜題 7（112二）專醫五-11",
+    "tags": ["neurosurgery", "spine", "hivd", "red flags"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0080",
+    "stem": "Denis three-column model 用於胸腰椎骨折嚴重度分類。下列關於 middle column 的組成，何者正確？",
+    "options": [
+      { "key": "A", "text": "椎體全部，後縱走韌帶" },
+      { "key": "B", "text": "椎體後半部，後縱走韌帶" },
+      { "key": "C", "text": "椎體後半部，後縱走韌帶，椎莖" },
+      { "key": "D", "text": "後縱走韌帶，椎莖，椎關節" }
+    ],
+    "answer": "B",
+    "explanation": "Denis：前柱＝椎體前半（前 2/3）+ 前縱走韌帶；中柱＝椎體後 1/3（後半部概念）+ 後縱走韌帶（並含椎間盤後半）；後柱＝椎弓、椎莖、棘突、椎間關節、黃韌帶等。middle column 受損常被用來判斷不穩定性，因此本題選「椎體後半部 + 後縱走韌帶」。",
+    "source": "辛 脊椎疾病｜題 8（112二）專醫五-12",
+    "tags": ["neurosurgery", "spine", "trauma", "denis"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0081",
+    "stem": "關於脊椎狹窄（spinal stenosis），下列敘述何者最不適當？",
+    "options": [
+      { "key": "A", "text": "先天性的椎管狹窄是最常見的類型" },
+      { "key": "B", "text": "狹窄可發生在中央管、側隱窩或神經孔；通常不會發生在椎根（pedicle）位置" },
+      { "key": "C", "text": "脊椎狹窄最常見於 L4–5 節段" },
+      { "key": "D", "text": "若有進行性神經缺失，手術減壓通常可改善症狀" }
+    ],
+    "answer": "A",
+    "explanation": "最常見的脊椎狹窄是退化性（椎間盤退化/膨出、椎間關節增生、黃韌帶肥厚等）而非先天性。其餘敘述皆符合常見臨床概念：狹窄多發生在神經通過的區域（central/lateral recess/foramen），退化負荷最大的 L4–5 常見，若出現進行性神經缺失或嚴重症狀，減壓手術通常有效。",
+    "source": "辛 脊椎疾病｜題 9（112二）專醫五-62",
+    "tags": ["neurosurgery", "spine", "stenosis", "degenerative"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0082",
+    "stem": "關於腰椎退化性病變造成神經管狹窄甚至椎體滑脫的敘述，下列何者最適當？",
+    "options": [
+      { "key": "A", "text": "典型症狀為長期嚴重下背痛，無法走遠、騎腳踏車和久坐" },
+      { "key": "B", "text": "症狀會隨站立與腰椎伸展（extension）而緩解" },
+      { "key": "C", "text": "若為 L5 pars interarticularis 退化性斷裂，可能造成 L4–5 滑脫併椎管狹窄" },
+      { "key": "D", "text": "可先保守治療；若症狀未改善或神經症狀加劇，甚至有小便困難，則需住院手術治療" }
+    ],
+    "answer": "D",
+    "explanation": "腰椎退化性狹窄的典型是神經性間歇性跛行：走一段會腿痠痛/無力，休息或前彎改善；騎車（腰椎屈曲）常比走路更能耐受。腰椎伸展通常會「加重」狹窄症狀。pars defect（spondylolysis）常見造成 L5–S1 的 isthmic spondylolisthesis，而非 L4–5。臨床策略通常先保守（止痛、復健、生活調整），若進展性無力、嚴重疼痛或出現大小便問題/疑 cauda equina，需加速手術評估與治療。",
+    "source": "辛 脊椎疾病｜題 10（112一）專醫五-11",
+    "tags": ["neurosurgery", "spine", "stenosis", "spondylolisthesis", "management"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0083",
+    "stem": "關於 Jefferson fracture，下列敘述何者正確？",
+    "options": [
+      { "key": "A", "text": "主要是第一頸椎受到前屈外力（flexion）所導致" },
+      { "key": "B", "text": "大部分會造成嚴重的神經功能損傷" },
+      { "key": "C", "text": "必須經頸椎核磁共振（MRI）才能診斷" },
+      { "key": "D", "text": "如合併韌帶斷裂，可造成 C1–C2 不穩定脫位" }
+    ],
+    "answer": "D",
+    "explanation": "Jefferson fracture 是 C1 ring burst fracture，典型機轉是 axial loading（頭頂受力，如墜落頭著地/重物壓頂）。診斷多靠 open-mouth odontoid view 與 CT；MRI 常用來評估韌帶/軟組織。由於 C1 椎管相對寬，未必一定造成嚴重神經損傷；但若合併 transverse ligament 受損，會導致 C1–C2 不穩定甚至脊髓壓迫風險升高，因此 D 正確。",
+    "source": "辛 脊椎疾病｜題 11（112一）專醫五-12",
+    "tags": ["neurosurgery", "spine", "trauma", "c1", "jefferson fracture"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0084",
+    "stem": "下列關於齒突骨折（odontoid fracture）的敘述，何者最不適當？",
+    "options": [
+      { "key": "A", "text": "軸向切面的 CT 可能會忽略水平方向的骨折線（horizontal fracture line）" },
+      { "key": "B", "text": "Anderson and D'Alonzo 分類中，第一型為最常見，指的是齒突基底（base）骨折" },
+      { "key": "C", "text": "第二型骨折有較高不癒合率，尤其在顯著位移或年紀較大時" },
+      { "key": "D", "text": "第三型骨折血循較佳、癒合率較高，處理常以保守治療為主" }
+    ],
+    "answer": "B",
+    "explanation": "Anderson–D'Alonzo：Type I（tip）少見且較穩定；Type II（base/頸部交界）最常見、最不穩定且不癒合率高；Type III 延伸進 C2 椎體，血流較佳、癒合率相對高，常可保守固定。故把「Type I 最常見且是 base 骨折」的描述明顯錯誤。",
+    "source": "辛 脊椎疾病｜題 12（112一）專醫五-57",
+    "tags": ["neurosurgery", "spine", "trauma", "odontoid fracture", "classification"]
+  }
 
 
 
