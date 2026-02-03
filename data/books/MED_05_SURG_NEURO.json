@@ -1,1 +1,98 @@
-[]
+[
+  {
+    "id": "MED_05_01_Q0011",
+    "stem": "下列有關腹腔鏡手術之敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "腹腔鏡手術以全身麻醉進行為佳" },
+      { "key": "B", "text": "對後腹膜腔的器官或需要從腹膜外（extraperitoneal space）進入腹腔時，有時需要用氣球撐開術（balloon dissection）來打開第一個洞" },
+      { "key": "C", "text": "腹腔外的內視鏡手術（extraperitoneal endosurgery）可做手術的空間較小，且會增加腸沾粘的機會" },
+      { "key": "D", "text": "以手輔助的腹腔鏡手術（hand-assisted laparoscopic surgery）被認為可以降低外科醫師轉換到腹腔鏡的學習曲線，也可減少改為傳統手術的機會" }
+    ],
+    "answer": "C",
+    "explanation": "錯在「會增加腸沾黏」。\n\n關鍵概念：\n1) Extraperitoneal endosurgery 的主要限制是工作空間小、解剖層次不易、容易迷失平面；但因為不進入腹膜腔，理論上對腸管的操作/暴露較少，腸沾黏風險通常是「較低或不增加」，而不是增加。\n\n選項判讀：\nA 正確：腹腔鏡需控制呼吸道與通氣（氣腹造成膈肌上抬、PaCO2 上升），通常以全麻最安全。\nB 正確：在腹膜外進入（如 TEP/部分後腹膜路徑）常用 balloon dissection 建立初始空間與平面。\nD 正確：hand-assisted 可保留觸覺、牽引與止血更容易，對轉換學習曲線與降低 conversion 有幫助。\n\n考點延伸：\n- Extraperitoneal vs transperitoneal：前者腸道干擾少、潛在沾黏少；後者空間大、解剖標誌較清楚。"
+  },
+  {
+    "id": "MED_05_01_Q0012",
+    "stem": "有關單一切口腹腔鏡手術（single-incision laparoscopic surgery, SILS）的敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "擁擠的套管（trocar）擺設及缺乏左右手操作的角度" },
+      { "key": "B", "text": "比起傳統腹腔鏡手術，單一切口腹腔鏡手術器械操作較不易撞擊且手術視野較寬廣" },
+      { "key": "C", "text": "手術中由單一切口腹腔鏡膽囊手術轉換成傳統腹腔鏡膽囊切除手術的比率（conversion rate）文獻報告約為 0–24%" },
+      { "key": "D", "text": "最常見的併發症為腹內膿瘍及傷口感染" }
+    ],
+    "answer": "B",
+    "explanation": "SILS 的核心問題是「失去三角定位（loss of triangulation）」與「器械互相干擾（instrument fencing/sword fighting）」，因此 B 說『較不易撞擊、視野較寬廣』方向相反。\n\n選項判讀：\nA 正確：同一切口進出，trocar 擁擠 + 操作角度受限，是 SILS 的典型技術瓶頸。\nB 錯誤：SILS 反而更容易撞擊、牽引角度差；視野也常因器械同軸而不如多孔腹腔鏡穩定。\nC 正確：SILS 轉成傳統多孔腹腔鏡（增加 port）在臨床上常見，conversion range 可很寬，取決於經驗與病例選擇。\nD 依題幹設定為正確敘述：常見併發症可集中在感染相關（傷口感染/腹內感染）。實務上也常考「臍疝氣（port-site hernia）」增加，尤其單一較大臍切口；遇到考題若出現 hernia/感染/膽道傷害，需以題庫來源敘述為主。\n\n考點延伸：\n- SILS 適應症通常選低難度、BMI 不高、發炎不重者；困難膽囊炎或解剖不清時要果斷加 port（不是失敗，是安全策略）。"
+  },
+  {
+    "id": "MED_05_01_Q0015",
+    "stem": "對孕婦來說，laparoscopic surgery 最好的 surgical position 為：",
+    "options": [
+      { "key": "A", "text": "prone position" },
+      { "key": "B", "text": "lithotomy position" },
+      { "key": "C", "text": "left lateral decubitus position" },
+      { "key": "D", "text": "right lateral decubitus position" }
+    ],
+    "answer": "C",
+    "explanation": "考點是避免「aortocaval compression（主動脈/下腔靜脈受壓）」。\n\n理由：\n- 妊娠中後期仰臥位時，增大的子宮壓迫 IVC（與部分主動脈），造成靜脈回流下降 → 心輸出量下降 → 母體低血壓、胎盤灌流下降。\n- 左側臥（臨床也常用 15–30° left lateral tilt）可把子宮重量移離 IVC，降低仰臥低血壓症候群。\n\n選項排除：\nA prone 幾乎不適用；B lithotomy 非針對此生理問題且多用於婦科手術需要；D right lateral 反而不如左側減壓 IVC。\n\n延伸考點（常被問）：\n- 氣腹與 PaCO2 上升、膈肌上抬對通氣的影響；孕婦更需嚴格監測 EtCO2/通氣與血流動力。"
+  },
+  {
+    "id": "MED_05_01_Q0016",
+    "stem": "關於微創手術（minimally invasive surgery）的敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "微創手術的好處包括減少術後疼痛及腸道功能恢復較快，因此改善了大腸癌患者術後的生活品質" },
+      { "key": "B", "text": "微創手術的運用並不會不利於大腸癌的治療" },
+      { "key": "C", "text": "微創手術無法像傳統開腹手術一樣有清楚的手術視野" },
+      { "key": "D", "text": "隨著微創手術訓練的進展，腹腔鏡手術的普及性已逐年提高" }
+    ],
+    "answer": "C",
+    "explanation": "C 錯在把『視野不清楚』當成微創的固有限制。\n\n關鍵概念：\n- 腹腔鏡/微創的影像通常提供放大、高解析度、可近距離觀察解剖層次；在許多手術（含大腸直腸、骨盆深部）反而更利於辨識細微結構。\n\n選項判讀：\nA 正確：微創通常減少切口疼痛、腸蠕動恢復快、住院天數短。\nB 正確（考題取向）：在合適病例、合格團隊下，多數證據支持腫瘤學結果不劣（重點在切緣、淋巴清除數、TME 品質等達標）。\nD 正確：學習曲線/訓練系統成熟 → 普及率提升。\n\n延伸考點：\n- 微創的真正限制更常考「學習曲線、手術時間、成本、困難解剖/嚴重沾黏/出血時轉開腹門檻」。"
+  },
+  {
+    "id": "MED_05_01_Q0017",
+    "stem": "下列何者不是機器手臂輔助內視鏡手術的特點？",
+    "options": [
+      { "key": "A", "text": "二維平面視野" },
+      { "key": "B", "text": "可以消除主刀者手術時手部晃動" },
+      { "key": "C", "text": "主刀者不需助手幫忙，可以自己調整鏡頭方向" },
+      { "key": "D", "text": "手術器械可以進入狹小空間，進行角度困難的動作" }
+    ],
+    "answer": "A",
+    "explanation": "A 錯：機器手臂的典型賣點之一是 3D 立體視野與放大。\n\n其餘選項為常見特點：\nB 正確：tremor filtering（抖動濾除）+ motion scaling（動作縮放）提升精細度。\nC 正確：術者在 console 可自行控制鏡頭（減少對助手的依賴、畫面更穩）。\nD 正確：wristed instruments（多自由度）讓狹小空間的縫合、打結與角度動作更容易。\n\n延伸考點：\n- 常被問的缺點：成本高、設置時間、缺乏觸覺回饋、佔位/碰撞風險。"
+  },
+  {
+    "id": "MED_05_01_Q0202",
+    "stem": "有關三叉神經痛的敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "可能源自於多發性硬化症（multiple sclerosis）" },
+      { "key": "B", "text": "可能因良性或惡性腫瘤造成" },
+      { "key": "C", "text": "最常發生原因是 superior cerebellar artery 壓到三叉神經之腦幹端" },
+      { "key": "D", "text": "開腦手術將血管與神經墊開是第一線治療方式" }
+    ],
+    "answer": "D",
+    "explanation": "D 錯：第一線治療是藥物，不是直接開腦。\n\n典型考點：\n- Trigeminal neuralgia（TN）特徵：短暫、電擊樣劇痛，常被觸發（刷牙、洗臉、說話），神經學檢查多正常。\n- 最常見病因（classic TN）：血管壓迫 trigeminal nerve root entry zone，常見為 SCA（故 C 正確）。\n- Secondary TN：MS 的脫髓鞘斑塊或腫瘤/囊腫壓迫（A、B 正確）。\n\n治療階梯（考試很愛）：\n1) 藥物首選：carbamazepine / oxcarbazepine（常被問：監測嗜睡、低鈉、肝功能/血球等副作用）。\n2) 藥物無效或不耐受 → 介入/手術選項（如 percutaneous rhizotomy、balloon compression、glycerol、gamma knife、或 microvascular decompression）。\n\n警訊（遇到要想到 secondary）：\n- 感覺缺損、持續性疼痛、雙側、年輕發病或有其他腦神經症狀。"
+  },
+  {
+    "id": "MED_05_01_Q0203",
+    "stem": "藥物（如 carbamazepine、gabapentin）治療無效的三叉神經痛患者，下列何種方法效果最快？",
+    "options": [
+      { "key": "A", "text": "顯微血管減壓術（microvascular decompression）" },
+      { "key": "B", "text": "三叉神經節注射甘油（glycerol injection）" },
+      { "key": "C", "text": "伽馬刀立體定位手術（gamma knife surgery）" },
+      { "key": "D", "text": "氣球壓迫術（balloon compression）" }
+    ],
+    "answer": "D",
+    "explanation": "題目問「效果最快」：最符合的是經皮破壞性處置中的氣球壓迫術，通常可立即或短時間內止痛。\n\n各選項時間性比較（考場思路）：\n- D balloon compression：機轉是壓迫 Gasserian ganglion / 纖維，常見止痛出現快，但可能代價是臉麻、角膜反射下降等。\n- B glycerol injection：也屬經皮處置，起效可快，但題目通常把“最快/最立刻”給 balloon compression。\n- C gamma knife：放射線造成延遲性神經傷害，常需數週到數月才逐漸見效，是典型「起效慢」選項。\n- A microvascular decompression：解除壓迫後可有效且較保留感覺，但屬開顱手術，題目多不把它歸在“最快止痛”的答案（也牽涉麻醉/恢復期與風險）。\n\n延伸考點：\n- 需要快速止痛但不宜開顱（高齡/共病）→ 經皮處置常是考題預設路徑。"
+  },
+  {
+    "id": "MED_05_01_Q0301",
+    "stem": "下列有關腦膨出（encephalocele）的敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "大部分膨出發生在頭顱中線" },
+      { "key": "B", "text": "顱底膨出較少見" },
+      { "key": "C", "text": "需做顱骨整型，回置膨出之腦組織" },
+      { "key": "D", "text": "患者常合併智力障礙" }
+    ],
+    "answer": "C",
+    "explanation": "C 錯：手術目標通常不是『把膨出的腦組織回置』。\n\n關鍵概念：\n- Encephalocele 是顱骨/硬腦膜缺損造成腦組織與腦膜突出，屬神經管/顱骨發育缺陷的一類。\n- 膨出內容常包含非功能性、發育不良或已受損的腦組織；硬塞回顱內通常沒有意義，且可能增加感染/癲癇/壓力問題。\n\n標準手術原則（考點）：\n1) 切除或處理膨出囊內容（以保留可用組織為前提，但“回置”不是常規描述）。\n2) 確實修補硬腦膜與顱骨缺損（防 CSF leak/感染），必要時做顱顏整形。\n\n其餘選項：\nA 正確：多在中線（尤其枕部/額鼻部等型態）。\nB 正確：顱底型相對少見但臨床更易被漏診（可表現為鼻腔腫塊/CSF rhinorrhea）。\nD 正確：神經發育問題、癲癇、智力障礙常見，預後與膨出大小、是否含重要腦組織、是否合併水腦/其他畸形相關。\n\n延伸陷阱：\n- 若題目出現『可壓回去的鼻腔腫塊』要想到顱底腦膨出，處置上避免粗暴切除以免造成致命 CSF leak/腦膜炎。"
+  }
+]
