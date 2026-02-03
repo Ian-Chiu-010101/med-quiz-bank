@@ -1441,9 +1441,248 @@
   ],
   "answer": "B",
   "explanation": "此題最關鍵線索是「右側（升結腸）大腸癌 + 家族中早發結腸癌 + 子宮內膜癌」，高度符合 Lynch syndrome（HNPCC）的腫瘤譜系。Lynch 典型為 MMR 基因胚系突變，常見右側結腸癌，並顯著增加子宮內膜癌與卵巢癌風險，因此 (B) 最合理。FAP 的關鍵通常是大量腺瘤性息肉（數百～數千）與非常年輕即出現多發息肉史，本題明確說沒有其他息肉，較不支持。BRCA2 主要是乳癌/卵巢癌譜系；Li-Fraumeni（TP53）偏向多種早發原發腫瘤（骨肉瘤、軟組織肉瘤、腦瘤、腎上腺皮質腫瘤、早發乳癌等），與本題典型「結腸癌 + 子宮內膜癌」組合不如 Lynch 符合。延伸：臨床上可先做腫瘤 MSI 或 MMR IHC 篩檢，再進一步做胚系檢測並安排家族成員的風險管理與較早/較密集的大腸鏡監測。"
+},
+
+{
+  "id": "P034_Q0171",
+  "stem": "有關貝塞特氏症候群（Behcet's syndrome）的敘述，下列何者正確？",
+  "options": [
+    { "key": "A", "text": "病人常常會反覆口腔與生殖器潰瘍" },
+    { "key": "B", "text": "很少攻擊眼睛" },
+    { "key": "C", "text": "對於黏膜病灶 methotrexate 常是首選藥物" },
+    { "key": "D", "text": "其皮膚病灶像是 erythema nodosum" }
+  ],
+  "answer": "A",
+  "explanation": "Behcet’s disease 的核心臨床表現是「反覆口腔潰瘍」為最常見且常作為診斷起點，並可合併生殖器潰瘍，因此 (A) 最符合典型。 (B) 錯在眼部侵犯其實常見且具致盲風險（前/後葡萄膜炎、視網膜血管炎）。(C) 黏膜與皮膚病灶常用局部/全身類固醇、colchicine、thalidomide 等；若有較嚴重或眼/中樞侵犯常需 azathioprine、cyclosporine、anti-TNF 等免疫抑制/生物製劑，methotrexate 並非黏膜病灶的典型首選。(D) 皮膚表現確實可出現類 erythema nodosum 的結節性紅斑樣病灶，但題目若要求單選，最具辨識度且最「代表性」的仍是 (A)。"
+},
+{
+  "id": "P034_Q0172",
+  "stem": "Temporal arteritis（giant cell arteritis）的敘述，下列何者正確？",
+  "options": [
+    { "key": "A", "text": "是一種小血管炎（small vessel vasculitis）" },
+    { "key": "B", "text": "多發生在大於 50 歲的病人" },
+    { "key": "C", "text": "約 50% 病人會造成腹主動脈瘤（abdominal aneurysm）" },
+    { "key": "D", "text": "侵犯 temporal artery 時，通常會造成視覺症狀，例如視力模糊或視力消失" }
+  ],
+  "answer": "B",
+  "explanation": "Giant cell arteritis（GCA）屬於中大型血管炎（偏顱外頸動脈分支與主動脈），幾乎只見於 >50 歲族群，因此 (B) 正確且是最關鍵的考點。 (A) 錯：不是小血管炎。 (C) 錯：GCA 的確增加主動脈瘤/剝離風險（尤其胸主動脈），但「約 50% 造成腹主動脈瘤」過度誇大且部位也不典型。 (D) 方向上正確：顳動脈炎可造成缺血性視神經病變而視力模糊/失明，但若題目單選，最穩定且鑑別度最高的是年齡門檻 (B)。臨床處置上，任何懷疑 GCA 且有視覺症狀者需立即高劑量類固醇（避免不可逆失明），並同步安排顳動脈切片或影像評估。"
+},
+{
+  "id": "P034_Q0173",
+  "stem": "下列臨床表現何者最符合血管炎（vasculitis）的臨床特徵？",
+  "options": [
+    { "key": "A", "text": "purpura 是中型血管炎（medium-sized vasculitis）的表現" },
+    { "key": "B", "text": "giant cell arteritis 為小血管炎（small vessel vasculitis）" },
+    { "key": "C", "text": "microscopic polyangiitis（MPA）可造成肺泡出血（alveolar hemorrhage）" },
+    { "key": "D", "text": "中型血管炎（medium-sized vasculitis）不會侵犯皮膚" }
+  ],
+  "answer": "C",
+  "explanation": "(C) 正確：MPA 屬 ANCA 相關小血管炎，典型可出現肺腎症候群，其中「肺泡出血」與快速進展性腎絲球腎炎是高鑑別度組合。 (A) 錯：purpura（尤其 palpable purpura）多見於小血管炎（皮膚後微靜脈的白血球碎裂性血管炎）。(B) 錯：GCA 是中大型血管炎。(D) 錯：中型血管炎（如 PAN）仍可有皮膚表現（結節、 livedo reticularis、潰瘍等），是否侵犯皮膚取決於受累血管分布，而非「一定不會」。"
+},
+{
+  "id": "P034_Q0174",
+  "stem": "下列的何種全身性血管炎會有氣喘病的發作？",
+  "options": [
+    { "key": "A", "text": "polyarteritis nodosa" },
+    { "key": "B", "text": "Takayasu's arteritis" },
+    { "key": "C", "text": "Churg-Strauss syndrome（eosinophilic granulomatosis with polyangiitis, EGPA）" },
+    { "key": "D", "text": "Henoch-Schonlein purpura（IgA vasculitis）" }
+  ],
+  "answer": "C",
+  "explanation": "EGPA 的經典三聯線索是「氣喘/過敏體質 + 嗜酸性球增多 + 小血管炎（可觸及紫斑、單神經炎、肺浸潤等）」，因此 (C) 最典型。PAN 與 Takayasu 屬中/大型血管炎，與氣喘關聯不強；IgA vasculitis 典型是 palpable purpura、腹痛、腎炎與關節痛，不以氣喘為主軸。臨床上若合併肺泡出血、神經病變或心肌受累，屬高風險表現，治療會從類固醇升級至 cyclophosphamide 或 rituximab 等。"
+},
+{
+  "id": "P034_Q0175",
+  "stem": "63 歲男性，反覆鼻出血 3 個月，兼有鼻竇炎及咳血且兩側肺部有多個腫塊。下列診斷何者最可能？",
+  "options": [
+    { "key": "A", "text": "systemic lupus erythematosus" },
+    { "key": "B", "text": "polyarteritis nodosa" },
+    { "key": "C", "text": "Wegener's granulomatosis（granulomatosis with polyangiitis, GPA）" },
+    { "key": "D", "text": "Churg-Strauss syndrome（EGPA）" }
+  ],
+  "answer": "C",
+  "explanation": "上呼吸道（鼻出血、鼻竇炎）+ 下呼吸道（咳血）+ 影像呈多發肺結節/腫塊，非常符合 GPA 的典型「ENT + lung + kidney（可再追尿沉渣/肌酐）」圖像。PAN 通常不侵犯肺（這點常用於鑑別）；SLE 可造成肺出血但與鼻竇炎/破壞性鼻病變的連結較弱；EGPA 需要「氣喘與嗜酸性球增多」作為核心背景，題幹未提供。若臨床高度懷疑，下一步常會做 ANCA（PR3/c-ANCA）與組織切片（壞死性肉芽腫性血管炎）以確診，並及早以類固醇合併免疫抑制（rituximab/cyclophosphamide）降低器官損害。"
+},
+{
+  "id": "P034_Q0176",
+  "stem": "下列有關 Wegener's granulomatosis（GPA）的敘述，何者最正確？",
+  "options": [
+    { "key": "A", "text": "Anti-glomerular basement membrane（anti-GBM）抗體常為陽性" },
+    { "key": "B", "text": "PR3-ANCA（c-ANCA）常為陽性" },
+    { "key": "C", "text": "腎臟侵犯主要由免疫複合體沉積造成" },
+    { "key": "D", "text": "血清補體常明顯下降" }
+  ],
+  "answer": "B",
+  "explanation": "(B) 正確：GPA 屬 ANCA 相關血管炎，最典型是 PR3-ANCA（多呈 c-ANCA pattern）。(A) anti-GBM 是 Goodpasture syndrome 的核心抗體；(C) GPA 的腎炎屬 pauci-immune（免疫沉積少），病理常見壞死性半月體腎炎；(D) 補體通常正常（低補體更偏免疫複合體相關 GN，如 PSGN、感染性心內膜炎相關 GN、狼瘡腎炎等）。因此鑑別時「ANCA + 補體正常 + 肺腎症候群」會把你導向 GPA/MPA。"
+},
+{
+  "id": "P034_Q0177",
+  "stem": "Giant cell arteritis 最常合併 polymyalgia rheumatica，其比例約為：",
+  "options": [
+    { "key": "A", "text": "5%" },
+    { "key": "B", "text": "50%" },
+    { "key": "C", "text": "100%" },
+    { "key": "D", "text": "0%" }
+  ],
+  "answer": "B",
+  "explanation": "GCA 與 PMR 有高度共病，臨床教科書常以「約 40–60%」作為量級描述（兩者彼此也可互為前後序），因此最接近的選項是 50%。考題重點不在精確數字，而在於：看到 GCA 要主動問/找 PMR（肩帶/髖帶痠痛、晨僵），看到 PMR 也要警覺是否有 GCA 警訊（新發頭痛、顳動脈壓痛、下顎跛行、視覺症狀）。"
+},
+{
+  "id": "P034_Q0178",
+  "stem": "32 歲男性病人，因反覆發作葡萄膜炎（uveitis）從眼科轉診；詳細病史發現其已有一年多常有口腔潰瘍疼痛史，且兩下肢也時常出現有壓痛的皮膚紅疹，但無慢性下背痛病史。下列哪一項檢查可能具診斷價值？",
+  "options": [
+    { "key": "A", "text": "pathergy test" },
+    { "key": "B", "text": "Schober test" },
+    { "key": "C", "text": "Schirmer's test" },
+    { "key": "D", "text": "PPD skin test" }
+  ],
+  "answer": "A",
+  "explanation": "此題臨床組合（反覆葡萄膜炎 + 口腔潰瘍 + 皮膚病灶）高度指向 Behcet’s disease。Pathergy test（針刺後過度發炎反應）為 Behcet 的輔助診斷測試之一，故 (A) 最具價值。Schober test 用於評估腰椎活動度、偏向僵直性脊椎炎；Schirmer’s test 評估淚液分泌、偏向 Sjogren；PPD 是結核篩檢，與此自體發炎性血管炎的典型診斷路徑不相符。"
+},
+{
+  "id": "P034_Q0179",
+  "stem": "30 歲男性病患兩週前腹瀉，一週前開始右膝關節疼痛，伴隨單側足踝跟腫痛，並出現結膜炎/葡萄膜炎與皮膚病變。最可能的診斷為何？",
+  "options": [
+    { "key": "A", "text": "僵直性脊椎炎（ankylosing spondylitis）" },
+    { "key": "B", "text": "類風濕性關節炎（rheumatoid arthritis）" },
+    { "key": "C", "text": "反應性關節炎（reactive arthritis）" },
+    { "key": "D", "text": "痛風（gout）" }
+  ],
+  "answer": "C",
+  "explanation": "感染後（腸胃道或泌尿生殖道）出現非對稱性下肢寡關節炎 + enthesitis（足跟）+ 眼部（結膜炎/葡萄膜炎）+ 皮膚黏膜表現，是 reactive arthritis 的高典型度圖像。常見致病原包括 Salmonella、Shigella、Yersinia、Campylobacter 與 Chlamydia trachomatis。治療以 NSAIDs 為主，症狀明顯可短期類固醇（關節腔注射或口服），慢性或復發可考慮 sulfasalazine 或生物製劑（依嚴重度與軸性受累）。RA 通常對稱性小關節、RF/anti-CCP 相關；gout 需急性發作與尿酸/關節液結晶線索；AS 偏慢性軸性疼痛與影像 sacroiliitis。"
+},
+{
+  "id": "P034_Q0180",
+  "stem": "目前認為脊椎關節炎（spondyloarthritis）最起始之病灶為何處？",
+  "options": [
+    { "key": "A", "text": "軟骨（cartilage）" },
+    { "key": "B", "text": "肌腱附著點（enthesis）" },
+    { "key": "C", "text": "硬骨（bone）" },
+    { "key": "D", "text": "滑膜（synovium）" }
+  ],
+  "answer": "B",
+  "explanation": "SpA 的病理生理核心之一是 enthesitis：肌腱/韌帶附著於骨的界面先發炎，之後才進展到鄰近骨髓水腫、骨侵蝕與新骨形成（例如 syndesmophyte）。這也是為何臨床會看到足跟痛（Achilles/plantar fascia）、胸廓擴張受限，以及 MRI 早期可見附著點與薦腸關節的骨髓水腫。RA 的起始多偏向滑膜炎（synovitis），可用來做概念上的鑑別。"
+},
+{
+  "id": "P034_Q0181",
+  "stem": "乾癬（psoriasis）病人較常出現下列何種基因？",
+  "options": [
+    { "key": "A", "text": "HLA-A2" },
+    { "key": "B", "text": "HLA-B27" },
+    { "key": "C", "text": "HLA-Cw*06" },
+    { "key": "D", "text": "HLA-DR4" }
+  ],
+  "answer": "C",
+  "explanation": "HLA-C*06:02（常寫作 HLA-Cw*06）與乾癬（尤其早發型、較典型斑塊型）關聯最常被考。HLA-B27 則與 SpA（AS、反應性關節炎等）更相關；HLA-DR4 常與 RA 風險相關。此題重點是把「皮膚乾癬」的遺傳標記與「軸性 SpA」的 HLA-B27 做區分。"
+},
+{
+  "id": "P034_Q0182",
+  "stem": "有關僵直性脊椎炎（ankylosing spondylitis）的治療，下列何者正確？",
+  "options": [
+    { "key": "A", "text": "sulfasalazine 對脊椎發炎比較有效" },
+    { "key": "B", "text": "anti-TNF 只對周邊關節炎有效，對脊椎發炎沒有明顯幫助" },
+    { "key": "C", "text": "非類固醇類消炎止痛藥（NSAIDs）是第一線藥物" },
+    { "key": "D", "text": "methotrexate 對於輔助 anti-TNF 治療僵直性脊椎炎很重要，最好每個病人都要併用" }
+  ],
+  "answer": "C",
+  "explanation": "(C) 正確：AS/axial SpA 的第一線治療是 NSAIDs（同時搭配運動復健），對症狀控制與發炎指標改善最直接。 (A) sulfasalazine 主要對「周邊關節炎」較可能有效，對純軸性症狀效果有限。(B) 錯：anti-TNF 對軸性發炎非常有效，是 NSAIDs 失敗後的重要升級治療。(D) 錯：MTX 對 AS 軸性病灶效果不佳，也沒有一致證據顯示常規併用可提升 anti-TNF 的軸性療效（與 RA 的策略不同）。臨床分層概念：先 NSAIDs → 若仍活動性高再考慮 TNF inhibitor 或 IL-17 inhibitor；若以周邊關節炎為主，csDMARD（如 sulfasalazine）才比較有角色。"
+},
+{
+  "id": "P034_Q0183",
+  "stem": "有關僵直性脊椎炎（ankylosing spondylitis），下列敘述何者正確？",
+  "options": [
+    { "key": "A", "text": "HLA-B27 陰性就不是僵直性脊椎炎" },
+    { "key": "B", "text": "結膜炎是僵直性脊椎炎常見的眼睛表現" },
+    { "key": "C", "text": "僵直性脊椎炎病人大多數是 HLA-B27 陽性" },
+    { "key": "D", "text": "僵直性脊椎炎病人女性比較多" }
+  ],
+  "answer": "C",
+  "explanation": "(C) 正確：AS 與 HLA-B27 高度相關，臨床上多數病人為 HLA-B27 陽性，但這不是確診必要條件。 (A) 錯：HLA-B27 陰性不能排除 AS/axial SpA，需回到臨床表現與影像（薦腸關節炎、MRI 骨髓水腫）判讀。 (B) 錯：AS 最典型的眼部表現是急性前房葡萄膜炎（anterior uveitis），而非結膜炎。 (D) 錯：AS 傳統上男性較多（尤其放射學確診的 AS），女性比例在 non-radiographic axial SpA 會相對提高，但「女性比較多」仍不符合典型敘述。"
+},
+{
+  "id": "P034_Q0184",
+  "stem": "下列的何種發現對診斷 ankylosing spondylitis 最有幫助？",
+  "options": [
+    { "key": "A", "text": "positive HLA-B27" },
+    { "key": "B", "text": "history of low back pain in old patients" },
+    { "key": "C", "text": "pain on motion during chest expansion" },
+    { "key": "D", "text": "symmetric sacroiliitis in X-ray films" }
+  ],
+  "answer": "D",
+  "explanation": "AS 的診斷重點在「影像證據的薦腸關節炎（sacroiliitis）」結合臨床（炎性下背痛、胸廓擴張受限、活動度受限等）。在選項中，(D) X 光呈對稱性 sacroiliitis 是最具診斷力的客觀證據。（A）HLA-B27 是風險/支持證據，但陽性並不等於疾病；（B）AS 多在年輕成人起病（<45 歲），老年下背痛更常見退化或其他原因；（C）胸廓擴張疼痛或受限是臨床線索但非特異，且不如影像證據直接。若 X 光尚未出現變化但高度懷疑，可用 MRI 早期抓「活動性發炎（骨髓水腫）」來支持 axial SpA。"
+},
+{
+  "id": "P034_Q0185",
+  "stem": "一位 61 歲罹患乾癬症的病患，在 7 年之後兩側手指逐漸腫脹有如香腸指，且遠端指間關節有發炎反應，指甲變厚易脆。最有可能的診斷為何？",
+  "options": [
+    { "key": "A", "text": "osteoarthritis" },
+    { "key": "B", "text": "rheumatoid arthritis" },
+    { "key": "C", "text": "fungal infection" },
+    { "key": "D", "text": "psoriatic arthritis" }
+  ],
+  "answer": "D",
+  "explanation": "乾癬背景 + 香腸指（dactylitis）+ DIP 關節炎 + 指甲病變（pitting/onychodystrophy）是 psoriatic arthritis 的典型組合，因此 (D) 最符合。RA 較偏 MCP/PIP 對稱性滑膜炎、常有 anti-CCP；OA 可累及 DIP 但缺乏發炎體徵與乾癬系統線索；黴菌感染可造成指甲改變，但不會解釋多指關節炎與 dactylitis。臨床上 PsA 也常見 enthesitis，且在分類上屬 SpA 光譜。"
+},
+{
+  "id": "P034_Q0186",
+  "stem": "有關僵直性脊椎炎之敘述，下列何者錯誤？",
+  "options": [
+    { "key": "A", "text": "HLA-B27 陽性者較 B27 陰性者，易出現葡萄膜炎（uveitis）" },
+    { "key": "B", "text": "HLA-B27 陽性者較陰性者，家族傾向較高" },
+    { "key": "C", "text": "一般人口中，20% 之 HLA-B27 陽性者，可出現僵直性脊椎炎" },
+    { "key": "D", "text": "HLA-B27 在北美之印第安人其盛行率，遠高於臺灣原住民" }
+  ],
+  "answer": "C",
+  "explanation": "(C) 錯在把「HLA-B27 陽性」直接等同於高發病率。雖然 HLA-B27 與 AS 強相關，但多數 HLA-B27 陽性者終其一生不會發病；實際風險遠低於 20%。(A) 正確：HLA-B27 與急性前房葡萄膜炎相關，AS 病人也常以此就醫。(B) 正確：HLA-B27 陽性與家族聚集性較高。(D) 亦屬流行病學描述：不同族群 HLA-B27 盛行率差異很大，北美部分原住民族群可非常高。若以考試單選，此題最明確的錯誤敘述是 (C)。"
+},
+{
+  "id": "P034_Q0187",
+  "stem": "30 歲男病人主訴左手第 2、3 指及右手第 3、4 指的遠端指骨關節（DIP）紅腫熱痛已 3 週，同時兩側下肢皮膚出現許多突出會脫屑的紅疹塊。最可能的診斷為何？",
+  "options": [
+    { "key": "A", "text": "類風濕性關節炎" },
+    { "key": "B", "text": "細菌性關節炎" },
+    { "key": "C", "text": "全身性紅斑性狼瘡" },
+    { "key": "D", "text": "乾癬性關節炎" }
+  ],
+  "answer": "D",
+  "explanation": "DIP 炎症性關節炎 + 皮膚「紅斑、隆起、脫屑」高度符合 psoriasis，合併關節炎即 psoriatic arthritis（PsA），因此選 (D)。RA 典型累及 MCP/PIP 且較少以 DIP 為主；septic arthritis 多為單關節急性、全身發炎反應更明顯；SLE 關節炎多為非侵蝕性且與脫屑斑塊型皮疹的連結不如 PsA。臨床上建議追問指甲病變、dactylitis、enthesitis 與家族史以強化診斷。"
+},
+{
+  "id": "P034_Q0188",
+  "stem": "一位罹患僵直性脊椎炎的患者，有一天突覺左眼腫脹、怕光及視力模糊。下列何者為首選治療藥物？",
+  "options": [
+    { "key": "A", "text": "methotrexate" },
+    { "key": "B", "text": "hydroxychloroquine" },
+    { "key": "C", "text": "local glucocorticoid administration" },
+    { "key": "D", "text": "azathioprine" }
+  ],
+  "answer": "C",
+  "explanation": "AS 最典型眼部併發症是「急性前房葡萄膜炎」，臨床表現為眼痛/畏光/視力模糊。急性期首選治療為局部（點眼）類固醇合併散瞳/睫狀肌麻痺劑（減少疼痛、預防後黏連），因此 (C) 最符合「首選」。MTX/azathioprine 偏向慢性或反覆發作、或合併其他器官受累時的系統治療選項；HCQ 不用於此情境且有視網膜毒性監測議題。"
+},
+{
+  "id": "P034_Q0189",
+  "stem": "55 歲男性，有下背痛伴隨晨間僵硬（>30 分鐘）已有兩年，骨盆 X 光無明顯異常，病患曾有左跟（Achilles tendon）發炎病史。以目前病情判斷，何種疾病最有可能？",
+  "options": [
+    { "key": "A", "text": "僵直性脊椎炎（ankylosing spondylitis）" },
+    { "key": "B", "text": "中軸脊椎關節炎（axial spondyloarthropathy）" },
+    { "key": "C", "text": "退化性關節炎（osteoarthritis）" },
+    { "key": "D", "text": "乾癬性關節炎（psoriatic arthritis）" }
+  ],
+  "answer": "B",
+  "explanation": "炎性下背痛（晨僵、持續兩年）+ enthesitis（Achilles tendon 發炎）屬 SpA 光譜；但骨盆 X 光無明顯 sacroiliitis，提示尚未達「放射學確診 AS」的程度，較符合 non-radiographic axial spondyloarthritis（也可統稱 axial SpA），因此選 (B)。(A) AS 通常在影像上已有典型薦腸關節炎改變；(C) OA 的背痛多與活動相關、休息改善，且不會用 enthesitis 來解釋；(D) PsA 也可有軸性表現，但題幹缺乏乾癬或指甲/皮膚線索。臨床上下一步常會做 MRI 薦腸關節找活動性發炎，並評估 HLA-B27、CRP 與 SpA features（葡萄膜炎、IBD、家族史等）。"
+},
+{
+  "id": "P034_Q0190",
+  "stem": "22 歲男性主訴右膝關節腫痛已一個多月；最近半年時常睡至下半夜因下背痛而醒來；上星期突然眼痛、視力模糊，被診斷為葡萄膜炎（uveitis）。請問下列哪一種檢查對診斷最有幫助？",
+  "options": [
+    { "key": "A", "text": "骨盆腔 X 光" },
+    { "key": "B", "text": "右膝關節 X 光" },
+    { "key": "C", "text": "抽血檢查 RF 及 ANA" },
+    { "key": "D", "text": "右膝關節液的檢查" }
+  ],
+  "answer": "A",
+  "explanation": "此題是典型 SpA/AS 圖像：年輕男性、炎性下背痛（夜間痛、下半夜痛醒）、周邊關節炎（膝腫痛）、合併葡萄膜炎。對「確立 SpA/AS 診斷分類」最有幫助的是影像證據的薦腸關節炎，因此骨盆（含薦腸關節）X 光最關鍵，選 (A)。膝關節 X 光多為非特異；RF/ANA 用於 RA/SLE 的鑑別，但 SpA 通常 RF(-)；關節液檢查適用於懷疑感染或晶體，但題幹更支持慢性免疫媒介的 SpA 光譜。若 X 光仍正常但高度懷疑，可進一步做 MRI 薦腸關節以偵測早期活動性發炎。"
 }
-
-
 
 
 ]
