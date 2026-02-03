@@ -2923,7 +2923,122 @@
     "explanation": "脊椎轉移最常見在胸椎（常見解釋：胸椎節段長、血流/靜脈叢與解剖因素使其成為常見落點；臨床上乳癌、肺癌等也常見脊椎轉移）。\n考點延伸：出現夜間骨痛、脊椎壓痛、進行性神經缺損/大小便異常需警覺 metastatic epidural spinal cord compression。",
     "source": "辛 脊椎疾病｜題 26（109一）專醫五-9",
     "tags": ["neurosurgery", "spine", "metastasis", "oncology"]
+  },
+
+  
+  {
+    "id": "MED_05_01_NS_Q0106",
+    "stem": "下列何者不是常見的 intradural extramedullary spinal tumor 的種類？",
+    "options": [
+      { "key": "A", "text": "meningioma" },
+      { "key": "B", "text": "schwannoma" },
+      { "key": "C", "text": "neurofibroma" },
+      { "key": "D", "text": "anaplastic astrocytoma" }
+    ],
+    "answer": "D",
+    "explanation": "脊髓腫瘤分層是基本鑑別點：\n- Intradural extramedullary（硬膜內、髓外）最常見：meningioma、schwannoma（及其他 nerve sheath tumor，如 neurofibroma）。\n- Astrocytoma 屬於 intramedullary（髓內）腫瘤，而非髓外；anaplastic astrocytoma 更是髓內膠質瘤範疇。\n因此不屬於常見髓外腫瘤的是 (D)。",
+    "source": "辛 脊椎疾病｜題 27（109一）專醫五-10",
+    "tags": ["neurosurgery", "spine", "tumor", "intradural_extramedullary"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0107",
+    "stem": "下列關於 intramedullary spinal cord tumor 的敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "intramedullary spinal cord tumor 約占所有 spinal tumor 的 5%" },
+      { "key": "B", "text": "primary intramedullary spinal cord lymphoma 相當罕見" },
+      { "key": "C", "text": "最常見的 intramedullary spinal cord tumor 為轉移性腫瘤" },
+      { "key": "D", "text": "黏液乳突狀室管膜瘤（myxopapillary ependymoma）較常長在腰椎處" }
+    ],
+    "answer": "C",
+    "explanation": "髓內腫瘤（intramedullary）最常見的原發腫瘤是膠質瘤譜系：\n- 兒童常見 astrocytoma；成人常見 ependymoma。\n髓內轉移並非「最常見」，相對少見。\nB 正確：原發性髓內淋巴瘤罕見。\nD 正確：myxopapillary ependymoma 多見於 conus medullaris / filum terminale（腰薦段）。\n因此錯誤為 (C)。",
+    "source": "辛 脊椎疾病｜題 28（109一）專醫五-46",
+    "tags": ["neurosurgery", "spine", "tumor", "intramedullary"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0108",
+    "stem": "有關頸椎退化性疾病之手術敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "頸椎脊髓病變（cervical myelopathy）產生症狀，即需手術治療" },
+      { "key": "B", "text": "急性神經根壓迫，可先保守治療" },
+      { "key": "C", "text": "老年人接受後側椎弓切除術，日後很容易產生脊柱後凸變形" },
+      { "key": "D", "text": "前頸椎手術可能傷到 recurrent laryngeal nerve" }
+    ],
+    "answer": "C",
+    "explanation": "本題考點在「過度絕對化的風險敘述」。\n(A) 方向正確：症狀性 cervical myelopathy 多以手術減壓作為主軸（避免進展、改善功能），臨床上仍會依嚴重度與病程作個別化，但不屬於明顯錯誤。\n(B) 正確：多數 radiculopathy 可先保守（止痛、復健、姿勢/活動調整）。\n(D) 正確：前位頸椎手術併發症包含聲音沙啞（RLN）、吞嚥不適等。\n(C) 「很容易產生後凸」太武斷：成人頸椎 laminectomy 後確有後凸風險，但與手術節段數、術前 alignment、肌群/韌帶破壞程度等高度相關，不能一概而論為“很容易”。因此 (C) 為錯誤選項。",
+    "source": "辛 脊椎疾病｜題 29（107二）專醫五-11",
+    "tags": ["neurosurgery", "spine", "cervical_surgery", "complications"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0109",
+    "stem": "下列有關脊髓腫瘤之敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "髓膜外（extradural）的腫瘤往往是良性的" },
+      { "key": "B", "text": "髓膜內（intradural）、脊髓外（extramedullary）的腫瘤以 meningioma 及 schwannoma 最常見" },
+      { "key": "C", "text": "脊髓內（intramedullary）腫瘤以 astrocytoma 最常見" },
+      { "key": "D", "text": "脊髓惡性腫瘤的預後不良" }
+    ],
+    "answer": "A",
+    "explanation": "Extradural（硬膜外）病灶最常見其實是「轉移性腫瘤」或椎體病灶延伸造成的壓迫，惡性比例高，不是“往往良性”。\n(B) 正確：intradural-extramedullary 以 meningioma、schwannoma 最常見。\n(C) 在考試框架下常以 astrocytoma（尤其兒童）作為代表性“最常見髓內腫瘤”。\n(D) 原則正確：惡性腫瘤/轉移相關的神經壓迫與全身病程使預後較差。",
+    "source": "辛 脊椎疾病｜題 30（107一）專醫五-13",
+    "tags": ["neurosurgery", "spine", "tumor", "classification"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0110",
+    "stem": "一位 79 歲女性兩星期前滑倒造成下背痛，現在疼痛漸改善且可用四腳拐杖走路。X 光顯示第二腰椎壓迫性骨折（compression fracture），椎體高度喪失約 20%，腰椎前凸仍保持，無椎莖破壞。下列何者是目前最適當治療？",
+    "options": [
+      { "key": "A", "text": "背架保護加止痛藥物保守治療" },
+      { "key": "B", "text": "經皮椎體成型手術（percutaneous vertebroplasty）" },
+      { "key": "C", "text": "L1–L3 後位骨釘固定合併骨融合" },
+      { "key": "D", "text": "椎板切除減壓 + L1–L3 骨釘固定" }
+    ],
+    "answer": "A",
+    "explanation": "這是典型穩定型壓迫性骨折：\n- 高度喪失僅 20%、alignment（lordosis）維持、無 pedicle destruction（較不支持爆裂/不穩定）、臨床症狀改善。\n因此以止痛、活動調整、背架保護與骨鬆評估/治療為主。\n椎體成型/後位固定通常留給：劇痛難控、進行性塌陷、明顯不穩定或神經壓迫等情境；本案不符合。",
+    "source": "辛 脊椎疾病｜題 31（107一）專醫五-57",
+    "tags": ["neurosurgery", "spine", "compression_fracture", "management"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0111",
+    "stem": "下列關於腰椎椎間盤突出（HIVD）的敘述，何者正確？",
+    "options": [
+      { "key": "A", "text": "發生位置多在椎間盤的後外側（posterolateral）" },
+      { "key": "B", "text": "最常見的發生部位為腰椎第 1-2 節（L1-2）的椎間盤" },
+      { "key": "C", "text": "位於腰椎第 4-5 節（L4-5）發生的 HIVD 通常會壓迫 L4 的神經根" },
+      { "key": "D", "text": "所有的 HIVD 都一定需要手術處理" }
+    ],
+    "answer": "A",
+    "explanation": "HIVD 最常見突出方向是後外側（posterolateral），因為後縱韌帶（PLL）中央較厚、外側較薄。\n(B) 錯：最常見部位是 L4-5，其次 L5-S1。\n(C) 錯：L4-5 椎間盤突出典型壓迫的是「下行（traversing）L5 神經根」，不是 L4。\n(D) 錯：多數可先保守治療；手術保留給保守失敗、進行性無力或馬尾症候群等紅旗。",
+    "source": "辛 脊椎疾病｜題 32（106二）專醫五-7",
+    "tags": ["neurosurgery", "spine", "hivd", "anatomy"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0112",
+    "stem": "下列有關脊髓空洞症（syringomyelia）的敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "症狀類似中央脊髓症候群（central cord syndrome）" },
+      { "key": "B", "text": "感覺喪失以本體感覺（proprioceptive）為主，痛及觸覺正常" },
+      { "key": "C", "text": "上肢較下肢無力" },
+      { "key": "D", "text": "核磁共振（MRI）是檢查選擇之一" }
+    ],
+    "answer": "B",
+    "explanation": "Syrinx 位於脊髓中央，最先影響的是前白連合交叉的 spinothalamic fibers，因此典型是「披肩樣」痛覺/溫度覺喪失（dissociated sensory loss），而 dorsal column（震動覺/本體覺）多在早期保留。\n所以 (B) 把“本體覺為主的喪失”說成典型是錯誤。\nA/C/D 方向正確：可呈 central cord-like 表現、上肢常較明顯，MRI 為首選診斷工具。",
+    "source": "辛 脊椎疾病｜題 33（106二）專醫五-8",
+    "tags": ["neurosurgery", "spine", "syringomyelia", "neuroanatomy"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0113",
+    "stem": "50 歲男性有肝癌病史，兩天前突發嚴重背痛且無法行走，MRI 顯示第十二胸椎轉移並嚴重神經壓迫，醫師告知有馬尾症候群（cauda equina syndrome）。下列何者不是馬尾症候群的典型症狀？",
+    "options": [
+      { "key": "A", "text": "大小便失禁或滯留" },
+      { "key": "B", "text": "下肢深層肌腱反射（deep tendon reflex）增強" },
+      { "key": "C", "text": "肛門周圍麻木" },
+      { "key": "D", "text": "下肢無力" }
+    ],
+    "answer": "B",
+    "explanation": "馬尾症候群是下運動神經元（LMN）/神經根壓迫表現：\n- 鞍區麻木（saddle anesthesia）、尿滯留/失禁、下肢無力、反射下降或消失（patellar/Achilles、anal reflex、bulbocavernosus reflex）。\n因此 (B) 反射“增強”（UMN 表現）並非典型，選 (B)。",
+    "source": "辛 脊椎疾病｜題 34（106二）專醫五-59",
+    "tags": ["neurosurgery", "spine", "cauda_equina", "oncology_emergency"]
   }
+
 
 
 ]
