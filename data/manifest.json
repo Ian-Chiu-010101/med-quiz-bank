@@ -10,7 +10,7 @@
     { "id": "MED_04_DERM", "title": "四(2) 皮膚", "path": "data/books/MED_04_DERM.json", "enabled": false },
     { "id": "MED_04_PSY", "title": "四(3) 精神", "path": "data/books/MED_04_PSY.json", "enabled": false },
 
-    { "id": "MED_05_SURG_NEURO", "title": "五(1) 外科概、腦神外", "path": "data/books/MED_05_SURG_NEURO.json", "enabled": false },
+    { "id": "MED_05_SURG_NEURO", "title": "五(1) 外科概、腦神外", "path": "data/books/MED_05_SURG_NEURO.json", "enabled": true },
     { "id": "MED_05_CVS_COLO_ENDO_PLAST", "title": "五(2) 心外、大直外、內泌外、整外", "path": "data/books/MED_05_CVS_COLO_ENDO_PLAST.json", "enabled": false },
     { "id": "MED_05_GI_HPBB_PANC_BREAST", "title": "五(3) 胃外、小腸外、肝外、膽外、胰外、乳外", "path": "data/books/MED_05_GI_HPBB_PANC_BREAST.json", "enabled": false },
     { "id": "MED_05_THOR_PED_SURG", "title": "五(4) 胸外、兒外", "path": "data/books/MED_05_THOR_PED_SURG.json", "enabled": false },
