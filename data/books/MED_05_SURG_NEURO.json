@@ -1435,7 +1435,304 @@
     "explanation": "器官分配以公平與醫療需求為核心：嚴重度、等待時間、配型與預後等；社經地位不應成為分配依據。",
     "source": "五(1) 外科概論、腦神外｜己 移植外科｜題 14（103一）專醫五-78",
     "tags": ["transplant", "allocation", "ethics"]
+  },
+
+  
+  {
+    "id": "MED_05_01_TRAUMA_Q0001",
+    "stem": "在急診室針對鈍挫傷（blunt trauma）病人的評估，下列何種處置或檢查對確定診斷最無幫助？",
+    "options": [
+      { "key": "A", "text": "胸部 X 光檢查（chest X-ray）" },
+      { "key": "B", "text": "腹部 X 光檢查（abdominal film）" },
+      { "key": "C", "text": "骨盆 X 光檢查（pelvic film）" },
+      { "key": "D", "text": "測量心跳、血壓及 EKG 變化" }
+    ],
+    "answer": "B",
+    "explanation": "鈍挫傷初評重點是快速找出「致命但可逆」的胸/腹/骨盆出血與胸腔急症。\n\nA 胸部 X 光：可快速偵測氣胸/血胸、縱膈增寬（大血管傷疑慮）、肋骨骨折等，屬初評常用。\nC 骨盆 X 光：骨盆骨折可能合併大量出血，早期辨識能影響止血策略（骨盆束帶、介入/手術）。\nD 生命徵象與 EKG：可判斷休克嚴重度、心肌挫傷/致命心律不整線索。\n\nB 腹部 X 光：對肝脾破裂、腹腔內出血、腸道穿孔的敏感度低；鈍挫傷評估腹內出血以 FAST 或 CT 更有價值，因此最不具診斷效益。",
+    "source": "五(1) 外科概論、腦神外｜庚 急救外傷｜題 1（113一）專醫五-2",
+    "tags": ["trauma", "blunt trauma", "ed", "imaging"]
+  },
+  {
+    "id": "MED_05_01_TRAUMA_Q0002",
+    "stem": "王同學在 KTV 火災後送醫，面部燻黑、起水泡，四肢燒傷。若你是值班外科醫師，下列何項敘述錯誤？",
+    "options": [
+      { "key": "A", "text": "懷疑吸入性灼傷應先照胸部 X 光，無法確認時再做胸部 CT" },
+      { "key": "B", "text": "嚴重燒傷的重要死因之一為吸入性灼傷" },
+      { "key": "C", "text": "上呼吸道水腫時，即使意識清楚仍需考慮提早插管" },
+      { "key": "D", "text": "不建議常規預防性抗生素，除非已有感染證據" }
+    ],
+    "answer": "A",
+    "explanation": "吸入性灼傷（inhalation injury）的關鍵是「早期辨識 + 及早確保氣道」。\n\nA 錯：胸部 X 光在早期常正常，不能用來排除；胸部 CT可輔助但不應作為延遲處置的前提。臨床高度懷疑（面部燻黑、鼻毛燒焦、嗆咳炭粉痰、聲音沙啞/喘鳴、口咽灼傷）時，評估以氣道檢查（常以支氣管鏡作為最直接的評估方式）並根據臨床趨勢決定是否提早插管。\n\nB 對：吸入性灼傷會造成氣道水腫、支氣管炎、ARDS/呼吸衰竭，顯著提高死亡率。\nC 對：水腫可能在數小時內快速惡化，晚插管可能變成困難氣道。\nD 對：常規預防性抗生素未證實可降低感染，反增抗藥性；需依感染證據/培養與臨床表現給藥。",
+    "source": "五(1) 外科概論、腦神外｜庚 急救外傷｜題 2（112二）專醫五-19",
+    "tags": ["burn", "inhalation injury", "airway", "trauma"]
+  },
+  {
+    "id": "MED_05_01_TRAUMA_Q0003",
+    "stem": "40 歲男性急診主訴解血便 2 日，HR 120/min、RR 26/min、BP 90/56 mmHg。後續處置何者較不適宜？",
+    "options": [
+      { "key": "A", "text": "完整病史與用藥史（含抗凝血劑/既往內視鏡介入），理學檢查含肛門檢查" },
+      { "key": "B", "text": "建立輸液管路復甦、血型配對與相關血液檢查" },
+      { "key": "C", "text": "可考慮置放鼻胃管或安排上消化道內視鏡（依臨床判斷）" },
+      { "key": "D", "text": "立即告知手術風險並聯絡手術室準備緊急手術止血" }
+    ],
+    "answer": "D",
+    "explanation": "此例屬消化道出血合併循環不穩（疑休克）。處置優先序：復甦（ABC、兩條大口徑 IV、輸血策略）→ 釐清出血來源與非手術止血手段。\n\nA/B/C 為合理的前線處置：病史/用藥史影響出血風險；先復甦與交叉配血；鼻胃管/內視鏡/CTA/血管攝影止血依狀況選擇。\n\nD 不適宜：外科手術通常是「後線」止血選項（或在已明確需要手術的特定情境），不應在尚未完成基本復甦與評估前就直接進入手術路徑。",
+    "source": "五(1) 外科概論、腦神外｜庚 急救外傷｜題 3（111一）專醫五-12",
+    "tags": ["emergency", "gi bleeding", "shock", "triage"]
+  },
+  {
+    "id": "MED_05_01_TRAUMA_Q0004",
+    "stem": "53 歲女性高速車禍，多發外傷。快速輸液後 BP 100/55 mmHg，安排全身顯影 CT 後返回急救區突然惡化：意識模糊、BP 60/40 mmHg、SpO2 無法偵測。下列處置何者最適當？",
+    "options": [
+      { "key": "A", "text": "再次快速大量輸液後立刻再做一次腦部 CT" },
+      { "key": "B", "text": "立即雙側胸管置入並密切觀察" },
+      { "key": "C", "text": "立即送開胸做主動脈修補" },
+      { "key": "D", "text": "立即送手術室緊急剖腹探查" }
+    ],
+    "answer": "D",
+    "explanation": "多發外傷 + 先短暫反應輸液後再度崩潰，首要懷疑「持續性出血（non-compressible hemorrhage）」。\n\n題幹（原題附圖 CT）結論指向腹腔內出血/失血性休克：此時病人已循環不穩，影像檢查應讓位於立即止血（source control）。因此應直接進手術室緊急剖腹探查。\n\n考點：不穩定外傷病人的影像策略是 FAST/床邊評估優先；CT 適用於相對穩定者。再次送 CT 是常見致命錯誤。",
+    "source": "五(1) 外科概論、腦神外｜庚 急救外傷｜題 4（111一）專醫五-4",
+    "tags": ["trauma", "hemorrhagic shock", "damage control", "laparotomy"]
+  },
+  {
+    "id": "MED_05_01_TRAUMA_Q0005",
+    "stem": "外傷初始評估（initial assessment）之 primary survey，下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "第一步為 airway 評估，操作時同時注意頸椎保護（cervical spine protection）" },
+      { "key": "B", "text": "breathing 評估若懷疑 tension pneumothorax，需先照胸部 X 光確認後再插胸管" },
+      { "key": "C", "text": "circulation 評估可用 FAST 迅速偵測腹膜內出血" },
+      { "key": "D", "text": "disability/exposure 階段需評估 GCS，並注意低體溫（hypothermia）" }
+    ],
+    "answer": "B",
+    "explanation": "tension pneumothorax 是立即致命（immediately life-threatening）的可逆原因，診斷以臨床為主（呼吸音減弱、低血壓、頸靜脈怒張、氣管偏移等）。\n\nB 錯：不應等待胸部 X 光「確認」才處置。正確流程：立即針刺減壓（needle decompression/或指引改採 finger thoracostomy）→ 隨後胸管（tube thoracostomy）→ 再以影像追蹤。\n\nA/C/D 皆符合 ATLS 邏輯：先 A、再 B、再 C，並同時嚴防低體溫惡化凝血功能（與 lethal triad 相扣）。",
+    "source": "五(1) 外科概論、腦神外｜庚 急救外傷｜題 5（110二）專醫五-2",
+    "tags": ["trauma", "primary survey", "atls", "tension pneumothorax"]
+  },
+  {
+    "id": "MED_05_01_TRAUMA_Q0006",
+    "stem": "重大外傷依 Damage Control Principles 的處理策略，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "lethal triad 包括 hypotension、hypothermia、metabolic acidosis" },
+      { "key": "B", "text": "策略包含積極復甦、快速止血、腸道破裂快速處理（可先不重建）、暫時性關腹" },
+      { "key": "C", "text": "大量輸血策略常採 packed RBC:FFP:platelet 約 1:1:1" },
+      { "key": "D", "text": "TXA 可納入嚴重出血的傷害控制策略（有時間窗）" }
+    ],
+    "answer": "A",
+    "explanation": "A 錯：經典 lethal triad 是 hypothermia + coagulopathy + metabolic acidosis（不是 hypotension）。低血壓常見但不列為 triad 成員。\n\nB 對：damage control surgery 的核心是「先止血/控污染 → 暫時關腹 → ICU 矯正生理失衡 → 再回手術室 definitive repair」。\nC 對：大量輸血（massive transfusion）常用 balanced resuscitation（RBC:FFP:PLT 接近 1:1:1）以降低稀釋性凝血障礙。\nD 對：TXA（tranexamic acid）可降低外傷出血死亡率，但必須在受傷後 3 小時內給予效果最好；超過 3 小時反而可能有害。\n\n（劑量考點：常用 1 g IV 10 分鐘內 + 1 g IV 持續 8 小時。）",
+    "source": "五(1) 外科概論、腦神外｜庚 急救外傷｜題 6（110一）專醫五-1",
+    "tags": ["trauma", "damage control", "massive transfusion", "txa"]
+  },
+  {
+    "id": "MED_05_01_TRAUMA_Q0007",
+    "stem": "大量出血或休克病患可能出現 lethal triad，下列何者不屬於 lethal triad？",
+    "options": [
+      { "key": "A", "text": "arrhythmia" },
+      { "key": "B", "text": "acidosis" },
+      { "key": "C", "text": "hypothermia" },
+      { "key": "D", "text": "coagulopathy" }
+    ],
+    "answer": "A",
+    "explanation": "lethal triad：hypothermia + coagulopathy + metabolic acidosis。\n\narrhythmia 可在休克/低體溫/酸中毒下出現，但不是 triad 組成要素。臨床重點是：一旦看到 triad 任一要素，就要同時處理其他兩項（保溫、止血與凝血因子補充、矯正灌流）。",
+    "source": "五(1) 外科概論、腦神外｜庚 急救外傷｜題 7（109二）專醫五-4",
+    "tags": ["trauma", "lethal triad", "shock"]
+  },
+  {
+    "id": "MED_05_01_TRAUMA_Q0008",
+    "stem": "外傷死亡病人，在外傷發生後哪個時段死亡人數最多？",
+    "options": [
+      { "key": "A", "text": "0–15 minutes" },
+      { "key": "B", "text": "1–24 hours" },
+      { "key": "C", "text": "3–7 days" },
+      { "key": "D", "text": "7–30 days" }
+    ],
+    "answer": "A",
+    "explanation": "外傷死亡呈典型時間分布：\n- 立即期（minutes）：多因嚴重腦傷、心臟/大血管破裂等，最集中。\n- 早期（hours）：多因出血性休克、可逆胸腹急症。\n- 晚期（days-weeks）：多因敗血症、MODS。\n\n因此死亡人數最多落在 0–15 分鐘。",
+    "source": "五(1) 外科概論、腦神外｜庚 急救外傷｜題 8（108二）專醫五-4",
+    "tags": ["trauma", "epidemiology", "mortality"]
+  },
+  {
+    "id": "MED_05_01_TRAUMA_Q0009",
+    "stem": "頸部受傷病人接受頸部探查手術（neck exploration）的適應症，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "頸部血腫持續擴大" },
+      { "key": "B", "text": "頸部出現皮下氣腫" },
+      { "key": "C", "text": "喘鳴（stridor）" },
+      { "key": "D", "text": "脈搏增快" }
+    ],
+    "answer": "D",
+    "explanation": "頸部穿透傷/重傷的「硬指徵」包含進行性血腫、活動性出血、氣道受損徵象（喘鳴、呼吸窘迫）、皮下氣腫（氣管/食道傷疑慮）、神經缺損等，常需立即手術或緊急介入。\n\n單純心跳快（tachycardia）原因太多（疼痛、焦慮、出血、缺氧等），不是特異的手術適應症，因此為錯誤選項。",
+    "source": "五(1) 外科概論、腦神外｜庚 急救外傷｜題 9（108二）專醫五-2",
+    "tags": ["trauma", "neck injury", "surgery indication"]
+  },
+  {
+    "id": "MED_05_01_TRAUMA_Q0010",
+    "stem": "外傷病人下列何種情況時不做腹部電腦斷層（abdominal CT）？",
+    "options": [
+      { "key": "A", "text": "腹部鈍挫傷" },
+      { "key": "B", "text": "評估是否有胰臟受傷" },
+      { "key": "C", "text": "身體評估無法判斷腹部是否受傷" },
+      { "key": "D", "text": "BP 65–72 mmHg、HR 108–112/min、RR 20–25/min" }
+    ],
+    "answer": "D",
+    "explanation": "腹部 CT 適用於「血流動力學相對穩定」且需要精準分級/定位傷害的外傷病人。\n\nD 的生命徵象顯示明顯不穩定（休克），此時優先是 ABC、快速找出可逆原因、以及止血（如 FAST 陽性 → 立即剖腹探查）。把不穩定病人送 CT 會延誤救命處置。",
+    "source": "五(1) 外科概論、腦神外｜庚 急救外傷｜題 10（107一）專醫五-5",
+    "tags": ["trauma", "ct", "hemodynamic instability", "fast"]
+  },
+  {
+    "id": "MED_05_01_TRAUMA_Q0011",
+    "stem": "腹部鈍傷時採用診斷性腹膜沖洗（DPL）的適應症，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "理學檢查無法判斷的狀況" },
+      { "key": "B", "text": "脊椎損傷（無法可靠評估腹痛）" },
+      { "key": "C", "text": "有剖腹探查的明顯適應症" },
+      { "key": "D", "text": "不明原因休克或低血壓" }
+    ],
+    "answer": "C",
+    "explanation": "DPL 的定位是：在某些資源/情境下，用於快速判斷腹腔內是否出血或腸內容物污染，尤其在臨床評估受限或不明原因休克時。\n\n若已經有明確需要剖腹探查的適應症（例如腹膜炎、持續性不穩定且高度懷疑腹腔出血），就不應再做 DPL；應直接手術止血/控制污染。因此 (C) 錯。",
+    "source": "五(1) 外科概論、腦神外｜庚 急救外傷｜題 11（106一）專醫五-2",
+    "tags": ["trauma", "dpl", "indication", "laparotomy"]
+  },
+  {
+    "id": "MED_05_01_TRAUMA_Q0012",
+    "stem": "嚴重外傷合併腹內大量出血與休克，可能需採傷害控制手術以避免 lethal triad。下列何者不屬於 lethal triad？",
+    "options": [
+      { "key": "A", "text": "凝血機能不全（coagulopathy）" },
+      { "key": "B", "text": "代謝性酸中毒（metabolic acidosis）" },
+      { "key": "C", "text": "低體溫（hypothermia）" },
+      { "key": "D", "text": "敗血症（sepsis）" }
+    ],
+    "answer": "D",
+    "explanation": "lethal triad 的三元素是 hypothermia、coagulopathy、metabolic acidosis。\n\n敗血症屬於較晚期併發症（晚期死亡原因之一），不是 triad 組成。",
+    "source": "五(1) 外科概論、腦神外｜庚 急救外傷｜題 12（106一）專醫五-4",
+    "tags": ["trauma", "damage control", "lethal triad"]
+  },
+  {
+    "id": "MED_05_01_TRAUMA_Q0013",
+    "stem": "50 歲卡車司機高速追撞卡在車內 20 分鐘，到院 BP 80/40 mmHg、躁動，腹部脹大、左腿變形。下列何項敘述最不適當？",
+    "options": [
+      { "key": "A", "text": "應立即進行腦部 CT 檢查" },
+      { "key": "B", "text": "床邊腹部超音波（FAST）可用於加速手術決策" },
+      { "key": "C", "text": "中心靜脈導管放置不應拖延進手術室時間" },
+      { "key": "D", "text": "血氧飽和度 92% 可能受灌流不佳影響，需解讀謹慎" }
+    ],
+    "answer": "A",
+    "explanation": "外傷休克時處置優先：穩定 ABC + 迅速找出致命出血來源（FAST、胸部評估、骨盆評估）→ 必要時立即手術/止血。\n\nA 不適當：在明顯休克與疑腹腔出血情境下，腦部 CT 不應排在前面，除非有明確顱內災難且已穩定循環/氣道；此例腹部脹大提示腹內出血，應先走 trauma algorithm。\n\nB/C/D 皆符合「不延誤止血」的思維。",
+    "source": "五(1) 外科概論、腦神外｜庚 急救外傷｜題 13（105二）專醫五-76",
+    "tags": ["trauma", "shock", "fast", "prioritization"]
+  },
+  {
+    "id": "MED_05_01_TRAUMA_Q0014",
+    "stem": "下列哪一個腹部器官在腹部鈍傷中最常受到傷害？",
+    "options": [
+      { "key": "A", "text": "肝臟" },
+      { "key": "B", "text": "腎臟" },
+      { "key": "C", "text": "脾臟" },
+      { "key": "D", "text": "胰臟" }
+    ],
+    "answer": "C",
+    "explanation": "鈍性腹部外傷最常受傷的實質器官通常是脾臟（其次常見肝臟）。\n\n考點：\n- 左上腹痛、Kehr sign（肩痛）可提示脾傷。\n- 穩定病人以 CT 分級決定保守 vs 介入栓塞 vs 手術。",
+    "source": "五(1) 外科概論、腦神外｜庚 急救外傷｜題 14（105一）專醫五-1",
+    "tags": ["trauma", "blunt abdominal trauma", "spleen"]
+  },
+  {
+    "id": "MED_05_01_TRAUMA_Q0015",
+    "stem": "外傷病患緊急插管時，下列何項最應該注意？",
+    "options": [
+      { "key": "A", "text": "保護頸椎（cervical spine protection）" },
+      { "key": "B", "text": "注意腦壓升高" },
+      { "key": "C", "text": "注意吸入性肺炎" },
+      { "key": "D", "text": "注意麻藥劑量過多" }
+    ],
+    "answer": "A",
+    "explanation": "未排除頸椎傷前，外傷插管必須假設「有頸椎不穩」：採 inline stabilization、避免過度屈伸旋轉。\n\n其餘皆需注意，但在外傷插管的「專屬致命錯誤」是忽略頸椎保護造成二次脊髓損傷，因此最重要。",
+    "source": "五(1) 外科概論、腦神外｜庚 急救外傷｜題 15（105一）專醫五-3",
+    "tags": ["trauma", "airway", "c-spine"]
+  },
+  {
+    "id": "MED_05_01_TRAUMA_Q0016",
+    "stem": "嚴重外傷早期死亡常見原因為嚴重腦外傷及出血性休克。下列體腔容易積血而造成早期死亡，但何者除外？",
+    "options": [
+      { "key": "A", "text": "胸腔（thoracic cavity）" },
+      { "key": "B", "text": "腹腔（abdominal cavity）" },
+      { "key": "C", "text": "骨盆腔（pelvic cavity）" },
+      { "key": "D", "text": "後腹膜腔（retroperitoneal cavity）" }
+    ],
+    "answer": "D",
+    "explanation": "ATLS 的「致命出血三大腔室」常以胸腔、腹腔、骨盆腔作為第一時間要排除的 non-compressible bleeding source。\n\n後腹膜出血確實可能巨大且隱匿（常與骨盆骨折/大血管傷相關），但在考題架構中常不列為獨立的首三大腔室，因此本題以 (D) 為「除外」。\n\n臨床提醒：若機轉強烈、血流不穩且胸腹 FAST/影像未解釋，仍要高度懷疑後腹膜/骨盆出血。",
+    "source": "五(1) 外科概論、腦神外｜庚 急救外傷｜題 16（103二）專醫五-2",
+    "tags": ["trauma", "hemorrhage", "body cavity"]
+  },
+  {
+    "id": "MED_05_01_TRAUMA_Q0017",
+    "stem": "23 歲男性左臀部鐵條刺傷，鐵條已脫離，傷口約 2 cm、深度不明，生命徵象穩定。下列何種初步緊急處置不洽當？",
+    "options": [
+      { "key": "A", "text": "馬上緊急縫合傷口" },
+      { "key": "B", "text": "腹部理學檢查" },
+      { "key": "C", "text": "肛門指診" },
+      { "key": "D", "text": "抽血檢驗" }
+    ],
+    "answer": "A",
+    "explanation": "穿刺傷（尤其臀部/會陰附近）需先評估是否傷及直腸、泌尿道或腹膜腔。\n\n不應立即縫合：可能把污染/出血封閉於深部，且會掩蓋深層傷害。正確作法是傷口探查、必要影像與內視鏡評估後，再決定延遲縫合或其他處置。\n\nB/C/D 皆屬合理的初期評估（腹部徵象、直腸出血、感染/失血指標）。",
+    "source": "五(1) 外科概論、腦神外｜庚 急救外傷｜題 17（103二）專醫五-52",
+    "tags": ["trauma", "penetrating injury", "buttock", "wound management"]
+  },
+  {
+    "id": "MED_05_01_TRAUMA_Q0018",
+    "stem": "延續上一題：病人腹部壓痛、肛門指診有血絲、WBC 上升。下列何者最須優先考量之檢查？",
+    "options": [
+      { "key": "A", "text": "膀胱鏡檢查有無尿道損傷" },
+      { "key": "B", "text": "大腸鏡檢查有無腸道損傷" },
+      { "key": "C", "text": "傷口注射顯影劑攝影檢查有無瘻管" },
+      { "key": "D", "text": "胸腹部 X 光檢查看腹腔內有無游離氣體（free air）" }
+    ],
+    "answer": "D",
+    "explanation": "肛門指診有血絲 + 腹部壓痛 → 優先排除腸道穿孔/腹腔污染。\n\n最前線、最快能改變處置的檢查之一是 X 光（或依資源採 CT）看 free air 等穿孔線索；若有穿孔徵象或病況不穩，手術/外科介入優先。\n\n膀胱鏡/大腸鏡較屬後續精細定位；瘻管攝影通常不是急診第一步。",
+    "source": "五(1) 外科概論、腦神外｜庚 急救外傷｜題 18（103二）專醫五-53",
+    "tags": ["trauma", "rectal injury", "free air", "workup"]
+  },
+  {
+    "id": "MED_05_01_TRAUMA_Q0019",
+    "stem": "延續前題：尿液檢查正常、腹部 X 光無異常。下列何者是檢查直腸損傷最適當的檢查？",
+    "options": [
+      { "key": "A", "text": "肛門指診" },
+      { "key": "B", "text": "硬式乙狀結腸鏡檢查" },
+      { "key": "C", "text": "大腸纖維內視鏡檢查（colonoscopy）" },
+      { "key": "D", "text": "大腸鋇劑 X 光攝影" }
+    ],
+    "answer": "B",
+    "explanation": "在穿刺傷懷疑直腸損傷時，下一步需要能直接視診直腸/乙狀結腸遠端黏膜的檢查。\n\n硬式乙狀結腸鏡（rigid sigmoidoscopy）是典型、快速且在急性外傷情境較合用的工具；可直接看到撕裂、出血、穿孔。\n\nA 指診敏感度不足；C 全大腸鏡較耗時且準備限制；D 鋇劑檢查在疑穿孔情境不合適。",
+    "source": "五(1) 外科概論、腦神外｜庚 急救外傷｜題 19（103二）專醫五-54",
+    "tags": ["trauma", "rectal injury", "sigmoidoscopy"]
+  },
+  {
+    "id": "MED_05_01_TRAUMA_Q0020",
+    "stem": "直腸損傷嚴重，縫合修補無法完全。下列何者不是適當治療方法？",
+    "options": [
+      { "key": "A", "text": "臀部傷口清創處理" },
+      { "key": "B", "text": "腹部腸道分流造口術（ostomy）" },
+      { "key": "C", "text": "傷口置放引流管" },
+      { "key": "D", "text": "剖腹切除直腸併腸吻合手術" }
+    ],
+    "answer": "D",
+    "explanation": "外傷性直腸嚴重損傷的治療核心是：控制污染（fecal diversion）、充分引流、清創與抗生素，必要時分期重建。\n\n直接做直腸切除合併一期吻合在污染/組織灌流差的外傷情境下吻合失敗與感染風險高，通常屬過度且不理想的處置，因此 (D) 不適當。\n\nA/B/C 都是常見且合理的「保命與控污染」策略組合。",
+    "source": "五(1) 外科概論、腦神外｜庚 急救外傷｜題 20（103二）專醫五-55",
+    "tags": ["trauma", "rectal injury", "diversion", "damage control"]
+  },
+  {
+    "id": "MED_05_01_TRAUMA_Q0021",
+    "stem": "關於大腸直腸穿刺傷（penetrating colorectal injury）的敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "處置需考量受傷機轉、受傷至手術延遲時間、腹膜腔感染程度" },
+      { "key": "B", "text": "直接修復（primary repair）較適用於生命徵象穩定且傷害/感染程度較輕者" },
+      { "key": "C", "text": "所有伴隨腸繫膜血管損傷者都可以直接修復（primary repair）" },
+      { "key": "D", "text": "直腸直接修復通常較大腸困難，且常因感染程度需人工肛門輔助" }
+    ],
+    "answer": "C",
+    "explanation": "C 錯：腸繫膜血管損傷代表腸段灌流可能受損、壞死風險提高，未必適合直接修復；需要依血流、污染程度、病人穩定性與損傷範圍決定切除/重建或分流。\n\nA/B/D 為正確原則：決策取決於「生理狀態 + 污染/感染 + 局部灌流與損傷範圍」；直腸傷常更深、更難清創與引流，故更常需要分流與引流策略。",
+    "source": "五(1) 外科概論、腦神外｜庚 急救外傷｜題 21（103一）專醫五-51",
+    "tags": ["trauma", "colon injury", "rectal injury", "surgery decision"]
   }
+
 
 
 
