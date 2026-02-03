@@ -2624,8 +2624,107 @@
     "explanation": "Anderson–D'Alonzo：Type I（tip）少見且較穩定；Type II（base/頸部交界）最常見、最不穩定且不癒合率高；Type III 延伸進 C2 椎體，血流較佳、癒合率相對高，常可保守固定。故把「Type I 最常見且是 base 骨折」的描述明顯錯誤。",
     "source": "辛 脊椎疾病｜題 12（112一）專醫五-57",
     "tags": ["neurosurgery", "spine", "trauma", "odontoid fracture", "classification"]
-  }
+  },
 
+
+  {
+    "id": "MED_05_01_NS_Q0085",
+    "stem": "最常見的單一顱骨縫合過早（single-suture craniosynostosis）是哪一種？",
+    "options": [
+      { "key": "A", "text": "冠狀縫（coronal）" },
+      { "key": "B", "text": "人字縫（lambdoid）" },
+      { "key": "C", "text": "矢狀縫（sagittal）" },
+      { "key": "D", "text": "蝶顴縫（sphenozygomatic）" }
+    ],
+    "answer": "C",
+    "explanation": "最常見的單一縫合早閉是矢狀縫早閉（sagittal synostosis），典型頭型為舟狀頭（scaphocephaly；前後徑變長、雙側頭顱變窄）。\n補充：冠狀縫早閉可造成短頭（雙側）或前斜頭（單側）；額縫（metopic）早閉常見三角頭（trigonocephaly）；人字縫早閉相對少見，需與姿勢性斜頭鑑別。",
+    "source": "子三 三叉神經痛及其他｜題 11（106二）專醫五-9",
+    "tags": ["neurosurgery", "peds", "craniosynostosis"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0086",
+    "stem": "下列有關治療多汗症手術（sympathectomy/ETS）的敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "手掌及腋下多汗症可透過胸腔鏡交感神經節切除改善" },
+      { "key": "B", "text": "手術切除的主要部位是第四及第五胸交感神經節" },
+      { "key": "C", "text": "可能副作用中的 Horner’s syndrome 原因是將 T1 交感神經節切除" },
+      { "key": "D", "text": "可能的副作用包括血胸及氣胸" }
+    ],
+    "answer": "B",
+    "explanation": "胸腔鏡交感神經手術的常見目標節段依症狀而異，但經典考點是：手掌多汗多在 T2–T3（或 T2–T4）節段處理；腋下多汗偏向較低節段（如 T3–T4）。因此將「主要部位」說成 T4–T5 並不恰當。\n其他選項：侵犯到上胸段（靠近 T1/stellate ganglion）可造成 Horner’s；胸腔鏡手術併發症可見氣胸/血胸；另高頻考點是 compensatory sweating。",
+    "source": "子三 三叉神經痛及其他｜題 12（105一）專醫五-10",
+    "tags": ["surgery", "ets", "sympathectomy", "complications"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0087",
+    "stem": "陳先生 75 歲，原住民，左側硬腦膜下出血接受血塊移除手術後住加護病房。術後第 3 天來探視，第 5 天順利拔管；起來焦慮、說著聽不懂的話語、一直想下床。當班外科醫師應如何處置？",
+    "options": [
+      { "key": "A", "text": "術後本來就會神智不清，先綁束帶維護安全避免拔管路" },
+      { "key": "B", "text": "為了讓護理更好照顧，給予鎮靜劑讓他不要那麼躁動" },
+      { "key": "C", "text": "請懂原住民語的同鄉或家屬協助聽懂其話語內容，嘗試了解他的需求" },
+      { "key": "D", "text": "此時其實無行為能力，必要醫療處置（如更換中央靜脈導管）不需與他溝通" }
+    ],
+    "answer": "C",
+    "explanation": "這是典型「術後譫妄/急性腦功能障礙」情境：焦慮、語意不清、躁動與企圖下床。第一步應先改善溝通、評估可逆原因與安全環境（疼痛、缺氧/高碳酸血症、感染、代謝異常、藥物、尿滯留/便秘、睡眠剝奪等）。\n(C) 以語言/文化適配的方式了解需求並降低恐懼，是最合理的起手式。\n(A) 約束帶可能短期必要，但應是最後手段且需同步處理病因、降低刺激。\n(B) 鎮靜可能掩蓋神經學惡化、增加呼吸抑制與譫妄，除非危及自身/他人安全才慎用、以最低有效劑量。\n(D) 即便病人能力受影響，仍應盡可能溝通並採取替代同意流程（法定代理/家屬），不是直接不溝通。",
+    "source": "子三 三叉神經痛及其他｜題 13（105一）專醫五-79",
+    "tags": ["neurosurgery", "icu", "delirium", "ethics", "communication"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0088",
+    "stem": "下列何種顱縫過早閉閉（craniosynostosis）最常見？",
+    "options": [
+      { "key": "A", "text": "人狀縫骨縫早閉（lambdoid synostosis）" },
+      { "key": "B", "text": "冠狀縫骨縫早閉（coronal synostosis）" },
+      { "key": "C", "text": "矢狀縫骨縫早閉（isolated sagittal synostosis）" },
+      { "key": "D", "text": "額骨骨縫早閉（metopic synostosis）" }
+    ],
+    "answer": "C",
+    "explanation": "最常見的 craniosynostosis 為 isolated sagittal synostosis。冠狀縫（單側/雙側）也常見但比例較低；metopic 與 lambdoid 相對更少見。臨床鑑別時，lambdoid synostosis 需與姿勢性斜頭（positional plagiocephaly）區分。",
+    "source": "子三 三叉神經痛及其他｜題 14（104二）專醫五-10",
+    "tags": ["neurosurgery", "peds", "craniosynostosis"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0089",
+    "stem": "在兒童受虐（child abuse）的表現中，下列何者為最少見之臨床表徵？",
+    "options": [
+      { "key": "A", "text": "長骨同時可見急性及癒合骨折（acute and healing long-bone fractures）" },
+      { "key": "B", "text": "腦半球間硬腦膜下血腫（interhemispheric subdural hematoma）" },
+      { "key": "C", "text": "顱骨頂骨骨折（parietal skull fracture）" },
+      { "key": "D", "text": "視網膜出血（retinal hemorrhages）" }
+    ],
+    "answer": "C",
+    "explanation": "虐待性頭部外傷（abusive head trauma）高頻線索包括：硬腦膜下出血（含 interhemispheric）、視網膜出血、以及多處/不同癒合期的骨折（尤其肋骨後段、metaphyseal corner fractures、長骨多發）。\n相較之下，「單純的頂骨線性骨折」更常見於意外跌落/撞擊（當然在虐待也可能出現），因此在這些選項中被視為較不典型、相對“最少見/最不具代表性”的表徵。",
+    "source": "子三 三叉神經痛及其他｜題 15（104二）專醫五-13",
+    "tags": ["pediatrics", "child abuse", "abusive head trauma"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0090",
+    "stem": "下列有關 spinal epidural abscess 的敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "大多是血行性感染或直接由 osteomyelitis 延伸而來" },
+      { "key": "B", "text": "相對罕見且常常較晚期才診斷出來" },
+      { "key": "C", "text": "含顯影劑的 MRI 可以幫助診斷" },
+      { "key": "D", "text": "當發現 epidural abscess 有壓迫 spinal cord 應立即採取抗生素單一治療" }
+    ],
+    "answer": "D",
+    "explanation": "若已出現脊髓/神經根壓迫或神經學缺損，單靠抗生素往往不足，通常需要「緊急外科減壓/引流 + 靜脈抗生素」以避免不可逆神經傷害。\n補充高頻考點：典型三徵為背痛、發燒、神經缺損，但三者同時出現的比例不高，臨床常延遲診斷；MRI（含顯影）是首選影像；常見病原為金黃色葡萄球菌。",
+    "source": "子三 三叉神經痛及其他｜題 16（103二）專醫五-13",
+    "tags": ["neurosurgery", "spine", "infection", "epidural abscess"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0091",
+    "stem": "腦部血流約占心輸出量（cardiac output）的多少百分比？",
+    "options": [
+      { "key": "A", "text": "6%" },
+      { "key": "B", "text": "15%" },
+      { "key": "C", "text": "25%" },
+      { "key": "D", "text": "30%" }
+    ],
+    "answer": "B",
+    "explanation": "成人腦血流量約 50 mL/100 g/min（全腦約 700–900 mL/min），大致占心輸出量約 15% 左右；同時腦耗氧量約占全身耗氧量約 20%（兩者常一起考）。",
+    "source": "子三 三叉神經痛及其他｜題 17（103一）專醫五-12",
+    "tags": ["physiology", "cerebral blood flow"]
+  }
 
 
 ]
