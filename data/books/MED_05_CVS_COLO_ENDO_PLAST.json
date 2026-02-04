@@ -553,7 +553,375 @@
     ],
     "answer": "C",
     "explanation": "【書上答案】(C)\n【書上詳解】血液動力學不穩定病人並非不停跳冠狀動脈繞道手術之適應症，仍以一般冠狀動脈繞道手術為主。\n【補充考點】Off-pump 常被用於降低 CPB 相關併發症（例如腎功能不良、嚴重 COPD、atheroma burden 高減少中風風險等）之選案，但「不穩定」反而常需要更可控的 on-pump 支援。"
+  },
+
+
+  
+  {
+    "id": "MED_05_02_D_Q0001",
+    "stem": "天大之新生兒單純大動脈轉位（simple transposition of great arteries without ventricular defect），發紺，血氧約 60%，下列處置何者最不合醫療常規？",
+    "options": [
+      { "key": "A", "text": "立即插管，給輸液" },
+      { "key": "B", "text": "避免分流過大，停止血管擴張劑 prostaglandin E1（PGE1），在 2 週後手術" },
+      { "key": "C", "text": "立即送手術室行大動脈轉位手術（arterial switch operation）" },
+      { "key": "D", "text": "可考慮送導管室進行心房中隔氣球擴張術" }
+    ],
+    "answer": "B",
+    "explanation": "單純 TGA 的致病核心是「體循環與肺循環呈平行循環」，必須依賴混合通道（PDA、ASD/PFO、VSD）維持氧合。PGE1 的目的在於維持動脈導管開放以增加混合、改善缺氧，急性期不應任意停用；且 arterial switch operation 通常需在出生後早期（多在 1 週內、常見 3–5 天內）完成，以避免左心室因長期低阻肺循環缺乏負荷而退化，導致後續 switch 風險上升。若混合不足或 PGE1 效果不佳、缺氧嚴重，可行 balloon atrial septostomy（Rashkind）以增加心房層級混合。插管、鎮靜、矯正酸中毒、維持灌流與血流動力穩定亦屬標準急救處置。"
+  },
+  {
+    "id": "MED_05_02_D_Q0002",
+    "stem": "1 個月大女嬰，出生後診斷為完全型之心內膜墊異常（complete form, atrioventricular defect），下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "此類病患會很快心臟衰竭，需儘早手術，對此女嬰可建議肺動脈窄縮術（pulmonary artery banding）" },
+      { "key": "B", "text": "此病人之心臟傳導系統（conduction system）及房室結（atrioventricular node）位置與單純性之大動脈轉位（simple transposition of great arteries）一樣" },
+      { "key": "C", "text": "此類病患與單純心房及心室中隔缺損（simple atrial defect and ventricular defect）不同，在全矯正之後，仍有可能會有二尖瓣或三尖瓣之問題" },
+      { "key": "D", "text": "其瓣膜之異常主要是根據 Rastelli classification 分類，主要分 A、B、C 三型態" }
+    ],
+    "answer": "B",
+    "explanation": "完全型房室中隔缺損（CAVSD）常見於 Down syndrome，特徵為房室中隔缺損合併共同房室瓣（common AV valve），易造成左到右分流、肺血流過多、肺高壓與心衰竭，需及早介入治療；若不適合立即全矯正，可用肺動脈窄縮術降低肺循環負荷、延緩肺血管病變（A 正確）。CAVSD 的傳導系統與 AV node 位置確實較正常解剖有差異，但「與 TGA 一樣」不正確；TGA 的重點是大血管轉位與平行循環，兩者 AV node 異常型態與臨床手術考量不同，因此 (B) 為錯。全矯正後仍可能有房室瓣返流/狹窄等問題（C 正確）。Rastelli classification（A/B/C）是 CAVSD 常用的形態分類之一（D 正確）。"
+  },
+  {
+    "id": "MED_05_02_D_Q0003",
+    "stem": "有關全肺靜脈異常（total anomalous pulmonary venous connection, TAPVC）之敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "手術治療 infracardiac type 與 supracardiac type TAPVC 時，建議保留垂直靜脈（vertical vein），不截紮或不截斷" },
+      { "key": "B", "text": "不論是否有阻塞之單純 TAPVC，應建議手術矯正" },
+      { "key": "C", "text": "無縫之修復法（sutureless repair）適合用於全肺靜脈異常術後再狹窄之病患" },
+      { "key": "D", "text": "心導管（cardiac catheterization）之檢查已經是非必要之檢查" }
+    ],
+    "answer": "A",
+    "explanation": "TAPVC 手術重點之一是處理垂直靜脈（vertical vein）。多數 supracardiac / infracardiac TAPVC 在矯正後應「截紮或截斷」垂直靜脈，以避免異常分流持續影響血流動力學；僅少數情況（例如術後疑似肺靜脈回流阻塞、需要暫時減壓）才可能選擇暫時保留，因此 (A) 以「建議保留、不截紮」作為常規敘述是錯的。即使無明顯阻塞（unobstructed），TAPVC 仍會造成右心容量負荷、低氧及長期併發症，通常建議手術矯正（B 正確）。Sutureless repair 可降低吻合口狹窄風險，特別用於術後肺靜脈再狹窄（C 正確）。現今診斷多依賴心臟超音波與 CT/MRI，心導管多為選擇性檢查（D 正確）。"
+  },
+  {
+    "id": "MED_05_02_D_Q0004",
+    "stem": "最常合併主動脈脫垂或逆流的心室中隔缺損為下列何者？",
+    "options": [
+      { "key": "A", "text": "小的（< 3 mm） perimembranous type（type II）" },
+      { "key": "B", "text": "大的（> 5 mm） perimembranous type（type II）" },
+      { "key": "C", "text": "subarterial type（type I）" },
+      { "key": "D", "text": "muscular type" }
+    ],
+    "answer": "C",
+    "explanation": "Subarterial（又稱 outlet / doubly committed subarterial）VSD 位於主動脈瓣與肺動脈瓣之間的 outlet septum，缺乏主動脈瓣瓣葉的支撐結構，且高流速分流的 Venturi effect 會牽拉主動脈瓣（常見 right coronary cusp 或 non-coronary cusp）向下脫垂，隨時間造成瓣葉變形與主動脈逆流，因此最常合併 Ao cusp prolapse/AR。小的 perimembranous VSD 通常不影響主動脈瓣；大的 perimembranous 可能影響但風險仍低於 subarterial；muscular VSD 多不牽涉主動脈瓣結構。"
+  },
+  {
+    "id": "MED_05_02_D_Q0005",
+    "stem": "有關心房中隔（atrial septal defect, ASD）之敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "在年齡大於 40 歲病人的心房中隔缺損，心導管檢查是高度建議的" },
+      { "key": "B", "text": "有心房中隔缺損且固定之肺動脈阻力過高（大於 12 Wood units）之病患，不可以將其缺損關閉" },
+      { "key": "C", "text": "在有 ASD with inferior sinus venosus type 的病患，常併有二尖瓣逆流（mitral regurgitation）" },
+      { "key": "D", "text": "在青春期前的女性，不適合使用右前側開胸術（anterolateral thoracotomy）來修補" }
+    ],
+    "answer": "C",
+    "explanation": "Inferior sinus venosus type ASD 常與下腔靜脈（IVC）或肺靜脈異常回流相關，並非典型與二尖瓣逆流相關；MR 較常見於原發性瓣膜病變或左心室擴大等情境，因此 (C) 為錯。年齡較大（>40）ASD 可能已有肺高壓/右心負荷，心導管可用於評估肺血管阻力與可逆性、決定是否適合關閉（A 正確）。若 PVR 固定且高（如 >12 Wood units），關閉缺損可能惡化右心衰竭，通常不建議（B 正確）。青春期前/年輕女性 ASD 手術路徑會考量美觀，臨床上反而常傾向側開胸（anterolateral thoracotomy）而非正中開胸，是否採用需個案化；因此將其一概說成「不適合」並不正確的方向（D 非本題錯誤點）。"
+  },
+  {
+    "id": "MED_05_02_D_Q0006",
+    "stem": "有關全肺靜脈異常（total anomalous pulmonary venous connection, TAPVC）之敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "手術治療 infracardiac type 與 supracardiac type TAPVC 時，建議保留垂直靜脈（vertical vein），不截紮或不截斷" },
+      { "key": "B", "text": "不論是否有阻塞之單純 TAPVC，應建議手術矯正" },
+      { "key": "C", "text": "無縫之修復法（sutureless repair）適合用於全肺靜脈異常術後再狹窄之病患" },
+      { "key": "D", "text": "心導管（cardiac catheterization）之檢查已經是非必要之檢查" }
+    ],
+    "answer": "A",
+    "explanation": "與第 3 題同旨：TAPVC 矯正後多數情況應截紮/截斷 vertical vein 以避免持續異常分流與血流動力學負擔；僅少數術後回流阻塞或需暫時減壓情境才可能暫留，因此把「建議保留、不截紮」視為常規是錯誤（A）。其餘選項方向正確：TAPVC 多建議手術矯正（B），sutureless repair 常用於術後再狹窄（C），現代影像進步下心導管多屬選擇性檢查（D）。"
+  },
+  {
+    "id": "MED_05_02_D_Q0007",
+    "stem": "最常合併主動脈脫垂或逆流的心室中隔缺損為下列何者？",
+    "options": [
+      { "key": "A", "text": "小的（< 3 mm） perimembranous type（type II）" },
+      { "key": "B", "text": "大的（> 5 mm） perimembranous type（type II）" },
+      { "key": "C", "text": "subarterial type（type I）" },
+      { "key": "D", "text": "muscular type" }
+    ],
+    "answer": "C",
+    "explanation": "題幹重點在「主動脈瓣缺乏支撐＋高流速分流牽拉瓣葉」。Subarterial type（type I）VSD 靠近主動脈瓣與肺動脈瓣下方，最易造成瓣葉脫垂與主動脈逆流，故選 (C)。"
+  },
+  {
+    "id": "MED_05_02_D_Q0008",
+    "stem": "有關單一心室先天性心臟病之敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "左心室發育不全症候群（hypoplastic left heart syndrome）和三尖瓣發育不全（tricuspid atresia）皆適合行 Fontan 術式" },
+      { "key": "B", "text": "Bidirectional Glenn shunt 可以是 Fontan 術式之階段手術，一般建議在第一階段手術後 3 至 6 個月左右施行" },
+      { "key": "C", "text": "進行 Bidirectional Glenn shunt 術式時，保留動脈到肺動脈之分流，可增加血氧濃度，且可提高單心室之長期存活率" },
+      { "key": "D", "text": "Norwood 術式是單一心室之第一階段術式，可以採用心室到肺動脈之分流來取代主動脈到肺動脈之分流" }
+    ],
+    "answer": "C",
+    "explanation": "單心室重建的典型三階段：Norwood（±BT shunt 或 RV-PA/Sano shunt）→ Bidirectional Glenn（SVC 直接接至肺動脈以減少心室容量負荷）→ Fontan（IVC 接至肺動脈）。(A)(B)(D) 皆符合常見概念。(C) 的敘述把「保留 systemic-to-PA shunt（如 BT shunt / RV-PA shunt）可增加血氧」混入 Glenn 階段的核心目的；Glenn 的生理重點是降低單心室容量負擔並建立被動肺血流，是否保留額外肺血流屬個案策略，並非通則、也不必然提高長期存活率；題本解釋亦指出該選項描述其實偏向 BT shunt 的概念，因此 (C) 為錯。"
   }
+
+
+
+  
+  {
+    "id": "MED_05_02_D_Q0009",
+    "stem": "9 下列先天性心臟病，何者不是發紺性（cyanotic heart disease）心臟病？",
+    "options": [
+      { "key": "A", "text": "法洛氏四重症（tetralogy of Fallot）" },
+      { "key": "B", "text": "大動脈轉位（transposition of great arteries）" },
+      { "key": "C", "text": "肺動脈吊索（pulmonary artery sling）" },
+      { "key": "D", "text": "三尖瓣發育不全（tricuspid atresia）" }
+    ],
+    "answer": "C",
+    "explanation": "發紺型先天心臟病的核心是「右向左分流」或混合循環造成動脈血氧下降（例如 TOF、TGA、tricuspid atresia）。Pulmonary artery sling 為左肺動脈異常起源（常由右肺動脈分出）並跨過氣管/食道造成壓迫症狀（喘鳴、反覆肺炎），本質不是心內右左分流，因此不屬典型發紺型。臨床上 sling 重點考：呼吸道壓迫、合併氣管狹窄/氣管軟化、影像學與手術重建。"
+  },
+  {
+    "id": "MED_05_02_D_Q0010",
+    "stem": "10 下列那些先天性心臟病若不及時手術，可能會發生所謂的 Eisenmenger syndrome，最後需要心肺移植？\n① 肺動脈瓣狹窄\n② 心室中隔缺損\n③ 動脈幹症（truncus arteriosus）\n④ 開放性動脈導管",
+    "options": [
+      { "key": "A", "text": "僅①④" },
+      { "key": "B", "text": "僅②③" },
+      { "key": "C", "text": "②③④" },
+      { "key": "D", "text": "①②④" }
+    ],
+    "answer": "C",
+    "explanation": "Eisenmenger 的必要條件是「長期高流量/高壓的左向右分流」造成不可逆肺血管病變（PVR 上升）→ 分流逆轉成右向左 → 發紺。典型：VSD、PDA、AVSD、truncus arteriosus 等。肺動脈瓣狹窄多為右心出口阻塞，不會以左向右高壓分流造成肺血管硬化（反而肺血流可能下降），因此不是典型 Eisenmenger 機轉。考點：何者最容易進展（大型缺損、未治療）、何時禁忌關閉缺損（PVR 很高且不可逆）、最終治療為肺或心肺移植。"
+  },
+  {
+    "id": "MED_05_02_D_Q0011",
+    "stem": "11 在先天性心臟病的完全矯正，有時需使用帶有瓣膜的同種異體移植物（homograft of pulmonary artery or aorta, valved）來銜接右心室至肺動脈，下列那些先天性心臟病之完全矯正可能需要用到此移植物？\n① 動脈幹症（truncus arteriosus）\n② 肺靜脈回流完全異常\n③ 肺動脈瓣閉鎖合併心室中隔缺損\n④ 主動脈窄縮症",
+    "options": [
+      { "key": "A", "text": "①④" },
+      { "key": "B", "text": "②③" },
+      { "key": "C", "text": "③④" },
+      { "key": "D", "text": "①③" }
+    ],
+    "answer": "D",
+    "explanation": "Valved homograft（或 valved conduit）常用在「右心室至肺動脈」需要重建且必須具瓣膜功能的情境，例如 truncus arteriosus 的修補需建立 RV-PA conduit；pulmonary atresia（特別與 VSD/複雜 RVOT 重建相關）也可能需 conduit。TAPVR 是肺靜脈回流路徑異常，重點是把肺靜脈導回左心房，不屬 RV-PA 出口重建；CoA 多為遠端體循環狹窄，常用切除吻合或 patch/ flap 等，不需 valved conduit。"
+  },
+  {
+    "id": "MED_05_02_D_Q0012",
+    "stem": "12 一個 4 個月大的女嬰，母親是高齡產婦，女嬰出生時並無發紺現象，出生體重 2,500 gm。一個月後嬰兒呈現呼吸急促，食慾不佳，有盜汗現象，經醫師檢查，呼吸及心跳速率皆增加，胸骨左側可聽到心縮期雜音，肝臟也有腫大現象。心臟超音波檢查發現有左至右的分流，肺動脈壓增高，經投予藥物治療數星期之後，臨床症狀改善有限，且體重只有 3,500 gm，醫師建議手術治療。請依此回答下列 3 題：下列那些手術方式對此病患有幫助？\n① Blalock-Taussig 分流手術\n② 完全矯正（total correction）\n③ 肺動脈環縮術（PA banding）\n④ 肺動脈瓣切開術",
+    "options": [
+      { "key": "A", "text": "①③" },
+      { "key": "B", "text": "②③" },
+      { "key": "C", "text": "①④" },
+      { "key": "D", "text": "①②" }
+    ],
+    "answer": "B",
+    "explanation": "題幹是「無發紺 + 左向右分流 + 肺高壓/心衰表現（tachypnea、盜汗、餵食差、肝腫大）+ 左胸骨旁收縮期雜音」高度典型 VSD（大缺損）造成肺循環過量與右心系統負荷。治療策略：能直接修補則以完全矯正（關閉 VSD）為佳；若體重/狀況/肺血管條件不適合立刻完全矯正，則做 PA banding 以限制肺血流、降低肺動脈壓與肺血管損傷風險。BT shunt 用於增加肺血流（多見發紺型、肺血流不足）不符；肺動脈瓣切開術是瓣膜狹窄/閉鎖治療，不符。補充：大 VSD 若拖延可能進展 Eisenmenger，需評估 PVR 與可逆性。"
+  },
+  {
+    "id": "MED_05_02_D_Q0013",
+    "stem": "13 若病人沒有接受手術，數年之後病人呈發紺現象，經超音波檢查發現有右至左的分流現象，會造成此現象主要的原因為何？",
+    "options": [
+      { "key": "A", "text": "肺動脈血管壁硬化，使肺動脈血管阻力增加" },
+      { "key": "B", "text": "心室中隔缺損變小，肺動脈血流減少" },
+      { "key": "C", "text": "肺靜脈血管開口變狹窄，使肺動脈血管阻力增加" },
+      { "key": "D", "text": "三尖瓣逆流，使肺動脈血流減少" }
+    ],
+    "answer": "A",
+    "explanation": "典型 Eisenmenger syndrome：長期大量左向右分流 → 肺血管內膜增生/中層肥厚與不可逆肺血管病變 → PVR 上升 → 右心壓力超過左心 → 分流逆轉（右向左）→ 發紺。關鍵是肺血管阻力上升而非缺損變小。考點常問：何時仍可關閉缺損（可逆性肺高壓）、禁忌（嚴重不可逆 PVR↑）。"
+  },
+  {
+    "id": "MED_05_02_D_Q0014",
+    "stem": "14 病人父母問目前若無接受手術治療，未來可能須進行何種手術治療？",
+    "options": [
+      { "key": "A", "text": "心室中隔缺損擴大術" },
+      { "key": "B", "text": "心肺移植術" },
+      { "key": "C", "text": "三尖瓣置換術" },
+      { "key": "D", "text": "肺靜脈血管氣球擴張術" }
+    ],
+    "answer": "B",
+    "explanation": "若已進展到 Eisenmenger（不可逆肺血管病變），單純關閉缺損會惡化右心衰竭；最終根本治療是肺移植（合併心臟結構/右心衰竭嚴重時可能需心肺移植）。臨床重點：及早手術避免走到不可逆肺血管病變階段。"
+  },
+  {
+    "id": "MED_05_02_D_Q0015",
+    "stem": "15 一位 2 星期大的男嬰，出生時體重 3,000 gm，Apgar score 8 至 9 分，身體檢查並沒有發現異常現象。幾天前開始有呼吸急促及發紺的現象，急送某醫學中心。經心臟超音波檢查發現病人有肺動脈瓣閉鎖的現象，經投予前列腺素靜脈注射，病人的發紺改善了。請依此回答下列 3 題：改善的原因為何？",
+    "options": [
+      { "key": "A", "text": "肺動脈瓣打開，改善肺動脈血流" },
+      { "key": "B", "text": "開放性動脈導管再度打開，改善肺動脈血流" },
+      { "key": "C", "text": "經由心房中隔缺損，肺動脈血流增加" },
+      { "key": "D", "text": "經由體動脈至肺動脈之側枝循環，增加肺動脈血流" }
+    ],
+    "answer": "B",
+    "explanation": "PGE1 的臨床目的在維持/重新打開 PDA，讓主動脈血流可經 PDA 進入肺動脈以增加肺血流、改善氧合（ductal-dependent pulmonary circulation）。PGE1 不會直接把肺動脈瓣『打開』；側枝循環形成較慢；ASD 只是混合通道，不會讓肺血流憑空增加。考點：肺動脈閉鎖（PA）或嚴重肺狹窄、TOF 合併肺血流不足等屬 duct-dependent lesions。"
+  },
+  {
+    "id": "MED_05_02_D_Q0016",
+    "stem": "16 在考慮進一步手術治療方式前，再仔細作超音波檢查，發現他的右心室發育不良，沒有心室中隔缺損，右心室竇（sinusoid）與左冠狀動脈有相通，作心導管檢查，右心室攝影時，顯影劑在心縮期可進入左冠狀動脈，且看到左主冠狀動脈出口有狹窄。綜合這些檢查結果，那一種手術治療的方式最佳？",
+    "options": [
+      { "key": "A", "text": "肺動脈瓣切開術" },
+      { "key": "B", "text": "Blalock-Taussig 分流術" },
+      { "key": "C", "text": "利用體外循環幫忙，作跨肺動脈環部布塊（transannular patch）來擴大右心室出口徑" },
+      { "key": "D", "text": "肺動脈瓣切開術加 Blalock-Taussig 分流術" }
+    ],
+    "answer": "B",
+    "explanation": "此為 PA/IVS 合併右心室發育不良（HRHS 傾向），且有右心室竇與冠狀動脈交通（RVDCC/ sinusoids）與冠狀動脈入口狹窄，代表冠灌流可能依賴右心室壓力（decompression 會誘發 myocardial ischemia）。因此不宜做肺動脈瓣切開或 RVOT 擴大（會降低 RV 壓、造成冠灌流崩潰）。短期目標是建立肺血流通道以維持氧合與後續分期手術空間：BT shunt 最合適。考點：PA/IVS + RVDCC 是「不能輕易減壓右心室」的高危組合。"
+  },
+  {
+    "id": "MED_05_02_D_Q0017",
+    "stem": "17 依此病人心臟狀態，他最後的手術矯正方式，可以朝著那個方向進行？",
+    "options": [
+      { "key": "A", "text": "維持兩個心室之修補方式（two-ventricular repair）" },
+      { "key": "B", "text": "只要肺動脈瓣置換就可" },
+      { "key": "C", "text": "單心室之修補方式（single ventricular repair），即全腔靜脈肺動脈吻合術（total cavopulmonary connection, TCPC）" },
+      { "key": "D", "text": "只要三尖瓣置換就可" }
+    ],
+    "answer": "C",
+    "explanation": "右心室發育不良（HRHS/ hypoplastic RV）代表無法建立可承擔肺循環的功能性右心室，因此最終多走單心室路徑（Glenn/Fontan/TCPC 概念）。兩心室修補需左右心室皆足以承擔各自循環；單換瓣（肺瓣/三尖瓣）無法解決結構性右心室不足。補充分期：Stage 1（Norwood 或 BT/Sano shunt）、Stage 2（Glenn：SVC→PA）、Stage 3（Fontan/TCPC：IVC→PA）。"
+  },
+  {
+    "id": "MED_05_02_D_Q0018",
+    "stem": "18 下列何種先天性心臟病，現今仍完全無法以心導管方法（如封堵器 occluder 或線圈 coil）治療？",
+    "options": [
+      { "key": "A", "text": "肌肉型之心室中膈缺損（muscular type ventricular septal defect）" },
+      { "key": "B", "text": "心房中膈缺損（atrial septal defect）" },
+      { "key": "C", "text": "開放性動脈導管（patent ductus arteriosus）" },
+      { "key": "D", "text": "完全型之心內膜墊異常（endocardial cushion defect, complete form）" }
+    ],
+    "answer": "D",
+    "explanation": "ASD（多為 secundum）、PDA、部分 muscular VSD 皆可用導管封堵/線圈於合適解剖條件下處置；完全型 AVSD/ endocardial cushion defect 涉及心房與心室缺損合併房室瓣（mitral/tricuspid）裂隙與重建需求，必須外科修補瓣膜與隔缺，非單純封堵可解決。考點：導管關閉 ASD 主要限 secundum；primum/ sinus venosus 多需手術。"
+  },
+  {
+    "id": "MED_05_02_D_Q0019",
+    "stem": "19 何種類型的心房中膈缺損（atrial septal defect）最常合併部份肺靜脈回流異常（partial abnormal pulmonary venous return）？",
+    "options": [
+      { "key": "A", "text": "primum type" },
+      { "key": "B", "text": "secondum type" },
+      { "key": "C", "text": "sinus venosus type" },
+      { "key": "D", "text": "coronary septal defect type" }
+    ],
+    "answer": "C",
+    "explanation": "Sinus venosus ASD（上腔或下腔靜脈交界附近）最常合併 PAPVR（尤其右上肺靜脈回流至 SVC/RA），因此若看到右心擴大 + ASD 懷疑但 secundum 不明顯，需想到 sinus venosus + PAPVR。考點：此型通常不適合導管封堵，需手術 redirect 肺靜脈回流。"
+  },
+  {
+    "id": "MED_05_02_D_Q0020",
+    "stem": "20 下列有關靜脈竇型（sinus venosus）心房中膈缺損（atrial septal defect, ASD）之敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "常合併肺靜脈回流異常" },
+      { "key": "B", "text": "缺損的位置，有時是在心房中膈底部接近下腔靜脈開口" },
+      { "key": "C", "text": "手術修補時，一般需使用布塊（patch）修補" },
+      { "key": "D", "text": "可以使用導管手術來關閉缺損" }
+    ],
+    "answer": "D",
+    "explanation": "Sinus venosus ASD 多合併 PAPVR，手術需 patch/ baffle 導引肺靜脈回左心房並關閉缺損；導管封堵一般僅適用 secundum ASD（且需足夠 rims），因此 (D) 錯。延伸：primum ASD 屬 AVSD spectrum 亦多需手術。"
+  },
+  {
+    "id": "MED_05_02_D_Q0021",
+    "stem": "21 肺動脈瓣閉鎖合併心室中膈缺損（pulmonary atresia with ventricular septal defect）的病人，在接受初步手術時，所謂的單一化（unifocalization）是要將下列那些血管聚集在一起以準備第二階段手術之用？\n① 自體的肺動脈（native pulmonary artery）\n② 主要的主動脈至肺動脈側枝循環（major aortopulmonary collateral arteries）\n③ 自體的肺靜脈（native pulmonary vein）\n④ 左冠狀動脈主支（left main coronary artery）",
+    "options": [
+      { "key": "A", "text": "①②" },
+      { "key": "B", "text": "①③" },
+      { "key": "C", "text": "②③" },
+      { "key": "D", "text": "①④" }
+    ],
+    "answer": "A",
+    "explanation": "Unifocalization 的目的在把分散供血的 MAPCAs 與（可用的）native pulmonary arteries 整合成「單一肺動脈血流樹」，避免肺血流分配不均、過量或不足，並逐步養大肺動脈床，為後續完全矯正（建立 RV-PA 連結 + 關閉 VSD）鋪路。因此是「肺動脈系統」的整合：①+②。肺靜脈與冠狀動脈不屬此概念。"
+  },
+  {
+    "id": "MED_05_02_D_Q0022",
+    "stem": "22 有關大動脈轉位伴隨正常心室中膈（transposition of great arteries with intact ventricular septum）之敘述，下列何者正確？\n① prostaglandin E1 靜脈輸注可增加肺動脈血流量\n② 心房中膈氣球打洞術（balloon atrial septostomy）無法改善動脈血氧飽和度（oxygen saturation）\n③ 大動脈移轉手術（arterial switch operation）之最佳時機為出生後一至二星期內\n④ 手術前確實瞭解冠狀動脈之分布情況是大動脈移轉手術的成敗關鍵",
+    "options": [
+      { "key": "A", "text": "①②" },
+      { "key": "B", "text": "①③" },
+      { "key": "C", "text": "③④" },
+      { "key": "D", "text": "僅④" }
+    ],
+    "answer": "C",
+    "explanation": "TGA/IVS 為平行循環，生存仰賴混合（ASD/PDA/少量 VSD）。PGE1 的核心是維持 PDA 以增加混合，不是單純「增加肺動脈血流量」這樣描述（且臨床重點是混合與維持 systemic oxygenation），所以①不精準；balloon atrial septostomy 的目的正是增加心房層級混合、提升動脈氧飽和度，因此②錯。Arterial switch（Jatene）最佳在出生後前 1–2 週（避免左心室退化無法承擔體循環）③對；冠狀動脈需自原本主動脈根部轉植到新主動脈根部，冠狀解剖變異影響成敗，④對。"
+  },
+  {
+    "id": "MED_05_02_D_Q0023",
+    "stem": "23 單純性主動脈窄縮症（isolated coarctation of aorta）之手術治療，可以包括下列那些術式？\n① 開放性動脈導管置放支架（stent）\n② 鎖骨下動脈皮瓣主動脈成形術（subclavian flap aortoplasty）\n③ 布塊擴大術（patch augmentation）\n④ 廣泛切除窄縮部分再兩端吻合（extended resection with primary anastomosis）",
+    "options": [
+      { "key": "A", "text": "①②③" },
+      { "key": "B", "text": "①②④" },
+      { "key": "C", "text": "②③④" },
+      { "key": "D", "text": "①③④" }
+    ],
+    "answer": "C",
+    "explanation": "CoA 的治療包含多種外科術式：extended end-to-end anastomosis（④）、subclavian flap（②）、patch aortoplasty（③）皆屬常見選項。①「PDA stent」主要用於 duct-dependent systemic circulation（如 HLHS）或作為橋接策略，不是 isolated CoA 的標準『手術治療』選項（臨床上 CoA 也可考 balloon angioplasty/stent for recoarctation，但與 PDA stent 概念不同）。因此選 ②③④。"
+  },
+  {
+    "id": "MED_05_02_D_Q0024",
+    "stem": "24 完全型的房室瓣中膈缺損（complete form of atrioventricular septal defect）的病童，常因頑固性的心衰竭，需早期（出生後 6 個月內）手術治療，其手術步驟包括下列那些？\n① 房室瓣狹窄之切開術\n② 心房中膈缺損之修補\n③ 心室中膈缺損之修補\n④ 房室瓣逆流之修補術",
+    "options": [
+      { "key": "A", "text": "僅①④" },
+      { "key": "B", "text": "僅②④" },
+      { "key": "C", "text": "①③④" },
+      { "key": "D", "text": "②③④" }
+    ],
+    "answer": "D",
+    "explanation": "Complete AVSD 的核心是 common AV valve + primum ASD + inlet VSD，手術重點為：關閉 ASD/VSD（②③）並重建/修補房室瓣裂隙以減少逆流（④）。AV valve 多為閉鎖不全而非狹窄，故不做『切開治療狹窄』為常規，①不屬典型步驟。常考：與 Down syndrome、高肺血流/早期肺高壓、需早期修補避免肺血管病變。"
+  },
+  {
+    "id": "MED_05_02_D_Q0025",
+    "stem": "25 Subarterial 型心室中膈缺損，因接近主動脈瓣的環部（annulus）常合併下列那一種併發症，以致於造成主動脈瓣逆流的現象？",
+    "options": [
+      { "key": "A", "text": "右冠狀動脈瓣（right coronary cusp）脫垂" },
+      { "key": "B", "text": "左冠狀動脈瓣（left coronary cusp）脫垂" },
+      { "key": "C", "text": "非冠狀動脈瓣（non coronary cusp）脫垂" },
+      { "key": "D", "text": "凡撒爾氏竇瘤（sinus valsalva aneurysm）之發生" }
+    ],
+    "answer": "A",
+    "explanation": "Subarterial（supracristal/ outlet）VSD 位於右室流出道、靠近主動脈瓣與肺動脈瓣下方，易造成主動脈瓣瓣尖（最常見為 right coronary cusp）脫垂進入缺損，導致主動脈瓣閉鎖不全（AR）。臨床考點：此型 VSD 即使缺損不大，也可能因 AR 而需要較早手術；與 perimembranous 的併發症（如傳導阻滯風險）作鑑別。"
+  },
+  {
+    "id": "MED_05_02_D_Q0026",
+    "stem": "26 所謂的 Norwood 術式包括主動脈弓的重建，使體循環血流出口無阻塞，同時利用改良性的 Blalock-Taussig 分流術來控制肺動脈血流，這個術式最適用於下列何種疾病？",
+    "options": [
+      { "key": "A", "text": "主動脈弓中斷合併心室中膈缺損" },
+      { "key": "B", "text": "主動脈窄縮症合併心室中膈缺損" },
+      { "key": "C", "text": "二尖瓣閉鎖症（mitral atresia）" },
+      { "key": "D", "text": "三尖瓣閉鎖症（tricuspid atresia）" }
+    ],
+    "answer": "C",
+    "explanation": "Norwood 是 HLHS（左心發育不良症候群）第一期手術概念：重建新主動脈弓/體循環出口並以 shunt 控制肺血流；HLHS 常合併 mitral atresia/ aortic atresia。Tricuspid atresia 屬右心發育問題，雖亦走單心室路徑，但經典 Norwood 指向 HLHS。"
+  },
+  {
+    "id": "MED_05_02_D_Q0027",
+    "stem": "27 肺靜脈回流完全異常（total anomalous pulmonary venous return）的病人，雖有不同程度的缺氧狀態（desaturated），一般皆可以採用選擇性（elective）手術方式來處理，但有下列何種情況，則必須以緊急性（emergent）手術方式處理？",
+    "options": [
+      { "key": "A", "text": "有混合型的回流路徑者" },
+      { "key": "B", "text": "心上型（supracardiac type）肺靜脈回流完全異常" },
+      { "key": "C", "text": "不論那一型，只要回流路徑有阻塞（obstructed）者" },
+      { "key": "D", "text": "心內型（intracardiac type）肺靜脈回流完全異常，但不流入冠狀竇（coronary sinus）而是直接注入右心房者" }
+    ],
+    "answer": "C",
+    "explanation": "TAPVR 是否緊急取決於「肺靜脈回流是否阻塞」。Obstructed TAPVR 會造成嚴重肺靜脈鬱血/肺水腫與重度低氧，無法等待選擇性手術，需 emergent repair。回流型別（supracardiac/infracardiac/intracardiac/mixed）本身不是唯一決定因素；其中 infracardiac 較常阻塞、臨床上常更急。"
+  },
+  {
+    "id": "MED_05_02_D_Q0028",
+    "stem": "情況：一位 3,000 公克的男嬰，出生時就發現有發紺現象，經緊急作心臟超音波檢查，發現大動脈血管轉位，並沒有肺動脈狹窄，左右兩心室發育良好，沒有心室中膈缺損，也沒有心房中膈缺損。請依此回答下列第 28 題至第 29 題。\n\n28 此時下列那些治療方式對此男嬰有幫助？\n① Blalock-Taussig 分流術\n② 心房中膈氣球造口術（balloon atrial septostomy）\n③ 前列腺素靜脈注射（PGE1 infusion）\n④ 肺動脈環縮術（PA banding）",
+    "options": [
+      { "key": "A", "text": "①②③④" },
+      { "key": "B", "text": "②③" },
+      { "key": "C", "text": "①③" },
+      { "key": "D", "text": "①②" }
+    ],
+    "answer": "B",
+    "explanation": "TGA/IVS 且無 ASD/VSD 時，氧合仰賴混合：立即處置為 PGE1 維持 PDA（增加混合）與 balloon atrial septostomy 製造/擴大 ASD（增加心房層級混合）→ 提升 systemic O2 saturation。BT shunt 是增加肺血流的旁路，多用於肺血流不足的發紺型（如 TOF/PA），本題無肺狹窄且主要問題是混合不足，不是肺血流不足；PA banding 是限制肺血流（多用於過量肺血流），亦不符。"
+  },
+  {
+    "id": "MED_05_02_D_Q0029",
+    "stem": "29 目前對這種疾病的新生兒最好的手術方式為何？",
+    "options": [
+      { "key": "A", "text": "全腔靜脈肺動脈吻合術（total cavopulmonary connection, TCPC）" },
+      { "key": "B", "text": "Rastelli 術式" },
+      { "key": "C", "text": "Jatene 術式（arterial switch operation）" },
+      { "key": "D", "text": "Norwood 術式" }
+    ],
+    "answer": "C",
+    "explanation": "TGA/IVS 的標準根治手術是 arterial switch operation（Jatene）：把大動脈與肺動脈對調並轉植冠狀動脈，使左心室承擔體循環。Rastelli 多用於 TGA 合併 VSD + 肺狹窄等特定解剖；TCPC 用於單心室路徑；Norwood 用於 HLHS。"
+  },
+  {
+    "id": "MED_05_02_D_Q0030",
+    "stem": "30 要執行此項手術的時間點，最好在出生後 2 個星期內手術且最遲不要超過 6 個星期，其原因何在？",
+    "options": [
+      { "key": "A", "text": "心房中膈氣球造口術效果無法持久" },
+      { "key": "B", "text": "超過 6 個星期之後，左心室功能會退化，無法承擔體循環工作" },
+      { "key": "C", "text": "超過 6 個星期之後，母體之抗體消失，易發生手術感染" },
+      { "key": "D", "text": "2 個星期之內手術，冠狀動脈比較容易分離（dissection）" }
+    ],
+    "answer": "B",
+    "explanation": "TGA 的生理下，左心室長期面對低阻力的肺循環，若拖久左心室會去適應化（LV deconditioning）而無法在 switch 後立刻承擔高阻力體循環，增加術後低心輸出風險。因此需在出生後早期（約 1–2 週內最佳，最遲多不超過 6 週）完成 arterial switch。此題常搭配考：若延遲太久，可能需先做 LV training（如 PA banding）再 switch（依中心策略）。"
+  }
+
 
 
 
