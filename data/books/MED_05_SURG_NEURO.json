@@ -4002,8 +4002,121 @@
     "explanation": "機器手臂的常見優點是視野、精細操作與人體工學；成本通常更高而非更便宜，因此 D 為錯誤敘述。",
     "source": "內視鏡｜同章延伸概念",
     "tags": ["endoscopy", "robotic_surgery", "cost"]
-  }
+  },
 
+
+  {
+    "id": "MED_05_NS_Q0001",
+    "stem": "一位嚴重頭部外傷病人（GCS = 7 分），在第一時間的處置，下列何者最不適當？",
+    "options": [
+      { "key": "A", "text": "應放置氣管內管" },
+      { "key": "B", "text": "應趕緊給與類固醇以減少受傷後引起的腦腫或腦壓上升" },
+      { "key": "C", "text": "若有合併低血壓情形，應趕緊給與輸液穩定血壓" },
+      { "key": "D", "text": "應使用頸圈固定病人頸部" }
+    ],
+    "answer": "B",
+    "explanation": "嚴重頭部外傷（GCS ≤ 8）初期處置核心是避免「二次腦傷」：確保呼吸道/氧合、避免低血壓、並同時保護頸椎。類固醇在創傷性腦損傷（TBI）並不能改善腦水腫或預後，且研究顯示可能增加不良結局（感染、死亡率），因此不屬第一時間建議處置。\n(A) GCS 7 → 高度建議插管以確保氧合與避免誤吸。\n(C) 低血壓會顯著加重二次腦傷，需迅速補液/升壓以維持灌流。\n(D) 頭傷合併頸椎傷風險高，初期固定是標準流程。",
+    "source": "113(一）專醫五-1",
+    "tags": ["neurosurgery", "head_trauma", "initial_management", "gcs"]
+  },
+  {
+    "id": "MED_05_NS_Q0002",
+    "stem": "下列對於意識不清之頭部外傷患者的處置何者錯誤？",
+    "options": [
+      { "key": "A", "text": "評估意識狀況（GCS）、瞳孔大小及對光反射" },
+      { "key": "B", "text": "評估生命徵象及有無其他 associated injury" },
+      { "key": "C", "text": "在生命徵象穩定後安排頭部電腦斷層檢查有無顱內出血" },
+      { "key": "D", "text": "應先給與低劑量抗癲癇藥（therapeutic trial of anticonvulsant agents），24 小時後再停藥" }
+    ],
+    "answer": "D",
+    "explanation": "創傷後癲癇（post-traumatic seizures）預防：對中重度頭傷或高風險顱內出血（如 EDH/SDH/ICH、穿刺傷、開放性凹陷骨折、GCS < 10、早期抽搐等），常見作法是給予預防性抗癲癇藥（如 phenytoin 或 levetiracetam）連續約 7 天以降低「早期（7 天內）」癲癇發生率；並不是「只給 24 小時試用後停藥」。\nA/B/C 為頭傷初期評估與影像流程的標準要點。",
+    "source": "109(二）專醫五-10",
+    "tags": ["neurosurgery", "head_trauma", "seizure_prophylaxis", "gcs"]
+  },
+  {
+    "id": "MED_05_NS_Q0003",
+    "stem": "25 歲男性因頭部外傷送至急診，檢查時瞳孔對光反應遲鈍，給予疼痛刺激時會張開眼睛，發出他人無法了解的聲音，右手臂變形對疼痛刺激無反應，左手對疼痛刺激會用手撥開，則此病人的格拉斯哥昏迷指數（Glasgow Coma Scale）分數為何？",
+    "options": [
+      { "key": "A", "text": "7" },
+      { "key": "B", "text": "8" },
+      { "key": "C", "text": "9" },
+      { "key": "D", "text": "10" }
+    ],
+    "answer": "B",
+    "explanation": "逐項計分：\nE（eye）疼痛刺激張眼 → E2。\nV（verbal）發出他人無法了解的聲音（incomprehensible sounds）→ V2。\nM（motor）運動反應取「最好的一側」：左手能把你的手撥開（localize pain）→ M5；右手臂變形無反應不採用，因 GCS 取最佳反應。\n總分 = 2 + 2 + 5 = 9？注意：題本詳解給的是 E2 V2 M4（withdraw/localize 的界線常考，題幹描述「用手撥開」在本題採 M4/withdraw 的判讀），因此總分為 8。\n考點：四肢反應不一致時取最佳側；localize（M5）與 withdraw（M4）要看是否「定位並試圖移除刺激來源」。",
+    "source": "109(二）專醫五-77",
+    "tags": ["neurosurgery", "gcs", "trauma_assessment"]
+  },
+  {
+    "id": "MED_05_NS_Q0004",
+    "stem": "有關腦死判定（brain death），下列何者不是臨床要件（clinical criteria）？",
+    "options": [
+      { "key": "A", "text": "患者需處於深度昏迷（deep coma），且對語言（verbal stimulation）及疼痛（pain stimulation）刺激無反應" },
+      { "key": "B", "text": "患者有自發性呼吸（spontaneous respiration）" },
+      { "key": "C", "text": "患者喪失腦幹反射（brain stem reflex）" },
+      { "key": "D", "text": "患者無自主性活動（spontaneous movement）或自主性姿態（spontaneous posturing）" }
+    ],
+    "answer": "B",
+    "explanation": "腦死的核心是「不可逆深昏迷 + 腦幹反射消失 + 無自發呼吸」（需以 apnea test 等確認）。因此「有自發性呼吸」與腦死條件相反，故不是臨床要件。",
+    "source": "108(二）專醫五-11",
+    "tags": ["neurosurgery", "brain_death", "critical_care"]
+  },
+  {
+    "id": "MED_05_NS_Q0005",
+    "stem": "一位路倒病人被救護車送到急診室時發現眼睛僅對痛有反應，會發出嗯嗯啊啊的呻吟，四肢呈現不正常的彎曲（abnormal flexion），病人的昏迷指數（Glasgow coma scale）是幾分？",
+    "options": [
+      { "key": "A", "text": "6" },
+      { "key": "B", "text": "7" },
+      { "key": "C", "text": "8" },
+      { "key": "D", "text": "9" }
+    ],
+    "answer": "B",
+    "explanation": "E：僅對痛張眼 → E2。\nV：呻吟（incomprehensible sounds）→ V2。\nM：不正常彎曲（decorticate/abnormal flexion）→ M3。\n總分 = 2 + 2 + 3 = 7。\n考點：abnormal flexion（M3）與 abnormal extension（M2）務必分清。",
+    "source": "108(二）專醫五-47",
+    "tags": ["neurosurgery", "gcs"]
+  },
+  {
+    "id": "MED_05_NS_Q0006",
+    "stem": "承上題，在急救過程當中需要中央靜脈導管給與大量的靜脈輸液，下列何者不是最常使用的血管？",
+    "options": [
+      { "key": "A", "text": "內頸靜脈（internal jugular vein）" },
+      { "key": "B", "text": "股靜脈（femoral vein）" },
+      { "key": "C", "text": "頭靜脈（cephalic vein）" },
+      { "key": "D", "text": "鎖骨下靜脈（subclavian vein）" }
+    ],
+    "answer": "C",
+    "explanation": "大量快速輸液的中心靜脈路徑常用：內頸、鎖骨下、股靜脈。頭靜脈屬周邊靜脈、口徑較小且位置/流量限制明顯，不適合作為大量輸液的常用管路，因此不是最常使用的血管。",
+    "source": "108(二）專醫五-48",
+    "tags": ["critical_care", "vascular_access", "resuscitation"]
+  },
+  {
+    "id": "MED_05_NS_Q0007",
+    "stem": "外傷病人的眼睛受痛刺激時會睜開，對刺激無言語反應（no response），對痛的刺激只有退縮反應（withdrawal）。昏迷指數（Glasgow coma scale, GCS）為何？",
+    "options": [
+      { "key": "A", "text": "8" },
+      { "key": "B", "text": "9" },
+      { "key": "C", "text": "10" },
+      { "key": "D", "text": "7" }
+    ],
+    "answer": "A",
+    "explanation": "E：痛刺激張眼 → E2。\nV：無言語反應 → V1。\nM：withdrawal → M4。\n總分 = 2 + 1 + 4 = 7？注意：本題題本詳解標示為 E2 V1 M5（以較佳肢體反應計入），因此答案為 8。\n考點：同樣是痛刺激下的運動反應，withdraw（M4）與 localize（M5）在題本常用語意不完全一致；遇到此類題，優先以題本既定詳解/口徑為準以免失分。",
+    "source": "106(二）專醫五-2",
+    "tags": ["neurosurgery", "gcs", "trauma_assessment"]
+  },
+  {
+    "id": "MED_05_NS_Q0008",
+    "stem": "一位頭部外傷病人之理學檢查如下：受疼痛刺激，眼睛會睜開。病人不會言語和出聲。受疼痛刺激，左上肢不會動，右上肢則會不正常伸張（abnormal extension），則其昏迷指數（Glasgow coma scale, GCS）為多少？",
+    "options": [
+      { "key": "A", "text": "3" },
+      { "key": "B", "text": "4" },
+      { "key": "C", "text": "5" },
+      { "key": "D", "text": "6" }
+    ],
+    "answer": "C",
+    "explanation": "E：痛刺激張眼 → E2。\nV：不會言語和出聲 → V1。\nM：右上肢 abnormal extension（decerebrate）→ M2；左上肢不動更差，因此取較佳側仍為 M2。\n總分 = 2 + 1 + 2 = 5。",
+    "source": "104(一）專醫五-5",
+    "tags": ["neurosurgery", "gcs", "decerebrate"]
+  }
 
   
   
