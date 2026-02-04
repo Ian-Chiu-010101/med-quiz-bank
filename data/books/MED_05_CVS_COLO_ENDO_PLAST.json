@@ -1430,6 +1430,301 @@
     ],
     "answer": "A",
     "explanation": "疑似急性 DVT 的標準治療可為立即啟動有效抗凝血：UFH 可用體重劑量 bolus 後持續 infusion（②），並與 warfarin 併用重疊一段時間（①）直到 INR 達治療範圍；若需手術，LMWH 通常需術前停用一定時間（③）。單次 5,000 U UFH 多為預防劑量而非治療劑量（④不適當）。"
+  },
+
+
+
+
+  
+  {
+    "id": "MED_CHS_GENG_Q0001",
+    "unit": "庚-心臟移植",
+    "stem": "下列病人何者不適合做心臟移植？",
+    "options": [
+      { "key": "A", "text": "嚴重且反覆的心臟衰竭症狀，且左心室射出率（ejection fraction, LVEF）< 20%" },
+      { "key": "B", "text": "嚴重心肌缺血無法以傳統冠狀動脈繞道手術治療者" },
+      { "key": "C", "text": "心臟衰竭已使用葉克膜（ECMO）等心臟輔助器，且無法斷離者" },
+      { "key": "D", "text": "複雜的先天性心臟病，可以用傳統手術矯正者" }
+    ],
+    "answer": "D",
+    "explanation": "心臟移植通常保留給末期心衰竭且已無其他可行矯正/治療選項者；若仍可用傳統手術矯正，則不屬移植適應症。其餘選項多屬於末期心衰或無法以常規方式改善的情境，較符合移植評估範圍。"
+  },
+  {
+    "id": "MED_CHS_GENG_Q0002",
+    "unit": "庚-心臟移植",
+    "stem": "下列病患中，何者並不適宜成為心臟移植的受贈者？",
+    "options": [
+      { "key": "A", "text": "63 歲男性罹患嚴重冠狀動脈疾病，所有內科療法及外科手術療法皆無法改善心肌血液灌注" },
+      { "key": "B", "text": "50 歲男性罹患肥大型心肌病變，經心肌切除手術後仍為末期心衰竭" },
+      { "key": "C", "text": "55 歲男性罹患末期心衰竭以及肺氣腫合併肺高壓者（pulmonary vascular resistance > 5 Wood units）" },
+      { "key": "D", "text": "22 歲女性罹患良性心臟內腫瘤合併反覆性心室性頻脈，無法以外科手術切除者" }
+    ],
+    "answer": "C",
+    "explanation": "顯著升高且可能不可逆的肺血管阻力（例如 PVR > 5 Wood units）會使移植後右心室負荷過大，增加術後右心衰竭風險，因此一般視為不適合的受贈條件或需高度謹慎評估。"
+  },
+
+
+
+  
+  {
+    "id": "MED3_XIN_Q0001",
+    "unit": "辛",
+    "stem": "關於心臟腫瘤（cardiac tumors），下列敘述何者最適當？",
+    "options": [
+      { "key": "A", "text": "原發性心臟腫瘤中，惡性多於良性" },
+      { "key": "B", "text": "若為良性腫瘤且病人曾發生栓塞症狀，使用抗凝血劑治療即可" },
+      { "key": "C", "text": "超過半數的心房黏液瘤（myxoma）源自左心房的心房中膈" },
+      { "key": "D", "text": "心臟電腦斷層（heart CT）是目前的診斷標準工具" }
+    ],
+    "answer": "C",
+    "explanation": "心臟腫瘤可分為原發性（primary）與轉移性（secondary）。臨床上更常見的是轉移性腫瘤；若只看「原發性」心臟腫瘤，整體而言良性（benign）多於惡性（malignant），因此 (A) 錯。\n\n心房黏液瘤（atrial myxoma）是成人最常見的原發性良性心臟腫瘤，典型起源於左心房的心房中膈（interatrial septum）附近，尤其是卵圓窩（fossa ovalis）周邊，因此 (C) 正確。\n\n黏液瘤常見併發症之一是腫瘤碎片或表面血栓造成的系統性栓塞（如腦中風、周邊動脈栓塞）。然而「根本治療」是外科切除腫瘤（通常屬半緊急/緊急，視症狀與風險），單靠抗凝血藥物無法消除機械性阻塞與腫瘤本體，也無法完全避免再栓塞，因此 (B) 錯。\n\n診斷上首選為心臟超音波（TTE；必要時 TEE），可直接看到腫瘤大小、附著點、活動度與是否造成瓣膜/流出道阻塞。心臟 CT/MRI 可作為輔助評估（組織特性、侵襲範圍、手術規劃），但並非臨床「標準首選工具」，因此 (D) 錯。"
+  },
+  {
+    "id": "MED3_XIN_Q0002",
+    "unit": "辛",
+    "stem": "在一般開心手術中（二尖瓣置換或三尖瓣手術等）建立體外循環（CPB）過程，那一大血管較少放置靜脈引流管（cannula）？",
+    "options": [
+      { "key": "A", "text": "主動脈（aorta）" },
+      { "key": "B", "text": "上腔靜脈（superior vena cava）" },
+      { "key": "C", "text": "下腔靜脈（inferior vena cava）" },
+      { "key": "D", "text": "肺動脈（pulmonary artery）" }
+    ],
+    "answer": "D",
+    "explanation": "典型的體外循環（cardiopulmonary bypass, CPB）管路配置為：\n1) 動脈端回輸（arterial cannulation）多置於升主動脈（ascending aorta），將含氧血回輸至全身循環。\n2) 靜脈端引流（venous drainage）多由上腔靜脈（SVC）與下腔靜脈（IVC）或右心房（RA）引流，將去氧血帶回體外循環系統。\n\n肺動脈（PA）屬於心臟右側輸出至肺循環的血管，並非建立 CPB 靜脈引流的常規位置。大多數瓣膜手術建立 CPB 時，不需要從 PA 去「引流靜脈血」，因此肺動脈最少被用來放置此類引流管，故選 (D)。\n\n(A) 主動脈常作為動脈回輸端；(B)(C) SVC/IVC 是典型靜脈引流路徑，均較常見。"
+  },
+  {
+    "id": "MED3_XIN_Q0003",
+    "unit": "辛",
+    "stem": "關於開心手術中使用的體外循環（cardiopulmonary bypass, CPB），下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "常見的動脈管路置放位置包含升主動脈；特定情況下亦可選股動脈、腋動脈或無名動脈等" },
+      { "key": "B", "text": "當體溫下降至 20°C 時，體外循環機仍須提供至少 2.4 L/min/m² 的流量" },
+      { "key": "C", "text": "可能產生全身性發炎反應、凝血影響、栓塞、以及周邊器官功能不全等併發症" },
+      { "key": "D", "text": "當心臟停止跳動且血液循環完全依賴體外循環時，呼吸器可暫停（因為氧合由氧合器提供）" }
+    ],
+    "answer": "B",
+    "explanation": "(B) 錯在「深低溫」時仍要求常溫灌流量。一般常溫 CPB 的目標灌流量約 2.2–2.4 L/min/m²（接近生理心輸出量指標），但當進入深低溫（deep hypothermia，例如 20°C，甚至深低溫循環停止 DHCA）時，代謝需求大幅下降，器官氧耗顯著降低，灌流策略會隨之調整：\n- 20°C 深低溫時，灌流量通常不需要維持在 2.4 L/min/m²，往往可降到更低（例如約 0.5–1.0 L/min/m² 或依中心策略與監測調整）。\n- 若進行 DHCA，甚至可短時間停止灌流（循環停止）以利手術操作。\n\n(A) 正確：升主動脈是最常用動脈插管點；如升主動脈病變（嚴重粥樣硬化、夾層、手術需求）可改用股/腋/無名動脈等。\n(C) 正確：CPB 會觸發 SIRS、影響凝血（血小板功能、凝血因子稀釋/消耗）、造成微栓塞/氣栓塞風險，並可能導致腎/腦/肺等器官功能不全。\n(D) 正確：在體外循環且氧合由 oxygenator 完成的階段，臨床上可採暫停或極低通氣策略（仍需依麻醉與手術狀況調整）。"
+  },
+  {
+    "id": "MED3_XIN_Q0004",
+    "unit": "辛",
+    "stem": "馬凡氏症候群（Marfan syndrome）是因體內何種蛋白質異常造成？",
+    "options": [
+      { "key": "A", "text": "Elastin" },
+      { "key": "B", "text": "Metalloproteinase" },
+      { "key": "C", "text": "Collagen" },
+      { "key": "D", "text": "Fibrillin" }
+    ],
+    "answer": "D",
+    "explanation": "Marfan syndrome 為常染色體顯性遺傳結締組織疾病，核心病因是 FBN1 基因突變，導致 fibrillin-1 異常。Fibrillin 是微纖維（microfibrils）的重要結構成分，與彈性纖維形成與結締組織強度/彈性密切相關。\n\n臨床上因此出現：\n- 心血管：主動脈根部擴張、主動脈瘤/夾層風險增加、二尖瓣脫垂等。\n- 骨骼：身材高瘦、蜘蛛指、胸廓畸形、脊柱側彎。\n- 眼：晶狀體脫位等。\n\n(A)(C) 雖與結締組織相關，但 Marfan 的典型分子缺陷是 fibrillin；(B) metalloproteinase 不是主要致病蛋白。"
+  },
+  {
+    "id": "MED3_XIN_Q0005",
+    "unit": "辛",
+    "stem": "主動脈可分為五大部分（如圖），則主動脈內氣球幫浦（intra-aortic balloon pump, IABP）置入後，氣囊（balloon）最佳位置應為：",
+    "options": [
+      { "key": "A", "text": "I" },
+      { "key": "B", "text": "II" },
+      { "key": "C", "text": "III" },
+      { "key": "D", "text": "IV" }
+    ],
+    "answer": "C",
+    "explanation": "IABP 的原理是「舒張期充氣、收縮期放氣」：\n- 舒張期充氣可提升主動脈舒張壓，增加冠狀動脈灌流。\n- 收縮期放氣可降低後負荷（afterload），減少左心室作功與氧耗。\n\n氣囊位置的關鍵是：\n1) 近端不要阻塞主動脈弓分支（特別是頸動脈/鎖骨下動脈），避免腦部與上肢缺血。\n2) 遠端不要影響腎動脈/內臟動脈灌流。\n\n因此最佳位置通常是在左鎖骨下動脈（left subclavian artery）開口遠端、腎動脈近端的降胸主動脈區段。題目圖示對應為 (III)。"
+  },
+  {
+    "id": "MED3_XIN_Q0006",
+    "unit": "辛",
+    "stem": "80 歲男性抽菸史合併高血壓、糖尿病病史，接受頸動脈血管攝影檢查之結果如附圖。則下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "診斷為外頸動脈（external carotid artery）狹窄" },
+      { "key": "B", "text": "臨床上聽診時不一定聽得到頸動脈雜音（carotid bruit）" },
+      { "key": "C", "text": "突發性較短暫同側視覺性失明（amaurosis fugax）為可能臨床表現之一" },
+      { "key": "D", "text": "若接受頸動脈內膜摘除術（carotid endarterectomy），對有同側中風病史者可降低再中風風險" }
+    ],
+    "answer": "A",
+    "explanation": "此類血管攝影典型重點在「內頸動脈（internal carotid artery, ICA）」起始段狹窄，這是造成腦缺血/TIA/中風的重要病灶；外頸動脈（ECA）狹窄通常不會是主要導致腦缺血的來源。故 (A) 把病灶誤指為外頸動脈狹窄，為錯誤選項。\n\n(B) 正確：頸動脈雜音的有無與狹窄程度、血流速度與亂流相關，並非所有狹窄都能聽到；反之也可能有雜音但狹窄不嚴重。\n(C) 正確：amaurosis fugax 常見於同側 ICA 病灶造成視網膜暫時缺血（多為微栓塞或灌流不足）。\n(D) 正確：對於症狀性頸動脈狹窄病人（例如同側 TIA/中風），適當條件下做 carotid endarterectomy 可降低再中風風險（須整合狹窄比例、手術風險、病人整體狀況）。"
+  },
+  {
+    "id": "MED3_XIN_Q0007",
+    "unit": "辛",
+    "stem": "有關心臟手術時使用人工心肺機之敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "可以降低體溫" },
+      { "key": "B", "text": "合併心臟停搏液（cardioplegia）使用，可以讓心臟完全停止跳動" },
+      { "key": "C", "text": "氧合器（oxygenator）可以暫時取代肺臟功能" },
+      { "key": "D", "text": "不會引發全身發炎反應症候群（systemic inflammatory response syndrome, SIRS）" }
+    ],
+    "answer": "D",
+    "explanation": "體外循環（CPB）會讓血液接觸非生物表面、並伴隨剪切力、血液稀釋、缺血再灌流等因素，常可誘發全身性發炎反應（SIRS），臨床可表現為血管擴張、毛細血管滲漏、凝血與免疫反應改變，並增加器官功能不全風險。因此 (D)「不會引發 SIRS」為錯誤。\n\n(A) 正確：CPB 系統常包含熱交換器（heat exchanger），可主動降溫以降低代謝需求。\n(B) 正確：心肌保護常以 cardioplegia（多為高鉀、冷/溫血或晶體液）造成心臟停搏，提供無血手術視野並降低心肌氧耗。\n(C) 正確：oxygenator 進行氣體交換，提供血液氧合與二氧化碳排除，可暫時取代肺功能。"
+  },
+  {
+    "id": "MED3_XIN_Q0008",
+    "unit": "辛",
+    "stem": "下列關於心手術中所使用的體外循環技術（extracorporeal perfusion），何者錯誤？",
+    "options": [
+      { "key": "A", "text": "在啟動體外循環前必須施打肝素（heparin）約 300–400 units/kg，使 activated clotting time（ACT）> 450 秒" },
+      { "key": "B", "text": "在正常體溫下，體外循環機必須提供每分鐘每平方公尺約 2.4 L 的心輸出量；體溫下降 10°C，器官氧耗約可減少 50%" },
+      { "key": "C", "text": "因體外循環可提供幾近無血的手術環境，使之能無時間限制地使用於各種瓣膜或大血管手術" },
+      { "key": "D", "text": "體外循環仍有潛在副作用，可能造成全身性發炎反應、終端器官大血栓（macroembolism）或小血栓（microembolism）導致器官功能不良" }
+    ],
+    "answer": "C",
+    "explanation": "(C) 錯在「無時間限制」。體外循環雖可提供良好手術視野與灌流支持，但其風險會隨 CPB 時間延長而增加，包括 SIRS、凝血異常、出血、血栓/栓塞、腦/腎/肺等器官併發症，進而提高 morbidity/mortality。臨床上需盡量縮短 CPB 與主動脈阻斷（cross-clamp）時間；若預期需要長時間支持，可能需要更進階策略（例如 ECMO 或其他機械循環輔助）視情況銜接。\n\n(A) 正確：啟動 CPB 前需全身抗凝（常以 heparin），並以 ACT 監測是否達到安全門檻（各院標準略有差異，題幹所述屬常見範圍）。\n(B) 正確：常溫灌流量約 2.2–2.4 L/min/m²；溫度下降會降低代謝與氧耗（經典概念為每下降 10°C，代謝率約下降至原來的一半左右）。\n(D) 正確：CPB 的發炎反應與栓塞風險皆為重要併發症來源。"
+  },
+  {
+    "id": "MED3_XIN_Q0009",
+    "unit": "辛",
+    "stem": "下列對正常心臟瓣膜外科解剖學之敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "主動脈瓣膜（aortic valve）及肺動脈瓣膜（pulmonary valve）都是由 3 片半月型瓣膜所構成" },
+      { "key": "B", "text": "僧帽瓣（mitral valve）是由前葉（anterior leaflet）及後葉（posterior leaflet）所組成" },
+      { "key": "C", "text": "柯克三角區（Koch triangle）位於右心房的三尖瓣隔葉附近，是定位房室結的重要手術解剖區；術中需避免傷及傳導系統" },
+      { "key": "D", "text": "在接近僧帽瓣膜後葉之下緣處，可能同時有右冠狀動脈（RCA）或左迴旋動脈（LCX）經過" }
+    ],
+    "answer": "D",
+    "explanation": "(D) 錯在血管解剖描述不精確。僧帽瓣後瓣環（posterior mitral annulus）鄰近的冠狀動脈主要是左迴旋動脈（left circumflex artery, LCX），在某些解剖或冠循優勢型態下風險更高；右冠狀動脈（RCA）通常不會「同時」經過僧帽瓣後葉下緣附近成為主要結構風險。手術上經典的重點是：僧帽瓣後瓣環附近要小心 LCX 損傷。\n\n(A) 正確：主動脈瓣與肺動脈瓣皆通常為三個半月瓣（除非先天如二尖瓣主動脈瓣）。\n(B) 正確：僧帽瓣由前葉與後葉構成。\n(C) 正確：Koch triangle 由 tendon of Todaro、coronary sinus orifice、三尖瓣隔葉邊界等構成，內含 AV node 附近結構，是外科重要標誌；損傷可能導致房室傳導阻滯。"
+  },
+  {
+    "id": "MED3_XIN_Q0010",
+    "unit": "辛",
+    "stem": "下列對末期性心臟衰竭（end-stage heart failure）之治療何者錯誤？",
+    "options": [
+      { "key": "A", "text": "HeartMate II 左心室輔助器可用於移植前支持（bridge to transplant），也可作為終極置放（destination therapy）" },
+      { "key": "B", "text": "根據 STITCH 試驗研究，冠狀動脈繞道術加上左心室成型術（surgical ventricular restoration）相較於單純繞道術可改善心衰竭病人之症狀及存活率" },
+      { "key": "C", "text": "HeartWare 為左心室輔助器（LVAD），可用於較長期之移植前支持（bridge to transplant）" },
+      { "key": "D", "text": "全人工心臟（total artificial heart）可作為末期心衰竭之機械循環支持方式之一，用於移植前支持" }
+    ],
+    "answer": "B",
+    "explanation": "(B) 錯。STICH（Surgical Treatment for Ischemic Heart Failure）相關研究重點之一即比較 CABG 是否需要合併左心室成型術（SVR）。整體結論為：在缺血性心衰竭病人中，CABG + SVR 並未顯示相對於單獨 CABG 有明確的全因死亡率（all-cause mortality）改善；部分指標可能在亞群有差異，但不能概括為「可改善症狀及存活率」。因此題幹敘述過度肯定，為錯誤選項。\n\n(A)(C)(D) 皆為末期心衰竭常見機械循環支持概念：\n- LVAD（如 HeartMate II/HeartWare）可作 bridge to transplant 或在特定族群作 destination therapy。\n- Total artificial heart 可作為移植前支持（bridge）。臨床適應症、合併症（感染、血栓、出血、右心衰竭等）與中心經驗需一併考量。"
+  },
+  {
+    "id": "MED3_XIN_Q0011",
+    "unit": "辛",
+    "stem": "一位洗腎病人血中的鉀離子 6.2 mmol/L，心電圖中會觀察到下列何種現象？",
+    "options": [
+      { "key": "A", "text": "Tall T-waves" },
+      { "key": "B", "text": "Depressed T-waves and U-waves" },
+      { "key": "C", "text": "ST-T elevation" },
+      { "key": "D", "text": "QRS shortening" }
+    ],
+    "answer": "A",
+    "explanation": "高血鉀（hyperkalemia）典型心電圖變化依嚴重度進展可見：\n- 早期：T 波尖高（peaked/tall T-waves），特別在胸前導程較明顯。\n- 進一步：PR 延長、P 波變平甚至消失。\n- 更嚴重：QRS 變寬，呈 sine-wave，可能進展至心室顫動/心搏停止。\n\n因此鉀 6.2 mmol/L 最典型是 (A) tall T-waves。\n(B) depressed T + U 波是低血鉀（hypokalemia）典型。\n(C) ST elevation 常見於急性心肌梗塞、心包炎等。\n(D) 高血鉀是 QRS widening，不是 shortening。"
+  },
+  {
+    "id": "MED3_XIN_Q0012",
+    "unit": "辛",
+    "stem": "承上題，對於急性高血鉀症的處置，下列何者效果最慢？",
+    "options": [
+      { "key": "A", "text": "靜脈注射 50 mL D50W 與 10 units 短效胰島素（regular insulin），並嚴密監測血糖" },
+      { "key": "B", "text": "靜脈注射 10 mL 的 10% 氯化鈣（calcium chloride）或 10 mL 的 10% 葡萄糖酸鈣（calcium gluconate）" },
+      { "key": "C", "text": "靜脈注射 50–100 mEq 碳酸氫鈉（sodium bicarbonate）" },
+      { "key": "D", "text": "給與腸胃道的 potassium-binding resins" }
+    ],
+    "answer": "D",
+    "explanation": "急性高血鉀處置可分三層目標：\n1) 穩定心肌膜電位：靜脈鈣劑（calcium gluconate/chloride）起效最快（分鐘內），但不降低血鉀，只是降低致命心律不整風險。\n2) 將鉀移入細胞：胰島素合併葡萄糖起效快（約 15–30 分鐘），β2 agonist 亦可；碳酸氫鈉在合併酸中毒時可能有幫助（效果變異）。\n3) 將鉀排出體外：利尿、透析、或腸道結合樹脂。\n\nPotassium-binding resins（腸道樹脂）屬於「移除鉀」的方式，但腸胃道作用起效較慢（常以小時到更久計），不適合作為急救立即降低風險的主力，因此 (D) 最慢。\n\n(A)(B)(C) 都屬於急性期較快的措施（B 最快、A 次之、C 視情況），故不選。"
+  },
+  {
+    "id": "MED3_XIN_Q0013",
+    "unit": "辛",
+    "stem": "下列何者為主動脈內氣球幫浦（intra-aortic balloon pump, IABP）的最佳使用時機？",
+    "options": [
+      { "key": "A", "text": "急性升主動脈剝離合併急性重度主動脈瓣逆流" },
+      { "key": "B", "text": "升主動脈瘤合併慢性重度主動脈瓣逆流" },
+      { "key": "C", "text": "急性重度二尖瓣逆流造成血流動力學不穩（例如乳突肌功能不全/斷裂後的急性 MR）" },
+      { "key": "D", "text": "感染性心內膜炎合併敗血性休克或心因性休克" }
+    ],
+    "answer": "C",
+    "explanation": "IABP 的核心效益是「增加冠灌流、降低後負荷」以改善左心室輸出與心肌氧供需平衡，因此典型適應症包括：\n- 急性心肌梗塞併發心因性休克（作為短期橋接策略，實務上需視最新證據與中心流程）。\n- 急性嚴重二尖瓣逆流（例如乳突肌缺血/斷裂）造成肺水腫與低灌流時，IABP 降低後負荷可減少反流量、改善前向輸出，常作為手術前的橋接支持。\n\n(A)(B) 屬於主動脈病變與/或嚴重主動脈瓣逆流情境。IABP 在重度 AR 時舒張期充氣會增加反流，可能惡化左室容量負荷；而急性升主動脈剝離更是典型禁忌（增加主動脈壁壓力與撕裂擴大風險），故不選。\n\n(D) 感染性心內膜炎的休克處置以感染控制、抗生素與必要時的外科處置及適當循環支持為主；IABP 並非此情境的「最佳」選擇，且需視瓣膜病灶（如 AR）與感染控制狀態評估。故最佳選項為 (C)。"
+  },
+  {
+    "id": "MED3_XIN_Q0014",
+    "unit": "辛",
+    "stem": "心臟手術時使用的人工心肺機包含下列那些裝置？①熱交換器（heat exchanger）②主動脈鉗夾（aortic clamp）③幫浦（pump）④氧合器（oxygenator）",
+    "options": [
+      { "key": "A", "text": "①②③" },
+      { "key": "B", "text": "②③④" },
+      { "key": "C", "text": "①②④" },
+      { "key": "D", "text": "①③④" }
+    ],
+    "answer": "D",
+    "explanation": "人工心肺機（CPB circuit）核心功能是「循環灌流 + 氧合 + 溫度控制」，因此典型包含：\n- 幫浦（pump）：提供血流動力。\n- 氧合器（oxygenator）：進行 O2/CO2 交換。\n- 熱交換器（heat exchanger）：控制血液溫度以降溫/升溫。\n\n主動脈鉗夾（aortic clamp）是外科手術器械，用於主動脈阻斷（cross-clamp）以利停搏與無血視野，但不屬於人工心肺機本體裝置。因此選 ①③④，即 (D)。"
+  },
+  {
+    "id": "MED3_XIN_Q0015",
+    "unit": "辛",
+    "stem": "下列有關原發性心臟內腫瘤之敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "原發性心臟內腫瘤約 25% 為良性，約 75% 為惡性" },
+      { "key": "B", "text": "成人最常見原發性良性心臟內腫瘤為黏液瘤（myxoma）" },
+      { "key": "C", "text": "15 歲以下孩童最常見原發性良性心臟內腫瘤為橫紋肌瘤（rhabdomyoma）" },
+      { "key": "D", "text": "即便是原發性良性心臟內腫瘤，一旦造成心衰竭、栓塞症狀或感染性心內膜炎，也應考慮手術治療" }
+    ],
+    "answer": "A",
+    "explanation": "原發性心臟腫瘤（primary cardiac tumors）整體以良性為主，常見概念為約 75% 良性、25% 惡性（比例在不同資料可略有差異，但方向一致：良性多於惡性）。因此 (A) 把比例顛倒（說良性 25%、惡性 75%）為錯誤。\n\n(B) 正確：成人最常見良性原發心臟腫瘤為 myxoma。\n(C) 正確：兒童（特別嬰幼兒）最常見良性原發心臟腫瘤為 rhabdomyoma，且常與 tuberous sclerosis complex 相關。\n(D) 正確：良性不代表「可觀察不處理」；若造成血流動力學阻塞、心衰竭、反覆栓塞或感染，外科切除常為根本治療。"
+  },
+  {
+    "id": "MED3_XIN_Q0016",
+    "unit": "辛",
+    "stem": "病人於接受心臟手術後轉入加護病房觀察。此時他的血壓自術後 140/80 mmHg 下降至 80/60 mmHg，肺動脈壓由 30/18 mmHg 上升至 56/30 mmHg，肺楔壓 20 mmHg，中心靜脈壓 15 mmHg，心跳 130/min。下列立即處置何者適當？①給予血管放鬆劑降低後負荷 ②給予抗心律不整藥改善心跳過速 ③給予葉克膜（ECMO） ④給予強心劑增加心肌收縮力",
+    "options": [
+      { "key": "A", "text": "①②③" },
+      { "key": "B", "text": "僅①③" },
+      { "key": "C", "text": "僅②④" },
+      { "key": "D", "text": "僅④" }
+    ],
+    "answer": "D",
+    "explanation": "此為典型術後低血壓合併充盈壓上升的血流動力學：\n- BP 下降、HR 快；\n- PA pressure、PCWP（肺楔壓）、CVP 同時偏高：提示心臟泵衰（pump failure）或心肌收縮力不足、左/右心衰竭或容量負荷/順應性問題。\n\n在「心輸出不足」情境，首要是改善心肌收縮力與灌流：立即使用強心劑（inotrope，例如 dobutamine、dopamine、milrinone 依臨床情境）以提升心輸出，故 ④正確。\n\n①血管擴張降低後負荷在某些低輸出合併高 SVR 情境可能有幫助，但此題呈現的是術後急性失代償且已有低血壓，盲目放鬆血管可能使血壓更差，不是「立即首選」。\n②心跳過速多為代償反應；在低輸出休克時先控制心跳可能反而降低心輸出（除非明確為致命性心律不整造成 hemodynamic collapse，題目未給此線索）。\n③ECMO 屬更高階循環/呼吸支持，通常在藥物與 IABP 等支持無效或極端失代償時考慮；題目問「立即處置」且提供單選組合，最合理為先給 inotrope。\n\n因此選 (D) 僅④。"
+  },
+  {
+    "id": "MED3_XIN_Q0017",
+    "unit": "辛",
+    "stem": "大部分血管瘤（hemangioma）在多少歲（或月齡）開始退化？",
+    "options": [
+      { "key": "A", "text": "1 個月" },
+      { "key": "B", "text": "3–6 個月" },
+      { "key": "C", "text": "6–9 個月" },
+      { "key": "D", "text": "12–18 個月" }
+    ],
+    "answer": "D",
+    "explanation": "以嬰幼兒常見的「增生型血管瘤（infantile hemangioma）」自然史來看：\n- 早期（數週至數月）進入快速增生期（proliferative phase）。\n- 約在 9–12 個月後逐漸轉入退化/消退期（involution phase），之後數年逐步縮小、顏色變淡。\n\n題目以月齡選項呈現，最符合「開始退化」的時間點為約 12–18 個月，因此選 (D)。\n\n臨床補充：是否需要治療取決於位置（眼周、氣道）、潰瘍/出血、功能影響與美容考量；近年口服 propranolol 為重要治療選項之一（視病灶與專科評估）。"
+  },
+  {
+    "id": "MED3_XIN_Q0018",
+    "unit": "辛",
+    "stem": "下列有關開心手術中之心肌保護（myocardial protection），何者錯誤？",
+    "options": [
+      { "key": "A", "text": "心臟一旦停止跳動，需留置大量血液在腔室內使氧氣和血糖進入心肌細胞，達到心肌保護的效果" },
+      { "key": "B", "text": "心肌保護液多為高鉀離子之溶液，可使心肌去極化並降低代謝" },
+      { "key": "C", "text": "藉由體外循環的全身降溫及心臟冰浴（topical cooling），可達到心肌保護效果" },
+      { "key": "D", "text": "心肌保護液可經由順行性（antegrade）或逆行性（retrograde）灌注冠狀循環以保護心肌" }
+    ],
+    "answer": "A",
+    "explanation": "(A) 錯。心肌保護的核心是「降低心肌耗氧 + 提供可控的停搏與灌流策略」，而不是把大量血液「留在心室腔室內」來讓氧氣/葡萄糖擴散進入心肌。腔室內血液不等於有效冠狀動脈灌流，反而可能增加手術視野障礙與血栓/微栓塞風險。\n\n正確的心肌保護方式包括：\n- Cardioplegia：常用高鉀（造成心肌去極化停搏），可為血性或晶體液，冷或溫，間歇或連續。\n- 降溫：全身低溫降低代謝；topical cooling（心臟冰浴/冰泥）作為輔助。\n- 灌注路徑：可 antegrade 經主動脈根部進冠狀動脈；亦可 retrograde 經冠狀竇（coronary sinus）逆行灌注，特別在冠狀動脈阻塞或主動脈瓣逆流等情境有其價值。\n\n因此 (B)(C)(D) 皆為合理心肌保護概念，錯誤的是 (A)。"
+  },
+  {
+    "id": "MED3_XIN_Q0019",
+    "unit": "辛",
+    "stem": "下列有關心房顫動（atrial fibrillation, AF）之敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "藥物療法除心率控制外，常需抗凝血治療以降低血栓栓塞風險" },
+      { "key": "B", "text": "手術適應症包括藥物治療無效且合併心房震顫引起之心肌病變，或無法接受抗心律不整藥物/抗凝血藥物治療者" },
+      { "key": "C", "text": "目前 ablation 可包括冷凍療法（cryoablation）、微波燒灼（microwave）、雷射燒灼（laser）等能量方式" },
+      { "key": "D", "text": "目前外科手術中 cut-and-sew Cox-Maze III procedure 術後僅有一半的病患可回到正常竇性心律" }
+    ],
+    "answer": "D",
+    "explanation": "(D) 錯。Cox-Maze III（傳統 cut-and-sew Maze）屬於外科治療 AF 的經典術式之一，對於維持竇性心律的成功率在多數系列報告中可達相當高（常見 >80–90% 等級，視追蹤時間、病人族群、合併瓣膜手術與術式差異），不可能僅約 50%。因此 (D) 低估成功率，為錯誤。\n\n(A) 正確：AF 的核心風險之一是左心耳血栓造成栓塞（如中風），是否抗凝需依 CHA2DS2-VASc 等風險評估與出血風險權衡。\n(B) 大方向合理：對症狀控制不佳、藥物無效或不耐受、合併結構性心臟病需手術者，外科/消融策略可納入考量（實務上仍需依最新指引與個案評估）。\n(C) 正確：能量來源多樣，臨床上更常見的也包含 radiofrequency（RF）等。"
+  },
+  {
+    "id": "MED3_XIN_Q0020",
+    "unit": "辛",
+    "stem": "下列有關心包膜疾病之敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "正常人的心包膜液約為 20 mL；急性心包填塞時，即使快速增加至約 40 mL 也可能使壓力顯著上升" },
+      { "key": "B", "text": "縮窄性心包膜炎（constrictive pericarditis）與限制型心肌病變（restrictive cardiomyopathy）的鑑別診斷常需依賴右心導管血流動力學" },
+      { "key": "C", "text": "在次發性惡性心包膜積液（secondary malignant pericardial effusion）中，男性與女性最常見的原發癌皆為肺癌" },
+      { "key": "D", "text": "因縮窄性心包膜炎接受心包膜切除術（pericardiectomy）的病人中，以 radiation-induced 縮窄性心包膜炎預後最佳" }
+    ],
+    "answer": "D",
+    "explanation": "(D) 錯。放射線造成的縮窄性心包膜炎（radiation-induced constrictive pericarditis）雖可行 pericardiectomy，但其預後往往較差，原因是放射線不只影響心包，還可能造成多重心臟結構損傷，例如冠狀動脈疾病、心肌纖維化、傳導系統異常、瓣膜病變等，導致術後改善幅度較有限、併發症與長期死亡風險較高。因此「預後最佳」是錯誤敘述。\n\n(A) 正確：心包順應性決定壓力-容量關係；急性快速積液時即使量不大也可能造成壓力陡升而發生 tamponade；慢性緩慢積液則可容納更多量才出現症狀。\n(B) 正確：constrictive vs restrictive 的鑑別常需整合影像（echo/MRI/CT）與血流動力學（right heart cath），例如呼吸相互依賴、壓力曲線特徵等。\n(C) 大方向可成立：惡性心包積液常見來源包含肺癌、乳癌、淋巴瘤/白血病等；題目描述以肺癌為最常見原發灶並不違背常見臨床印象。"
   }
 
 
