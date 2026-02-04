@@ -3037,8 +3037,391 @@
     "explanation": "馬尾症候群是下運動神經元（LMN）/神經根壓迫表現：\n- 鞍區麻木（saddle anesthesia）、尿滯留/失禁、下肢無力、反射下降或消失（patellar/Achilles、anal reflex、bulbocavernosus reflex）。\n因此 (B) 反射“增強”（UMN 表現）並非典型，選 (B)。",
     "source": "辛 脊椎疾病｜題 34（106二）專醫五-59",
     "tags": ["neurosurgery", "spine", "cauda_equina", "oncology_emergency"]
+  },
+
+
+  {
+    "id": "MED_05_01_NS_Q0114",
+    "stem": "關於脊椎的爆裂性骨折（burst fracture）之敘述，下列何者正確？",
+    "options": [
+      { "key": "A", "text": "發生機轉與脊椎的 Chance 氏骨折相同" },
+      { "key": "B", "text": "容易發生在骨質疏鬆症的病人" },
+      { "key": "C", "text": "脊椎體塌陷大於 50% 為不穩定骨折" },
+      { "key": "D", "text": "與脊椎的壓迫性骨折（compression fracture）相比，較少發生神經損傷" }
+    ],
+    "answer": "BC",
+    "explanation": "Burst fracture 典型機轉是「軸向壓縮（axial loading）」造成椎體粉碎並向後方 retropulsion，神經損傷風險通常「高於」單純 compression fracture，因此 (D) 錯。\nChance fracture 是屈曲牽張（flexion-distraction）損傷，機轉不同，所以 (A) 錯。\n不穩定判斷常看椎體高度喪失比例、後壁受損/後凸角度、是否合併後柱損傷與神經學缺損；椎體高度喪失 >50% 常被視為高風險不穩定指標之一，因此 (C) 可。\n骨質疏鬆病人承受同等外力時更易出現椎體粉碎/複雜型骨折（臨床上仍以壓迫性骨折最常見），題目取向下 (B) 為可接受的正確敘述。",
+    "source": "辛 脊椎疾病｜題 35（106二）專醫五-60",
+    "tags": ["neurosurgery", "spine", "trauma", "burst_fracture"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0115",
+    "stem": "下列有關脊神經及支配的肌肉配對，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "C5 — deltoid muscle" },
+      { "key": "B", "text": "C6 — triceps muscle" },
+      { "key": "C", "text": "L3 — quadriceps muscle" },
+      { "key": "D", "text": "S1 — gastrocnemius muscle" }
+    ],
+    "answer": "B",
+    "explanation": "Triceps（肘伸）主要是 C7（常記：C5 肩外展、C6 手腕伸、C7 肘伸、C8 指屈、T1 指外展內收）。\n其餘配對：C5-deltoid、L3/4-quadriceps、S1-gastrocnemius 皆合理。",
+    "source": "辛 脊椎疾病｜題 36（106一）專醫五-10",
+    "tags": ["neurosurgery", "spine", "myotome", "neuroanatomy"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0116",
+    "stem": "下列有關脊髓損傷病人使用高劑量皮質類固醇（corticosteroid）的敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "建議在受傷後 8 小時內使用" },
+      { "key": "B", "text": "bolus 劑量為 30 mg/kg 靜脈滴注一小時後，給予 5.4 mg/kg/hour 靜脈滴注 23 小時" },
+      { "key": "C", "text": "使用的藥物是 methylprednisolone" },
+      { "key": "D", "text": "此高劑量的皮質類固醇有相當大的副作用" }
+    ],
+    "answer": "A",
+    "explanation": "NASCIS 試驗曾提出在 8 小時內給予高劑量 methylprednisolone 的方案（B/C），且此作法確實伴隨感染、腸胃道出血、傷口問題等副作用風險（D）。\n但在較新的臨床共識中，「常規建議」使用高劑量類固醇已被認為效益不確定且風險不小，最多只能算選項/個案化考量，而非一律建議。因此 (A) 的措辭最不恰當、作為錯誤選項。",
+    "source": "辛 脊椎疾病｜題 37（106一）專醫五-12",
+    "tags": ["neurosurgery", "spine", "spinal_cord_injury", "steroids", "controversy"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0117",
+    "stem": "一位 35 歲男性發生車禍受傷造成頸部疼痛、無法行走。理學檢查：意識清楚；右側上下肢肌力 5 分但痛覺與溫度覺喪失；左側上下肢肌力 0 分但溫痛覺正常。影像顯示第 4 頸椎骨折、神經壓迫。最可能是哪種脊髓損傷？",
+    "options": [
+      { "key": "A", "text": "前側脊髓症候群（anterior cord syndrome）" },
+      { "key": "B", "text": "布朗賽卡氏症候群（Brown-Sequard syndrome）" },
+      { "key": "C", "text": "中央脊髓症候群（central cord syndrome）" },
+      { "key": "D", "text": "後側脊髓症候群（posterior cord syndrome）" }
+    ],
+    "answer": "B",
+    "explanation": "典型 hemisection 表現：同側皮質脊髓束受損 → 同側肌力下降；對側 spinothalamic tract（溫痛覺）因早期交叉後上行 → 對側溫痛覺下降（常從病灶下 1–2 節開始）。題幹呈現「一側運動缺損、另一側溫痛覺缺損」的典型組合，因此為 Brown-Sequard。",
+    "source": "辛 脊椎疾病｜題 38（106一）專醫五-56",
+    "tags": ["neurosurgery", "spine", "brown_sequard", "neuroanatomy"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0118",
+    "stem": "下列腦性麻痺（cerebral palsy）類型中，發生脊柱側彎（scoliosis）機率最低者為：",
+    "options": [
+      { "key": "A", "text": "四肢麻痺（quadriplegia）" },
+      { "key": "B", "text": "半身麻痺（hemiplegia）" },
+      { "key": "C", "text": "雙下肢麻痺（diplegia）" },
+      { "key": "D", "text": "兩下肢加一上肢麻痺（triplegia）" }
+    ],
+    "answer": "C",
+    "explanation": "CP 的脊柱側彎風險與「軀幹控制差、肌張力失衡與功能受損範圍」相關：受損越廣泛、軀幹控制越差（如 quadriplegia / severe involvement），側彎風險越高。相較之下，diplegia 的軀幹/上肢控制通常較佳，側彎風險相對較低，因此選 (C)（依本題答案設計）。",
+    "source": "辛 脊椎疾病｜題 39（106一）專醫五-61",
+    "tags": ["pediatrics", "neuro", "cerebral_palsy", "scoliosis"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0119",
+    "stem": "有關脊椎滑脫症（spondylolisthesis）引起疼痛、滑脫惡化及身體變形的危險因子，下列何者除外？",
+    "options": [
+      { "key": "A", "text": "年紀較輕" },
+      { "key": "B", "text": "男性病人" },
+      { "key": "C", "text": "反覆發作" },
+      { "key": "D", "text": "大腿後側肌群過緊" }
+    ],
+    "answer": "B",
+    "explanation": "退化性滑脫（degenerative spondylolisthesis）在女性更常見；而滑脫惡化/症狀加劇與年紀、活動負荷、反覆症狀發作、hamstring 緊繃與骨盆/脊柱力線等較相關。題目要選「不是危險因子」因此為 (B)。",
+    "source": "辛 脊椎疾病｜題 40（106一）專醫五-63",
+    "tags": ["neurosurgery", "spine", "spondylolisthesis", "risk_factors"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0120",
+    "stem": "下列有關脊髓的感覺神經分布之配對，何者正確？",
+    "options": [
+      { "key": "A", "text": "T4 — 腋下" },
+      { "key": "B", "text": "T6 — 乳頭附近" },
+      { "key": "C", "text": "T10 — 肚臍周圍" },
+      { "key": "D", "text": "L5 — 腳跟外側" }
+    ],
+    "answer": "C",
+    "explanation": "經典皮節：T4 乳頭、T6 劍突、T10 肚臍、L5 足背/第一趾間、S1 足外側與腳跟（heel）。因此只有 (C) 正確。",
+    "source": "辛 脊椎疾病｜題 41（105二）專醫五-12",
+    "tags": ["neurosurgery", "spine", "dermatome"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0121",
+    "stem": "下列何者是最常見之脊椎硬脊膜上轉移（spinal epidural metastasis）初期症狀？",
+    "options": [
+      { "key": "A", "text": "神經根病變（radiculopathy）" },
+      { "key": "B", "text": "局部疼痛（local pain）" },
+      { "key": "C", "text": "尿液滯留（urinary retention）" },
+      { "key": "D", "text": "下肢麻木（numbness of lower limbs）" }
+    ],
+    "answer": "B",
+    "explanation": "脊椎轉移造成的 epidural/硬膜外壓迫最常見、也最早出現的症狀是「局部背痛」（可夜間痛、逐漸惡化）。神經根痛、感覺/運動缺損與大小便問題通常較晚期才出現，屬高警訊。",
+    "source": "辛 脊椎疾病｜題 42（105二）專醫五-13",
+    "tags": ["neurosurgery", "spine", "oncology_emergency", "epidural_metastasis"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0122",
+    "stem": "35 歲男性從高處跌落，背部嚴重疼痛及下肢無力，且從身體乳線（nipple line）以下有感覺異常。最可能的脊髓損傷部位為何？",
+    "options": [
+      { "key": "A", "text": "第四胸椎（T4）" },
+      { "key": "B", "text": "第八胸椎（T8）" },
+      { "key": "C", "text": "第十胸椎（T10）" },
+      { "key": "D", "text": "第十二胸椎（T12）" }
+    ],
+    "answer": "A",
+    "explanation": "乳頭皮節約為 T4。臨床以「感覺平面（sensory level）」推估脊髓節段：乳線以下感覺異常最符合 T4 水平附近的脊髓病灶（或略高 1–2 節的差異需臨床整合）。此題以經典皮節對應作答選 (A)。",
+    "source": "辛 脊椎疾病｜題 43（105二）專醫五-59",
+    "tags": ["neurosurgery", "spine", "trauma", "sensory_level", "dermatome"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0123",
+    "stem": "45 歲男性 5 年前接受右側 L4-5 椎間盤突出切除手術，近一個月右側坐骨神經痛復發。欲區別「椎間盤突出復發」或「硬膜外神經沾黏」，下列何項檢查最能區別兩者？",
+    "options": [
+      { "key": "A", "text": "電腦斷層加顯影劑（CT with contrast enhancement）" },
+      { "key": "B", "text": "電腦斷層加椎間盤造影（CT discography）" },
+      { "key": "C", "text": "電腦斷層加脊髓造影（CT myelography）" },
+      { "key": "D", "text": "磁振造影加顯影劑（MRI with gadolinium）" }
+    ],
+    "answer": "D",
+    "explanation": "術後復發鑑別重點：\n- Epidural fibrosis（疤痕/沾黏）通常會「增強（enhance）」。\n- Recurrent disc herniation 通常不增強（或僅周邊薄環狀增強）。\n因此 gadolinium 增強 MRI 是最能區分兩者的檢查。",
+    "source": "辛 脊椎疾病｜題 44（105二）專醫五-62",
+    "tags": ["neurosurgery", "spine", "postop", "recurrent_disc", "epidural_fibrosis", "mri"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0124",
+    "stem": "脊椎損傷病人中，容易出現呼吸衰竭的是那幾節？",
+    "options": [
+      { "key": "A", "text": "第三至第五頸椎" },
+      { "key": "B", "text": "第六至第七頸椎" },
+      { "key": "C", "text": "第三至第七胸椎" },
+      { "key": "D", "text": "第四至第五腰椎" }
+    ],
+    "answer": "A",
+    "explanation": "橫膈膜由 phrenic nerve（C3–C5）支配；高位頸髓（尤其 C3 以上）損傷可直接造成呼吸衰竭。C5 以下雖仍可能因肋間肌受損、分泌物清除差而有呼吸併發症，但「最典型、最危險」的節段是 C3–C5。",
+    "source": "辛 脊椎疾病｜題 45（105一）專醫五-12",
+    "tags": ["neurosurgery", "spine", "spinal_cord_injury", "respiratory_failure"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0125",
+    "stem": "40 歲男性頸痛酸麻延伸至左側前臂及手掌中指，左側 triceps 深層肌腱反射減弱。最可能的頸椎椎間盤病灶為何？",
+    "options": [
+      { "key": "A", "text": "C3-4 椎間盤" },
+      { "key": "B", "text": "C4-5 椎間盤" },
+      { "key": "C", "text": "C5-6 椎間盤" },
+      { "key": "D", "text": "C6-7 椎間盤" }
+    ],
+    "answer": "D",
+    "explanation": "中指放射痛 + triceps reflex 減弱 → 指向 C7 神經根。\n頸椎椎間盤突出通常壓迫「下行神經根」，因此 C6-7 椎間盤最典型壓迫 C7 root，選 (D)。",
+    "source": "辛 脊椎疾病｜題 46（105一）專醫五-62",
+    "tags": ["neurosurgery", "spine", "cervical_radiculopathy", "c7"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0126",
+    "stem": "下列有關頸椎脫位性骨折治療的敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "牽引的重量依不同的頸椎而有不同" },
+      { "key": "B", "text": "牽引後須密切觀察病人神經學症狀" },
+      { "key": "C", "text": "牽引後須追蹤病人的頸椎 X-ray" },
+      { "key": "D", "text": "調整重量後若無神經學的改變，不須再追蹤頸椎 X-ray" }
+    ],
+    "answer": "D",
+    "explanation": "頸椎牽引復位是「動態調整」且有神經惡化風險；每次調整牽引重量後都需要影像確認對位與復位狀態，並同步監測神經學變化。即使神經學看似無變化，也不能省略追蹤影像，因此 (D) 錯。",
+    "source": "辛 脊椎疾病｜題 47（104二）專醫五-9",
+    "tags": ["neurosurgery", "spine", "trauma", "cervical_dislocation", "traction"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0127",
+    "stem": "下列關於脊椎病理性骨折（pathologic fracture）的敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "多為轉移性腫瘤（metastatic tumor）造成" },
+      { "key": "B", "text": "常見的腫瘤來源為肺癌、乳癌等" },
+      { "key": "C", "text": "判斷腫瘤對於脊髓壓迫的嚴重程度時，CT 比 MRI 更適合" },
+      { "key": "D", "text": "當病患下肢日漸無力或有大小便失禁等症狀時，應考慮手術減壓" }
+    ],
+    "answer": "C",
+    "explanation": "評估脊髓/神經結構壓迫嚴重度，MRI 對軟組織、硬膜囊、脊髓與腫瘤/膿瘍/血腫的界面最敏感，是首選。CT 優勢在骨性結構與鈣化/骨破壞，但不是評估壓迫嚴重度的最佳工具，因此 (C) 錯。\nA/B/D 皆為臨床常識：病理性骨折多因轉移；常見原發含肺、乳等；出現進行性神經缺損或括約肌症狀需緊急處理（手術減壓±穩定、放療/全身治療）。",
+    "source": "辛 脊椎疾病｜題 48（104二）專醫五-12",
+    "tags": ["neurosurgery", "spine", "oncology", "metastasis", "imaging"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0128",
+    "stem": "有關脊椎損傷，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "只要下肢仍有感覺就屬於不完全性的損傷" },
+      { "key": "B", "text": "Central cord syndrome 指病人理學檢查時上肢比下肢無力" },
+      { "key": "C", "text": "Brown-Sequard syndrome 指對側運動功能及對側感覺功能喪失" },
+      { "key": "D", "text": "Anterior cord syndrome 指下肢無力及對痛和溫度的感覺喪失" }
+    ],
+    "answer": "C",
+    "explanation": "Brown-Sequard 的核心是半側脊髓損傷：同側運動（corticospinal）與本體覺/震動覺（dorsal column）下降，對側痛溫覺（spinothalamic）下降；不是「對側運動 + 對側感覺」一把抓，因此 (C) 錯。\n補充：A 的說法在嚴格定義上應看 sacral sparing（肛門周圍感覺/肛門括約肌功能等），但本題答案設計主要抓 Brown-Sequard 的典型鑑別點。",
+    "source": "辛 脊椎疾病｜題 49（104二）專醫五-75",
+    "tags": ["neurosurgery", "spine", "spinal_cord_injury", "syndromes"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0129",
+    "stem": "何種脊髓內腫瘤（intramedullary tumor）最常見？",
+    "options": [
+      { "key": "A", "text": "腦膜瘤（meningioma）" },
+      { "key": "B", "text": "轉移腫瘤（metastatic tumor）" },
+      { "key": "C", "text": "黑色素細胞瘤（melanoma）" },
+      { "key": "D", "text": "星狀細胞瘤（astrocytoma）" }
+    ],
+    "answer": "D",
+    "explanation": "脊髓內（intramedullary）腫瘤以膠質瘤為主；在「整體/考試框架」最常用 astrocytoma 作為代表答案。\n快速對照：meningioma 多屬 intradural extramedullary；硬膜外病灶最常見是轉移。",
+    "source": "辛 脊椎疾病｜題 50（104一）專醫五-14",
+    "tags": ["neurosurgery", "spine", "tumor", "intramedullary"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0130",
+    "stem": "脊髓脊膜突出（myelomeningocele）好發位置在：",
+    "options": [
+      { "key": "A", "text": "腰薦椎交界" },
+      { "key": "B", "text": "胸腰椎交界" },
+      { "key": "C", "text": "頸椎" },
+      { "key": "D", "text": "腰椎" }
+    ],
+    "answer": "AB",
+    "explanation": "典型考點：myelomeningocele 最常見於「腰薦椎」區域；而 myeloschisis 常被描述較偏胸腰椎交界。此題原書備註曾對 (A)(B) 給分，屬出題取向造成的答案彈性。\n實務記憶：神經管缺陷以 lumbosacral 最常見。",
+    "source": "辛 脊椎疾病｜題 51（104一）專醫五-16",
+    "tags": ["pediatrics", "neuro", "ntd", "myelomeningocele"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0131",
+    "stem": "下列有關中央脊髓症候群（central cord syndrome）的描述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "無力的症狀主要出現在上肢遠端的肌肉群" },
+      { "key": "B", "text": "異常主要出現在肩膀（shoulder）" },
+      { "key": "C", "text": "X 光影像上常無法看見有明顯的脊椎骨折" },
+      { "key": "D", "text": "常出現在脖子過度屈曲（hyperflexion）或過度伸張（hyperextension）的病人" }
+    ],
+    "answer": "D",
+    "explanation": "Central cord syndrome 最典型情境是「老年頸椎退化/狹窄 + 過度伸展（hyperextension）」造成髓中央損傷，上肢（特別遠端）無力通常比下肢明顯。\n(D) 把 hyperflexion 與 hyperextension 都列為典型機轉，容易誤導；考試上通常以 hyperextension 為核心機轉，因此以 (D) 作為錯誤選項。\n(C) 也符合：可在無明顯骨折的情境發生（例如退化狹窄合併伸展傷）。",
+    "source": "辛 脊椎疾病｜題 52（103二）專醫五-12",
+    "tags": ["neurosurgery", "spine", "central_cord_syndrome", "trauma"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0132",
+    "stem": "41 歲女性腰椎 MRI 矢狀面 T1 及 T2 影像顯示 L4 與 L5 椎體內中央部分有橫向高訊號變化。此高訊號的骨髓變化為何？",
+    "options": [
+      { "key": "A", "text": "infectious spondylitis" },
+      { "key": "B", "text": "transverse fracture of vertebral bodies" },
+      { "key": "C", "text": "metastases" },
+      { "key": "D", "text": "fatty replacement of central aspect of vertebral bodies" }
+    ],
+    "answer": "D",
+    "explanation": "影像鑑別重點（題幹強調 T1、T2 都呈高訊號）：\n- 脂肪置換/脂肪髓（類 Modic type II）→ T1 高、T2 高。\n- 感染（spondylitis）多為 T1 低、T2 高（含骨髓水腫）。\n- 骨折多見 T1 低訊號裂隙/骨髓水腫表現（T2 可高，但 T1 多不會整段高）。\n- 轉移常見 T1 低；T2 可變，但在本題選項對照下最符合 (D)。",
+    "source": "辛 脊椎疾病｜題 53（103一）專醫五-73",
+    "tags": ["neurosurgery", "spine", "mri", "modic_changes", "differential"]
+  },
+
+
+
+  {
+    "id": "MED_05_01_NS_Q0133",
+    "stem": "有關化膿性脊椎感染（pyogenic spinal infection），下列敘述何者最不適當？",
+    "options": [
+      { "key": "A", "text": "最常發生於腰椎，胸椎次之" },
+      { "key": "B", "text": "最常見之致病菌為金黃色葡萄球菌（Staphylococcus aureus）" },
+      { "key": "C", "text": "成人的致病機轉主要為血行性（hematogenous）感染椎間盤（intervertebral disc），再蔓延至上下椎體造成骨髓炎" },
+      { "key": "D", "text": "手術適應症包括非手術治療無效、鑑別致病性微生物、有神經功能缺失或脊椎不穩定" }
+    ],
+    "answer": "C",
+    "explanation": "成人椎間盤為無血管組織，血行性感染通常先「落在椎體終板/椎體」，再跨終板侵犯椎間盤；相對地，兒童椎間盤仍較有血流供應，才比較可能先由椎間盤起病。A/B/D 為典型正確敘述：腰椎最常見、常見菌為金黃色葡萄球菌，手術考量包含神經壓迫、敗血控制失敗、需要培養/病理、結構不穩等。",
+    "source": "化膿性脊椎感染｜題 3（111一）專醫五-62",
+    "tags": ["neurosurgery", "spine", "infection", "osteomyelitis", "discitis"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0134",
+    "stem": "關於 Chiari I herniation 的敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "延髓（medulla）向下疝出，超出 foramen magnum 位置" },
+      { "key": "B", "text": "可能產生四肢麻木、無力情形" },
+      { "key": "C", "text": "可能產生脊髓空洞症（syringomyelia）" },
+      { "key": "D", "text": "可藉由切除枕骨下骨（suboccipital craniectomy）與第一頸椎椎弓來治療" }
+    ],
+    "answer": "A",
+    "explanation": "Chiari I 的核心是「小腦扁桃體（cerebellar tonsils）下疝」；延髓明顯下疝更偏 Chiari II（且常合併脊柱裂/水腦等）。Chiari I 可造成後顱窩壓迫與 CSF 循環受阻，出現頭痛、感覺/運動症狀，並可合併 syringomyelia；治療以後顱窩減壓（suboccipital decompression ± C1 laminectomy）為常見策略。",
+    "source": "Chiari 畸形｜題 4（111二）專醫五-12",
+    "tags": ["neurosurgery", "chiari", "syringomyelia", "posterior_fossa_decompression"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0135",
+    "stem": "小腦扁桃體下垂 5 mm 至頸椎脊椎腔且合併有脊髓空洞症（syringomyelia），但沒有合併脊柱裂（spinal bifida）或水腦（hydrocephalus），應歸屬下列何種異常？",
+    "options": [
+      { "key": "A", "text": "Chiari I malformation" },
+      { "key": "B", "text": "Chiari II malformation" },
+      { "key": "C", "text": "Dandy-Walker syndrome" },
+      { "key": "D", "text": "myelomeningocele" }
+    ],
+    "answer": "A",
+    "explanation": "Chiari I：扁桃體下疝（常用門檻約 >5 mm）± syringomyelia，通常不必然合併脊柱裂或水腦。Chiari II 則典型與 myelomeningocele（脊柱裂）高度相關，並常見後腦幹/延髓下疝與水腦風險。",
+    "source": "Chiari 畸形｜題 5（109二）專醫五-12",
+    "tags": ["neurosurgery", "chiari", "spinal_dysraphism", "syringomyelia"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0136",
+    "stem": "關於腦膿瘍（brain abscess）的敘述，下列何者正確？",
+    "options": [
+      { "key": "A", "text": "通常成因為細菌經由血液循環進入腦內而產生" },
+      { "key": "B", "text": "最好發族群是老年人" },
+      { "key": "C", "text": "若神經學症狀在數小時內急遽惡化，最可能是膿瘍破至腦室或蜘蛛膜下腔位置" },
+      { "key": "D", "text": "影像上最常表現出額葉腦表面的 cystic lesion with contrast enhancement" }
+    ],
+    "answer": "C",
+    "explanation": "腦膿瘍常見來源是鄰近感染直接蔓延（中耳炎、鼻竇炎、齒源性）或穿通性外傷/手術後；血行性播散也可能但不是最典型的單一句。臨床若短時間內劇烈惡化，要高度懷疑膿瘍破入腦室/蛛網膜下腔造成急性腦室炎或腦膜炎。影像典型為 ring enhancement（膿腔中心低密度/高 T2、周邊膿瘍壁增強），位置並非「最常就在額葉表面」。",
+    "source": "腦膿瘍｜題 6（109二）專醫五-13",
+    "tags": ["neurosurgery", "infection", "brain_abscess", "ring_enhancement"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0137",
+    "stem": "藥物無法有效控制之癲癇，檢查顯示腦部不正常放電點可能在右側顳葉，則下列何項手術之治癒率最高？",
+    "options": [
+      { "key": "A", "text": "anterior temporal lobectomy" },
+      { "key": "B", "text": "multiple subpial resection" },
+      { "key": "C", "text": "corpus callosotomy" },
+      { "key": "D", "text": "vagus nerve stimulation" }
+    ],
+    "answer": "A",
+    "explanation": "若癲癇灶定位明確且位於可切除區（常見為非優勢側顳葉的致癲癇灶，例如 mesial temporal sclerosis），切除性手術（anterior temporal lobectomy）一般具有最高的「無發作」機率。Multiple subpial resection、callosotomy 多屬連結阻斷/緩解型策略；VNS 典型是降低發作頻率而非高比例根治。",
+    "source": "癲癇外科｜題 7（109二）專醫五-14",
+    "tags": ["neurosurgery", "epilepsy_surgery", "temporal_lobectomy", "vns"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0138",
+    "stem": "有關嬰兒搖晃症（shaken baby syndrome）的敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "常跟虐兒（child abuse）有關，有時需要社工介入" },
+      { "key": "B", "text": "臨床上可做眼底檢查發現視網膜出血（retinal hemorrhage）" },
+      { "key": "C", "text": "電腦斷層掃描可見急性硬膜下血腫（acute subdural hematoma）" },
+      { "key": "D", "text": "外觀上很容易發現異常" }
+    ],
+    "answer": "D",
+    "explanation": "Shaken baby syndrome（abusive head trauma）常見內在顱內傷害（如 SDH/SAH、腦挫傷、腦水腫）與視網膜出血，外觀反而常「不明顯」，因此不能期待靠外觀容易辨識。A/B/C 皆為典型高頻線索與處置要點（含通報/社工介入）。",
+    "source": "兒虐頭部外傷｜題 8（108二）專醫五-8",
+    "tags": ["pediatrics", "child_abuse", "abusive_head_trauma", "retinal_hemorrhage"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0139",
+    "stem": "下列何者最不可能出現在毛毛樣血管疾病（moyamoya disease）？",
+    "options": [
+      { "key": "A", "text": "雙側顱內內頸動脈狹窄" },
+      { "key": "B", "text": "腦部出現煙霧狀血管" },
+      { "key": "C", "text": "顱內血管母細胞瘤（hemangioblastoma）" },
+      { "key": "D", "text": "顱內動脈瘤" }
+    ],
+    "answer": "C",
+    "explanation": "Moyamoya 的核心是顱內大血管（常見 ICA 末端）狹窄/阻塞，產生代償性側枝血管網（煙霧狀外觀），並可合併出血性事件與動脈瘤風險。Hemangioblastoma 屬腫瘤性病灶，與 moyamoya 的典型血管表現不相符，因此最不可能為 (C)。",
+    "source": "Moyamoya｜題 9（107二）專醫五-9",
+    "tags": ["neurosurgery", "cerebrovascular", "moyamoya", "aneurysm"]
+  },
+  {
+    "id": "MED_05_01_NS_Q0140",
+    "stem": "下列有關微量元素（trace element）的敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "beriberi disease 是因為缺乏硒（selenium）" },
+      { "key": "B", "text": "缺乏鋅（zinc）會造成禿頭（alopecia）" },
+      { "key": "C", "text": "接受過胃切除的病患容易缺乏鐵（iron）" },
+      { "key": "D", "text": "缺乏 vitamin D 會造成骨質疏鬆（osteoporosis）" }
+    ],
+    "answer": "A",
+    "explanation": "Beriberi 是「維生素 B1（thiamine）缺乏」所致，而非 selenium 缺乏，因此 (A) 錯。\n其餘：鋅缺乏可見掉髮/皮膚問題；胃切除後因胃酸與吸收條件改變、攝取下降等，鐵缺乏/缺鐵性貧血風險上升；維生素 D 缺乏與骨密度下降、骨質疏鬆/骨軟化相關（臨床仍需整合鈣、PTH、日照與腎功能等）。",
+    "source": "外科概論｜題 10（101一）專醫五-7",
+    "tags": ["surgery", "nutrition", "trace_elements", "vitamins"]
   }
 
-
+  
 
 ]
