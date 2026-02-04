@@ -2848,7 +2848,276 @@
     "answer": "D",
     "explanation": "本題考 adenoma–carcinoma sequence 的時間尺度與危險因子分層。\n\nD 錯誤：大腸腺瘤進展成大腸癌通常是「多年」的累積過程，常見考法約為 8–10 年量級（個體差異存在，但 1–2 年屬過度縮短、違反常規考點）。\n\n其餘選項為正確觀念：\nA 正確：多步驟基因變化（例如 APC/β-catenin pathway、KRAS、TP53 等）與表觀遺傳變化推動腺瘤到癌的演進，是典型國考框架。\nB 正確：腺瘤越大（例如 ≥10 mm），advanced adenoma 與癌化風險上升；臨床上也會據此安排更密集追蹤。\nC 正確：腺瘤的組織型態與癌化風險相關，傳統分層為 villous > tubulovillous > tubular。\n\n延伸重點（常併考）：\n1) 高風險腺瘤特徵：大（≥10 mm）、villous 成分、high-grade dysplasia、多發息肉。\n2) 追蹤間隔：依『切除後病理 + 數量大小』分層決定（題庫若要做衍生題可從這裡出）。",
     "tags": ["CRS", "大腸息肉", "adenoma-carcinoma sequence", "癌化風險"]
+  },
+
+
+  
+  {
+    "id": "MED3_GI_COLON_GENG_Q0001",
+    "stem": "病人的大腸鏡檢查發現有 hamartomatous polyps，同時又有嘴唇、口腔黏膜、手指末端的黑色素沉澱（hyperpigmentation），最可能罹患何種疾病？",
+    "options": [
+      { "key": "A", "text": "juvenile polyposis syndrome" },
+      { "key": "B", "text": "Peutz-Jeghers syndrome" },
+      { "key": "C", "text": "Lynch syndrome" },
+      { "key": "D", "text": "familial adenomatous polyposis" }
+    ],
+    "answer": "B",
+    "explanation": "Hamartomatous polyps 合併嘴唇/口腔黏膜與末端肢體黑色素沉著為 Peutz-Jeghers syndrome 典型表現（常與 STK11/LKB1 相關）。JPS 亦為 hamartomatous polyps，但無典型黏膜皮膚色素沉著；Lynch/FAP 主要為腺瘤性息肉與相關癌症風險。"
+  },
+  {
+    "id": "MED3_GI_COLON_GENG_Q0002",
+    "stem": "有關大腸息肉的敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "大腸息肉經過許多基因的變異，可能長成大腸癌" },
+      { "key": "B", "text": "腺性息肉越大，癌化的機率越高" },
+      { "key": "C", "text": "villous adenoma 較 tubular adenoma 癌化的機率高" },
+      { "key": "D", "text": "大腸息肉轉化成大腸癌的時間約需 1–2 年" }
+    ],
+    "answer": "D",
+    "explanation": "典型 adenoma–carcinoma sequence 多需約 8–10 年（可因高危特徵而更快，但 1–2 年作為一般化敘述過短）。其餘敘述皆符合：息肉累積基因變異可進展、體積越大/絨毛成分越高癌化風險越高。"
+  },
+
+  {
+    "id": "MED3_GI_COLON_XIN_Q0001",
+    "stem": "大腸癌術後病理報告顯示癌細胞侵犯至腸壁肌肉層（muscularis propria），但是未穿越過肌肉層，此時 TNM Stage 的 T stage 為何？",
+    "options": [
+      { "key": "A", "text": "T1" },
+      { "key": "B", "text": "T2" },
+      { "key": "C", "text": "T3" },
+      { "key": "D", "text": "T4" }
+    ],
+    "answer": "B",
+    "explanation": "T2：腫瘤侵犯 muscularis propria 但未穿透；T1 只到 submucosa；T3 穿透 muscularis propria 進入周圍組織；T4 侵犯臟層腹膜或鄰近器官。"
+  },
+  {
+    "id": "MED3_GI_COLON_XIN_Q0002",
+    "stem": "43 歲乙狀結腸癌病患，接受乙狀結腸切除手術後第五天，從引流管流出白色液體，最可能的原因為何？",
+    "options": [
+      { "key": "A", "text": "腸吻合處滲漏" },
+      { "key": "B", "text": "手術中造成輸尿管受傷" },
+      { "key": "C", "text": "乳糜液外滲" },
+      { "key": "D", "text": "手術中殘留血塊，形成膿瘍" }
+    ],
+    "answer": "C",
+    "explanation": "術後引流出現乳白色液體典型考慮 chyle leak（乳糜液），多與淋巴管損傷相關；吻合滲漏多為糞水樣/膿性且合併發燒、腹痛；輸尿管傷多為清澈尿液並可能有 Cr 上升；膿瘍多為黃綠膿性液體。"
+  },
+  {
+    "id": "MED3_GI_COLON_XIN_Q0003",
+    "stem": "有關 hereditary nonpolyposis colon cancer（HNPCC）的敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "為 autosomal dominant disease" },
+      { "key": "B", "text": "與 mismatch repair 基因缺損相關" },
+      { "key": "C", "text": "須在 20 歲前進行預防性手術" },
+      { "key": "D", "text": "MSH6 的缺損和子宮內膜癌相關" }
+    ],
+    "answer": "C",
+    "explanation": "Lynch/HNPCC 核心為 MMR 基因缺陷（MLH1/MSH2/MSH6/PMS2 等），屬常染色體顯性遺傳，並增加子宮內膜癌等風險；主要策略為自年輕期開始密集大腸鏡監測（而非「20 歲前一律預防性切除」）。"
+  },
+  {
+    "id": "MED3_GI_COLON_XIN_Q0004",
+    "stem": "59 歲無特殊病史男性，被診斷罹患無遠處轉移的結腸癌，手術後病理結果為 pT3N1。以目前的治療指引應建議病人接受下列何項治療？",
+    "options": [
+      { "key": "A", "text": "追蹤" },
+      { "key": "B", "text": "oxaliplatin 為主的化學治療（FOLFOX）" },
+      { "key": "C", "text": "irinotecan 為主的化學治療（FOLFIRI）" },
+      { "key": "D", "text": "須加上標靶藥物（VEGF 或 EGFR inhibitor）" }
+    ],
+    "answer": "B",
+    "explanation": "pT3N1 為 stage III（常見歸類 IIIB），標準為術後輔助化療：FOLFOX 或 CAPEOX；FOLFIRI 與標靶多用於轉移/晚期治療情境。"
+  },
+  {
+    "id": "MED3_GI_COLON_XIN_Q0005",
+    "stem": "關於大腸直腸癌的敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "年齡是大腸直腸癌的重要風險因子，約九成的病例是 50 歲以上的民眾" },
+      { "key": "B", "text": "約八成的大腸直腸癌是偶發性的，兩成發生於有結腸癌家族病史" },
+      { "key": "C", "text": "大腸直腸癌好發於多攝食動物性脂肪且少攝食纖維的民眾" },
+      { "key": "D", "text": "肥胖及久坐的生活方式會減少大腸直腸癌的發生率" }
+    ],
+    "answer": "D",
+    "explanation": "肥胖與久坐是大腸直腸癌的危險因子（不會降低發生率）。A/B/C 為常見流行病學與風險因子敘述。"
+  },
+  {
+    "id": "MED3_GI_COLON_XIN_Q0006",
+    "stem": "對年長病患而言，使用腹腔鏡手術切除大腸腫瘤，相較於開腹手術切除大腸腫瘤之優點，不包含下列何項？",
+    "options": [
+      { "key": "A", "text": "減少心肺併發症" },
+      { "key": "B", "text": "減少手術期間（peri-operative period）關於大腸切除的併發症及死亡率" },
+      { "key": "C", "text": "傷口較小" },
+      { "key": "D", "text": "腹腔鏡手術與開腹手術的腫瘤清除率（oncologic clearance）相當" }
+    ],
+    "answer": "B",
+    "explanation": "腹腔鏡常見優點為傷口小、恢復快、部分併發症較少，且腫瘤學清除率可相當；但「死亡率顯著降低」並非一致且穩定的優勢描述。"
+  },
+  {
+    "id": "MED3_GI_COLON_XIN_Q0007",
+    "stem": "直腸癌接受 total mesorectal excision（TME）之治療不會有下列那一項結果？",
+    "options": [
+      { "key": "A", "text": "性無能的發生機率會增加" },
+      { "key": "B", "text": "病患長期預後較佳" },
+      { "key": "C", "text": "局部復發率會減少" },
+      { "key": "D", "text": "膀胱功能異常會減少" }
+    ],
+    "answer": "A",
+    "explanation": "TME 是中低位直腸癌的重要手術原則，可降低局部復發並改善腫瘤控制；在神經保留與標準化技術下，較傳統手術可降低（而非增加）泌尿/性功能損傷風險。"
+  },
+  {
+    "id": "MED3_GI_COLON_XIN_Q0008",
+    "stem": "一位 58 歲婦女，因下腹部悶痛且大便次數頻繁至大腸直腸外科門診，下列何者不是門診須立即安排的檢查項目？",
+    "options": [
+      { "key": "A", "text": "腹部理學檢查" },
+      { "key": "B", "text": "肛門指診" },
+      { "key": "C", "text": "陰道指診" },
+      { "key": "D", "text": "電腦斷層" }
+    ],
+    "answer": "D",
+    "explanation": "門診初評以理學檢查（含肛診，必要時婦科評估）與內視鏡檢查為主；CT 多用於特定疑慮或分期/併發症評估，通常不是「立即」必做的第一步。"
+  },
+  {
+    "id": "MED3_GI_COLON_XIN_Q0009",
+    "stem": "承上題，經檢查後發現糞便內混有血跡，直腸無異常，下列何者是後續最適當之檢查項目？",
+    "options": [
+      { "key": "A", "text": "電腦斷層掃描" },
+      { "key": "B", "text": "大腸鋇劑 X 光攝影檢查" },
+      { "key": "C", "text": "大腸鏡纖維內視鏡檢查" },
+      { "key": "D", "text": "腹部超音波檢查" }
+    ],
+    "answer": "C",
+    "explanation": "糞便混血且直腸檢查無異常時，應進一步以大腸鏡評估全大腸（找出出血源、息肉/腫瘤、發炎等，並可同時切片或治療）。"
+  },
+  {
+    "id": "MED3_GI_COLON_XIN_Q0010",
+    "stem": "15 歲男孩因排黏液血便求診，詢問其家族史發現他的父親、叔叔及姑姑皆有大腸息肉或癌症病史，內視鏡發現其大腸約有數百個大小息肉，下列相關敘述何者正確？\n①致病成因為 mismatch repair 基因遺傳性突變\n②基因突變位於 5q21\n③為顯性遺傳（autosomal dominance）\n④此類病人大於 50% 之比率沒有家族史",
+    "options": [
+      { "key": "A", "text": "僅①③" },
+      { "key": "B", "text": "①②③④" },
+      { "key": "C", "text": "僅①②④" },
+      { "key": "D", "text": "僅②③" }
+    ],
+    "answer": "D",
+    "explanation": "數百顆腺瘤性息肉合併強烈家族史典型為 FAP（APC 基因，5q21），屬常染色體顯性。MMR 是 Lynch；FAP 多數有家族史（仍可有 de novo，但不符合「>50% 無家族史」）。"
+  },
+  {
+    "id": "MED3_GI_COLON_XIN_Q0011",
+    "stem": "有關大腸直腸癌的化學治療準則，下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "Stage I 病人術後不需要使用術後輔助性化療" },
+      { "key": "B", "text": "5-fluorouracil-based（5-FU）regimen 被建議可用於 stage II 併有 poor prognostic indicator 的病人" },
+      { "key": "C", "text": "FOLFOX regimen 可延長 stage III 病患存活率" },
+      { "key": "D", "text": "Stage IV 病人 RAS mutation 對於 Anti-EGFR 治療有好處" }
+    ],
+    "answer": "D",
+    "explanation": "RAS（如 KRAS/NRAS）突變通常預測抗 EGFR 治療無效（需 RAS wild-type 才較可能受益）。A/B/C 為常見治療原則敘述。"
+  },
+  {
+    "id": "MED3_GI_COLON_XIN_Q0012",
+    "stem": "下列有關在進行常規（elective）大腸手術前，術前準備工作有新的觀念和看法，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "進行 bowel preparation 時，有些病患會接受抗生素治療降低腸內菌量；大腸最常見的細菌是厭氧的 Bacteroides" },
+      { "key": "B", "text": "有證據顯示術前施打抗生素，必須在劃刀前 30 分鐘內施打；若手術時間過長，需要每隔 4 小時再補抗生素劑量，可以有效降低傷口發生感染的機會" },
+      { "key": "C", "text": "若臨床上考慮進行 mechanical bowel cleansing，針對腎臟功能不佳的患者，選擇 sodium phosphate 類的灌腸劑，相對 polyethylene glycol solution，較少發生嚴重電解質不平衡的情形" },
+      { "key": "D", "text": "近幾年關於 fast track surgery 的研究發現，常規長時間讓病患術前禁食，對於腸胃道排空功能正常患者，反而會有腸黏膜萎縮進而增加感染的機會" }
+    ],
+    "answer": "C",
+    "explanation": "Sodium phosphate 可能造成明顯水分/電解質失衡甚至腎損傷，腎功能不佳者反而更不適合；PEG 類較不易造成吸收與電解質問題，常被視為較安全的選擇。"
+  },
+  {
+    "id": "MED3_GI_COLON_XIN_Q0013",
+    "stem": "在 HNPCC（hereditary nonpolyposis colorectal cancer）患者中，最常見的腸道外腫瘤為何？",
+    "options": [
+      { "key": "A", "text": "膀胱癌" },
+      { "key": "B", "text": "胃癌" },
+      { "key": "C", "text": "子宮內膜癌" },
+      { "key": "D", "text": "卵巢癌" }
+    ],
+    "answer": "C",
+    "explanation": "Lynch/HNPCC 最常見的腸道外癌症為子宮內膜癌（亦常見卵巢、胃、小腸、泌尿道等）。"
+  },
+  {
+    "id": "MED3_GI_COLON_XIN_Q0014",
+    "stem": "關於抑癌基因 APC gene（adenomatous polyposis coli gene）的敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "只要 APC gene 突變就能產生大腸直腸癌" },
+      { "key": "B", "text": "是家族性大腸息肉症的成因" },
+      { "key": "C", "text": "是顯性遺傳" },
+      { "key": "D", "text": "家族性大腸息肉症是大腸直腸癌的高危險群" }
+    ],
+    "answer": "A",
+    "explanation": "APC 突變是腺瘤—癌化序列的重要早期事件，但大腸直腸癌形成需累積多步驟變異（且多涉及雙等位基因失活等），不是「只要 APC 突變就必然產生癌」。B/C/D 皆正確。"
+  },
+  {
+    "id": "MED3_GI_COLON_XIN_Q0015",
+    "stem": "一位 35 歲男性患因持續右側腹痛就醫，經下消化道攝影發現升結腸有一蘋果核（apple core）般的病灶，下列何者是不需要的檢查？",
+    "options": [
+      { "key": "A", "text": "大腸鏡切片檢查（colonoscopic biopsy）" },
+      { "key": "B", "text": "電腦斷層（CT scan）" },
+      { "key": "C", "text": "癌胚胎抗原（CEA）" },
+      { "key": "D", "text": "甲型胎兒蛋白（AFP）" }
+    ],
+    "answer": "D",
+    "explanation": "Apple-core sign 高度懷疑結腸癌：需要大腸鏡切片確診、CT 做分期評估，CEA 可作為基線與追蹤；AFP 主要用於 HCC/胚胎性腫瘤，非結腸癌常規。"
+  },
+  {
+    "id": "MED3_GI_COLON_XIN_Q0016",
+    "stem": "病人經檢查後發現為第 3 期直腸癌，下列何者為現階段之治療選項？",
+    "options": [
+      { "key": "A", "text": "術前單獨放射線治療" },
+      { "key": "B", "text": "術前單獨化學藥物治療" },
+      { "key": "C", "text": "術前放射線合併化學藥物治療" },
+      { "key": "D", "text": "直接手術切除治療" }
+    ],
+    "answer": "C",
+    "explanation": "局部進展（常見 stage II/III）直腸癌多採術前同步放化療（或新輔助治療策略）以降低局部復發、提高手術切除率，再接續手術（TME）與後續治療。"
+  },
+  {
+    "id": "MED3_GI_COLON_XIN_Q0017",
+    "stem": "大腸癌最常見的轉移路徑為何？",
+    "options": [
+      { "key": "A", "text": "經腸壁轉移" },
+      { "key": "B", "text": "經穿透腹膜轉移" },
+      { "key": "C", "text": "經由淋巴系統轉移" },
+      { "key": "D", "text": "經由血管轉移" }
+    ],
+    "answer": "C",
+    "explanation": "大腸癌典型擴散先走淋巴轉移至區域淋巴結（TNM 的 N 分期即反映此路徑）；遠端器官（如肝）則多為血行轉移，但題幹問「最常見轉移路徑」通常以淋巴途徑作答。"
+  },
+  {
+    "id": "MED3_GI_COLON_XIN_Q0018",
+    "stem": "關於人工肛門（ostomies）的敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "人工肛門的位置對病人的生活品質很重要" },
+      { "key": "B", "text": "人工肛門應被置於於腹直肌內並且容易被肉眼所見及方便操作" },
+      { "key": "C", "text": "人工肛門應避免被置於先前手術的疤痕處及骨頭凸出的位置" },
+      { "key": "D", "text": "直腸癌的患者術後都需要永久性人工肛門" }
+    ],
+    "answer": "D",
+    "explanation": "並非所有直腸癌術後都需永久性造口；是否永久造口取決於腫瘤位置、手術方式（例如低位前切、APR 等）、吻合可行性與併發症風險。A/B/C 為造口選址與照護基本原則。"
+  },
+  {
+    "id": "MED3_GI_COLON_XIN_Q0019",
+    "stem": "關於肛門上皮樣細胞癌（anal epidermoid carcinoma）的敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "其細胞種類不同於直腸癌（rectal cancer）" },
+      { "key": "B", "text": "放射線治療合併化學治療（chemoradiation）是主要治療" },
+      { "key": "C", "text": "腹部會陰聯合切除術（abdominoperineal resection）是轉移性病況（metastatic disease）時的治療首選" },
+      { "key": "D", "text": "鼠蹊部淋巴腺是可能的轉移位置，且發生此處轉移時，通常患者的預後較為不好" }
+    ],
+    "answer": "C",
+    "explanation": "肛門鱗狀/上皮樣癌的標準首選治療是同步放化療；APR 多作為放化療失敗後的 salvage 手術，而非「轉移性病況的首選」。"
+  },
+  {
+    "id": "MED3_GI_COLON_XIN_Q0020",
+    "stem": "40 歲成人在下列何種情況，不需要優先選擇做大腸纖維內視鏡檢查？",
+    "options": [
+      { "key": "A", "text": "大便潛血反應陽性者" },
+      { "key": "B", "text": "有大腸癌家族史者" },
+      { "key": "C", "text": "長期便秘者" },
+      { "key": "D", "text": "有大腸息肉（polyp）病史者" }
+    ],
+    "answer": "C",
+    "explanation": "FOBT 陽性、顯著家族史、既往息肉史皆屬較強適應症或需優先安排；單純長期便秘在沒有警訊症狀（體重下降、缺鐵性貧血、血便、家族史等）時，通常不屬「優先」內視鏡的情境。"
   }
+
 
 
 
