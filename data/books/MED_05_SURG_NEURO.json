@@ -4116,9 +4116,203 @@
     "explanation": "E：痛刺激張眼 → E2。\nV：不會言語和出聲 → V1。\nM：右上肢 abnormal extension（decerebrate）→ M2；左上肢不動更差，因此取較佳側仍為 M2。\n總分 = 2 + 1 + 2 = 5。",
     "source": "104(一）專醫五-5",
     "tags": ["neurosurgery", "gcs", "decerebrate"]
-  }
+  },
+
 
   
+  {
+    "id": "MED_05_01_HT_Q0001",
+    "stem": "頭部外傷病人，昏迷指數 13 分，額葉腦出血 10 c.c.，下列處置何者最不適當？",
+    "options": [
+      { "key": "A", "text": "預防性投與抗癲癇藥物" },
+      { "key": "B", "text": "血中二氧化碳濃度（PCO2）維持在 35–40 mmHg" },
+      { "key": "C", "text": "開顱手術移除血塊，以降腦壓" },
+      { "key": "D", "text": "維持收縮壓在 100 mmHg 以上" }
+    ],
+    "answer": "C",
+    "explanation": "GCS 13 且腦內出血僅 10 c.c. 多半不會造成明顯 mass effect/腦疝風險，標準策略以保守治療與密切神經學監測為主（重點是避免 secondary brain injury）。\n\n(A) 外傷性腦出血（尤其皮質附近）早期癲癇風險上升，短期預防性 AED 屬常見考點。\n(B) 維持正常 PaCO2/PCO2（約 35–40 mmHg）可避免過度換氣造成腦血管收縮與腦灌流下降，也避免高 CO2 導致腦血管擴張、顱壓上升。\n(D) 避免低血壓是 TBI 急救核心之一；維持 SBP ≥100 mmHg（或依年齡更高）用來確保 CPP。\n\n(C) 小量 ICH 一般不會直接以開顱清除作常規；除非出現神經惡化、顯著中線偏移/腦疝徵象、血腫擴大或特定高風險位置。"
+  },
+  {
+    "id": "MED_05_01_HT_Q0002",
+    "stem": "60 歲男性因機車車禍被送至急診，意識模糊、大量嘔吐；身體檢查發現雙眼眶周圍瘀青（raccoon eye）且耳朵流出澄清液體。心跳 110/min、呼吸 20/min、血壓 180/70 mmHg、血氧飽和度 99%。下列何種處置最不適當？",
+    "options": [
+      { "key": "A", "text": "準備置放氣管內管" },
+      { "key": "B", "text": "使用藥物（如 etomidate）輔助插管" },
+      { "key": "C", "text": "放置鼻胃管引流，減輕胃部壓力，避免持續嘔吐" },
+      { "key": "D", "text": "安排頭部電腦斷層檢查" }
+    ],
+    "answer": "C",
+    "explanation": "raccoon eye + 耳漏清澈液體高度懷疑顱底骨折合併 CSF leak。顱底骨折時「鼻路器械置入」為禁忌：鼻胃管/鼻插管可能經篩板（cribriform plate）或骨折裂隙誤入顱內，造成致命併發症。\n\n(A) 意識模糊且大量嘔吐 → 高吸入風險，需優先保護氣道。\n(B) RSI 誘導藥（如 etomidate）在顱內壓疑慮時常被拿來考其相對穩定的血流動力學特性。\n(D) 懷疑顱內出血/顱底骨折時，頭部 CT 是關鍵檢查。\n\n替代作法：必要時改口胃管（orogastric tube）或先口插管後再處理胃內容物。"
+  },
+  {
+    "id": "MED_05_01_HT_Q0003",
+    "stem": "有關第二級腦震盪的敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "頭部外傷後失去意識一段時間，即屬於第二級腦震盪" },
+      { "key": "B", "text": "受傷後 1–2 週容易再度受傷，應避免劇烈撞擊型運動" },
+      { "key": "C", "text": "這類病人容易有失憶症狀" },
+      { "key": "D", "text": "受傷後 1–2 週容易有記憶障礙或頭痛症狀" }
+    ],
+    "answer": "A",
+    "explanation": "本題採用的分級要點：第二級腦震盪（Grade 2）重點是「沒有明確失去意識（no LOC）」，但有較持久的 confusion（>15 分鐘）與可能短暫記憶障礙。若有失去意識，通常被歸為較重等級，因此 (A) 錯。\n\n(B)(C)(D) 皆符合腦震盪後常見臨床與衛教重點：短期內再受傷風險升高、可出現失憶、頭痛、注意力/記憶困難等。"
+  },
+  {
+    "id": "MED_05_01_HT_Q0004",
+    "stem": "頭骨骨裂病患，下列何種情形須馬上手術？",
+    "options": [
+      { "key": "A", "text": "顳骨骨折導致顏面神經麻痺" },
+      { "key": "B", "text": "前顱窩骨折導致腦脊髓液鼻漏" },
+      { "key": "C", "text": "顳骨骨折導致腦脊髓液耳漏" },
+      { "key": "D", "text": "腦實質出血 35 mL，造成電腦斷層中線偏移大於 1 cm，合併神智改變" }
+    ],
+    "answer": "D",
+    "explanation": "「立即手術」的關鍵是顯著 mass effect/中線偏移/神經惡化與腦疝風險。35 mL ICH + midline shift >1 cm + mental status change = 神外急症，需緊急血腫清除/減壓評估。\n\n(A) 顏面神經麻痺多先保守治療與觀察，除非明確神經斷裂或持續惡化且有手術指徵。\n(B)(C) 顱底骨折造成 CSF leak 多數可自癒，通常先保守（抬頭、避免擤鼻等）；持續漏很久、反覆感染或缺損明顯才考慮手術修補。"
+  },
+  {
+    "id": "MED_05_01_HT_Q0005",
+    "stem": "29 歲女性因騎機車車禍致頭部外傷住院，入院診斷右側硬腦膜下出血（subdural hemorrhage）。因血塊厚度 0.2 cm 且昏迷指數 14 分，僅以降腦壓藥（mannitol）控制腦水腫。深夜 11 點病房護理師回報值班醫師病人癲癇發作，抵達時已持續抽搐 3 分鐘。下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "病人雙眼可能偏向右側（forced eye deviation to right）" },
+      { "key": "B", "text": "這時考慮使用的第一線藥物是 propofol" },
+      { "key": "C", "text": "如果給與第一線藥物 1 分鐘後癲癇仍持續發作，即考慮給與第二線用藥" },
+      { "key": "D", "text": "如果癲癇持續 5 分鐘以上，則要考慮插管予以完全鎮靜" }
+    ],
+    "answer": "B",
+    "explanation": "急性抽搐/癲癇持續發作的第一線為 benzodiazepine（lorazepam、diazepam、midazolam）快速終止發作；propofol 是後段（進展為 status epilepticus、或 refractory 且需要插管與持續鎮靜麻醉）才會用到，因此 (B) 錯。\n\n(A) 癲癇發作期的凝視偏向常見偏向放電灶側，右側顱內病灶可出現向右凝視（考點式描述）。\n(C) 概念正確：先給 benzo，若控制不佳就接第二線維持藥（如 fosphenytoin/phenytoin、valproate、levetiracetam、lacosamide 等）。\n(D) ≥5 分鐘即符合臨床上常用的 SE 門檻，需升級處置（含插管與持續鎮靜）。"
+  },
+  {
+    "id": "MED_05_01_HT_Q0006",
+    "stem": "有關行走中跌倒後的病人，若腦部電腦斷層檢查發現顱內出血，下列敘述何者正確？",
+    "options": [
+      { "key": "A", "text": "右側頭部著地造成顱內出血，通常僅右側的腦部會受傷" },
+      { "key": "B", "text": "硬腦膜上出血常因靜脈血管斷裂造成" },
+      { "key": "C", "text": "與老人相比，小孩較容易有硬腦膜下出血的情形" },
+      { "key": "D", "text": "若腦部電腦斷層發現出血處在 basal ganglia 或是小腦部位，病人的出血較可能是屬於高血壓造成的出血性腦中風而非車禍造成" }
+    ],
+    "answer": "D",
+    "explanation": "基底核與小腦深部出血是典型高血壓性自發性 ICH 常見位置；若跌倒後 CT 顯示出血位於此處，要懷疑「先自發性出血/昏厥 → 再跌倒」而非單純撞擊所致。\n\n(A) 外傷可出現 contre-coup injury，對側亦可能受傷。\n(B) 硬腦膜上出血（EDH）典型是動脈（middle meningeal artery）破裂；靜脈/bridging veins 破裂較典型是 SDH。\n(C) SDH 老人較常見（腦萎縮使 bridging veins 拉長易破）。"
+  },
+  {
+    "id": "MED_05_01_HT_Q0007",
+    "stem": "24 歲男性騎機車自摔造成顏面外傷（facial trauma）出血送至急診處理。有關顏面外傷的處置，下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "要先評估是否有大出血或顱內出血" },
+      { "key": "B", "text": "生命威脅的大出血，是指 3 單位（unit）以上的失血或血比容（Hct）小於 29%" },
+      { "key": "C", "text": "一旦 X 光片確認有顏面骨骨折，應立即手術復位及固定" },
+      { "key": "D", "text": "若撞及眼眶可能導致全盲及視神經壓迫或眼壓升高" }
+    ],
+    "answer": "C",
+    "explanation": "顏面骨折不是「一確認就必須立刻手術」。急診首要仍是 ABC、止血、保護氣道、排除顱內傷害與眼科急症；多數骨折可在腫脹消退後再行手術（或視型態保守）。\n\n(A) 正確：顏面外傷常伴顱腦傷/大出血/氣道危機。\n(B) 題幹為考點化的「嚴重大出血」描述；臨床上仍以循環不穩、持續出血與輸血需求整體判斷。\n(D) 眼眶外傷要警覺視神經壓迫、retrobulbar hematoma、眼壓升高等造成不可逆失明。"
+  },
+  {
+    "id": "MED_05_01_HT_Q0008",
+    "stem": "一位小朋友左眼遭棒球擊中，眼眶部位立即腫大，結膜下出血，左眼球無法向上移動，下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "小朋友可能有眼眶下緣骨折（infra-orbital rim fracture）" },
+      { "key": "B", "text": "小朋友可能有眼眶底部骨折（orbital floor fracture）" },
+      { "key": "C", "text": "左眼球無法向上移動是因為上直肌卡在眼眶底部骨折" },
+      { "key": "D", "text": "小朋友需要接受眼眶電腦斷層檢查（orbital CT）" }
+    ],
+    "answer": "C",
+    "explanation": "blow-out fracture（orbital floor fracture）典型嵌頓的是「下直肌（inferior rectus）或其周邊軟組織」，導致上視受限；不是上直肌卡在眼眶底。因此 (C) 錯。\n\n(A)(B)(D) 皆合理：可合併下緣/底部骨折，orbital CT 用於確認骨折與嵌頓。"
+  },
+  {
+    "id": "MED_05_01_HT_Q0009",
+    "stem": "25 歲男性因騎機車車禍顏面部受傷，主要症狀為右側鼻翼撕裂傷（avulsion injury）、流鼻血（epistaxis）和腫痛，送至急診室，下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "要高度懷疑可能有鼻骨骨折的發生，可安排 X-ray 檢查" },
+      { "key": "B", "text": "發現右側鼻中隔有血腫情形（septal hematoma），應保守治療，待其自行吸收" },
+      { "key": "C", "text": "鼻部主要組成可分為皮膚覆蓋（skin cover）、結構支撐（structural support）及黏膜內襯（mucosal lining），治療時可根據缺損範圍做不同重建考量" },
+      { "key": "D", "text": "鼻唇皮瓣（nasolabial flap）和前額旁正中皮瓣（paramedian forehead flap）為鼻部重建時常用的兩種局部皮瓣" }
+    ],
+    "answer": "B",
+    "explanation": "鼻中隔血腫是急症：需盡快穿刺/切開引流，否則可能造成軟骨缺血壞死 → 鞍鼻 deformity，並增加感染/膿瘍風險。因此 (B)「保守等吸收」錯。\n\n(A) 題目以考點描述影像評估；臨床常以理學檢查為主並視需要影像。\n(C)(D) 為鼻部重建的基本三層概念與常用皮瓣考點。"
+  },
+  {
+    "id": "MED_05_01_HT_Q0010",
+    "stem": "有關顏面外傷與骨折（facial trauma & fracture）的處置，下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "前額骨骨折（forehead fracture）要考慮前額竇及顱底是否傷害" },
+      { "key": "B", "text": "如果有嚴重鼻眼篩（nasal-orbitoethmoid）或顱底骨折應給予鼻氣管插管（nasotracheal intubation）維持呼吸道通暢" },
+      { "key": "C", "text": "上下顎骨骨折病人並不一定要做氣管切開術（tracheostomy），用氣管內管（endotracheal tube）也可維持呼吸道通暢" },
+      { "key": "D", "text": "下顎骨骨折（mandibular fracture）的處理，強調穩定的內固定及咬合的穩定" }
+    ],
+    "answer": "B",
+    "explanation": "顱底骨折（尤其涉及篩板）禁忌鼻路插管/器械，因可能穿入顱內。應選口插管或必要時外科氣道。因此 (B) 錯。\n\n(A) 正確：前額骨折需評估 frontal sinus 與顱底。\n(C) 是否需 tracheostomy 依氣道風險、手術需求與預期通氣時間決定，非一律。\n(D) 下顎骨折治療核心是復位與咬合重建 + 穩定固定。"
+  },
+  {
+    "id": "MED_05_01_HT_Q0011",
+    "stem": "一位 68 歲男性因跌倒送來急診，意識狀態模糊，對痛刺激眼睛會張開，且左手會撥開痛刺激，但不會出聲。頭部電腦斷層如下圖所示，下列何者正確？",
+    "options": [
+      { "key": "A", "text": "出血位置位於硬腦膜下" },
+      { "key": "B", "text": "出血的來源多半為顱骨骨折造成腦膜動脈破裂而成" },
+      { "key": "C", "text": "最佳的治療方法為大量的使用降腦壓藥物，避免血塊對腦幹的壓迫" },
+      { "key": "D", "text": "此病人目前 GCS 為 10 分" }
+    ],
+    "answer": "A",
+    "explanation": "題圖與題本重點指向硬腦膜下出血（SDH），故 (A) 正確。\n\n(B) 描述的是硬腦膜外血腫（EDH）典型：顱骨骨折合併 middle meningeal artery 破裂；SDH 典型來源是 bridging veins。\n(C) SDH 若有顯著壓迫效應，治療重點是神外手術減壓/血腫處置；且題本考點：大量降腦壓（如 mannitol）使腦實質體積/壓力下降，反而可能讓 SDH 的相對壓迫效應不利，不能視為「最佳治療」。\n(D) 依題幹：E2（痛刺激張眼）、V1（不出聲）、M5（撥開/定位防禦）→ GCS = 8，不是 10。"
+  },
+  {
+    "id": "MED_05_01_HT_Q0012",
+    "stem": "頭部外傷造成的 diffuse axonal injury（DAI），下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "病人通常沒有清明期（lucid interval）" },
+      { "key": "B", "text": "電腦斷層掃描（brain CT）上可能沒有明顯的病灶，但病人卻呈昏迷狀態" },
+      { "key": "C", "text": "如果病人不幸死亡，解剖上腦部有明顯不正常的外觀" },
+      { "key": "D", "text": "在胼胝體（corpus callosum）可見出血性壞死的病灶" }
+    ],
+    "answer": "C",
+    "explanation": "DAI 是廣泛軸突剪切傷，肉眼解剖常「不一定」看到明顯外觀異常；需要顯微/病理或 MRI（如 SWI/DTI）才更敏感，因此 (C) 錯。\n\n(A) DAI 常呈立即昏迷，通常無典型 lucid interval。\n(B) CT 可不明顯但病人深度昏迷是經典考點。\n(D) 常見病灶分布：灰白質交界、胼胝體、腦幹等，可見點狀出血/壞死。"
+  },
+  {
+    "id": "MED_05_01_HT_Q0013",
+    "stem": "下圖為一個顏面部創傷來急診的病人，急診醫師安排臉部電腦斷層，顏面骨有骨折的狀況，其受傷的情形分類為：",
+    "options": [
+      { "key": "A", "text": "右側 Le Fort I + II，左側 Le Fort III" },
+      { "key": "B", "text": "右側 Le Fort II + III，左側 Le Fort I" },
+      { "key": "C", "text": "右側 Le Fort I + III，左側 Le Fort II" },
+      { "key": "D", "text": "右側 Le Fort I + II，左側 Le Fort IV" }
+    ],
+    "answer": "C",
+    "explanation": "依題圖骨折線分布屬「不對稱合併型 Le Fort」：右側同時呈現 Le Fort I（水平上顎分離）與 Le Fort III（顱顏分離/眶顴複合相關路徑），左側符合 Le Fort II（錐形，經鼻樑至眶緣）。因此選 (C)。\n\n考點：Le Fort 在實務常不對稱、可合併兩型以上；判讀以骨折線是否跨過硬顎/上顎、鼻樑、眶緣/顴弓與顱顏分離結構為主。"
+  },
+  {
+    "id": "MED_05_01_HT_Q0014",
+    "stem": "下列有關下顎骨骨折（mandibular fractures）的敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "下顎骨的組成包含下顎骨聯合（symphysis）、下顎骨體（body）、下顎角（angle）、下顎枝（ramus）、下顎髁突（condyle）和下顎骨喙突（coronoid process）" },
+      { "key": "B", "text": "下顎骨骨折可以依據上下顎齒列的關係，Angle classification system 分類為 Class I、Class II 及 Class III" },
+      { "key": "C", "text": "上下顎齒列固定復位可用於無明顯位移、無齒列錯位及顳顎關節（TMJ）活動正常之情形" },
+      { "key": "D", "text": "手術治療主要為骨折處和上下顎齒列固定復位，固定時間越久越好，不會有顳顎關節僵硬的問題" }
+    ],
+    "answer": "D",
+    "explanation": "固定時間不是越久越好；長期 IMF/固定會增加 TMJ 僵硬、活動受限甚至黏連風險，也影響口腔照護與營養，因此 (D) 錯。\n\n(A) 下顎分區正確。\n(B) 題目用 Angle 咬合分類連結「咬合評估」的考點（雖不是骨折分型本身）。\n(C) 非位移、咬合穩定、TMJ 功能可者可保守或短期固定，原則正確。"
+  },
+  {
+    "id": "MED_05_01_HT_Q0015",
+    "stem": "頭部外傷的急救處置應以何者為優先？",
+    "options": [
+      { "key": "A", "text": "胸部 X 光檢查" },
+      { "key": "B", "text": "檢驗尿液" },
+      { "key": "C", "text": "腹部 X 光檢查" },
+      { "key": "D", "text": "矯正低血壓，維持足夠的供氧" }
+    ],
+    "answer": "D",
+    "explanation": "TBI 急救遵循 ATLS：先確保 ABC。避免低氧與低血壓可顯著降低 secondary brain injury，目標是維持足夠氧合與腦灌流（CPP）。因此優先處置是矯正低血壓並維持供氧。"
+  },
+  {
+    "id": "MED_05_01_HT_Q0016",
+    "stem": "急性硬腦膜外血腫（epidural hematoma）的病人，下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "常合併有顱骨骨折" },
+      { "key": "B", "text": "常因是中腦膜動脈（middle meningeal artery）破裂所致" },
+      { "key": "C", "text": "預後比急性硬腦膜內血腫（acute subdural hematoma）不好" },
+      { "key": "D", "text": "約有 1/3 的病人到急診處呈昏迷狀態" }
+    ],
+    "answer": "C",
+    "explanation": "EDH 若能及早辨識並手術處理，通常預後「優於」急性 SDH；急性 SDH 常合併較嚴重腦挫傷/DAI，整體傷勢更重，因此 (C) 錯。\n\n(A) EDH 常伴顱骨骨折。\n(B) 經典病因為 middle meningeal artery 破裂。\n(D) 臨床表現可變，題目給的比例屬常見考點描述。"
+  }
+
   
 
 ]
