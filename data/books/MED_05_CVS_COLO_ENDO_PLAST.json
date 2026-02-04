@@ -1,1 +1,177 @@
-[]
+[
+  {
+    "id": "MED_05_02_Q0001",
+    "stem": "L 根據Crawfo rd 的胸腹主動脈瘤修復\n(thoracoabdomina l aortic aneurysm re-\npair) 分類，從左鎖骨下動脈起至腎動脈以下之腹主動脈是屬於第幾型？\n113( 一）專醫五- 2 1",
+    "options": [
+      { "key": "A", "text": "I" },
+      { "key": "B", "text": "II" },
+      { "key": "C", "text": "Ill" },
+      { "key": "D", "text": "IV" }
+    ],
+    "answer": "B",
+    "explanation": "【書上答案】(B)\n【核心觀念】Crawford thoracoabdominal aortic aneurysm (TAAA) 分型以病灶涵蓋的主動脈段落為主：\n- Type I：左鎖骨下動脈遠端（descending thoracic）到上腹部（suprarenal）\n- Type II：左鎖骨下動脈遠端一路到腎動脈以下腹主動脈（範圍最廣）\n- Type III：中段 descending thoracic 到腹主動脈（常包含腎動脈以下）\n- Type IV：主要在腹主動脈（多在橫膈以下）\n【判題點】題幹「左鎖骨下動脈起」且「至腎動脈以下腹主動脈」= 範圍最廣的 Type II。\n【延伸考點】TAAA repair 的重要併發症：脊髓缺血（paraplegia），保護策略含 CSF drainage、distal perfusion、低體溫、維持灌流壓等。"
+  },
+  {
+    "id": "MED_05_02_Q0002",
+    "stem": "2. 腹主動脈瘤\n(infra-rena l abdom inal aortic aneurysm ) 開刀之適應症，下列\n何者最不適當？\nl 1 3( 二）專醫五-22",
+    "options": [
+      {
+        "key": "A",
+        "text": "男性，過去一年腹主動脈瘤的直徑從4 公分擴\n大到4.5 公分"
+      },
+      { "key": "B", "text": "女性，有症狀、直徑5 公分的腹主動脈瘤" },
+      { "key": "C", "text": "男性，沒有症狀、直徑5.5 公分的腹主動脈瘤" },
+      { "key": "D", "text": "女性，直徑4.5 公分的腹主動脈瘤且手術風險低" }
+    ],
+    "answer": "A",
+    "explanation": "【書上答案】(A)\n【題幹關鍵】問「最不適當」的手術適應症。\n【書上詳解重點（整理）】腹主動脈瘤手術適應症主要看：最大直徑、擴張速度、是否有症狀。\n(A) 主動脈擴張速度未達每半年擴張~0.5 cm, 每年擴張~1 cm。\n這個選項因為一年只有擴充0.5cm' 完全不符合適應症，所以最不適當。\n(B) 女性BSA 較小，有症狀且> 5.0 cm 即可考慮手術。\n(C) 男性雖無症狀，但> 5.5 cm 即可考慮手術。\n(D) 女性BSA 較小，直徑4.5 cm 在特殊狀況下(ex . Marfan syndrome) 可考慮手術。\n【延伸考點】臨床上常用門檻：無症狀 AAA 約 ≥5.5 cm（男性）考慮修補；女性或高破裂風險族群可較早；快速擴大（約 ≥0.5 cm/6 months 或 ≥1 cm/year）屬高風險；有症狀（疼痛、壓迫、遠端栓塞）即使未達尺寸也可能需要處置。"
+  },
+  {
+    "id": "MED_05_02_Q0003",
+    "stem": "3 有關血管腔內治療腹主動脈瘤\n(endovascular treatment of abdominal aortic \naneurysm) 發生滲漏\n(endoleak) 的敘述，下列何者錯誤？\n112( 二）專醫五- 21",
+    "options": [
+      { "key": "A", "text": "第一型發生在支架血管近端的接觸區" },
+      { "key": "B", "text": "第二型發生在暢通的腰動脈或是下腸繫膜動脈\n回流造成" },
+      { "key": "C", "text": "第三型發生在支架血管遠端的接觸區" },
+      { "key": "D", "text": "第四型因為支架血管的織物孔洞而造成" }
+    ],
+    "answer": "C",
+    "explanation": "【書上答案】(C)\n【核心觀念】EVAR endoleak 分型：\n(1) Type I（近端/遠端密合不良）：\n- I-a：支架近端（proximal attachment site）與主動脈壁連接處\n- I-b：支架遠端（distal attachment site）與髂動脈連接處\n→ 因瘤囊壓力持續升高，通常需要立即處置（延長支架、追加封閉等）。\n(2) Type II（分支動脈回流）：lumbar artery、inferior mesenteric artery 等回流進瘤囊；常見，若壓力不高/瘤囊不擴大可觀察。\n(3) Type III（支架結構問題）：fabric disruption/tear 或 module disconnection，需修補。\n(4) Type IV（graft fabric 孔洞滲漏）：多為短暫，常可觀察。\n【為何(C)錯】Type III 不是「遠端接觸區」問題，而是支架結構完整性問題（破裂/斷裂/模組脫離）。"
+  },
+  {
+    "id": "MED_05_02_Q0004",
+    "stem": "4 關於主動脈瘤\n( aortic aneurysm ) , 下列敘述何者正確?\n111( 二）專醫五-2 1",
+    "options": [
+      {
+        "key": "A",
+        "text": "依組織完整性可分為真動脈瘤\n(true aneurysm ) \n及假性動脈瘤\n( pseudoaneurysrn )' 定義為aortic\nwall tissue 是否完整，兩者的手術適應症是相同的"
+      },
+      {
+        "key": "B",
+        "text": "感染是形成動脈瘤的原因之一\n，常被稱為my-\ncotic aneurysm' 最常見的感染源為fungus"
+      },
+      {
+        "key": "C",
+        "text": "不管是open 或endovascular repair of thoracoab-\ndominal aneurysm'cerebrospinal fluid drainage 皆\n有脊髓保護效果"
+      },
+      {
+        "key": "D",
+        "text": "對於直徑3 cm 的主動脈瘤應持續於門診追蹤\n，\n若病人無出現新的症狀，應每三個月密集行追\n蹤影像檢査"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【書上答案】(C)\n【逐項判讀（書上詳解要點整合）】\n(A) True aneurysm vs pseudoaneurysm 的定義雖與血管壁完整性相關，但兩者「手術適應症相同」不正確；pseudoaneurysm / mycotic / dissecting / fistula 等常不論大小需更積極處置。\n(B) Mycotic aneurysm 最常見感染源不是 fungus；書上指出最常見為 staphylococcus aureus。\n(C) 正確。CSF drainage 可降低脊髓灌流壓梯度、改善 spinal cord perfusion，在 open 或 endovascular thoracoabdominal repair 都可作為脊髓保護策略之一。\n(D) 直徑 3 cm 的動脈瘤不需要每三個月；書上提到約每三年影像追蹤一次。\n【延伸考點】脊髓保護除 CSF drainage 外，尚含 distal perfusion、低體溫、維持 MAP/灌流壓、避免貧血/低氧等。"
+  },
+  {
+    "id": "MED_05_02_Q0005",
+    "stem": "5. 動脈瘤形成的危險因素不包括下列何者?\n108( 一）專醫五-22",
+    "options": [
+      { "key": "A", "text": "高年齡" },
+      { "key": "B", "text": "男性" },
+      { "key": "C", "text": "高血脂" },
+      { "key": "D", "text": "糖尿病" }
+    ],
+    "answer": "D",
+    "explanation": "【書上答案】(D)\n【書上原文】「【詳解】皆是危險因子，故送分。」\n【補充（考點一致性/臨床辨識）】不少資料指出糖尿病與 AAA 的關係在流行病學上可能呈反向或較複雜（與血管壁基質代謝、MMP 活性等相關），但考試題幹若採用傳統『危險因子總整理』式問法，仍常把(D)放在「不包括」的選項位置；本題以書上答案為準。"
+  },
+  {
+    "id": "MED_05_02_Q0006",
+    "stem": "6 下列有關腹主動脈瘤\n(abdomina l aortic aneurysm ) 手術適應症之敘述，\n何者錯誤?\n105( 一）專醫五-24",
+    "options": [
+      { "key": "A", "text": "最大直徑> 5.5 cm' 應手術治療" },
+      { "key": "B", "text": "最大直徑介於4 . 0-5.0 cm 且每年增加\nI\ncm\n' 應\n手術治療" },
+      { "key": "C", "text": "合併有腹痛，背痛或是血栓形成造成周邊動脈\n堵塞，應立即手術治療" },
+      { "key": "D", "text": "破裂的腹主動脈瘤，手術死亡率極高，並不建\n議立即手術治療" }
+    ],
+    "answer": "D",
+    "explanation": "【書上答案】(D)\n【判題點】AAA rupture 是外科急症，雖死亡率高，但『不建議立即手術』明顯錯誤；正確是需緊急修補（open repair 或 EVAR 依情境與資源）。\n【延伸考點】症狀性 AAA（持續腹/背痛、壓迫、遠端栓塞）即使未達尺寸也常需介入；快速擴大同樣屬高風險。"
+  },
+  {
+    "id": "MED_05_02_Q0007",
+    "stem": "7. 60 歲趙先生（意識清楚）健康檢查時發現胸部X 光片之縱膈腔8cm 寬。\n下列敘述何者正確？\n103( 二）專醫五-23",
+    "options": [
+      { "key": "A", "text": "®安排胸部電腦斷層檢査" },
+      { "key": "B", "text": "＠胸部降主動脈瘤為可能診斷之一" },
+      { "key": "C", "text": "＠手術前，醫師可應趙先生之書面要求而不將其手術危險\n性告知其分居之配偶" },
+      { "key": "D", "text": "®主動脈內血管支架\n(endovascu lar aortic graft) 不可用於\n胸部降主動脈瘤之治療" }
+    ],
+    "answer": "B",
+    "explanation": "【書上答案】(B)\n【書上詳解】依題意敘述懷疑為胸部主動脈瘤，邙遞逗）皆為恰當的處置。\n【判題點】\n- 影像：縱膈腔變寬 + 懷疑胸主動脈病變 → 胸部 CT/CTA 合理。\n- 診斷：胸部降主動脈瘤是鑑別診斷之一。\n- 告知/隱私：病人意識清楚且有書面要求時，對配偶的告知牽涉病人隱私與醫療告知原則（以病人自主與法律/院內規範為準）。\n- 治療：胸部降主動脈瘤可用血管內支架（TEVAR）治療，因此「不可用」不正確。\n【注意】本題原書的組合選項在掃描文字中有失真；此處依書上詳解意旨（前三項正確、末項不正確）對應到答案(B)。"
+  },
+
+
+  
+  {
+    "id": "MED_05_02_Q0008",
+    "stem": "1 關於冠狀動脈阻塞疾病，下列敘述何者錯誤？\n113( 一）專醫五-19",
+    "options": [
+      { "key": "A", "text": "根據AHA/ACC guideline , 戒菸對於預防冠狀動\n脈阻塞是class I recommendation" },
+      { "key": "B", "text": "接受冠狀動脈繞道手術後，若無絕對禁忌症，\n建議儘早加上P - blocker" },
+      { "key": "C", "text": "造成acute coronary syndrome' 常見的機轉包含\nplaque rupture\n、thrombus formation" },
+      { "key": "D", "text": "針對心臟收縮功能低下的病人，加上digoxin 有足\n多何證據顯示助於降低死亡率" }
+    ],
+    "answer": "D",
+    "explanation": "【書上答案】(D)\n【詳解】\n(A) 根據AHA/ACC guideline' 戒菸是預防CAD 最重要的生活型態之\n一，並被列為Class I recommendation (強烈建議）\n。\n(B) CABG 後，若無禁忌症，應儘早使用P-blocker' 可降低心肌耗氧量，\n減少心律不整，改善預後，並減少再發心血管事件的風險\n。\n(C) 急性冠狀動脈症候群(ACS) 的常見機轉包含：\n• 粥樣斑塊破裂\n( plaque rupture ) : 內皮破裂後\n，血小板聚集形成\n血栓。\n• 血栓形成\n( thrombus formation ) : 進一步造成血管阻塞，引起\n心肌缺氧或壞死。\n(D) Digoxin 雖可增強心臟收縮力，但並無證據顒示能降低心臟衰竭病人\n的死亡率\n。目前慢性心衰竭的標準治療為ACEVARB\n、~-blocker\n、\n diuretics 和spironolactone\n' 而非以Digoxin 為主要治療\n。"
+  },
+  {
+    "id": "MED_05_02_Q0009",
+    "stem": "2 使用雙側內乳動脈\n( internal mammary a1tery ) 做冠狀動脈繞道手術已被\n證實可以增加存活率，但某些病人可能不適合，下列那一個病人最適合\n使用雙側內乳動脈進行繞道手術?\n11 3( 二）專鑿五-20",
+    "options": [
+      { "key": "A", "text": "60 歲\n，高血壓，慢性肺阻塞疾病\n(COPD ) 使用\n吸入型支氣管擴張劑" },
+      { "key": "B", "text": "70 歲，糖化血色素\n( HbA lc ) 為6 . 0% , Body Mass \nIndex ( BMI ) =35 , eGFR=601nL/min/l.73m2" },
+      { "key": "C", "text": "70 歲，末期腎病變，雙手血壓收縮座相差50\nmmHg" },
+      { "key": "D", "text": "90 歲\n，糖化血色素\n( HbAlc ) 為8.0%\n• 總膽固醇\n=200 mg/dL , 低密度膽固醇= 100 mg/dL" }
+    ],
+    "answer": "A",
+    "explanation": "【書上答案】(A)\n【詳解】雙側內乳動脈\n( Bilateral Internal Mammary Artery, BIMA ) 繞\n道手術已被證實可提高存活率，特別是在長期存活率方面優於單側內\n乳動脈\n( SIMA )\n。然而，並非所有患者都適合使用BIMA\n, 因為這種\n手術方式可能會增加deep sternal wound infection 的風險\n，尤其是在糖\n尿病患者或漫性腎病變患者中\n。\n(A) 此患者年齡適中\n( 60 歲），無糖尿病\n，無明顯腎功能異常\n，因此\nBIMA 繞道手術較為適合\n。雖然COPD 是一個考量因素\n，但如果病情\n控制良好（如僅使用吸人型支氣管擴張劑）\n，則手術風險相對較低\n，\n不會顯著影響胸骨癒合或增加臧染風險，因此仍適合進行BIMA\n。\n(B) 此患者為肥胖且老年患者，儘管HbAlc 控制良好，但肥胖會增加胸\n骨傷口癒合不良的風險，BIMA 手術可能會增加術後戚染的風險\n，\n因此較不建議使用BIMA\n。\n(C) 腎病變患者的傷口癒合較差，且常合併血管鈣化，這可能影響內乳\n動脈的長期開通率\n。此外，雙側血壓差異大，可能代表血管阻塞或\n動脈粥樣硬化，進一步增加手術風險\n。因此不適合BIMA\n。\n(D) 此患者年齡過高，糖尿病控制不佳，且患有高膽固醇血症，這些\n因素都會影響手術傷口癒合，並增加戚染風險，因此不適合進行\nBIMA\n。"
+  },
+  {
+    "id": "MED_05_02_Q0010",
+    "stem": "3 有關無幫浦不停跳冠狀動脈繞道手術\n(off-pump coronary artery bypass \ngrafting, OPCAB) 之敘述，下列何者錯誤?\n11 1( 一）專醫五-27",
+    "options": [
+      { "key": "A", "text": "是實行冠狀動脈繞道手術\n(coronary artery bypass \ngrafti ng) 的手術選項之一" },
+      { "key": "B", "text": "理論上因無幫浦輔助下施行手術，所以包括傳\n統開心手術中之術後流血、神經認知功能不全、\n血栓栓塞、體液堆積及各器官暫時性的功能不\n全等各項併發症都可能減到最低的程度" },
+      { "key": "C", "text": "因為可能發生之併發症較on-pump beating-heart \nbypass 少，因此全世界大部分的冠狀動脈繞道手\n循J , 者閼采耳又off-pump coronm-y artery bypass grafting" },
+      { "key": "D", "text": "在全世界大規模的研究中，OPCAB -年的存活\n率與再次需要介入性治療的機率，與有幫浦且\n停跳的冠狀動脈繞道手術比較起來，並未顯現其\n優越性" }
+    ],
+    "answer": "C",
+    "explanation": "【書上答案】(C)\n【詳解】\noff pump CABG 是在心臟持續跳動下做血管吻合，因此少了使\n甩心肺機的缺點，例如發炎反應、凝血因子耗損、血小板／紅血球破壞、\n心臟短暫缺血，但由於心臟是跳動的，所以也大幅增加血管吻合的難度，\n準確度也較低。兩者短期存活率以及再介人治療機率並無顓著差異\n。因\n此目前主流依舊是on pump' 不過中風高風險患者建議可選擇off pump\n。"
+  },
+  {
+    "id": "MED_05_02_Q0011",
+    "stem": "4 下列那一條血管不適合做為冠狀動脈繞道手術\n(coronary artery bypass \ngraft i ng ) 之繞道管道\n(conduit ) ?\n110( 二）專醫五-17",
+    "options": [
+      { "key": "A", "text": "股動脈\n(femoral artery)" },
+      { "key": "B", "text": "內乳動脈\n(internal mammary artery) 或稱內胸\n動脈\n(interna l thoracic artery)" },
+      { "key": "C", "text": "大隱靜脈\n(greater saphenous vein)" },
+      { "key": "D", "text": "橈動脈\n(radial artery)" }
+    ],
+    "answer": "A",
+    "explanation": "【書上答案】(A)\n【詳解】\n(A) 股動脈是重要幹道，而且管徑較粗，不能當作conduit\n。"
+  },
+  {
+    "id": "MED_05_02_Q0012",
+    "stem": "5 下列對冠狀動脈繞道術\n(coronary artet-y bypass grafting, CABG) 之描述\n何者錯誤?\n110( 一）專醫五-20",
+    "options": [
+      { "key": "A", "text": "不使甩心肺機之不停跳術式\n(off-pump coronary ar-\ntery bypass) 比傳統之停跳之術式，在各項硏究皆\n顯示可以減少發炎指數\n，即有更好之長期通暢率" },
+      { "key": "B", "text": "如果病人是70 歲女性，其三條冠狀血管皆有80\n到90% 狹窄，且有糖尿病，冠狀動脈繞道術應\n該是首選之治療" },
+      { "key": "C", "text": "對長期通暢率而言，內乳動脈遠佳於大隱靜脈，\n術後用藥可建議阿斯匹靈、乙型阻斷劑、抗心\n律不整藥物、降血脂藥物" },
+      { "key": "D", "text": "術後可能之合併症含心包膜填充、出血、腦病\n變\n、腎衰竭、縱膈腔炎等" }
+    ],
+    "answer": "A",
+    "explanation": "【書上答案】(A)\n【詳解】\n(A) Off-pump v.s. On-pump CABG 的各項研究，或許因為傷口小會減少\n術後發炎反應，但並未顯示出「更好的長期通暢率」\n°\n(B) 這是AHAIACC CABG guideline Class I indication\n。\n(C) IO 年通暢率\n：內乳動脈\n(-90% )\nv.s 大隱靜脈\n(-50%)\n。"
+  },
+  {
+    "id": "MED_05_02_Q0013",
+    "stem": "6 冠狀動脈繞道手術所使用的自體繞道管道\n( conduit ) 如下：® 內乳動\n脈＠大隱靜脈＠橈動脈，若以\n10 年通暢率相互比較，則下列何者正\n確？\n109 ( 二）專醫五-24",
+    "options": [
+      { "key": "A", "text": "CD>@>®" },
+      { "key": "B", "text": "®>CD>®" },
+      { "key": "C", "text": "@ > CT)> 心" },
+      { "key": "D", "text": "® >®> CD" }
+    ],
+    "answer": "D",
+    "explanation": "【書上答案】(D)\n【詳解】簡要記憶法：\n術後10 年血管通暢率：心內乳動脈90% >Q) 橈動脈70% >® 大隱靜\n脈50%\n。"
+  }
+
+]
