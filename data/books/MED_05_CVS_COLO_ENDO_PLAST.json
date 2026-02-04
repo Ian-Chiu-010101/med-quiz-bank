@@ -1725,7 +1725,586 @@
     ],
     "answer": "D",
     "explanation": "(D) 錯。放射線造成的縮窄性心包膜炎（radiation-induced constrictive pericarditis）雖可行 pericardiectomy，但其預後往往較差，原因是放射線不只影響心包，還可能造成多重心臟結構損傷，例如冠狀動脈疾病、心肌纖維化、傳導系統異常、瓣膜病變等，導致術後改善幅度較有限、併發症與長期死亡風險較高。因此「預後最佳」是錯誤敘述。\n\n(A) 正確：心包順應性決定壓力-容量關係；急性快速積液時即使量不大也可能造成壓力陡升而發生 tamponade；慢性緩慢積液則可容納更多量才出現症狀。\n(B) 正確：constrictive vs restrictive 的鑑別常需整合影像（echo/MRI/CT）與血流動力學（right heart cath），例如呼吸相互依賴、壓力曲線特徵等。\n(C) 大方向可成立：惡性心包積液常見來源包含肺癌、乳癌、淋巴瘤/白血病等；題目描述以肺癌為最常見原發灶並不違背常見臨床印象。"
+  },
+
+
+  
+  {
+    "id": "CRS_A_Q001",
+    "stem": "骨盆底肌肉（pelvic floor）的組成不包括下列哪一群？",
+    "options": [
+      { "key": "A", "text": "puborectalis muscle" },
+      { "key": "B", "text": "iliococcygeus muscle" },
+      { "key": "C", "text": "pubococcygeus muscle" },
+      { "key": "D", "text": "gluteus maximus muscle" }
+    ],
+    "answer": "D",
+    "explanation": "骨盆底肌群（pelvic floor muscles）主要由提肛肌群（levator ani）與尾骨肌（coccygeus）構成，用於支撐骨盆腔臟器（膀胱、子宮、直腸等）、維持骨盆底張力、並與括約肌協同控制排尿與排便。\n\n(1) Levator ani 的主要分部：puborectalis、pubococcygeus、iliococcygeus。\n(2) Gluteus maximus 為臀大肌，屬於髖關節伸展與穩定骨盆的肌群，位置與功能皆不屬於骨盆底肌群；它不直接形成骨盆出口的「底」，也不負責骨盆臟器托舉與控便控尿功能。\n因此不屬於骨盆底肌群的是 (D)。"
+  },
+  {
+    "id": "CRS_A_Q002",
+    "stem": "關於降結腸癌手術造成大出血，最常見的原因為：",
+    "options": [
+      { "key": "A", "text": "脾臟撕裂傷" },
+      { "key": "B", "text": "上腸繫膜靜脈撕裂" },
+      { "key": "C", "text": "下腔靜脈撕裂" },
+      { "key": "D", "text": "主動脈撕裂" }
+    ],
+    "answer": "A",
+    "explanation": "降結腸（descending colon）與脾彎曲（splenic flexure）解剖鄰近脾臟與脾臟韌帶結構。降結腸癌手術常需要進行降結腸與脾彎曲動員（mobilization，尤其 splenic flexure mobilization），在牽拉、剝離結腸繫膜、或處理脾結腸韌帶（splenocolic ligament）等步驟時，若用力過度或分離層面不當，最容易造成脾臟包膜裂傷或實質撕裂，導致顯著出血。\n\n相較之下：\n(B) 上腸繫膜靜脈（SMV）主要供應/回流小腸與近端大腸區域，與降結腸手術操作區通常距離較遠。\n(C)(D) 下腔靜脈與腹主動脈位於深層後腹膜，除非發生嚴重偏離層面或特殊解剖/再手術沾黏，否則並非常見出血來源。\n因此最常見原因為 (A) 脾臟撕裂傷。"
+  },
+  {
+    "id": "CRS_A_Q003",
+    "stem": "肛管（anal canal）的感覺（sensory）神經支配源自於下列何者？",
+    "options": [
+      { "key": "A", "text": "obturator nerve" },
+      { "key": "B", "text": "femoral nerve" },
+      { "key": "C", "text": "pudendal nerve" },
+      { "key": "D", "text": "sciatic nerve" }
+    ],
+    "answer": "C",
+    "explanation": "肛管的感覺支配主要來自陰部神經（pudendal nerve，S2–S4）。其分支下直腸神經（inferior rectal nerve）負責肛管下段與肛門周圍皮膚的感覺，並支配外肛門括約肌（external anal sphincter）的運動功能。\n\n臨床上可用「齒狀線（dentate line）」理解：\n- 齒狀線以下：體神經（somatic）為主，痛覺敏感（pudendal/inferior rectal）。\n- 齒狀線以上：內臟感覺為主（較不敏感）。\n因此正確答案為 (C) pudendal nerve。"
+  },
+  {
+    "id": "CRS_A_Q004",
+    "stem": "下列血管，何者不是源自下腸繫膜動脈（inferior mesenteric artery, IMA）？",
+    "options": [
+      { "key": "A", "text": "left colic artery" },
+      { "key": "B", "text": "sigmoid artery" },
+      { "key": "C", "text": "superior rectal artery" },
+      { "key": "D", "text": "middle rectal artery" }
+    ],
+    "answer": "D",
+    "explanation": "IMA 供應遠端大腸：左結腸動脈（left colic）、乙狀結腸動脈（sigmoid branches）、以及上直腸動脈（superior rectal artery，為 IMA 的終末延續）。\n\n中直腸動脈（middle rectal artery）通常源自內髂動脈系統（internal iliac artery，常見自 internal pudendal 或直接自 internal iliac），主要供應直腸中段與部分側方血流。\n因此不屬於 IMA 分支者為 (D)。"
+  },
+  {
+    "id": "CRS_A_Q005",
+    "stem": "下列哪一段結腸或直腸（colon and rectum）並未附著於後腹膜腔（retroperitoneum）？",
+    "options": [
+      { "key": "A", "text": "升結腸" },
+      { "key": "B", "text": "降結腸" },
+      { "key": "C", "text": "橫結腸" },
+      { "key": "D", "text": "直腸" }
+    ],
+    "answer": "C",
+    "explanation": "題意等同在問：哪一段不是（第二性）後腹膜器官、而是「腹膜內器官（intraperitoneal）」並具有腸繫膜。\n\n- 升結腸、降結腸：多為第二性後腹膜（secondarily retroperitoneal），後方貼附後腹膜。\n- 直腸：大部分位於骨盆腔，主要為腹膜外/部分腹膜覆蓋（上段前外側覆蓋、下段多為腹膜外），整體不以「腹膜內、具繫膜」為典型。\n- 橫結腸：典型腹膜內器官，有橫結腸繫膜（transverse mesocolon）。\n因此「並未附著於後腹膜」者為 (C) 橫結腸。"
+  },
+  {
+    "id": "CRS_A_Q006",
+    "stem": "有關大腸直腸的生理敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "colonic microflora 可幫助維持 epithelial integrity 及 nutritive function" },
+      { "key": "B", "text": "Bacteroides species 約占大腸細菌的 2/3" },
+      { "key": "C", "text": "colonic microflora 幫助人體行 urea recycling，有助於 liver failure 之病人" },
+      { "key": "D", "text": "大腸吸收面積約 900 cm^2，可幫忙再吸收大量水分" }
+    ],
+    "answer": "C",
+    "explanation": "關鍵在「urea recycling 對 liver failure 是否有益」。腸道菌叢具有 urease，可將尿素（urea）分解產生氨（ammonia）。在肝功能正常時，氨多可經門脈回到肝臟轉為尿素/解毒；但在肝衰竭時，肝臟清除氨的能力下降，腸道產生與回收的氮負荷反而會增加血中氨，可能加重肝性腦病變（hepatic encephalopathy）。\n\n因此：\n- (A) 正確：菌叢與上皮屏障、營養（例如 SCFA 供能）相關。\n- (C) 錯誤：urea recycling 在肝衰竭並非「有助」，反而可能惡化高氨血症與神經精神症狀。\n- (B)(D) 為描述性敘述，常見教材會強調 Bacteroides 為大腸主要菌群之一、大腸具有顯著水分再吸收功能。\n故答案選 (C)。"
+  },
+  {
+    "id": "CRS_A_Q007",
+    "stem": "有關大腸直腸的胚胎發育，下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "前腸衍生結構（foregut-derived structures）的主要血液供應來源為腹腔動脈（celiac artery）" },
+      { "key": "B", "text": "中腸衍生結構（midgut-derived structures）是從近端空腸（proximal jejunum）到遠端橫結腸（distal transverse colon）" },
+      { "key": "C", "text": "肛門內括約肌（internal anal sphincter）是從直腸（rectum）的環形肌肉層（circular muscle layer）延伸形成" },
+      { "key": "D", "text": "約在胚胎發育第 6 週，泌尿生殖隔（urogenital septum）往尾部移行（caudal migration）而分隔開消化道及生殖泌尿道" }
+    ],
+    "answer": "B",
+    "explanation": "中腸（midgut）的範圍典型為：自「遠端十二指腸（distal duodenum，於 major papilla 以遠）」一路到「近端 2/3 橫結腸（proximal two-thirds transverse colon）」。\n\n選項 (B) 說「從近端空腸到遠端橫結腸」：\n- 起點錯：midgut 應從遠端十二指腸開始，而非從近端空腸才開始。\n- 終點也不精準：橫結腸的 midgut/ hindgut 分界在近端 2/3 與遠端 1/3 交界處（血供與胚胎來源分界）。\n\n其餘：\n(A) foregut 主要由 celiac trunk 供應（概念正確）。\n(C) internal anal sphincter 為平滑肌，為腸壁環形肌層增厚延伸而成（概念正確）。\n(D) 泌尿直腸隔（urorectal septum/相關隔膜）分隔泄殖腔形成直腸肛管與泌尿生殖道（概念方向正確）。\n因此錯誤為 (B)。"
+  },
+  {
+    "id": "CRS_A_Q008",
+    "stem": "有關大腸直腸的解剖構造，下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "base of appendix 位於 cecum taeniae coli 的聚合處" },
+      { "key": "B", "text": "在手術中可藉由發現 fold of Treves，進而發現 appendix" },
+      { "key": "C", "text": "rectum 沒有 taeniae coli，也沒有 epiploic appendices" },
+      { "key": "D", "text": "sigmoid colon wall 比 descending colon 薄，所以 sigmoid colon 較常發生 perforation" }
+    ],
+    "answer": "D",
+    "explanation": "判斷重點在結腸壁厚度與穿孔（perforation）風險的因果敘述。\n\n- (A) 正確：闌尾根部常位於三條結腸帶（taeniae coli）匯聚於盲腸處的交會點，是手術定位闌尾的經典解剖標誌。\n- (B) 正確：Ileocecal fold（亦稱 fold of Treves）可作為尋找闌尾的解剖線索之一。\n- (C) 正確：直腸的肌層連續，典型上不呈現 taeniae coli，也缺乏 epiploic appendages（結腸脂垂）。\n- (D) 錯誤：sigmoid colon 與 descending colon 的腸壁厚度並無「因為較薄所以更常穿孔」這種可一概而論的顯著差異；穿孔風險更常與腔內壓、局部病灶（如憩室炎）、血流、阻塞與炎症嚴重度等因素相關，而非單純以“壁較薄”作結論。\n因此答案為 (D)。"
+  },
+  {
+    "id": "CRS_A_Q009",
+    "stem": "下列關於骨盆底肌肉群（the muscles of pelvic floor）的敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "又稱為提肛肌（levator ani），由恥骨尾骨肌（pubococcygeus muscle）、恥骨直腸肌（puborectalis muscle）及梨狀肌（piriformis muscle）共同組合而成" },
+      { "key": "B", "text": "平時由骨盆底肌肉群維持一定的張力，支撐著骨盆腔內的器官，同時與肛門括約肌一起協調控制著排便行為" },
+      { "key": "C", "text": "恥骨直腸肌（puborectalis muscle）為 U 字型的橫紋肌，放鬆時會使肛門直腸角度拉直（anorectal angle straightens），藉此使糞便下降以利排便" },
+      { "key": "D", "text": "若骨盆底肌肉群有功能上的障礙，可能會產生排便異常問題" }
+    ],
+    "answer": "A",
+    "explanation": "Levator ani（提肛肌群）典型組成為：puborectalis、pubococcygeus、iliococcygeus；並不包含 piriformis（梨狀肌）。梨狀肌屬於深臀肌群，主要與髖關節外旋等功能相關，解剖與功能皆不屬於骨盆底肌群。\n\n其餘選項皆為正確概念：\n(B) 骨盆底肌支撐盆腔臟器並與括約肌協同。\n(C) puborectalis 呈 sling/U-shape，收縮時維持肛門直腸角（anorectal angle）以利控便；排便時放鬆使角度變直，利於排便。\n(D) 骨盆底功能障礙可造成排便功能異常（如排便困難、便失禁等）。\n因此錯誤為 (A)。"
+  },
+  {
+    "id": "CRS_A_Q010",
+    "stem": "有關大腸生理功能的說明，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "人體所放出的 flatus，以吸入之大氣空氣為主" },
+      { "key": "B", "text": "關於大腸癌好發在遠端大腸，有一說法是因為遠端大腸較缺乏醣類，所以遠端大腸的細菌主要行蛋白質 putrefactive process，容易堆積毒素所造成的" },
+      { "key": "C", "text": "short-chain fatty acids（包含 acetate、propionate 和 butyrate）對於大腸細胞是很重要的物質，可以幫助正常細胞生長和抑制癌細胞生長的功能" },
+      { "key": "D", "text": "食用纖維（dietary fiber）中，water-soluble 的可以被腸道細菌分解產生 short-chain fatty acid，water-insoluble 可以利用來治療便祕" }
+    ],
+    "answer": "A",
+    "explanation": "腸氣（flatus）的主要來源並非單純「吸入的大氣」。雖然吞入空氣（aerophagia）會貢獻部分氮氣（nitrogen）等成分，但多數 flatus 的氫氣（H2）、甲烷（CH4）、二氧化碳（CO2）等主要來自腸道細菌對碳水化合物/纖維的發酵與腸內化學反應；其組成與量受飲食（可發酵碳水、纖維）、菌相、腸道運動與吸收等因素影響。\n\n(B) 屬於一種病因學/環境假說（腸腔基質與菌相在不同部位差異，可能影響致癌暴露），概念方向可成立。\n(C) 正確：SCFA（特別是 butyrate）是結腸細胞重要能量來源，與上皮屏障與抗發炎、腫瘤生物學相關。\n(D) 正確：可溶性纖維較易被發酵產生 SCFA；不可溶性纖維增加糞便體積、促進蠕動，常用於便祕改善。\n因此錯誤為 (A)。"
+  },
+  {
+    "id": "CRS_A_Q011",
+    "stem": "有關 rectosacral fascia 的敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "它在 S4 位置連接 presacral fascia 和直腸的 fascia propria" },
+      { "key": "B", "text": "若是手術過程不慎穿破這個 landmark，將會往後進入 presacral fascia 引起 venous plexus 受傷大流血" },
+      { "key": "C", "text": "若是手術分離組織過程沒有沿著 rectosacral fascia，往前會破壞 fascia propria，造成癌細胞局部轉移的風險" },
+      { "key": "D", "text": "rectosacral fascia 又稱做 Denonvilliers fascia" }
+    ],
+    "answer": "D",
+    "explanation": "rectosacral fascia（常在 TME 解剖中討論的 posterior landmark，亦與 Waldeyer’s fascia 概念相關）位於直腸後方，與骶前筋膜（presacral fascia）及直腸周圍筋膜層面（fascia propria of rectum）關係密切。\n\n(D) 錯誤：Denonvilliers fascia 指的是直腸前方的筋膜隔（rectoprostatic fascia/rectovaginal septum 的相關概念），用以分隔男性的前列腺與膀胱（或女性的陰道）與直腸，屬於「前方」解剖平面；並非直腸後方的 rectosacral fascia。\n\n(A)(B) 描述的是後方解剖層面與出血風險：若偏離正確層面進入骶前靜脈叢（presacral venous plexus），確實可能造成難以控制的大出血。\n(C) 其重點在強調 TME 層面辨識的重要性：若破壞 fascia propria、進入不當層面，可能提高腫瘤切緣受侵犯（CRM）或局部復發風險。\n因此錯誤為 (D)。"
+  },
+
+
+
+  
+
+  {
+    "id": "CRS_A_Q0001",
+    "stem": "骨盆底肌肉（pelvic floor）的組成不包括下列哪一群？",
+    "options": [
+      { "key": "A", "text": "puborectalis muscle" },
+      { "key": "B", "text": "iliococcygeus muscle" },
+      { "key": "C", "text": "pubococcygeus muscle" },
+      { "key": "D", "text": "gluteus maximus muscle" }
+    ],
+    "answer": "D",
+    "explanation": "骨盆底肌（pelvic floor muscles）主要由提肛肌群（levator ani：puborectalis、pubococcygeus、iliococcygeus）與尾骨肌（coccygeus/ischiococcygeus）構成，負責支撐骨盆內臟器（膀胱、直腸、子宮等）、維持肛直角與協助控便/控尿。gluteus maximus（臀大肌）屬於臀部表層肌群，主要功能是髖關節伸展、外旋與骨盆穩定，並非骨盆底肌群成員，因此不屬於 pelvic floor 的組成。"
+  },
+  {
+    "id": "CRS_A_Q0002",
+    "stem": "關於降結腸癌手術造成大出血，最常見的原因為：",
+    "options": [
+      { "key": "A", "text": "脾臟撕裂傷" },
+      { "key": "B", "text": "上腸繫膜靜脈撕裂" },
+      { "key": "C", "text": "下腔靜脈撕裂" },
+      { "key": "D", "text": "主動脈撕裂" }
+    ],
+    "answer": "A",
+    "explanation": "降結腸/脾曲（splenic flexure）附近的游離（mobilization）常需要處理結腸脾韌帶、脾結腸韌帶與大網膜附著，且脾臟包膜薄、血流豐富；在進行 splenic flexure mobilization 時，若牽拉過度或剝離層次不當，最常見且典型的嚴重出血來源就是脾臟包膜撕裂或脾門區損傷。相對而言：(B) 上腸繫膜靜脈主要屬小腸/右側結腸血管系統；(C)(D) 下腔靜脈與腹主動脈位於更深層後腹膜結構，除非發生嚴重解剖誤入或特殊情境，並非降結腸癌手術最常見的大出血原因。"
+  },
+  {
+    "id": "CRS_A_Q0003",
+    "stem": "肛管（anal canal）的感覺（sensory）神經支配源自於下列何者？",
+    "options": [
+      { "key": "A", "text": "obturator nerve" },
+      { "key": "B", "text": "femoral nerve" },
+      { "key": "C", "text": "pudendal nerve" },
+      { "key": "D", "text": "sciatic nerve" }
+    ],
+    "answer": "C",
+    "explanation": "肛管的感覺神經支配主要來自陰部神經（pudendal nerve, S2–S4），尤其是其分支 inferior rectal (inferior anal) nerve，負責肛管下半部與肛門周圍皮膚的疼痛、觸覺等體感，以及外肛門括約肌的運動支配。obturator nerve 主要支配大腿內收肌群與大腿內側感覺；femoral nerve 主要支配大腿前側；sciatic nerve 主要支配下肢後側，皆非肛管主要感覺來源。"
+  },
+  {
+    "id": "CRS_A_Q0004",
+    "stem": "下列血管，何者不是源自下腸繫膜動脈（inferior mesenteric artery, IMA）？",
+    "options": [
+      { "key": "A", "text": "left colic artery" },
+      { "key": "B", "text": "sigmoid artery" },
+      { "key": "C", "text": "superior rectal artery" },
+      { "key": "D", "text": "middle rectal artery" }
+    ],
+    "answer": "D",
+    "explanation": "IMA 供應後腸（hindgut）相關結構，典型分支包括 left colic artery、sigmoid arteries、以及末端的 superior rectal artery（直腸上段主要供血）。middle rectal artery 通常源自 internal iliac artery（髂內動脈系統），供應直腸中段，屬骨盆側壁血管供應，因此不是 IMA 的分支。"
+  },
+  {
+    "id": "CRS_A_Q0005",
+    "stem": "下列哪一段結腸或直腸（colon and rectum）並未附著於後腹膜腔（retroperitoneum）？",
+    "options": [
+      { "key": "A", "text": "升結腸" },
+      { "key": "B", "text": "降結腸" },
+      { "key": "C", "text": "橫結腸" },
+      { "key": "D", "text": "直腸" }
+    ],
+    "answer": "C",
+    "explanation": "升結腸與降結腸多屬「次發性後腹膜」（secondarily retroperitoneal）：胚胎旋轉與融合後，其結腸繫膜與後腹壁融合，使其相對固定於後腹膜面。直腸則位於骨盆內，雖有腹膜反折（peritoneal reflection），但其大部分並非具有完整可動的腸繫膜，臨床解剖與手術層面也相對固定。橫結腸（transverse colon）具有橫結腸繫膜（transverse mesocolon），屬腹膜內器官（intraperitoneal）且可動性大，並不附著於後腹膜腔，因此為正確答案。"
+  },
+  {
+    "id": "CRS_A_Q0006",
+    "stem": "有關大腸直腸的生理敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "colonic microflora 可幫助維持 epithelial integrity 及 nutritive function" },
+      { "key": "B", "text": "Bacteroides species 約占大腸細菌的 2/3" },
+      { "key": "C", "text": "colonic microflora 幫助人體行 urea recycling，有助於 liver failure 之病人" },
+      { "key": "D", "text": "大腸吸收面積約 900 cm²，可幫忙再吸收大量水分" }
+    ],
+    "answer": "C",
+    "explanation": "錯在 (C)。腸道菌叢可透過產生短鏈脂肪酸（SCFAs，如 butyrate）供結腸上皮能量來源、維持黏膜屏障與免疫穩態，因此 (A) 正確；Bacteroides/擬桿菌門在結腸菌叢中常占顯著比例，(B) 為常見描述；結腸的主要生理功能之一是再吸收水分與電解質，(D) 概念正確。\n\n關鍵在「urea recycling」：腸道菌叢的 urease 會將尿素分解成氨（NH3/NH4+），氨可被吸收進入門脈循環。正常肝功能可將氨進一步處理（尿素循環等），但在肝衰竭/肝硬化時，肝臟清除能力下降且可能伴隨門體分流，導致血氨上升，增加肝性腦病變風險。因此「腸道菌叢的尿素分解/回收對肝衰竭病人有幫助」這句話方向相反：臨床上反而常需要降低腸道產氨（例如 lactulose、rifaximin 等策略）來改善肝性腦病變。"
+  },
+  {
+    "id": "CRS_A_Q0007",
+    "stem": "有關大腸直腸的胚胎發育，下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "前腸衍生結構（foregut-derived structures）的主要血液供應來源為腹腔動脈（celiac artery）" },
+      { "key": "B", "text": "中腸衍生結構（midgut-derived structures）是從近端空腸（proximal jejunum）到遠端橫結腸（distal transverse colon）" },
+      { "key": "C", "text": "肛門內括約肌（internal anal sphincter）是從直腸（rectum）的環形肌肉層（circular muscle layer）延伸形成" },
+      { "key": "D", "text": "約在胚胎發育第 6 週，泌尿生殖隔（urogenital septum）往尾部移行（caudal migration）而分隔開消化道及生殖泌尿道" }
+    ],
+    "answer": "B",
+    "explanation": "錯在 (B)。中腸（midgut）範圍的經典界線是「遠端十二指腸（distal duodenum，通常指 Vater 壺腹遠端）到近端 2/3 橫結腸（proximal two-thirds of transverse colon）」，血供為上腸繫膜動脈（SMA）。題目敘述把中腸起點說成「近端空腸」且終點說成「遠端橫結腸」，兩端都不正確。\n\n(A) 前腸供血主要為腹腔動脈（celiac trunk）正確；(C) 內括約肌為平滑肌，為直腸環形平滑肌層延續並增厚形成，正確；(D) 泌尿生殖隔/尿直腸隔（臨床上常以 urorectal septum 概念）於胚胎期分隔泄殖腔為泌尿生殖竇與直腸肛管區，時間點約在早期胚胎發育週數範圍內，此敘述方向正確。"
+  },
+  {
+    "id": "CRS_A_Q0008",
+    "stem": "有關大腸直腸的解剖構造，下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "base of appendix 位於 cecum taeniae coli 的聚合處" },
+      { "key": "B", "text": "在手術中可藉由發現 fold of Treves，進而發現 appendix" },
+      { "key": "C", "text": "rectum 沒有 taeniae coli，也沒有 epiploic appendices" },
+      { "key": "D", "text": "sigmoid colon wall 比 descending colon 薄，所以 sigmoid colon 較常發生 perforation" }
+    ],
+    "answer": "D",
+    "explanation": "錯在 (D)。臨床上乙狀結腸穿孔常見於特定病因（例如憩室炎、腫瘤阻塞上游擴張、缺血、糞石壓迫等），並不是因為「乙狀結腸壁天生比降結腸壁薄」而導致穿孔率較高；兩者壁厚並無穩定、顯著的解剖學差異可以用來支持該結論。\n\n(A) 盲腸的三條 taeniae coli 會匯聚於闌尾根部（appendiceal base），是尋找闌尾的重要手術定位點，正確。\n(B) Treves’ fold（ileocecal fold）位於迴盲部附近，是手術時辨識迴盲區與尋找闌尾的參考構造之一，正確。\n(C) 直腸的縱行肌層已展開成連續外縱肌，不再形成三條 taeniae coli，且一般不見 epiploic appendages，正確。"
+  },
+  {
+    "id": "CRS_A_Q0009",
+    "stem": "下列關於骨盆底肌肉群（the muscles of pelvic floor）的敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "又稱為提肛門肌（levator ani），由恥骨尾骨肌（pubococcygeus muscle）、恥骨直腸肌（puborectalis muscle）及梨狀肌（piriformis muscle）共同組合而成" },
+      { "key": "B", "text": "平時由骨盆底肌肉群維持一定的張力，支撐著骨盆腔內的器官，同時與肛門括約肌一起協調控制著排便行為" },
+      { "key": "C", "text": "恥骨直腸肌（puborectalis muscle）為 U 字型的橫紋肌，放鬆時會使肛門直腸角度拉直（anorectal angle straightens），藉此使糞便下降以利排便" },
+      { "key": "D", "text": "若骨盆底肌肉群有功能上的障礙，可能會產生排便異常問題" }
+    ],
+    "answer": "A",
+    "explanation": "錯在 (A)。骨盆底肌（pelvic floor）主要由 levator ani（包含 puborectalis、pubococcygeus、iliococcygeus）與 coccygeus 組成；piriformis（梨狀肌）屬於骨盆側壁肌群，與坐骨大孔等相關，並非 levator ani 或骨盆底肌的構成成分。\n\n(B) 正確：骨盆底肌張力支撐臟器並與括約肌協調控便。\n(C) 正確：puborectalis 為橫紋肌，形成吊帶樣結構維持肛直角，放鬆時肛直角變直利於排便。\n(D) 正確：骨盆底功能障礙可造成便秘、排便困難、失禁等症狀。"
+  },
+  {
+    "id": "CRS_A_Q0010",
+    "stem": "有關大腸生理功能的說明，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "人體所放出的 flatus，以吸入之大氣空氣為主" },
+      { "key": "B", "text": "關於大腸癌好發在遠端大腸，有一說法是因為遠端大腸較缺乏醣類，所以遠端大腸的細菌主要行蛋白質 putrefactive process，容易堆積毒素所造成的" },
+      { "key": "C", "text": "short-chain fatty acids（包含 acetate、propionate 和 butyrate）對於大腸細胞是很重要的物質，可以幫助正常細胞生長和抑制癌細胞生長的功能" },
+      { "key": "D", "text": "食用纖維（dietary fiber）中，water-soluble 的可以被腸道細菌分解產生 short-chain fatty acid，water-insoluble 可以利用來治療便秘" }
+    ],
+    "answer": "A",
+    "explanation": "錯在 (A)。flatus（腸氣）的主要成分通常不是「吸入的大氣空氣為主」，而是腸道細菌發酵與代謝產物（如 H2、CO2、CH4）加上部分吞入的氮氣（N2）混合而成。吞入空氣確實會貢獻部分氮氣與氧氣，但氧氣多在腸道被吸收，整體而言腸氣的來源以腸道內生成與菌叢代謝為核心，而非單純外界空氣。\n\n(B) 為常見的病理生理推論：遠端結腸基質改變、糞便停留時間、菌叢代謝與膽汁酸/蛋白質腐敗產物等可能影響致癌風險（屬概念題，非單一因素決定）。\n(C) 正確：SCFAs 對結腸上皮（特別是 butyrate）是重要能量來源，並與黏膜屏障、免疫調控、腫瘤生物學有關。\n(D) 正確：可溶性纖維可被發酵生成 SCFAs；不可溶性纖維增加糞便體積、促進腸蠕動，常用於改善便秘。"
+  },
+  {
+    "id": "CRS_A_Q0011",
+    "stem": "有關 rectosacral fascia 的敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "它在 S4 位置連接 presacral fascia 和直腸的 fascia propria" },
+      { "key": "B", "text": "若是手術過程不慎穿破這個 landmark，將會往後進入 presacral fascia 引起 venous plexus 受傷大流血" },
+      { "key": "C", "text": "若是手術分離組織過程沒有沿著 rectosacral fascia，在前會破壞 fascia propria，造成癌細胞局部轉移的風險" },
+      { "key": "D", "text": "rectosacral fascia 又稱做 Denonvilliers fascia" }
+    ],
+    "answer": "D",
+    "explanation": "錯在 (D)。Denonvilliers fascia（亦稱 rectoprostatic fascia / rectovesical fascia）位於直腸前方，將直腸與前方的前列腺/精囊（男性）或陰道（女性）等結構分隔，屬「前方」的筋膜層。\n\nrectosacral fascia（亦常稱 Waldeyer’s fascia）位於直腸後方，連接直腸筋膜（fascia propria of rectum）與薦骨前筋膜（presacral fascia），多在約 S4 水平，為 TME（total mesorectal excision）手術時的關鍵解剖 landmark。\n(A) 正確：其位置與連接關係符合後方筋膜解剖。\n(B) 正確：若突破後方層面進入 presacral space，可能傷及 presacral venous plexus 造成難以控制的大出血。\n(C) 正確：直腸癌手術需沿正確的「holy plane」（fascia propria 外的間隙）剝離；若剝離層次錯誤破壞 fascia propria，可能增加腫瘤切緣不佳、腫瘤播散或局部復發風險。"
+  },
+  {
+    "id": "CRS_B_Q0001",
+    "stem": "有關大腸腸扭轉（volvulus），下列敘述何者正確？",
+    "options": [
+      { "key": "A", "text": "好發於橫結腸" },
+      { "key": "B", "text": "有慢性便秘之年輕女性為好發族群，攝食較多的高纖飲食有助於預防其發生" },
+      { "key": "C", "text": "未固定於後腹腔的結腸，且有較長的腸繫膜較易發生腸扭轉" },
+      { "key": "D", "text": "在乙狀結腸腸扭轉中，腹部 X 光攝影可能有琴鍵徵象（keyboard sign）" }
+    ],
+    "answer": "C",
+    "explanation": "腸扭轉（volvulus）發生的核心機轉是腸段繞其腸繫膜軸旋轉，導致腸腔阻塞與腸繫膜血流受損。若腸段「可動性大」且「腸繫膜較長/根部較窄」，更容易旋轉形成扭轉，因此 (C) 正確。\n\n(A) 錯：最常見的部位通常是乙狀結腸與盲腸；橫結腸扭轉相對少見。\n(B) 錯：典型高風險族群常見於高齡、長期臥床、慢性便秘、神經精神疾患或使用抗膽鹼/精神藥物者；「年輕女性」不是典型描述。高纖飲食對便秘可能有益，但在某些情境（巨結腸、嚴重便秘造成腸道過度擴張）不一定能降低扭轉風險，不能當成此題的正確核心敘述。\n(D) 錯：乙狀結腸扭轉的典型腹部 X 光是 coffee bean sign；keyboard sign 更常被拿來描述小腸機械性阻塞時的皺襞/腸襞排列影像特徵，並非乙狀結腸扭轉代表性徵象。"
+  },
+  {
+    "id": "CRS_B_Q0002",
+    "stem": "一名 84 歲男性，因四天未解便，出現腹脹、陣發性腹痛等症狀而被送到急診。病患先前有慢性便秘病史，沒有接受過腹部手術，腹部 X 光檢查可看到明顯脹大的乙狀結腸，有 bent inner tube sign。生命徵象穩定，理學檢查腹部有輕微壓痛，但無腹膜炎症狀，無腹股溝疝氣，下列初步處置何者最理想？",
+    "options": [
+      { "key": "A", "text": "立即剖腹探查" },
+      { "key": "B", "text": "胃鏡檢查" },
+      { "key": "C", "text": "乙狀結腸鏡檢查並減壓" },
+      { "key": "D", "text": "腹部超音波檢查" }
+    ],
+    "answer": "C",
+    "explanation": "此病人臨床與影像（bent inner tube sign、明顯擴張的乙狀結腸）高度懷疑乙狀結腸扭轉（sigmoid volvulus）。生命徵象穩定、無腹膜炎/穿孔徵象時，首要策略是「內視鏡減壓與復位」（flexible sigmoidoscopy/colonoscopy decompression + detorsion），可迅速解除阻塞、降低缺血風險並爭取後續處置時間，因此 (C) 最理想。\n\n(A) 剖腹探查通常保留給：內視鏡減壓失敗、懷疑腸缺血/壞死、穿孔或明顯腹膜炎者。\n(B) 胃鏡與此下消化道阻塞病因無直接關聯。\n(D) 腹部超音波對診斷與立即處置的效益有限，且已有典型平片線索；在穩定病人更應直接進行可治療的內視鏡減壓。"
+  },
+  {
+    "id": "CRS_B_Q0003",
+    "stem": "下列有關結腸扭結（colonic volvulus）的敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "乙狀結腸是最常發生的部位" },
+      { "key": "B", "text": "盲腸（cecum）扭結危險因子包括食物纖維的大量攝取、精神藥物的服用及腹部手術的既往史" },
+      { "key": "C", "text": "盲腸（cecum）扭結應先嘗試大腸鏡還原再施行常規手術" },
+      { "key": "D", "text": "盲腸（cecum）扭結常合併部分或全部升結腸的扭轉" }
+    ],
+    "answer": "C",
+    "explanation": "錯在 (C)。盲腸扭轉（cecal volvulus）相較乙狀結腸扭轉，內視鏡減壓/復位的成功率通常較低，且延誤可能增加缺血壞死風險；臨床上多偏向以手術治療為主（如右半結腸切除/盲腸切除合併固定等，依腸道活性與病況決定），而不是「先例行大腸鏡還原」。\n\n(A) 正確：乙狀結腸為最常見的結腸扭轉部位。\n(B) 大量纖維攝取、精神藥物（影響腸蠕動）、以及既往腹部手術/解剖改變可增加腸道擴張與活動度異常的風險，屬常見危險因子方向。\n(D) 正確：盲腸扭轉可牽連鄰近腸段，常見合併部分或全部升結腸的旋轉/移位（屬右下腹腸段的扭轉複合體）。"
+  },
+  
+
+
+  {
+    "id": "CRS_CRC_A_Q001",
+    "stem": "骨盆底肌肉（pelvic floor）的組成不包括下列哪一群？",
+    "options": [
+      { "key": "A", "text": "puborectalis muscle" },
+      { "key": "B", "text": "iliococcygeus muscle" },
+      { "key": "C", "text": "pubococcygeus muscle" },
+      { "key": "D", "text": "gluteus maximus muscle" }
+    ],
+    "answer": "D",
+    "explanation": "骨盆底（pelvic floor）主要由提肛肌群（levator ani：puborectalis、pubococcygeus、iliococcygeus）與尾骨肌（coccygeus）構成，功能是支撐骨盆臟器（膀胱、子宮、直腸等）、維持盆腔壓力，並參與排尿/排便控制與肛直角（anorectal angle）的調節。\n\n(D) gluteus maximus（臀大肌）屬於臀部/髖關節伸展肌群，主要負責髖伸展、外旋、步態與站立穩定，並非骨盆底肌肉，因此不屬於 pelvic floor 組成。\n\n(A)(B)(C) 都是 levator ani 的典型組成，臨床上與便失禁、盆底鬆弛、直腸脫垂、排便功能障礙等密切相關。"
+  },
+  {
+    "id": "CRS_CRC_A_Q002",
+    "stem": "關於降結腸癌手術造成大出血，最常見的原因為：",
+    "options": [
+      { "key": "A", "text": "脾臟撕裂傷" },
+      { "key": "B", "text": "上腸繫膜靜脈撕裂" },
+      { "key": "C", "text": "下腔靜脈撕裂" },
+      { "key": "D", "text": "主動脈撕裂" }
+    ],
+    "answer": "A",
+    "explanation": "降結腸（尤其脾彎曲 splenic flexure）游離時常需做 splenic flexure mobilization，解剖上與脾臟、脾結腸韌帶（splenocolic ligament）、胃脾韌帶等結構相鄰。牽拉或鈍性分離不慎最典型的嚴重出血來源就是脾臟被撕裂（capsular tear / parenchymal injury），因此 (A) 最常見。\n\n(B) 上腸繫膜靜脈主要供應/回流小腸與右側結腸的區域，與左側結腸手術操作區相對較遠。\n(C)(D) 下腔靜脈、腹主動脈位於更深層後腹膜，雖然一旦受傷後果嚴重，但在典型降結腸癌手術中並非「最常見」出血來源，發生率遠低於脾臟損傷。"
+  },
+  {
+    "id": "CRS_CRC_A_Q003",
+    "stem": "肛管（anal canal）的感覺（sensory）神經支配源自於下列何者？",
+    "options": [
+      { "key": "A", "text": "obturator nerve" },
+      { "key": "B", "text": "femoral nerve" },
+      { "key": "C", "text": "pudendal nerve" },
+      { "key": "D", "text": "sciatic nerve" }
+    ],
+    "answer": "C",
+    "explanation": "肛管的感覺支配（特別是齒狀線以下的肛管下半部：對痛覺、溫度、觸覺敏感）主要由陰部神經（pudendal nerve, S2–S4）分支的 inferior rectal nerve（亦稱 inferior anal nerve）提供。\n\n臨床重點：\n1) 齒狀線以上（上肛管/直腸黏膜）以自主神經（visceral afferent）為主，痛覺較鈍；因此內痔通常不痛。\n2) 齒狀線以下由 pudendal（somatic）支配，痛覺敏感；外痔、肛裂非常疼痛。\n\n(A)(B)(D) 分別主要支配大腿/下肢相關區域，與肛管感覺並非主要來源。"
+  },
+  {
+    "id": "CRS_CRC_A_Q004",
+    "stem": "下列血管，何者不是源自下腸繫膜動脈（inferior mesenteric artery, IMA）？",
+    "options": [
+      { "key": "A", "text": "left colic artery" },
+      { "key": "B", "text": "sigmoid artery" },
+      { "key": "C", "text": "superior rectal artery" },
+      { "key": "D", "text": "middle rectal artery" }
+    ],
+    "answer": "D",
+    "explanation": "IMA 的典型分支包括：\n- left colic artery（供應降結腸、左側橫結腸遠端）\n- sigmoid arteries（供應乙狀結腸）\n- superior rectal artery（IMA 的終末分支，供應直腸上段）\n\nmiddle rectal artery 通常源自 internal iliac artery（髂內動脈系統），供應直腸中段，因此不屬於 IMA 分支，答案為 (D)。\n\n考點延伸：直腸供血具有「上下雙系統」特性（IMA 的 superior rectal + internal iliac 的 middle/inferior rectal），與低位直腸手術/吻合口灌流風險相關。"
+  },
+  {
+    "id": "CRS_CRC_A_Q005",
+    "stem": "下列哪一段結腸或直腸（colon and rectum）並未附著於後腹膜腔（retroperitoneum）？",
+    "options": [
+      { "key": "A", "text": "升結腸" },
+      { "key": "B", "text": "降結腸" },
+      { "key": "C", "text": "橫結腸" },
+      { "key": "D", "text": "直腸" }
+    ],
+    "answer": "C",
+    "explanation": "橫結腸（transverse colon）一般為腹膜內器官（intraperitoneal），具有橫結腸繫膜（transverse mesocolon），可動性高，因此「並未附著於後腹膜」。\n\n升結腸與降結腸多為次發性後腹膜（secondarily retroperitoneal）：胚胎發育過程中其繫膜與後腹壁融合，固定度較高。\n直腸大部分位於骨盆腔內，周圍筋膜層與骨盆結構關係密切，並非典型腹膜內可自由移動的腸段；其上段前外側可被腹膜覆蓋，但整體解剖/手術面向屬於相對固定的區域。"
+  },
+  {
+    "id": "CRS_CRC_A_Q006",
+    "stem": "有關大腸直腸的生理敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "colonic microflora 可幫助維持 epithelial integrity 及 nutritive function" },
+      { "key": "B", "text": "Bacteroides species 約占大腸細菌的 2/3" },
+      { "key": "C", "text": "colonic microflora 幫助人體行 urea recycling，有助於 liver failure 之病人" },
+      { "key": "D", "text": "大腸吸收面積約 900 cm²，可幫忙再吸收大量水分" }
+    ],
+    "answer": "C",
+    "explanation": "(C) 錯在「有助於 liver failure」。腸道菌叢確實可透過 urease 將尿素（urea）分解為氨（NH3/NH4+），氨可被吸收進入門脈循環；在肝功能正常時，多數氨會在肝臟重新進入 urea cycle 被解毒。\n\n但在肝衰竭或嚴重肝硬化時，肝臟對氨的清除能力下降，加上門體分流（portosystemic shunting），會導致氨在全身上升並可穿越 BBB，引起肝性腦病變（hepatic encephalopathy）。因此「urea recycling 有助於肝衰竭」是反向，臨床上反而會透過 lactulose、rifaximin 等策略降低腸道產氨與吸收。\n\n(A) 正確：菌叢產生的 short-chain fatty acids（尤其 butyrate）是結腸上皮重要能量來源，有助於黏膜屏障。\n(B) 大方向可接受：Bacteroides/其他厭氧菌是結腸主要菌相之一。\n(D) 正確：大腸的核心功能之一是再吸收水分與電解質、濃縮糞便。"
+  },
+  {
+    "id": "CRS_CRC_A_Q007",
+    "stem": "有關大腸直腸的胚胎發育，下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "前腸衍生結構（foregut-derived structures）的主要血液供應來源為腹腔動脈（celiac artery）" },
+      { "key": "B", "text": "中腸衍生結構（midgut-derived structures）是從近端空腸（proximal jejunum）到遠端橫結腸（distal transverse colon）" },
+      { "key": "C", "text": "肛門內括約肌（internal anal sphincter）是從直腸（rectum）的環形肌肉層（circular muscle layer）延伸形成" },
+      { "key": "D", "text": "約在胚胎發育第 6 週，泌尿生殖隔（urogenital septum）往尾部移行（caudal migration）而分隔開消化道及生殖泌尿道" }
+    ],
+    "answer": "B",
+    "explanation": "(B) 錯在中腸（midgut）範圍起點。標準分區：\n- foregut：由 celiac artery 供血\n- midgut：由 SMA 供血，範圍為「遠端十二指腸（distal to the major papilla）」到「橫結腸近端 2/3」\n- hindgut：由 IMA 供血，範圍為「橫結腸遠端 1/3」到直腸上段\n\n(B) 將 midgut 起點寫成 proximal jejunum，忽略了 distal duodenum/更近端的小腸部分，故錯。\n\n(A) 正確：前腸供血為 celiac。\n(C) 正確：internal anal sphincter 是平滑肌，為直腸環形平滑肌層增厚延續。\n(D) 概念正確：cloaca 分隔由 urorectal septum 形成，過程中向尾端移行完成泌尿生殖道與腸道的分隔。"
+  },
+  {
+    "id": "CRS_CRC_A_Q008",
+    "stem": "有關大腸直腸的解剖構造，下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "base of appendix 位於 cecum taeniae coli 的聚合處" },
+      { "key": "B", "text": "在手術中可藉由發現 fold of Treves，進而發現 appendix" },
+      { "key": "C", "text": "rectum 沒有 taeniae coli，也沒有 epiploic appendices" },
+      { "key": "D", "text": "sigmoid colon wall 比 descending colon 薄，所以 sigmoid colon 較常發生 perforation" }
+    ],
+    "answer": "D",
+    "explanation": "(D) 的因果推論不正確：乙狀結腸（sigmoid）並非因為「腸壁比降結腸薄」才更容易穿孔；其穿孔風險多與腔內壓力、糞便滯留、憩室疾病好發位置、局部血流與發炎/缺血等因素相關。腸壁厚度並無穩定的、足以支持此敘述的顯著差異。\n\n(A) 正確：闌尾根部可用「三條 taeniae coli 匯聚處」定位。\n(B) 正確：Treves fold（ileocecal fold）可作為手術定位的線索之一。\n(C) 正確：直腸縱走肌層較均勻，無典型 taeniae coli，也缺乏 epiploic appendages。"
+  },
+  {
+    "id": "CRS_CRC_A_Q009",
+    "stem": "下列關於骨盆底肌肉群（the muscles of pelvic floor）的敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "又稱為提肛肌（levator ani），由恥骨尾骨肌（pubococcygeus muscle）、恥骨直腸肌（puborectalis muscle）及梨狀肌（piriformis muscle）共同組合而成" },
+      { "key": "B", "text": "平時由骨盆底肌肉群維持一定的張力，支撐著骨盆腔內的器官，同時與肛門括約肌一起協調控制著排便行為" },
+      { "key": "C", "text": "恥骨直腸肌（puborectalis muscle）為 U 字型的橫紋肌，放鬆時會使肛門直腸角度拉直（anorectal angle straightens），藉此使糞便下降以利排便" },
+      { "key": "D", "text": "若骨盆底肌群有功能上的障礙，可能會產生排便異常問題" }
+    ],
+    "answer": "A",
+    "explanation": "(A) 錯：levator ani 的典型組成是 puborectalis、pubococcygeus、iliococcygeus。piriformis（梨狀肌）是骨盆壁/髖外旋肌，並不屬於 levator ani 或骨盆底肌群的核心組成。\n\n(B) 正確：骨盆底張力提供支撐，並與括約肌協調維持禁制。\n(C) 正確：puborectalis 形成 U 型 sling，收縮維持肛直角以利禁制；放鬆時肛直角變直，利於排便。\n(D) 正確：盆底功能障礙可造成便祕、排便困難、便失禁等。"
+  },
+  {
+    "id": "CRS_CRC_A_Q010",
+    "stem": "有關大腸生理功能的說明，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "人體所放出的 flatus，以吸入之大氣空氣為主" },
+      { "key": "B", "text": "關於大腸癌好發在遠端大腸，有一說法是因為遠端大腸較缺乏酶類，所以遠端大腸的細菌主要行蛋白質 putrefactive process，容易堆積毒素所造成的" },
+      { "key": "C", "text": "short-chain fatty acids（包含 acetate、propionate 和 butyrate）對於大腸細胞是很重要的物質，可幫助正常細胞生長和抑制癌細胞生長" },
+      { "key": "D", "text": "食用纖維（dietary fiber）中，water-soluble 的可以被腸道細菌分解產生 short-chain fatty acid，water-insoluble 可以利用來治療便祕" }
+    ],
+    "answer": "B",
+    "explanation": "(B) 為較不正確/不嚴謹的敘述。大腸癌的部位分布受多因子影響（遺傳、發炎、飲食、腸道菌相、膽汁酸代謝、腸道通過時間、篩檢行為等），以「遠端大腸缺乏酶類 → 細菌以蛋白質腐敗為主 → 堆積毒素 → 因此遠端大腸癌好發」來做單一路徑解釋，過度簡化且不具穩固的因果性。\n\n(A) 大方向可接受：flatus 的主要成分常以氮氣為主，而氮氣多來自吞入的空氣（swallowed air）；同時也包含菌叢產生的 H2/CO2/CH4 等。\n(C) 正確：SCFAs（尤其 butyrate）是結腸上皮重要能量來源，並與黏膜屏障/抗發炎/代謝調控相關；在腫瘤生物學上也常被討論其抑制腫瘤生長的機制（如 HDAC inhibition 等）。\n(D) 正確：可溶性纖維可被發酵產生 SCFA；不可溶性纖維增加糞便體積、促進蠕動，臨床常用於便祕。"
+  },
+  {
+    "id": "CRS_CRC_A_Q011",
+    "stem": "有關 rectosacral fascia 的敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "它在 S4 位置連接 presacral fascia 和直腸的 fascia propria" },
+      { "key": "B", "text": "若手術過程不慎穿破這個 landmark，將會往後進入 presacral fascia 引起 venous plexus 受傷大流血" },
+      { "key": "C", "text": "若手術分離組織過程沒有沿著 rectosacral fascia，在前會破壞 fascia propria，造成癌細胞局部轉移的風險" },
+      { "key": "D", "text": "rectosacral fascia 又稱做 Denonvilliers fascia" }
+    ],
+    "answer": "D",
+    "explanation": "(D) 錯：Denonvilliers fascia 是「前方」的直腸-前列腺（男性）/直腸-陰道（女性）之間的筋膜（rectoprostatic/rectovaginal fascia），屬於前直腸間隙的重要解剖層。\n\nrectosacral fascia（常被視為後方的重要筋膜 landmark）位於直腸後方與骶前筋膜/骶前靜脈叢相關，手術（特別是 TME / 直腸後方剝離）若進入不正確層面，確實可能造成 presacral venous plexus 大出血。\n\n(A)(B)(C) 是與直腸後方剝離層面、fascia propria 保持完整（oncologic plane）相關的手術安全與腫瘤學概念。"
+  },
+
+  {
+    "id": "CRS_CRC_B_VOLV_Q001",
+    "stem": "有關大腸腸扭轉（volvulus），下列敘述何者正確？",
+    "options": [
+      { "key": "A", "text": "好發於橫結腸" },
+      { "key": "B", "text": "有慢性便秘之年輕女性為好發族群，攝食較多的高纖飲食有助於預防其發生" },
+      { "key": "C", "text": "未固定於後腹腔的結腸，且有較長的腸繫膜較易發生腸扭轉" },
+      { "key": "D", "text": "在乙狀結腸腸扭轉中，腹部 X 光攝影可能有琴鍵徵象（keyboard sign）" }
+    ],
+    "answer": "C",
+    "explanation": "腸扭轉（volvulus）本質是腸段繞著其腸繫膜血管軸旋轉，造成機械性阻塞與血流受損風險。\n\n(C) 正確：可動性高（未固定於後腹膜/腹膜內腸段）、腸繫膜較長（long mesentery）會增加旋轉自由度，因此更容易發生 volvulus。典型好發部位是乙狀結腸（sigmoid）與盲腸（cecum）；橫結腸 volvulus 相對少見。\n\n(A) 錯：橫結腸較少見。\n(B) 錯：典型 sigmoid volvulus 多見於老年人、長期便祕、臥床、神經精神疾病/用藥（抗膽鹼）等；高纖飲食在某些情境可能增加糞便量與腸段擴張，並非絕對「預防」。\n(D) 錯：乙狀結腸扭轉典型影像是 coffee bean sign；keyboard sign 常用來描述小腸機械性阻塞時皺襞排列的影像特徵，非 volvulus 的典型徵象。"
+  },
+  {
+    "id": "CRS_CRC_B_VOLV_Q002",
+    "stem": "一名 84 歲男性，因四天未解便，出現腹脹、陣發性腹痛等症狀被送到急診。病患先前有慢性便秘病史，沒有接受過腹部手術，腹部 X 光檢查可看到明顯脹大之乙狀結腸，有 bent inner tube sign。生命徵象穩定，理學檢查腹部有輕微壓痛，但無腹膜炎症狀，無腹股溝疝氣，下列初步處置何者最理想？",
+    "options": [
+      { "key": "A", "text": "立即剖腹探查" },
+      { "key": "B", "text": "胃鏡檢查" },
+      { "key": "C", "text": "乙狀結腸鏡檢查並減壓" },
+      { "key": "D", "text": "腹部超音波檢查" }
+    ],
+    "answer": "C",
+    "explanation": "臨床與 X 光（bent inner tube sign）高度懷疑乙狀結腸扭轉（sigmoid volvulus）。在「生命徵象穩定、無腹膜炎/穿孔徵象」的前提下，首選初步處置是內視鏡減壓與復位（flexible sigmoidoscopy/colonoscopy detorsion + decompression），並可置放 rectal tube 降低早期復發。\n\n(A) 立即開刀通常保留給：內視鏡減壓失敗、懷疑缺血壞死、穿孔、腹膜炎或休克不穩定。\n(B) 胃鏡與本病灶無關。\n(D) 超音波對氣體充滿的腸阻塞診斷價值有限，且已具典型 X 光線索；急診優先是減壓避免缺血與穿孔。"
+  },
+  {
+    "id": "CRS_CRC_B_VOLV_Q003",
+    "stem": "下列有關結腸扭結（colonic volvulus）的敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "乙狀結腸是最常發生的部位" },
+      { "key": "B", "text": "盲腸（cecum）扭結危險因子包括食物纖維的大量攝取、精神藥物的服用及腹部手術的既往史" },
+      { "key": "C", "text": "盲腸（cecum）扭結應先嘗試大腸鏡還原再施行常規手術" },
+      { "key": "D", "text": "盲腸（cecum）扭結常合併部分或全部升結腸的扭轉" }
+    ],
+    "answer": "C",
+    "explanation": "(C) 錯：盲腸扭轉（cecal volvulus）與乙狀結腸扭轉不同，內視鏡減壓/復位成功率低且延誤缺血風險；臨床多以手術處置為主（如 right hemicolectomy、cecopexy 或 cecostomy 視腸段存活與患者狀況而定）。\n\n(A) 正確：最常見是 sigmoid volvulus。\n(B) 可接受：促進腸擴張/蠕動變化、便祕、神經精神藥物、既往手術造成腸道活動性改變等皆可能增加風險。\n(D) 正確：盲腸扭轉常牽連終末迴腸與部分升結腸一起旋轉。"
+  },
+
+  {
+    "id": "CRS_CRC_C_DIV_Q001",
+    "stem": "74 歲楊女士近一週來左下腹疼痛越來越厲害到急診求診，過去病史有糖尿病、高血壓及大腸憩室炎。急診生命徵象穩定，但體溫 38.5°C；症狀包含食慾變差、噁心及腹瀉。理學檢查左下腹疑似觸及硬塊且壓痛，合併局部性腹膜炎。抽血：WBC 19,310/mm³，neutrophil 86.1%，CRP 196 mg/L。腹部電腦斷層如圖，最可能的診斷為何？",
+    "options": [
+      { "key": "A", "text": "缺血性腸壞死（ischemic bowel）" },
+      { "key": "B", "text": "乙狀結腸腸扭轉（volvulus）" },
+      { "key": "C", "text": "乙狀結腸憩室炎破裂併膿瘍（ruptured sigmoid diverticulitis with abscess）" },
+      { "key": "D", "text": "空腸腸繫膜膿瘍（jejunal mesenteric abscess）" }
+    ],
+    "answer": "C",
+    "explanation": "臨床（左下腹痛、發燒、白血球與 CRP 升高、既往憩室炎）＋ CT 典型表現最符合「乙狀結腸憩室炎併局部併發症」。題幹提示左下腹觸及硬塊、局部性腹膜炎，CT 常見結腸壁增厚、周邊脂肪浸潤（fat stranding）、局部液體/氣體集合（abscess 或 microperforation），因此 (C) 最符合。\n\n(A) 缺血性腸病變常見表現是突發劇痛且 pain out of proportion，且 CT 可能顯示腸壁缺血灌流異常、腸繫膜血管阻塞等；本題更吻合局部感染性發炎與膿瘍。\n(B) volvulus 更偏向嚴重腸阻塞影像（coffee bean / whirl sign）與便祕、腹脹；本題重點是感染與局部膿瘍。\n(D) 空腸腸繫膜膿瘍在位置與背景（術後/特殊感染）較不吻合，且症狀局限於左下腹更支持 sigmoid diverticulitis。"
+  },
+  {
+    "id": "CRS_CRC_C_DIV_Q002",
+    "stem": "依據 Hinchey classification 描述大腸憩室炎（colon diverticulitis）嚴重度的分類，若發生 generalized purulent peritonitis 的情況是屬於下列哪一個 stage？",
+    "options": [
+      { "key": "A", "text": "stage IV" },
+      { "key": "B", "text": "stage III" },
+      { "key": "C", "text": "stage II" },
+      { "key": "D", "text": "stage I" }
+    ],
+    "answer": "B",
+    "explanation": "Hinchey 分類重點：\n- Stage I：局部膿瘍/周圍炎（pericolic abscess/phlegmon）\n- Stage II：遠端（骨盆/腹腔/後腹膜）膿瘍\n- Stage III：廣泛化膿性腹膜炎（generalized purulent peritonitis）\n- Stage IV：廣泛糞便性腹膜炎（generalized fecal peritonitis）\n\n因此 generalized purulent peritonitis 對應 Stage III，答案 (B)。"
+  },
+  {
+    "id": "CRS_CRC_C_DIV_Q003",
+    "stem": "下列何者為結腸憩室炎（diverticulitis）必須手術的適應症？\n① 破裂造成腹膜炎（free perforation with peritonitis）\n② 形成局部 2 cm 膿瘍（localized abscess）無腹膜炎\n③ 形成結腸膀胱瘻管（colovesical fistula）\n④ 造成貧血，血紅素 9.9",
+    "options": [
+      { "key": "A", "text": "僅 ①②③" },
+      { "key": "B", "text": "僅 ①③" },
+      { "key": "C", "text": "僅 ②④" },
+      { "key": "D", "text": "①②③④" }
+    ],
+    "answer": "B",
+    "explanation": "憩室炎治療核心是「先分 uncomplicated vs complicated」。\n\n必須手術（或高度傾向手術介入）的典型情境：\n- 自由穿孔合併腹膜炎（free perforation with generalized peritonitis）→ (①)\n- 形成瘻管（colovesical、colovaginal 等）→ (③)\n- 無法控制的出血、阻塞、反覆發作且影響生活品質等（視情況）\n\n(②) 2 cm 局部膿瘍且無腹膜炎，多數可先抗生素 ± 影像導引引流（通常較大膿瘍更需要引流），不一定「必須」手術。\n(④) 單純 Hb 9.9 不是手術適應症本身；需釐清是否活動性大出血、血流動力不穩、或惡性腫瘤等原因。\n\n因此正確為僅 (①)(③) → (B)。"
+  },
+  {
+    "id": "CRS_CRC_C_DIV_Q004",
+    "stem": "62 歲男性有高血壓病史但不規則服藥，因左下腹痛兩天至急診，發燒 38.5°C，血壓 90/60 mmHg，心跳 110 次/分。理學檢查左下腹明顯壓痛硬塊，肛門指診出現黏液血便。抽血：WBC 22,000/μL，Hb 9.7 g/dL。依據前述情況，其最不適宜的檢查為：",
+    "options": [
+      { "key": "A", "text": "大腸鏡（colonoscopy）" },
+      { "key": "B", "text": "電腦斷層（CT）" },
+      { "key": "C", "text": "胸部 X 光（CXR）" },
+      { "key": "D", "text": "左側躺腹部 X 光（left lateral decubitus）" }
+    ],
+    "answer": "A",
+    "explanation": "此題高度懷疑急性憩室炎合併出血/感染，且病人生命徵象不穩（低血壓、心搏過速）與局部腹膜刺激徵象風險，急性期進行 colonoscopy 可能增加穿孔風險（腸壁發炎脆弱、充氣擴張、操作刺激），也不利於先期穩定病人，因此最不適宜的是 (A)。\n\n(B) CT 是急性憩室炎評估嚴重度與併發症（膿瘍、穿孔、瘻管、阻塞）的關鍵檢查。\n(C) CXR 可用於評估自由氣體/合併肺部問題（尤其不穩定病人），雖非最特異，但不屬「最不適宜」。\n(D) left lateral decubitus 腹部 X 光可輔助偵測腹腔游離氣體（某些情境下），也不會像大腸鏡那樣增加穿孔風險。"
+  },
+  {
+    "id": "CRS_CRC_C_DIV_Q005",
+    "stem": "有關 colon diverticular disease，下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "一般而言，最常發生於 sigmoid 及 descending colon，因 colon lumen 較窄；但在亞洲，較常發生於 right colon 及 cecum" },
+      { "key": "B", "text": "abdominal CT 是診斷 acute diverticulitis 的標準" },
+      { "key": "C", "text": "對於 Hinchey classification stage III 之 diverticulitis with perforation，需進行手術治療" },
+      { "key": "D", "text": "complicated diverticulitis 最常發生 fistula 的器官為膀胱，且女多於男" }
+    ],
+    "answer": "D",
+    "explanation": "(D) 錯在「女多於男」。憩室炎併發瘻管（尤其 colovesical fistula）確實最常牽涉膀胱，但流行病學上常見於男性較多；女性因子宮介於結腸與膀胱之間，反而降低直接形成膀胱瘻的機會（除非曾子宮切除）。\n\n(A) 正確：西方多左側（sigmoid/descending）好發；亞洲右側憩室比例較高是常見考點。\n(B) 正確：CT 是急性憩室炎評估範圍、嚴重度與併發症的首選影像工具。\n(C) 正確：Hinchey III（廣泛化膿性腹膜炎）通常需要外科處置（手術策略視病人狀況與手術團隊而定，如切除/沖洗/造口等）。"
+  },
+  {
+    "id": "CRS_CRC_C_DIV_Q006",
+    "stem": "有關大腸憩室炎（diverticulitis disease）的敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "評估大腸憩室炎的嚴重程度，目前較建議的診斷工具是電腦斷層" },
+      { "key": "B", "text": "急性大腸憩室炎臨床上可粗略分為非複雜性及複雜性；非複雜性（uncomplicated）可以採保守治療方式" },
+      { "key": "C", "text": "可建議大腸憩室炎患者在症狀改善後的 4–6 週接受大腸鏡檢查，藉此確認大腸憩室及排除大腸惡性腫瘤或大腸發炎性疾病之可能性" },
+      { "key": "D", "text": "一旦患者發生過大腸憩室炎，就必須建議患者接受常規部分大腸切除，以預防下次大腸憩室炎的發作" }
+    ],
+    "answer": "D",
+    "explanation": "(D) 錯：並非「發生過一次」就必須常規切除。是否選擇性手術（elective colectomy）取決於：反覆發作頻率、症狀嚴重度、併發症（膿瘍、瘻管、狹窄/阻塞）、免疫抑制狀態、生活品質影響等。\n\n(A) 正確：CT 是急性期分級與併發症評估主力。\n(B) 正確：uncomplicated 多採保守（飲食調整、止痛、視情況抗生素）；complicated 則可能需要引流或手術。\n(C) 正確且常考：症狀緩解後做 colonoscopy 以排除 colorectal cancer 或 IBD（尤其是影像/臨床有疑點者）；時點常見 4–6 或 6–8 週（各書可能略有差異，但概念一致：避開急性發炎期以降低穿孔風險）。"
+  },
+  {
+    "id": "CRS_CRC_C_DIV_Q007",
+    "stem": "一位 60 歲女性因解血便致心跳加速且血壓下降，經檢查發現出血的位置在升結腸如圖所示，則最可能的診斷為何？",
+    "options": [
+      { "key": "A", "text": "大腸癌出血" },
+      { "key": "B", "text": "大腸憩室出血" },
+      { "key": "C", "text": "潰瘍性腸炎（ulcerative colitis）" },
+      { "key": "D", "text": "克隆氏症（Crohn’s disease）" }
+    ],
+    "answer": "B",
+    "explanation": "老年人突然大量血便（hematochezia）合併血流動力不穩，最常見原因之一就是憩室出血（diverticular bleeding）。憩室出血常為動脈性出血（vasa recta 相關），可呈現突發、量大、疼痛不明顯的下消化道出血。\n\n題目指出出血點在升結腸（右側），也符合「右側憩室出血常更大量」的常見臨床印象。\n\n(A) 大腸癌也會出血，但多為慢性隱性/間歇性、造成缺鐵性貧血較典型，較少突然大量失血性休克。\n(C) UC 常見黏液血便、腹痛、里急後重與廣泛黏膜發炎影像，且出血多伴隨腹瀉與慢性病程。\n(D) Crohn 常見跳躍性病灶、深裂潰瘍、肛周病灶等，單一右側大量急性出血較不典型。"
+  },
+  {
+    "id": "CRS_CRC_C_DIV_Q008",
+    "stem": "承上題，上述疾病的治療何者較不恰當？",
+    "options": [
+      { "key": "A", "text": "抗生素治療" },
+      { "key": "B", "text": "大腸鏡下進行止血" },
+      { "key": "C", "text": "血管攝影並栓塞" },
+      { "key": "D", "text": "保守治療無效的情形下，安排手術治療" }
+    ],
+    "answer": "A",
+    "explanation": "承上題診斷為「憩室出血」，其治療核心是止血與循環穩定：\n- 先 resuscitation（輸液/輸血、矯正凝血、監測 hemodynamics）\n- 大腸鏡找出出血點並內視鏡止血（clipping、injection、thermal 等）\n- 若內視鏡失敗或定位困難且出血持續，可做血管攝影（angiography）並栓塞\n- 仍無法控制或反覆大出血，才考慮外科切除（segmental colectomy，需盡量定位出血段）\n\n抗生素（A）不是憩室「出血」的常規治療；抗生素是用於「憩室炎（diverticulitis）」的感染/發炎處置，兩者概念需分清。"
   }
+
+
 
 
 
