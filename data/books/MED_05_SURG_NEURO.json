@@ -4311,7 +4311,83 @@
     ],
     "answer": "C",
     "explanation": "EDH 若能及早辨識並手術處理，通常預後「優於」急性 SDH；急性 SDH 常合併較嚴重腦挫傷/DAI，整體傷勢更重，因此 (C) 錯。\n\n(A) EDH 常伴顱骨骨折。\n(B) 經典病因為 middle meningeal artery 破裂。\n(D) 臨床表現可變，題目給的比例屬常見考點描述。"
+  },
+
+
+  
+  {
+    "id": "MED_05_01_ICP_Q0001",
+    "stem": "下列何種情形不會造成腦壓升高？",
+    "options": [
+      { "key": "A", "text": "蜘蛛膜下腔出血" },
+      { "key": "B", "text": "降低血中二氧化碳濃度" },
+      { "key": "C", "text": "阻塞性水腦症" },
+      { "key": "D", "text": "腦實質出血 30 c.c." }
+    ],
+    "answer": "B",
+    "explanation": "降低 PaCO2（例如短暫過度換氣）會造成腦血管收縮、腦血容量下降，通常使 ICP 下降，而不是上升，因此 (B) 為「不會造成腦壓升高」。\n\n(A) SAH 會增加顱內血量，且可造成腦脊髓液吸收障礙與腦水腫，ICP 上升。\n(C) 阻塞性水腦症造成 CSF 滯留、腦室擴大，ICP 上升。\n(D) ICH 30 c.c. 增加顱內容積並造成周邊水腫/壓迫，ICP 上升。\n\n考點：PaCO2 與腦血流呈正相關；CO2 下降 → 腦血管收縮 → ICP 下降，但過度下降會讓腦灌流變差（只能短期救急）。"
+  },
+  {
+    "id": "MED_05_01_ICP_Q0002",
+    "stem": "頭部外傷患者送至加護病房，血壓 150/90 mmHg，顱內壓 25 mmHg，其腦灌流壓（CPP）為多少 mmHg？",
+    "options": [
+      { "key": "A", "text": "105" },
+      { "key": "B", "text": "95" },
+      { "key": "C", "text": "90" },
+      { "key": "D", "text": "85" }
+    ],
+    "answer": "D",
+    "explanation": "CPP = MAP − ICP。\nMAP ≈ DBP + 1/3(SBP−DBP) = 90 + 1/3(60) = 110。\nCPP = 110 − 25 = 85 mmHg，因此選 (D)。\n\n考點：TBI 目標是避免低血壓並維持足夠 CPP（避免 secondary brain injury），但 MAP 提升也要配合控制 ICP。"
+  },
+  {
+    "id": "MED_05_01_ICP_Q0003",
+    "stem": "下列何種處置不建議用來降低腦壓（intracranial pressure）？",
+    "options": [
+      { "key": "A", "text": "頭抬高 30 度" },
+      { "key": "B", "text": "過度換氣（hyperventilation）使二氧化碳分壓（PaCO2）降低到 20 mmHg" },
+      { "key": "C", "text": "低溫（hypothermia）治療" },
+      { "key": "D", "text": "腦室引流腦脊髓液（ventricular CSF drainage）" }
+    ],
+    "answer": "B",
+    "explanation": "把 PaCO2 降到 20 mmHg 屬「過度」過度換氣，會造成明顯腦血管收縮，雖可短暫降 ICP，但同時大幅降低腦血流與腦灌流，增加腦缺血風險，因此不建議作為常規降 ICP 手段。\n\n(A) 頭抬高促進靜脈回流，常規且有效。\n(C) 低溫可降低代謝與腦血流需求，部分情境可用，但要注意感染/凝血/心律等副作用與證據限制（題目重點不是它）。\n(D) CSF 引流是直接有效的降 ICP 方法之一。\n\n考點：可接受的「救急性」短暫過度換氣目標多是 PaCO2 約 30–35 mmHg，而不是 20。"
+  },
+  {
+    "id": "MED_05_01_ICP_Q0004",
+    "stem": "對於頭部外傷的病人，下列何種方法降低腦壓的效果最差？",
+    "options": [
+      { "key": "A", "text": "頭抬高 30 度" },
+      { "key": "B", "text": "使用 mannitol 或 glycerol 等藥物" },
+      { "key": "C", "text": "hypoventilation" },
+      { "key": "D", "text": "craniectomy" }
+    ],
+    "answer": "C",
+    "explanation": "hypoventilation 會造成 PaCO2 上升 → 腦血管擴張 → 腦血容量增加 → ICP 上升，因此對「降低腦壓」效果最差（甚至相反）。\n\n(A) 抬頭增加靜脈回流、降低 ICP。\n(B) 高滲療法（mannitol/glycerol）可降低腦水腫與 ICP（需注意血流動力學、腎功能、滲透壓與反彈現象）。\n(D) 減壓性顱骨切除可增加顱內容積、降低 ICP（適應症與時機是考點）。"
+  },
+  {
+    "id": "MED_05_01_ICP_Q0005",
+    "stem": "下列何種做法，無法讓嚴重頭部外傷病人的腦壓降低？",
+    "options": [
+      { "key": "A", "text": "平躺" },
+      { "key": "B", "text": "止痛" },
+      { "key": "C", "text": "使用鎮定劑" },
+      { "key": "D", "text": "腦脊髓液引流" }
+    ],
+    "answer": "A",
+    "explanation": "平躺通常不利於頸靜脈回流，無法有效降低 ICP；標準作法反而是頭抬高約 30 度並保持頸部中立位。\n\n(B) 疼痛會增加交感活性與血壓波動，可能提高 ICP；適當止痛可幫助控制 ICP。\n(C) 鎮定可降低代謝需求、減少躁動與咳嗽/用力，常用於 ICP 控制。\n(D) CSF 引流是直接有效的降 ICP 方式。"
+  },
+  {
+    "id": "MED_05_01_ICP_Q0006",
+    "stem": "60 歲病人早上起床後發現左側無力，隔日因意識不清送急診；急診時右側瞳孔放大且無反射，電腦斷層如圖。下列何項處置對病人並無幫助？",
+    "options": [
+      { "key": "A", "text": "給予 mannitol" },
+      { "key": "B", "text": "施打靜脈血栓溶解劑（intravenous tissue plasminogen activator）" },
+      { "key": "C", "text": "氣管內管插管並給予過度換氣（hyperventilation）" },
+      { "key": "D", "text": "施行顱骨切除術（craniectomy）" }
+    ],
+    "answer": "B",
+    "explanation": "題幹重點是已出現顱內壓升高/腦疝危象線索（意識惡化 + 右側瞳孔放大無反射），影像亦屬出血/巨大占位效應情境；此時 tPA 不但無助於降 ICP，且若為出血性病灶會明顯增加出血風險，屬不當處置。\n\n(A) mannitol 可作為急救性降 ICP（同時要監測血壓、滲透壓與腎功能）。\n(C) 插管確保氧合與通氣，短暫過度換氣可作為橋接措施（避免把 PaCO2 壓到過低，重點是短期）。\n(D) 減壓性顱骨切除在合適病人可降低 ICP、作為 definitive management。\n\n考點：看到腦疝線索時，優先是 ABC + 迅速降 ICP 的橋接手段與神外 definitive treatment；溶栓不會解決占位效應，且出血時更危險。"
   }
+
 
   
 
