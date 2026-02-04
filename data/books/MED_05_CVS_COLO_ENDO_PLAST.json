@@ -2302,11 +2302,63 @@
     ],
     "answer": "A",
     "explanation": "承上題診斷為「憩室出血」，其治療核心是止血與循環穩定：\n- 先 resuscitation（輸液/輸血、矯正凝血、監測 hemodynamics）\n- 大腸鏡找出出血點並內視鏡止血（clipping、injection、thermal 等）\n- 若內視鏡失敗或定位困難且出血持續，可做血管攝影（angiography）並栓塞\n- 仍無法控制或反覆大出血，才考慮外科切除（segmental colectomy，需盡量定位出血段）\n\n抗生素（A）不是憩室「出血」的常規治療；抗生素是用於「憩室炎（diverticulitis）」的感染/發炎處置，兩者概念需分清。"
+  },
+
+
+
+  {
+    "id": "CRS_CRC_D_Q001",
+    "stem": "有關大腸 pseudo-obstruction（acute colonic pseudo-obstruction）的描述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "又稱為 Ogilvie’s syndrome，是在西元 1948 被提出的診斷" },
+      { "key": "B", "text": "臨床上常見的大腸 pseudo-obstruction 原因以 secondary 為主，主要和合併使用嗎啡類止痛藥、甲狀腺機能異常、糖尿病、腎毒症等因素有關" },
+      { "key": "C", "text": "治療方式可以考慮利用大腸鏡做診斷和減壓，不過要小心慎選病患，若懷疑大腸壞死就不可以施行" },
+      { "key": "D", "text": "藥物治療可以考慮 neostigmine，不過要小心病患施打藥物後會有 bradycardia，需要仔細觀察心率變化，和準備 dopamine 作為緊急解毒劑" }
+    ],
+    "answer": "D",
+    "explanation": "本題在考「Ogilvie syndrome（acute colonic pseudo-obstruction, ACPO）」的典型治療與用藥安全。\n\n(A) 正確：Ogilvie syndrome 由 Sir Heneage Ogilvie 於 1948 年描述。\n(B) 正確（概念題）：ACPO 多為 secondary（嚴重內外科疾病、手術後/創傷、感染、心肺疾病、電解質異常、代謝/內分泌問題）與藥物相關（特別是 opioid、抗膽鹼、CCB 等）。題幹列的嗎啡類、甲狀腺功能異常、糖尿病、自主神經/代謝問題、腎衰竭等，方向合理。\n(C) 正確：內視鏡（多為 flexible sigmoidoscopy/colonoscopy）減壓是重要非手術介入選項之一，但若懷疑缺血、壞死、穿孔或有腹膜炎，內視鏡減壓會增加風險，應避免並改採外科評估。\n\n(D) 錯誤關鍵：neostigmine 的主要嚴重副作用是 bradycardia（甚至 AV block）、支氣管痙攣等，因此需要心電監測與床邊急救準備；但「緊急解毒/拮抗」應準備的是 atropine（抗膽鹼藥）用於對抗顯著迷走性 bradycardia，而不是 dopamine。\n\n延伸整理（高鑑別點）：\n1) 診斷要先排除 mechanical obstruction（影像/CT 評估；ACPO 典型是整段結腸擴張、無明確阻塞點）。\n2) 初期保守：NPO、NG/rectal tube、停用誘發藥物（opioid/anticholinergic）、矯正 K/Mg/Ca、補液、鼓勵下床。\n3) 介入時機常以 cecal diameter 與病程判斷：盲腸擴張越大、持續越久，缺血/穿孔風險越高（臨床常用門檻如 ≥10–12 cm 或 >6 天未改善等作為升級治療參考）。\n4) neostigmine：典型用於保守治療失敗且無穿孔/缺血者；給藥需監測心跳、血壓，床邊備 atropine。"
+  },
+
+
+
+  {
+    "id": "CRS_CRC_WU_Q001",
+    "stem": "病患接受腹主動脈瘤修補手術後 3 天發生左下腹痛、血便，其最可能原因為何？",
+    "options": [
+      { "key": "A", "text": "偽膜性腸炎（pseudomembranous colitis）" },
+      { "key": "B", "text": "潰瘍性腸炎（ulcerative colitis）" },
+      { "key": "C", "text": "結腸憩室炎（diverticulitis）" },
+      { "key": "D", "text": "缺血性腸炎（ischemic colitis）" }
+    ],
+    "answer": "D",
+    "explanation": "關鍵線索是「腹主動脈瘤（AAA）修補術後不久 + 左下腹痛 + 血便」。AAA repair（尤其需要夾閉/重建下腸繫膜動脈 IMA 或影響髂動脈血流者）可能造成左側結腸灌流下降，最典型受影響區域為 splenic flexure（Griffith’s point）與 rectosigmoid junction（Sudeck’s point）等水分界區，臨床常表現為左側腹痛、急性血便/血性腹瀉。\n\n(A) 偽膜性腸炎通常與抗生素使用後的 C. difficile 相關，症狀以水樣腹瀉、腹痛、發燒、白血球上升為主；雖也可有血便但「AAA repair 後左側缺血」更具指向性。\n(B) 潰瘍性腸炎多為慢性反覆病程，較少在術後第 3 天突然首次出現。\n(C) 憩室炎多以左下腹痛、發燒、白血球上升為主，若有出血通常是「憩室出血」而非典型的憩室炎病程；且與 AAA 手術的關聯性不如缺血性腸炎。\n\n延伸（高分辨點）：\n1) 影像/內視鏡：CT 可能見到結腸壁增厚、黏膜下水腫（thumbprinting）、周邊脂肪發炎；內視鏡可見黏膜脆弱、出血、紫絳色改變或潰瘍。\n2) 嚴重度：若進展為壞死/穿孔，會出現持續劇痛、腹膜炎、代謝性酸中毒/乳酸上升，需緊急外科處置。"
+  },
+  {
+    "id": "CRS_CRC_WU_Q002",
+    "stem": "關於糞便潛血（fecal occult blood testing, FOBT）的敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "對沒有危險因子的民眾是很好的大腸直腸癌篩檢工具" },
+      { "key": "B", "text": "藉由免疫反應檢測的糞便潛血其專一性較氧化還原法的糞便潛血檢測為高" },
+      { "key": "C", "text": "因為血球蛋白會在上消化道被破壞，所以免疫反應檢測的糞便潛血是來自於大腸或直腸的出血" },
+      { "key": "D", "text": "糞便潛血檢驗前三天都必須要避免紅肉的攝取" }
+    ],
+    "answer": "D",
+    "explanation": "FOBT 主要分為兩類：\n1) guaiac-based FOBT（gFOBT，化學法）：偵測 heme 的類過氧化酶活性（氧化還原反應），容易受飲食（紅肉、某些蔬果含過氧化酶活性）與藥物影響，傳統上常建議檢前飲食限制。\n2) fecal immunochemical test（FIT，免疫法）：以抗體偵測「人類血紅蛋白 globin」成分，對下消化道出血更敏感、特異性更高，且不受紅肉/植物過氧化酶干擾，通常不需要飲食限制。\n\n因此 (D) 把「gFOBT 可能需要的飲食限制」一概套用到 FOBT（尤其現行多用 FIT）屬於錯誤敘述。\n\n(A) 正確：對一般風險族群，FOBT/FIT 是常用且有效的 CRC 篩檢工具之一。\n(B) 正確：FIT 因為是偵測人類 Hb，較不受飲食/非人類 heme 干擾，特異性通常優於 gFOBT。\n(C) 大方向正確：globin 在上消化道較容易被消化分解，因此 FIT 陽性較偏向下消化道（結腸/直腸）出血來源；但臨床上仍需注意少數情境（快速通過、非常大量上消化道出血等）可能影響判讀，所以不是「絕對只」代表下消化道。\n\n臨床連結：FOBT/FIT 陽性後的標準下一步通常是安排大腸鏡以定位與處理病灶，而不是重複做 FOBT 來“確認”。"
+  },
+  {
+    "id": "CRS_CRC_WU_Q003",
+    "stem": "關於下消化道出血（LGI bleeding）的敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "治療下消化道出血的首要目標是穩定心跳及血壓" },
+      { "key": "B", "text": "當患者的生命徵象穩定時，應該找出出血位置" },
+      { "key": "C", "text": "手術是拯救患者唯一的治療方法" },
+      { "key": "D", "text": "血管攝影（angiography）可以用於尋找出血位置及治療" }
+    ],
+    "answer": "C",
+    "explanation": "下消化道出血的處置核心是「先 resuscitation，再定位與止血」，手術並非唯一手段，因此 (C) 錯。\n\n(A) 正確：任何 GI bleeding 的第一步都是 ABC 與 hemodynamic stabilization（輸液、輸血、糾正凝血異常、停/調整抗凝抗血小板需依情境評估）。\n(B) 正確：生命徵象穩定後，才進行診斷定位（最常見是大腸鏡；也可能用 CTA、核醫 RBC scan 等依院內資源與出血速度選擇）。\n(D) 正確：angiography 可用來定位活動性出血，並可行栓塞（embolization）達到治療效果，常用於持續大量出血或內視鏡難以控制/無法完成者。\n\n補充（實務鑑別點）：\n1) 大腸鏡：穩定且可做腸道準備時，能同時診斷與治療（夾閉、電燒、注射、止血粉等）。\n2) CTA：快速、非侵入，對活動性出血定位很有價值，也可引導後續血管介入。\n3) 手術：通常保留給（a）持續大量出血且內視鏡/介入止血失敗，（b）合併穿孔/缺血壞死等需要外科處置的情境；且理想狀態下要先定位出血段落以避免盲目次全結腸切除。"
   }
 
-
-
-
+  
 
 
 ]
