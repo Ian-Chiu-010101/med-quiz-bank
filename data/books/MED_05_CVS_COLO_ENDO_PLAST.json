@@ -920,6 +920,516 @@
     ],
     "answer": "B",
     "explanation": "TGA 的生理下，左心室長期面對低阻力的肺循環，若拖久左心室會去適應化（LV deconditioning）而無法在 switch 後立刻承擔高阻力體循環，增加術後低心輸出風險。因此需在出生後早期（約 1–2 週內最佳，最遲多不超過 6 週）完成 arterial switch。此題常搭配考：若延遲太久，可能需先做 LV training（如 PA banding）再 switch（依中心策略）。"
+  },
+
+  
+  {
+    "id": "MED3_CTS_VHD_WU_Q0001",
+    "stem": "對於心臟瓣膜之選擇與敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "一般而言，大於 65 歲之主動脈瓣或大於 70 歲之二尖瓣，偏向選擇使用生物性瓣膜" },
+      { "key": "B", "text": "在機械瓣膜置換後，要使用 prothrombin time (PT) / international normalized ratio (INR) 來監控" },
+      { "key": "C", "text": "Ross 手術是將肺動脈瓣取下放到主動脈位置取代主動脈瓣，因不用使用抗凝血劑，特別適合於年老病人" },
+      { "key": "D", "text": "雖然新型的抗凝血劑（novel oral anticoagulant, NOAC）問世，如 dabigatran、rivaroxaban，仍不建議使用於機械性瓣膜病患" }
+    ],
+    "answer": "C",
+    "explanation": "Ross（肺動脈瓣自體移植）可避免終身抗凝的優點主要適用於年輕患者（血流動力學佳、可隨生長/長期表現較佳），對高齡者通常不是「特別適合」的選擇（手術複雜、右心流出道也需重建，整體風險/效益不利）。A/B/D 皆為臨床常用原則：高齡偏生物瓣；機械瓣需以 PT/INR 監測 warfarin；DOAC/NOAC 不建議用於機械瓣。"
+  },
+  {
+    "id": "MED3_CTS_VHD_WU_Q0002",
+    "stem": "關於二尖瓣閉鎖不全，下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "可能原因包含 myxomatous degeneration、rheumatic heart disease、infective endocarditis 等" },
+      { "key": "B", "text": "聽診聽到的心雜音為 pan-diastolic murmur" },
+      { "key": "C", "text": "慢性的二尖瓣閉鎖不全，左心室會透過代償進行重塑，因此病人可能會沒有症狀" },
+      { "key": "D", "text": "胸部 X 光可能發現病人有肺水腫及左心房擴大" }
+    ],
+    "answer": "B",
+    "explanation": "二尖瓣閉鎖不全（MR）典型雜音為全收縮期（holosystolic/pansystolic）心雜音，常於心尖區最明顯並可放射至左腋下；pan-diastolic murmur 不是 MR 的典型描述。A/C/D 皆合理：病因多元；慢性 MR 可一段時間代償無症狀；影像可見左心房擴大與肺鬱血/肺水腫（尤其失代償時）。"
+  },
+  {
+    "id": "MED3_CTS_VHD_WU_Q0003",
+    "stem": "一個 8 個月大的男嬰，因主動脈瓣狹窄（aortic stenosis）診斷入院，因呼吸喘而插管，左心室到主動脈壓力差為 60 mmHg，下列建議之治療方式何者最不適合？",
+    "options": [
+      { "key": "A", "text": "氣球擴張術（balloon valvuloplasty）" },
+      { "key": "B", "text": "直視下主動脈瓣膜切開術（surgical valvotomy）" },
+      { "key": "C", "text": "機械瓣膜置換術（mechanical valve replacement）" },
+      { "key": "D", "text": "肺動脈瓣轉至主動脈之手術（Ross procedure）" }
+    ],
+    "answer": "C",
+    "explanation": "嬰幼兒重度主動脈瓣狹窄多以 balloon valvuloplasty 為第一線；若解剖或效果不佳可考慮手術 valvotomy。8 個月大嬰兒直接做機械瓣置換通常最不理想：瓣膜尺寸固定、無法隨生長調整，且需終身抗凝，對嬰兒出血與藥物管理風險高。Ross 可能作為特定兒童/青少年族群的長期策略之一。"
+  },
+  {
+    "id": "MED3_CTS_VHD_WU_Q0004",
+    "stem": "有關主動脈瓣置換手術的適應症，下列何者最不適當？",
+    "options": [
+      { "key": "A", "text": "有症狀的嚴重主動脈瓣狹窄之病人，可進行主動脈瓣置換手術" },
+      { "key": "B", "text": "中度主動脈瓣狹窄（moderate aortic stenosis）合併冠狀動脈阻塞需進行繞道手術之病人，可進行主動脈瓣置換手術" },
+      { "key": "C", "text": "無症狀的嚴重主動脈瓣狹窄合併左心室收縮功能 < 50% 之病人，可進行主動脈瓣置換手術" },
+      { "key": "D", "text": "為預防猝死，在無症狀的嚴重主動脈瓣狹窄之病人，可進行主動脈瓣置換手術" }
+    ],
+    "answer": "D",
+    "explanation": "嚴重 AS 介入的核心是症狀、左心室功能惡化（如 EF 降低）、或其他高風險指標/合併手術需求；不會把 AVR 當作單純「預防猝死」的普遍工具而一律施行。A/C 為典型適應症方向；B 在需 CABG 的情境下合併處理瓣膜屬常見策略。"
+  },
+  {
+    "id": "MED3_CTS_VHD_WU_Q0005",
+    "stem": "下列對瓣膜（主動脈瓣或二尖瓣）置換之敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "置換機械性瓣膜（mechanical valve）之患者，一般建議需終身使用抗凝血藥物（warfarin）" },
+      { "key": "B", "text": "機械性瓣膜（mechanical valve）比生物組織性瓣膜（bioprosthetic valve）有較長之使用期限" },
+      { "key": "C", "text": "置換生物組織性瓣膜（bioprosthetic valve）之患者，建議術後 3 個月內必須使用抗凝血藥物（warfarin）" },
+      { "key": "D", "text": "因生物組織性瓣膜（bioprosthetic valve）多從牛或豬等動物取得，術後必須終身使用抗排斥藥物（immunosuppressants），以免發生排斥現象" }
+    ],
+    "answer": "D",
+    "explanation": "生物組織瓣為經處理之異種組織，不需要像器官移植一樣終身免疫抑制。生物瓣主要缺點是耐久性較差（常見 10–20 年退化需再介入）。A/B 為正確概念；C 描述的是「術後早期需抗栓/抗凝一段時間」的常見做法（實務上仍會依瓣膜位置與個案風險調整）。"
+  },
+  {
+    "id": "MED3_CTS_VHD_WU_Q0006",
+    "stem": "下列何者不是嚴重主動脈瓣閉鎖不全（severe aortic insufficiency）之手術適應症？",
+    "options": [
+      { "key": "A", "text": "急性嚴重主動脈瓣閉鎖不全（acute severe aortic insufficiency）併有休克之病患" },
+      { "key": "B", "text": "有症狀之慢性嚴重主動脈瓣閉鎖不全（chronic severe aortic insufficiency），不論有無心臟功能不全" },
+      { "key": "C", "text": "無症狀之慢性嚴重主動脈瓣閉鎖不全（chronic severe aortic insufficiency），且左心室末期收縮直徑（LVESD）30mm 之病患" },
+      { "key": "D", "text": "無症狀之慢性嚴重主動脈瓣閉鎖不全（chronic severe aortic insufficiency），且有左心室功能不全，左心室射出率低於 50%" }
+    ],
+    "answer": "C",
+    "explanation": "嚴重 AR 手術指標常見為：急性嚴重 AR（尤其血流動力不穩）、慢性嚴重 AR 有症狀、或無症狀但 EF 下降（常用 <50%）與/或 LV 擴大達門檻（LVESD 多用 >50–55mm 或 indexed 門檻；LVEDD 多用 >65–70mm）。LVESD 30mm 太小，不構成手術指標，因此 C 不是適應症。"
+  },
+  {
+    "id": "MED3_CTS_VHD_WU_Q0007",
+    "stem": "68 歲農婦因右手輕微無力伴隨下肢輕微水腫來診，經診斷為二尖瓣狹窄（mitral stenosis），超音波顯示為心房顫動（atrial fibrillation）且瓣膜開口為 1.35 cm²，過去有右側膿胸且經開胸治療之病史，下列敘述或處置何者正確？\n① 中風之故，不應給與抗凝血劑，如 warfarin\n② 應建議進行心導管檢查\n③ 進行瓣膜手術，且可同時進行迷宮手術（Cox-Maze procedure）\n④ 可選擇胸腔鏡或小傷口內視鏡進行手術",
+    "options": [
+      { "key": "A", "text": "僅①④" },
+      { "key": "B", "text": "②③④" },
+      { "key": "C", "text": "①②③" },
+      { "key": "D", "text": "僅②③" }
+    ],
+    "answer": "D",
+    "explanation": "①錯：AF 合併中風史是口服抗凝（warfarin）強適應症。②對：心導管可進一步評估二尖瓣壓差、肺動脈壓、合併冠心病等術前資訊。③對：若進行瓣膜手術，合併 AF 常可一併考慮 Maze（依個案）。④錯：既往右側膿胸且開胸治療常造成嚴重胸膜沾黏，使右胸微創/胸腔鏡途徑風險高或成為禁忌。"
+  },
+  {
+    "id": "MED3_CTS_VHD_WU_Q0008",
+    "stem": "有關心臟瓣膜手術後，服用抗凝血劑（warfarin）下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "機械性瓣膜（mechanical valve）置換後，建議需長期服用抗凝血劑" },
+      { "key": "B", "text": "作用於凝血瀑狀途徑（coagulation cascade factor II, VII, IX, X）" },
+      { "key": "C", "text": "可以經凝血酶原時間（prothrombin time）或國際標準化比值（international normalized ratio, INR）監測，追蹤調整使用劑量" },
+      { "key": "D", "text": "機械性瓣膜（mechanical valve）置換後，調整藥物劑量使國際標準化比值（INR）於正常值即可" }
+    ],
+    "answer": "D",
+    "explanation": "機械瓣需將 INR 維持在高於正常的治療目標範圍（依瓣膜位置/型式與個人風險而定；二尖瓣機械瓣通常需要較高目標）。因此「INR 於正常值即可」錯。A/B/C 皆為正確概念：機械瓣需長期 warfarin；warfarin 影響維生素 K 依賴凝血因子（II、VII、IX、X）；以 PT/INR 監測調整劑量。"
+  },
+  {
+    "id": "MED3_CTS_VHD_WU_Q0009",
+    "stem": "有關嚴重二尖瓣膜逆流（severe mitral regurgitation）之敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "在急性嚴重二尖瓣膜逆流併心臟衰竭時，應考慮提早接受手術治療" },
+      { "key": "B", "text": "在有症狀之慢性原發性嚴重二尖瓣膜逆流（primary mitral regurgitation）之病患，藥物治療只能改善症狀，無法改變長期預後" },
+      { "key": "C", "text": "慢性原發性嚴重二尖瓣膜逆流（primary mitral regurgitation）之外科治療，以長期預後而言，瓣膜置換優於瓣膜修補" },
+      { "key": "D", "text": "對於功能性嚴重二尖瓣膜逆流（functional mitral regurgitation），因屬於左心室功能問題，即使接受外科瓣膜手術後，其預後仍然比原發性二尖瓣膜逆流手術後結果差" }
+    ],
+    "answer": "C",
+    "explanation": "慢性原發性 MR 若可行高品質瓣膜修補（repair），通常在保留左室功能、降低人工瓣相關併發症（血栓、感染、結構退化等）方面更有利，長期結果多數情境下優於置換。A/B/D 的方向合理：急性重度 MR 併血流動力不穩/心衰竭常需早期手術；慢性原發性 MR 的藥物多為症狀治療；功能性 MR 本質為左室疾病，術後預後常受左室功能限制。"
+  },
+  {
+    "id": "MED3_CTS_VHD_WU_Q0010",
+    "stem": "有關二尖瓣嚴重狹窄（severe mitral stenosis）之治療，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "有無徵狀的嚴重二尖瓣狹窄（mitral stenosis）都應該接受介入性的手術治療" },
+      { "key": "B", "text": "嚴重的二尖瓣狹窄大都以風濕性心臟病（rheumatic heart disease）為主" },
+      { "key": "C", "text": "利用體外循環之下行二尖瓣膜連合處切開術（open mitral commissurotomy, OMC）是手術選項之一" },
+      { "key": "D", "text": "當無法實行二尖瓣膜連合處切開術時，二尖瓣膜置換手術（mitral valve replacement）也是外科治療選項之一" }
+    ],
+    "answer": "A",
+    "explanation": "無症狀嚴重 MS 並非一律需要介入；是否介入取決於肺高壓、AF、新發栓塞風險、運動測試誘發症狀、瓣膜形態是否適合經皮球囊等因素。B/C/D 皆為合理敘述：嚴重 MS 多為風濕性；OMC 為外科選項；不適合/失敗時可考慮瓣膜置換。"
+  },
+  {
+    "id": "MED3_CTS_VHD_WU_Q0011",
+    "stem": "下列關於心臟瓣膜置換手術中，置換瓣膜（prosthetic valve）的選擇，何者正確？\n① 計畫生育之年輕女性患者可選擇機械型瓣膜（mechanical prosthesis）\n② 年齡大於 70 歲患者可選擇生物組織型瓣膜（bioprosthesis）\n③ 血友病患者可選擇機械型瓣膜\n④ 尿毒症患者且須長期血液透析，可選擇組織型瓣膜",
+    "options": [
+      { "key": "A", "text": "①②③" },
+      { "key": "B", "text": "僅①③" },
+      { "key": "C", "text": "②④" },
+      { "key": "D", "text": "僅④" }
+    ],
+    "answer": "C",
+    "explanation": "①錯：機械瓣需終身抗凝，對計畫懷孕者（胎兒暴露、產後出血與抗凝管理）通常不利。②對：高齡者常偏向生物瓣以避免終身抗凝。③錯：血友病出血風險高，機械瓣終身抗凝更不利。④對：長期透析者瓣膜選擇需個別化，但組織瓣為可行選項之一（需綜合出血/血栓與透析通路等風險評估）。"
+  },
+  {
+    "id": "MED3_CTS_VHD_WU_Q0012",
+    "stem": "有關主動脈瓣膜置換的手術適應症，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "一旦有症狀且合併嚴重主動脈瓣膜逆流，需要手術" },
+      { "key": "B", "text": "無症狀但合併嚴重主動脈瓣膜逆流及左心室射出比率 < 50%，需要手術" },
+      { "key": "C", "text": "嚴重主動脈瓣膜逆流且合併三條冠狀動脈疾病，需要手術" },
+      { "key": "D", "text": "無症狀但合併主動脈瓣膜逆流、左心室射出比率 > 50% 及 end-diastolic dimention < 70 mm，需要手術" }
+    ],
+    "answer": "D",
+    "explanation": "嚴重 AR 介入常見指標包含：有症狀、EF <50%、或 LV 擴大達門檻（如 LVEDD >70mm 等），或需合併其他心臟手術（如 CABG）時一併處理。EF >50% 且 LVEDD <70mm 通常不構成手術指標，因此 D 錯。"
+  },
+  {
+    "id": "MED3_CTS_VHD_WU_Q0013",
+    "stem": "下列關於心臟瓣膜疾病，何者正確？\n① 暈厥（syncope）為重度主動脈瓣狹窄之手術適應症之一\n② 僧帽瓣修補術可用於擴張型心肌症（dilated cardiomyopathy）患者的手術治療\n③ 心臟移植手術可用於心臟瓣膜疾病的手術治療\n④ 僧帽瓣修補的手術死亡率比僧帽瓣置換術的手術死亡率高",
+    "options": [
+      { "key": "A", "text": "①②③" },
+      { "key": "B", "text": "僅①③" },
+      { "key": "C", "text": "②④" },
+      { "key": "D", "text": "僅④" }
+    ],
+    "answer": "A",
+    "explanation": "①對：重度 AS 的典型症狀（angina、syncope、dyspnea/heart failure）為重要介入指標。②對：擴張型心肌症常合併功能性 MR，可在適當病人選擇下考慮修補/環縮等策略作為整體治療之一環。③對：瓣膜病若進展至末期心衰竭且無法以一般外科/介入控制，心臟移植可作為終末期治療選項。④錯：在可修補情境下，修補通常不會比置換有更高的手術死亡率，且常可保留左室功能並降低部分長期併發症。"
+  },
+  {
+    "id": "MED3_CTS_VHD_WU_Q0014",
+    "stem": "70 歲男性，機械性人工二尖瓣膜置換手術後，術後三小時，胸腔引流管之流量逐漸減少，但是中心靜脈壓逐漸上升，尿量逐漸減少，心跳逐漸加快，動脈壓逐漸下降。此時要鑑別診斷是心包填塞（cardiac tamponade）或是術後心臟失能（myocardial dysfunction），最好的診斷工具為下列何者？",
+    "options": [
+      { "key": "A", "text": "心臟超音波" },
+      { "key": "B", "text": "胸部 X 光" },
+      { "key": "C", "text": "胸動脈導管（swan ganz catheter）" },
+      { "key": "D", "text": "動脈血氣體分析" }
+    ],
+    "answer": "A",
+    "explanation": "術後引流量下降合併 CVP 上升、低血壓、少尿與心搏過速，需高度懷疑心包填塞。床邊心臟超音波可快速直接評估心包積液、右心腔塌陷、下腔靜脈擴張與呼吸變異等，最能即時鑑別 tamponade 與 myocardial dysfunction。"
+  },
+  {
+    "id": "MED3_CTS_VHD_WU_Q0015",
+    "stem": "下列病人需要接受二尖瓣膜置換手術，何者建議使用生物組織瓣膜（bioprosthetic tissue valve）？",
+    "options": [
+      { "key": "A", "text": "18 歲的年輕人" },
+      { "key": "B", "text": "40 歲病人合併長期規則洗腎以及高血鈣症" },
+      { "key": "C", "text": "40 歲病人合併慢性心房震顫且長期規則服用抗凝血劑" },
+      { "key": "D", "text": "70 歲病人合併慢性肺氣腫" }
+    ],
+    "answer": "D",
+    "explanation": "生物瓣通常偏向高齡或不適合/不希望終身抗凝者，以降低長期抗凝相關出血與管理負擔。70 歲合併 COPD（慢性肺氣腫）整體上更常偏向生物瓣。A 太年輕（生物瓣退化快）；C 因 AF 已需長期抗凝，機械瓣反而可列入考量；B 透析合併高血鈣可能加速組織瓣鈣化退化，並非最典型「建議生物瓣」情境。"
+  },
+
+
+  {
+    "id": "MED_CHS_WU_Q0001",
+    "unit": "戊-心臟瓣膜疾病",
+    "stem": "對於心臟瓣膜之選擇與敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "一般而言，大於 65 歲之主動脈瓣或大於 70 歲之二尖瓣，偏向選擇使用生物性瓣膜" },
+      { "key": "B", "text": "在機械瓣膜置換後，要使用 prothrombin time (PT)/international normalized ratio (INR) 來監控" },
+      { "key": "C", "text": "Ross 手術是將肺動脈瓣取下放到主動脈位置取代主動脈瓣，因不用使用抗凝血劑，特別適合於年老人" },
+      { "key": "D", "text": "雖然新型口服抗凝血劑（NOAC，如 dabigatran、rivaroxaban）問世，仍不建議使用於機械性瓣膜病患" }
+    ],
+    "answer": "C",
+    "explanation": "Ross 手術以自體肺動脈瓣（autograft）取代主動脈瓣，較常考點為「較適合年輕病人／兒童或年輕成人」，並非特別適合高齡者；高齡者常因瓣膜退化、再手術風險等因素而不優先選 Ross。A、B、D 為常見原則：高齡較偏生物瓣、機械瓣需以 INR 監測 warfarin、NOAC 不建議用於機械瓣。"
+  },
+  {
+    "id": "MED_CHS_WU_Q0002",
+    "unit": "戊-心臟瓣膜疾病",
+    "stem": "關於二尖瓣閉鎖不全（mitral regurgitation, MR），下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "可能原因包含 myxomatous degeneration、rheumatic heart disease、infective endocarditis 等" },
+      { "key": "B", "text": "聽診聽到的心雜音為 pan-diastolic murmur" },
+      { "key": "C", "text": "慢性的二尖瓣閉鎖不全，左心室會透過代償進行重塑，因此病人可能會沒有症狀" },
+      { "key": "D", "text": "胸部 X 光可能發現病人有肺水腫及左心房擴大" }
+    ],
+    "answer": "B",
+    "explanation": "MR 的典型雜音為心尖區 holosystolic（pansystolic）murmur，常放射至左腋下；pan-diastolic murmur 常見於某些舒張期雜音（如主動脈逆流或三尖瓣狹窄等考法），不符合典型 MR。"
+  },
+  {
+    "id": "MED_CHS_WU_Q0003",
+    "unit": "戊-心臟瓣膜疾病",
+    "stem": "一個 8 個月大的男嬰，因主動脈瓣狹窄（aortic stenosis）診斷入院，因呼吸喘而插管，左心室到主動脈壓力差為 60 mmHg，下列建議之治療方式何者最不適合？",
+    "options": [
+      { "key": "A", "text": "氣球擴張術（balloon valvuloplasty）" },
+      { "key": "B", "text": "直視下主動脈瓣膜切開術（surgical valvotomy）" },
+      { "key": "C", "text": "機械瓣膜置換術（mechanical valve replacement）" },
+      { "key": "D", "text": "肺動脈瓣轉至主動脈之手術（Ross procedure）" }
+    ],
+    "answer": "C",
+    "explanation": "嬰幼兒/兒童的瓣膜治療通常優先考慮保留/修補（如 balloon valvuloplasty、valvotomy）或可隨生長的策略（Ross 可作為選項之一）。機械瓣膜於嬰幼兒不理想：尺寸與生長不匹配、終身抗凝血管理困難且出血風險高。"
+  },
+  {
+    "id": "MED_CHS_WU_Q0004",
+    "unit": "戊-心臟瓣膜疾病",
+    "stem": "有關主動脈瓣置換手術的適應症，下列何者最不適當？",
+    "options": [
+      { "key": "A", "text": "有症狀的嚴重主動脈瓣狹窄之病人，可進行主動脈瓣置換手術" },
+      { "key": "B", "text": "中度主動脈瓣狹窄（moderate aortic stenosis）合併冠狀動脈阻塞需進行繞道手術之病人，可進行主動脈瓣置換手術" },
+      { "key": "C", "text": "無症狀的嚴重主動脈瓣狹窄合併左心室收縮功能 < 50% 之病人，可進行主動脈瓣置換手術" },
+      { "key": "D", "text": "為預防猝死，在無症狀的嚴重主動脈瓣狹窄之病人，可進行主動脈瓣置換手術" }
+    ],
+    "answer": "D",
+    "explanation": "無症狀嚴重 AS 的手術指標通常不以「單純預防猝死」作為泛化理由，而是看高風險特徵（如 EF 降低、運動測試誘發症狀/血壓反應異常、非常高壓差/速度、快速進展等）。C 屬經典指標；B 常見考點為合併其他心臟手術時可同時處理瓣膜。"
+  },
+  {
+    "id": "MED_CHS_WU_Q0005",
+    "unit": "戊-心臟瓣膜疾病",
+    "stem": "下列對瓣膜（主動脈瓣或二尖瓣）置換之敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "置換機械性瓣膜（mechanical valve）之患者，一般建議需終身使用抗凝血藥物（warfarin）" },
+      { "key": "B", "text": "機械性瓣膜（mechanical valve）比生物組織性瓣膜（bioprosthetic valve）有較長之使用期限" },
+      { "key": "C", "text": "置換生物組織性瓣膜（bioprosthetic valve）之患者，臨床上常建議術後一段期間（如 3 個月內）使用抗凝血治療（依位置/風險而定）" },
+      { "key": "D", "text": "因生物組織性瓣膜多從牛或豬等動物取得，術後必須終身使用抗排斥藥物（immunosuppressants），以免發生排斥現象" }
+    ],
+    "answer": "D",
+    "explanation": "生物瓣為去細胞/處理後的異種材料，不需要像器官移植一樣終身免疫抑制；其主要問題是耐久性較差、易隨時間退化鈣化而需再置換。"
+  },
+  {
+    "id": "MED_CHS_WU_Q0006",
+    "unit": "戊-心臟瓣膜疾病",
+    "stem": "下列何者不是嚴重主動脈瓣閉鎖不全（severe aortic insufficiency）的手術適應症？",
+    "options": [
+      { "key": "A", "text": "急性嚴重主動脈瓣閉鎖不全併有休克之病患" },
+      { "key": "B", "text": "有症狀之慢性嚴重主動脈瓣閉鎖不全，不論有無心臟功能不全" },
+      { "key": "C", "text": "無症狀之慢性嚴重主動脈瓣閉鎖不全，且左心室末期收縮直徑（LVESD）30 mm 之病患" },
+      { "key": "D", "text": "無症狀之慢性嚴重主動脈瓣閉鎖不全，且有左心室功能不全（射出率 < 50%）" }
+    ],
+    "answer": "C",
+    "explanation": "慢性嚴重 AR 的手術指標常以症狀、EF 降低、或左心室擴大達門檻（LVESD/LVEDD）作為主要依據。LVESD 30 mm 通常不符合「左心室顯著擴大」的指標，因此不構成手術適應症。"
+  },
+  {
+    "id": "MED_CHS_WU_Q0007",
+    "unit": "戊-心臟瓣膜疾病",
+    "stem": "68 歲農婦因右手輕微無力伴隨下肢輕微水腫來診，診斷為二尖瓣狹窄（mitral stenosis），超音波顯示心房顫動且瓣膜開口為 1.35 cm²，過去有右側膿胸且經開胸治療病史，下列敘述或處置何者正確？\n① 中風之故，不應給與抗凝血劑，如 warfarin\n② 應建議進行心導管檢查\n③ 進行瓣膜手術，且可同時進行迷宮手術（Cox-Maze procedure）\n④ 可選擇胸腔鏡或小傷口內視鏡進行手術",
+    "options": [
+      { "key": "A", "text": "僅 ①④" },
+      { "key": "B", "text": "②③④" },
+      { "key": "C", "text": "①②③" },
+      { "key": "D", "text": "僅 ②③" }
+    ],
+    "answer": "B",
+    "explanation": "MS 合併 AF（且已有中風表現/病史風險）反而是抗凝血的適應症，①錯。術前心導管可用於更完整的血流動力學評估（②對）。瓣膜手術時合併 Maze 可處理 AF（③對）。既往右側膿胸與開胸病史常被考為微創/胸腔鏡路徑的禁忌或相對禁忌（④對）。"
+  },
+  {
+    "id": "MED_CHS_WU_Q0008",
+    "unit": "戊-心臟瓣膜疾病",
+    "stem": "有關心臟瓣膜手術後，服用抗凝血劑（warfarin）下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "機械性瓣膜（mechanical valve）置換後，建議需長期服用抗凝血劑" },
+      { "key": "B", "text": "作用於凝血瀑布途徑（coagulation cascade factor II, VII, IX, X）" },
+      { "key": "C", "text": "可以經凝血酶原時間（prothrombin time）或國際標準化比值（INR）監測，追蹤調整使用劑量" },
+      { "key": "D", "text": "機械性瓣膜（mechanical valve）置換後，調整藥物劑量使 INR 於正常值即可" }
+    ],
+    "answer": "D",
+    "explanation": "機械瓣需維持治療目標 INR（依瓣膜位置/型式與風險而異），通常高於一般「正常值」範圍；因此 D 的敘述錯誤。"
+  },
+  {
+    "id": "MED_CHS_WU_Q0009",
+    "unit": "戊-心臟瓣膜疾病",
+    "stem": "有關嚴重二尖瓣膜逆流（severe mitral regurgitation）之敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "在急性嚴重二尖瓣膜逆流併心臟衰竭時，應考慮提早接受手術治療" },
+      { "key": "B", "text": "在有症狀之慢性原發性嚴重二尖瓣膜逆流（primary MR）之病患，藥物治療只能改善症狀，無法改變長期預後" },
+      { "key": "C", "text": "慢性原發性嚴重二尖瓣膜逆流（primary MR）之外科治療，以長期預後而言，瓣膜置換優於瓣膜修補" },
+      { "key": "D", "text": "對於功能性嚴重二尖瓣膜逆流（functional MR），因屬於左心室功能問題，即使接受外科瓣膜手術後，其預後仍然較原發性 MR 手術後結果差" }
+    ],
+    "answer": "C",
+    "explanation": "慢性原發性 MR 在可行且由有經驗團隊執行時，瓣膜修補（repair）通常較置換（replacement）有較佳長期結果（保留左心室功能、較低血栓/感染風險等），因此 C 錯。"
+  },
+  {
+    "id": "MED_CHS_WU_Q0010",
+    "unit": "戊-心臟瓣膜疾病",
+    "stem": "有關二尖瓣嚴重狹窄（severe mitral stenosis）的治療，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "有無微狀的嚴重二尖瓣狹窄（mitral stenosis）都應該接受介入性的手術治療" },
+      { "key": "B", "text": "嚴重的二尖瓣狹窄大都以風濕性心臟病（rheumatic heart disease）為主" },
+      { "key": "C", "text": "利用體外循環之下行二尖瓣膜連合處切開術（open mitral commissurotomy, OMC）是手術選項之一" },
+      { "key": "D", "text": "當無法實行二尖瓣膜連合處切開術時，二尖瓣膜置換手術（mitral valve replacement）也是外科治療選項之一" }
+    ],
+    "answer": "A",
+    "explanation": "Severe MS 的介入/手術並非「一律」適用於所有無症狀者；是否介入取決於症狀、肺高壓、AF、瓣膜形態是否適合（如是否適合 balloon valvotomy/commissurotomy）、併發症風險等。A 過度絕對。"
+  },
+  {
+    "id": "MED_CHS_WU_Q0011",
+    "unit": "戊-心臟瓣膜疾病",
+    "stem": "下列關於心臟瓣膜置換手術中，置換瓣膜（prosthetic valve）的選擇，何者正確？\n① 計畫生育之年輕女性患者可選擇機械型瓣膜\n② 年齡大於 70 歲患者可選擇生物組織型瓣膜\n③ 血友病患者可選擇機械型瓣膜\n④ 尿毒症患者且須長期血液透析，可選擇組織型瓣膜",
+    "options": [
+      { "key": "A", "text": "①②③" },
+      { "key": "B", "text": "僅 ①③" },
+      { "key": "C", "text": "②④" },
+      { "key": "D", "text": "僅 ④" }
+    ],
+    "answer": "C",
+    "explanation": "機械瓣需終身抗凝血，對計畫懷孕者（母體出血與胎兒風險）及出血體質（如血友病）不利，①③不正確。高齡者常偏好生物瓣以避免長期抗凝血風險，②正確。長期透析者出血風險與臨床考點常偏向組織瓣，④可視為正確。"
+  },
+  {
+    "id": "MED_CHS_WU_Q0012",
+    "unit": "戊-心臟瓣膜疾病",
+    "stem": "有關主動脈瓣膜置換的手術適應症，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "一旦有症狀且合併嚴重主動脈瓣膜逆流，需手術" },
+      { "key": "B", "text": "無症狀但合併嚴重主動脈瓣膜逆流及左心室射出比率 < 50%，需手術" },
+      { "key": "C", "text": "嚴重主動脈瓣膜逆流且合併三條冠狀動脈疾病，需手術" },
+      { "key": "D", "text": "無症狀但合併主動脈瓣膜逆流、左心室射出比率 > 50% 且 end-diastolic dimension < 70 mm，需手術" }
+    ],
+    "answer": "D",
+    "explanation": "慢性嚴重 AR 的無症狀手術指標主要看 EF 下降與左心室擴大達門檻（常考 LVEDD > 70 mm 或 LVESD > 50–55 mm 之類門檻，依版本而異）。D 把門檻寫成「< 70 mm 也要手術」與原則相反，因此錯。"
+  },
+  {
+    "id": "MED_CHS_WU_Q0013",
+    "unit": "戊-心臟瓣膜疾病",
+    "stem": "下列關於心臟瓣膜疾病，何者正確？\n① 暈厥（syncope）為重度主動脈瓣狹窄之手術適應症之一\n② 僧帽瓣修補術可用於擴張性心肌症（dilated cardiomyopathy）患者的手術治療\n③ 心臟移植手術可用於心臟瓣膜疾病的手術治療\n④ 僧帽瓣修補的手術死亡率比僧帽瓣置換術的手術死亡率高",
+    "options": [
+      { "key": "A", "text": "①②③" },
+      { "key": "B", "text": "僅 ①③" },
+      { "key": "C", "text": "②④" },
+      { "key": "D", "text": "僅 ④" }
+    ],
+    "answer": "A",
+    "explanation": "①為經典 AS 症狀（angina/syncope/dyspnea）之一，屬重要介入指標。②功能性 MR 可見於擴張型心肌症，外科修補/環縮可作為治療策略之一（依個案與指引/評估）。③終末期心衰（即使原始病因是瓣膜病）在不可逆/不可矯正時可進入移植範疇。④相反：在合適條件下修補常見到較佳結果與較低風險。"
+  },
+  {
+    "id": "MED_CHS_WU_Q0014",
+    "unit": "戊-心臟瓣膜疾病",
+    "stem": "70 歲男性，機械性人工二尖瓣膜置換手術後，術後三小時，胸腔引流管之流量逐漸減少，但中心靜脈壓逐漸上升，尿量逐漸減少，心跳逐漸加快，動脈壓逐漸下降。此時要鑑別診斷是心包填塞（cardiac tamponade）或是術後心臟失能（myocardial dysfunction），最好的診斷工具為下列何者？",
+    "options": [
+      { "key": "A", "text": "心臟超音波" },
+      { "key": "B", "text": "胸部 X 光" },
+      { "key": "C", "text": "胸動脈導管（Swan-Ganz catheter）" },
+      { "key": "D", "text": "動脈血氣體分析" }
+    ],
+    "answer": "A",
+    "explanation": "急性血流動力學不穩且懷疑心包填塞時，床邊心臟超音波可直接評估心包積液/心腔塌陷與血流變化，是最快且最關鍵的鑑別工具。"
+  },
+  {
+    "id": "MED_CHS_WU_Q0015",
+    "unit": "戊-心臟瓣膜疾病",
+    "stem": "下列病人需要接受二尖瓣瓣膜置換手術，何者建議使用生物組織瓣膜（bioprosthetic tissue valve）？",
+    "options": [
+      { "key": "A", "text": "18 歲的年輕人" },
+      { "key": "B", "text": "40 歲病人合併長期規則洗腎以及高血鈣症" },
+      { "key": "C", "text": "40 歲病人合併慢性心房震顫且長期規則服用抗凝血劑" },
+      { "key": "D", "text": "70 歲病人合併慢性肺氣腫" }
+    ],
+    "answer": "D",
+    "explanation": "瓣膜選擇常考：高齡（例如 ≥65–70 歲）多偏生物瓣以避免長期抗凝血出血風險；年輕者偏機械瓣以降低再手術機率。透析/高血鈣者生物瓣鈣化退化可能更快；AF 長期抗凝血者常可接受機械瓣（若無出血高風險）。因此最典型符合生物瓣的是 70 歲個案。"
+  },
+
+  {
+    "id": "MED_CHS_JI_Q0001",
+    "unit": "己-周邊血管疾病",
+    "stem": "下列何者為目前診斷深層靜脈栓塞（deep vein thrombosis, DVT）最常使用之工具？",
+    "options": [
+      { "key": "A", "text": "杜卜勒超音波（duplex ultrasound）" },
+      { "key": "B", "text": "核磁共振（magnetic resonance venography）" },
+      { "key": "C", "text": "靜脈攝影（venography）" },
+      { "key": "D", "text": "阻抗容積描記術（impedance plethysmography）" }
+    ],
+    "answer": "A",
+    "explanation": "臨床上最常用且首選的 DVT 檢查為 duplex ultrasound（非侵入、可評估壓迫性與血流）。Venography 雖為傳統黃金標準但侵入性高，現多不作第一線。"
+  },
+  {
+    "id": "MED_CHS_JI_Q0002",
+    "unit": "己-周邊血管疾病",
+    "stem": "下列何者為急性肢體缺血（acute ischemic limb）最常見之原因？",
+    "options": [
+      { "key": "A", "text": "頸動脈阻塞" },
+      { "key": "B", "text": "先天性之血管異常" },
+      { "key": "C", "text": "心臟產生之血栓" },
+      { "key": "D", "text": "小洞性腦梗塞（lacunar infarction）" }
+    ],
+    "answer": "C",
+    "explanation": "急性肢體缺血常見因動脈突然阻塞，考點多為「心因性栓塞（cardiac embolism）」（如 AF、瓣膜病、心肌梗塞後血栓等）。"
+  },
+  {
+    "id": "MED_CHS_JI_Q0003",
+    "unit": "己-周邊血管疾病",
+    "stem": "在一些下肢深層靜脈栓塞（deep venous thrombosis, DVT）的病人，須放置下腔靜脈過濾器（IVC filter），但下列何者不需要？",
+    "options": [
+      { "key": "A", "text": "慢性下腔靜脈完全阻塞" },
+      { "key": "B", "text": "有絕對禁忌症無法使用抗凝血劑" },
+      { "key": "C", "text": "在足夠的抗凝血劑劑量下仍復發 DVT" },
+      { "key": "D", "text": "慢性肺栓塞合併肺高壓" }
+    ],
+    "answer": "A",
+    "explanation": "IVC filter 目的在阻擋血栓由下肢靜脈回流至肺循環；慢性 IVC 完全阻塞時，血栓不易再經 IVC 上行，且常已形成側枝循環，因此放置 filter 額外效益低，為「不需要」。"
+  },
+  {
+    "id": "MED_CHS_JI_Q0004",
+    "unit": "己-周邊血管疾病",
+    "stem": "下肢動脈阻塞疾病的 Fontaine 分類，下列何者正確？",
+    "options": [
+      { "key": "A", "text": "組織喪失（tissue loss）為 stage I" },
+      { "key": "B", "text": "壞死（gangrene）為 stage II" },
+      { "key": "C", "text": "ischemic rest pain 為 stage III" },
+      { "key": "D", "text": "claudication 為 stage IV" }
+    ],
+    "answer": "C",
+    "explanation": "Fontaine：I 無症狀；II 間歇性跛行；III 靜息痛；IV 潰瘍/壞疽（組織壞死/壞疽）。因此 C 正確。"
+  },
+  {
+    "id": "MED_CHS_JI_Q0005",
+    "unit": "己-周邊血管疾病",
+    "stem": "65 歲男子，以血管重建術治療急性下肢缺血 2 小時後，下肢發生劇烈疼痛。檢查發現小腿肌肉緊繃，且被動彎曲時產生劇烈疼痛；足部無脈搏，但有杜卜勒訊號（positive ultrasound signal）。關於此病人，下列何種情形最不可能發生？",
+    "options": [
+      { "key": "A", "text": "高血鉀" },
+      { "key": "B", "text": "高血鈣" },
+      { "key": "C", "text": "肌酸磷酸激酶（CK）濃度上升" },
+      { "key": "D", "text": "肌紅蛋白尿（myoglobinuria）" }
+    ],
+    "answer": "B",
+    "explanation": "再灌流/橫紋肌溶解相關代謝異常：高血鉀、CK 上升、肌紅蛋白尿常見；血鈣多為下降（鈣與磷酸鹽沈積等機轉），因此「高血鈣」最不可能。"
+  },
+  {
+    "id": "MED_CHS_JI_Q0006",
+    "unit": "己-周邊血管疾病",
+    "stem": "在一些下肢深層靜脈栓塞（deep venous thrombosis, DVT）的病人，須放置下腔靜脈過濾器（IVC filter），但下列何者不需要？",
+    "options": [
+      { "key": "A", "text": "慢性下腔靜脈完全阻塞" },
+      { "key": "B", "text": "有絕對禁忌症無法使用抗凝血劑" },
+      { "key": "C", "text": "在足夠的抗凝血劑劑量下仍復發 DVT" },
+      { "key": "D", "text": "慢性肺栓塞合併肺高壓" }
+    ],
+    "answer": "A",
+    "explanation": "同題型重複出現：慢性 IVC 完全阻塞時放置 filter 額外效益低；其餘多為常見適應症（抗凝禁忌、治療失敗/復發、慢性 PE 相關高風險族群等考法）。"
+  },
+  {
+    "id": "MED_CHS_JI_Q0007",
+    "unit": "己-周邊血管疾病",
+    "stem": "78 歲男性抽菸且合併高血壓、糖尿病病史，接受都卜勒分段血壓（Doppler segmental pressure）檢查之結果如附圖。則下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "間歇性跛行或潰瘍不適合以右下肢為主" },
+      { "key": "B", "text": "狹窄之可能部位位於左側腸骨動脈或股動脈" },
+      { "key": "C", "text": "雙側下肢血管，左側足背動脈搏觸診較右側微弱" },
+      { "key": "D", "text": "如需進行膝下繞道手術時，以聚四氟乙烯（PTFE）人工血管植入為主" }
+    ],
+    "answer": "D",
+    "explanation": "膝下（infrapopliteal）繞道手術的首選導管通常為自體大隱靜脈（autogenous great saphenous vein）；PTFE 等人工血管於膝下通暢率較差、血栓風險較高，因此 D 錯。"
+  },
+  {
+    "id": "MED_CHS_JI_Q0008",
+    "unit": "己-周邊血管疾病",
+    "stem": "下列情況何者可以暫不考慮放置下腔靜脈過濾器（vena cava filter）？",
+    "options": [
+      { "key": "A", "text": "首次急性之肺動脈栓塞" },
+      { "key": "B", "text": "深部靜脈栓塞，且不適合使用抗凝血劑" },
+      { "key": "C", "text": "深部靜脈栓塞，且有慢性肺栓塞，並已造成肺高壓" },
+      { "key": "D", "text": "在足量之抗凝血劑治療下，仍反覆多次靜脈栓塞" }
+    ],
+    "answer": "A",
+    "explanation": "「暫不考慮」的關鍵多在首次急性 PE：通常先以抗凝血（必要時溶栓/介入）治療並觀察；若有抗凝禁忌或治療失敗等高風險情境，才更傾向考慮 filter。"
+  },
+  {
+    "id": "MED_CHS_JI_Q0009",
+    "unit": "己-周邊血管疾病",
+    "stem": "對周邊血管阻塞的治療，下列何者並不適當？",
+    "options": [
+      { "key": "A", "text": "照光（phototherapy）" },
+      { "key": "B", "text": "控制高血壓，給與乙型阻斷劑" },
+      { "key": "C", "text": "控制糖尿病" },
+      { "key": "D", "text": "以導管方式打通血管" }
+    ],
+    "answer": "A",
+    "explanation": "周邊動脈阻塞治療核心為危險因子控制（血壓、糖尿病、戒菸、抗血小板/降脂等）與血運重建（介入或手術）及運動復健；phototherapy 並非標準治療。"
+  },
+  {
+    "id": "MED_CHS_JI_Q0010",
+    "unit": "己-周邊血管疾病",
+    "stem": "錢女士 65 歲，因胸痛至醫院住院檢查與治療，三天前於病房跌倒致左髖部受傷，因左髖部疼痛而無法行動，昨天左下肢出現疼痛及腫大，Homan’s sign（+）。下列何項治療適當？\n① 同時合併靜脈注射肝素（unfractionated heparin）及口服 warfarin\n② 靜脈注射 80 U/kg 肝素，然後 15–18 U/kg/hour 持續靜脈滴注\n③ 低分子量肝素（LMWH）須於手術前 12–24 小時停用\n④ 靜脈注射 5,000 U 肝素一次即可",
+    "options": [
+      { "key": "A", "text": "①②③" },
+      { "key": "B", "text": "僅 ①③" },
+      { "key": "C", "text": "②④" },
+      { "key": "D", "text": "僅 ④" }
+    ],
+    "answer": "A",
+    "explanation": "疑似急性 DVT 的標準治療可為立即啟動有效抗凝血：UFH 可用體重劑量 bolus 後持續 infusion（②），並與 warfarin 併用重疊一段時間（①）直到 INR 達治療範圍；若需手術，LMWH 通常需術前停用一定時間（③）。單次 5,000 U UFH 多為預防劑量而非治療劑量（④不適當）。"
   }
 
 
