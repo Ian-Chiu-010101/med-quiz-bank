@@ -3747,9 +3747,265 @@
     "explanation": "病人拒絕很可能源於創傷經驗與風險認知偏差。最合宜的是進一步溝通：探索其恐懼與價值、以可理解方式說明阻塞風險與手術/非手術方案、提供心理支持與可行替代（如暫時減壓/造口等視病況）、並確認其決策能力與意願是否穩定。\nB 明顯違反誠信與自主；A/C 若未完成充分溝通與風險釐清，容易導致可避免的嚴重後果。",
     "source": "醫學倫理及其他｜題 22（103二）專醫五-78",
     "tags": ["ethics", "refusal_of_treatment", "communication", "shared_decision_making"]
+  },
+
+
+  {
+    "id": "MED_05_01_ETH_Q0023",
+    "stem": "某癌症病人手術後本來還算穩定，但卻疑似因為護理人員打錯了藥物，導致病人死亡。如果你是主治醫師，最不宜採取下列哪一項措施？",
+    "options": [
+      { "key": "A", "text": "向病人安全委員會通報" },
+      { "key": "B", "text": "通知護理部進行根本原因分析" },
+      { "key": "C", "text": "妥善跟病人家屬解釋及溝通" },
+      { "key": "D", "text": "為保護護理同仁協助掩蓋真相" }
+    ],
+    "answer": "D",
+    "explanation": "此題考「病人安全事件處置」與「誠實揭露」。疑似用藥錯誤造成死亡屬重大不良事件，主治醫師應做的是：依院內程序通報、啟動RCA/病安調查、與家屬進行誠實且同理的溝通與後續安排。協助掩蓋真相違反誠信與專業義務，也會阻礙系統改善、提高再發風險與法律/醫療糾紛風險，因此最不宜。",
+    "source": "醫學倫理及其他｜題 23（103一）專醫五-79",
+    "tags": ["ethics", "patient_safety", "disclosure", "rca"]
+  },
+
+  {
+    "id": "MED_05_01_ENDO_Q0001",
+    "stem": "下列何者不是基本的腹腔鏡手術術式（basic laparoscopic surgical procedures）？",
+    "options": [
+      { "key": "A", "text": "腹腔鏡膽囊切除手術" },
+      { "key": "B", "text": "腹腔鏡子宮切除手術" },
+      { "key": "C", "text": "腹腔鏡疝氣修補手術" },
+      { "key": "D", "text": "腹腔鏡闌尾切除手術" }
+    ],
+    "answer": "B",
+    "explanation": "基本腹腔鏡常見入門術式包含膽囊切除、闌尾切除、腹股溝疝氣修補等。子宮切除屬婦科手術領域且骨盆深部解剖與出血控制要求更高，通常被歸類為進階腹腔鏡術式，因此不屬「基本」。",
+    "source": "內視鏡｜題 1（112二）專醫五-55",
+    "tags": ["endoscopy", "laparoscopy", "basic_procedures"]
+  },
+  {
+    "id": "MED_05_01_ENDO_Q0002",
+    "stem": "外科手術面對懷孕的患者承受複雜的臨床挑戰。下列敘述何者為正確觀念？\n①腹腔鏡輔助手術目前已不再被視為孕婦手術禁忌症\n②腹腔鏡手術的大多數適應症與妊娠無關（如急性闌尾炎、有症狀膽石症、外傷）\n③懷孕期間腹腔鏡的主要風險包含子宮損傷、子宮血流減少、胎兒酸中毒、氣腹壓力升高引起早產\n④腹腔鏡相對剖腹的優點包含較低傷口感染與切口疝氣",
+    "options": [
+      { "key": "A", "text": "僅①②③" },
+      { "key": "B", "text": "僅①②④" },
+      { "key": "C", "text": "僅①②③④" },
+      { "key": "D", "text": "僅②③④" }
+    ],
+    "answer": "C",
+    "explanation": "現代觀念：妊娠並非腹腔鏡的絕對禁忌；在有經驗團隊與妥善麻醉/氣腹壓控制下可安全執行。孕期常見需手術問題多為非妊娠特異（闌尾炎、膽石症等）。主要風險與子宮損傷、子宮灌流/胎兒酸中毒、氣腹壓力與早產相關；腹腔鏡傷口較小，通常可降低傷口感染與切口疝氣風險。因此四項皆正確。",
+    "source": "內視鏡｜題 2（112一）專醫五-53",
+    "tags": ["endoscopy", "laparoscopy", "pregnancy", "perioperative_risk"]
+  },
+  {
+    "id": "MED_05_01_ENDO_Q0003",
+    "stem": "微創手術（minimally invasive surgery）已可用於脾臟切除手術，下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "腹腔鏡脾切除手術是切除脾臟的首選方法，其手術安全性和傳統開腹脾切除手術並無差別" },
+      { "key": "B", "text": "約 90% 患者可完成腹腔鏡脾切除；轉開腹常因術中出血、沾黏、巨大脾腫大、肥胖或經驗不足" },
+      { "key": "C", "text": "腹腔鏡脾切除手術不需要考慮門靜脈高壓的問題" },
+      { "key": "D", "text": "腹腔鏡脾切除手術可在仰臥或側臥等不同體位下進行" }
+    ],
+    "answer": "C",
+    "explanation": "門靜脈高壓（如肝硬化）常伴側枝循環/脾腫大與出血風險上升，會直接影響腹腔鏡脾切除的難度與安全性，必須納入評估與手術規劃，因此「不需要考慮」是錯的。其餘敘述屬常見實務要點：多數病人可成功完成，必要時轉開腹；體位可依手術策略調整。",
+    "source": "內視鏡｜題 3（112一）專醫五-54",
+    "tags": ["endoscopy", "laparoscopy", "splenectomy", "portal_hypertension"]
+  },
+  {
+    "id": "MED_05_01_ENDO_Q0004",
+    "stem": "下列有關腹腔鏡手術的敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "氣體栓塞（air emboli）在腹腔鏡手術中極為罕見" },
+      { "key": "B", "text": "腹腔鏡使用撐開器（lift device）在視野與可操作空間上比氣腹（pneumoperitoneum）更佳" },
+      { "key": "C", "text": "腹腔鏡術後免疫抑制反應通常較傳統開腹手術少" },
+      { "key": "D", "text": "腹腔鏡手術可能引發壓力反應，皮質醇濃度可上升" }
+    ],
+    "answer": "B",
+    "explanation": "腹腔鏡的核心是氣腹（多以 CO₂）建立足夠工作空間與視野；gasless（lift device）可在特定情境使用，但一般不被認為在視野與操作空間上「更佳」。A/C/D 為常見正確概念：氣體栓塞罕見但嚴重；微創通常較低免疫抑制；生理壓力反應與內分泌變化仍可能出現。",
+    "source": "內視鏡｜題 4（112一）專醫五-55",
+    "tags": ["endoscopy", "laparoscopy", "pneumoperitoneum", "complications"]
+  },
+  {
+    "id": "MED_05_01_ENDO_Q0005",
+    "stem": "關於自然孔洞手術（natural orifice transluminal endoscopic surgery, NOTES）的敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "NOTES 在技術上可能較傳統內視鏡手術增加心理壓力且學習曲線較長" },
+      { "key": "B", "text": "經口內視鏡食道肌肉切開術（POEM）可減少腹部創傷並減少對食道胃接合處的破壞" },
+      { "key": "C", "text": "NOTES 可能具有傷口更少、疼痛較少、失能較少等潛在優點" },
+      { "key": "D", "text": "距肛門緣（anal verge）大於 25 cm 的腫瘤仍可藉由經肛門內視鏡手術（TEMS）切除" }
+    ],
+    "answer": "D",
+    "explanation": "TEMS 的適應症通常是較靠近直腸的病灶（常見以距 anal verge 約 20 cm 內作為常考界線），太近端（例如 >25 cm）多不適合以 TEMS 處理。A/B/C 為合理敘述：NOTES/POEM 的微創優勢與技術門檻是常見考點。",
+    "source": "內視鏡｜題 5（111一）專醫五-14",
+    "tags": ["endoscopy", "notes", "poem", "tems"]
+  },
+  {
+    "id": "MED_05_01_ENDO_Q0006",
+    "stem": "有關腹腔鏡闌尾切除手術，下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "年長病患比年輕病患有較高比例改為開腹手術" },
+      { "key": "B", "text": "年長病患比年輕病患有較高手術相關併發症" },
+      { "key": "C", "text": "年長病患比年輕病患有較高的感染相關併發症" },
+      { "key": "D", "text": "年長病患比年輕病患有較高機會發現複雜闌尾炎或其他病理表現" }
+    ],
+    "answer": "C",
+    "explanation": "年長者常見延遲就醫、共病較多、複雜闌尾炎比例較高，因此轉開腹與整體併發症風險較高也較合理（A/B/D）。但「感染相關併發症一定較高」並非穩定結論，題本指向其差異不顯著，故此敘述為錯誤選項。",
+    "source": "內視鏡｜題 6（111一）專醫五-13",
+    "tags": ["endoscopy", "laparoscopic_appendectomy", "geriatrics"]
+  },
+  {
+    "id": "MED_05_01_ENDO_Q0007",
+    "stem": "下列有關單一切口腹腔鏡手術（single-incision laparoscopic surgery, SILS）效益之敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "多通道端口（multichannel port）多置於經肚臍位置，但特定手術亦可採肚臍外途徑" },
+      { "key": "B", "text": "臨床進行單一切口手術時，有時需要增加額外端口（extra ports）" },
+      { "key": "C", "text": "可應用縫合（suture）技巧作為牽引方法以改善暴露" },
+      { "key": "D", "text": "單一切口傷口縫合應使用不可吸收線材進行連續或間斷縫合法" }
+    ],
+    "answer": "D",
+    "explanation": "SILS 的技術重點在於端口配置、器械互相干擾（sword fighting）與牽引技巧（含縫線牽引/吊線）等；必要時加 port 也常見。至於傷口縫合材料並無「一律必須不可吸收線」的硬性規則，臨床更常強調的是筋膜/臍環的確實關閉與降低切口疝氣風險（材料依部位與習慣可用延遲吸收線等）。因此 D 的絕對化敘述為錯。",
+    "source": "內視鏡｜題 7（111二）專醫五-55",
+    "tags": ["endoscopy", "laparoscopy", "sils"]
+  },
+  {
+    "id": "MED_05_01_ENDO_Q0008",
+    "stem": "關於多孔腹腔鏡手術（multi-port laparoscopic surgery）其 port 擺位，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "手術醫師雙手的 trocar 至少相隔 10 cm 為佳" },
+      { "key": "B", "text": "鏡頭 trocar 位於手術醫師雙手間且稍微遠離手術目標為宜" },
+      { "key": "C", "text": "理想狀況下雙手 trocar 與鏡頭 trocar 應呈現一等腰三角形" },
+      { "key": "D", "text": "手術醫師操作時常需以雙手交叉（crossed hands fashion）進行" }
+    ],
+    "answer": "D",
+    "explanation": "多孔腹腔鏡的 port 幾何原則：足夠距離避免器械互撞（A），鏡頭在兩手器械之間並與目標保持適當距離（B），建立穩定的三角化（triangulation，常以等腰三角形描述）（C）。「雙手交叉操作」反而是器械配置不良（或單孔手術）才更容易出現的問題，不是理想多孔配置的常態，因此為錯。",
+    "source": "內視鏡｜題 8（110二）專醫五-52",
+    "tags": ["endoscopy", "laparoscopy", "port_placement", "triangulation"]
+  },
+  {
+    "id": "MED_05_01_ENDO_Q0009",
+    "stem": "下列有關腹腔鏡手術的敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "氣體栓塞（air emboli）在腹腔鏡手術中並不常見" },
+      { "key": "B", "text": "非充氣式腹腔鏡（gasless）撐開器（lift device）在視野與操作空間上比傳統充氣式腹腔鏡更佳" },
+      { "key": "C", "text": "腹腔鏡術後免疫抑制反應通常較傳統開腹手術少" },
+      { "key": "D", "text": "腹腔鏡術後可見皮質醇等壓力指標變化" }
+    ],
+    "answer": "B",
+    "explanation": "同題型重複考點：氣腹通常能提供更穩定的手術空間與視野；gasless 有其適應症（例如避免氣腹生理影響），但一般不會被認定「更佳」。A/C/D 為常見正確敘述。",
+    "source": "內視鏡｜題 9（112一）專醫五-55",
+    "tags": ["endoscopy", "laparoscopy", "pneumoperitoneum"]
+  },
+  {
+    "id": "MED_05_01_ENDO_Q0010",
+    "stem": "下列何者不是機器手臂輔助內視鏡手術的特點？",
+    "options": [
+      { "key": "A", "text": "二維平面視野" },
+      { "key": "B", "text": "可以消除主刀者手部晃動" },
+      { "key": "C", "text": "主刀者可自行調整鏡頭方向（不必靠助手持鏡）" },
+      { "key": "D", "text": "器械可進入狹小空間並完成角度困難的動作" }
+    ],
+    "answer": "A",
+    "explanation": "機器手臂（如達文西）常見特點：3D 立體視野、tremor filtration（抖動濾除）、可由主刀操控鏡頭、器械具多關節自由度可做困難角度操作。二維平面視野反而是傳統腹腔鏡的典型限制，因此 A 不是其特點。",
+    "source": "內視鏡｜題 17（103一）專醫五-55",
+    "tags": ["endoscopy", "robotic_surgery", "davinci"]
+  },
+  {
+    "id": "MED_05_01_ENDO_Q0011",
+    "stem": "下列有關腹腔鏡手術之敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "腹腔鏡手術以全身麻醉進行為佳" },
+      { "key": "B", "text": "需要從腹膜外（extraperitoneal space）進入後腹膜器官時，有時可用氣球撐開術（balloon dissection）建立工作空間" },
+      { "key": "C", "text": "腹腔外（extraperitoneal）內視鏡手術空間較小，且會增加腸沾黏機會" },
+      { "key": "D", "text": "手輔助腹腔鏡（hand-assisted laparoscopy）可兼具觸覺與較小切口等優點，適用於部分較困難手術" }
+    ],
+    "answer": "C",
+    "explanation": "extraperitoneal 途徑的概念之一是「不進入腹腔」，可降低腸道暴露與腹腔內沾黏風險；其限制主要是工作空間較小、解剖取向不同、建立空間技術要求較高等。把它說成會增加腸沾黏是方向錯誤，因此 C 為錯。",
+    "source": "內視鏡｜題 11（內文同頁）",
+    "tags": ["endoscopy", "laparoscopy", "extraperitoneal", "balloon_dissection"]
+  },
+  {
+    "id": "MED_05_01_ENDO_Q0012",
+    "stem": "相對於開腹手術，施行腹腔鏡闌尾切除手術（laparoscopic appendectomy）的優點不包括下列何者？",
+    "options": [
+      { "key": "A", "text": "減少住院天數" },
+      { "key": "B", "text": "縮短手術時間" },
+      { "key": "C", "text": "便於發現腹腔內其他可能疾病" },
+      { "key": "D", "text": "術後傷口感染率通常較低" }
+    ],
+    "answer": "B",
+    "explanation": "腹腔鏡闌尾切除的常見優點：傷口小、疼痛較少、住院較短、較快恢復、可全面探查腹腔（特別是診斷不明的右下腹痛）。但手術時間不一定較短，許多情境下反而可能較長（尤其在學習曲線或複雜病例），因此「縮短手術時間」不屬穩定優點。",
+    "source": "內視鏡｜題 14（107二）專醫五-53",
+    "tags": ["endoscopy", "laparoscopic_appendectomy", "outcomes"]
+  },
+  {
+    "id": "MED_05_01_ENDO_Q0013",
+    "stem": "關於自然孔洞手術（NOTES）的敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "NOTES 技術門檻高，學習曲線較長" },
+      { "key": "B", "text": "POEM 可用於食道賁門弛緩不能等疾病" },
+      { "key": "C", "text": "NOTES 可減少體表切口相關疼痛與失能" },
+      { "key": "D", "text": "TEMS 適用於距 anal verge 大於 25 cm 病灶" }
+    ],
+    "answer": "D",
+    "explanation": "同一考點再現：TEMS 的適用距離通常在較近端直腸（常考約 20 cm 內）。因此把適用範圍寫成 >25 cm 是錯。其餘皆符合 NOTES/POEM 的一般描述。",
+    "source": "內視鏡｜題 5（同章重點）",
+    "tags": ["endoscopy", "notes", "tems"]
+  },
+  {
+    "id": "MED_05_01_ENDO_Q0014",
+    "stem": "下列何者不是胸腔鏡手術（thoracoscopy / VATS）的絕對禁忌症常見考點？",
+    "options": [
+      { "key": "A", "text": "肋膜腔嚴重沾黏" },
+      { "key": "B", "text": "無法承受單肺通氣（one lung ventilation）" },
+      { "key": "C", "text": "曾接受開胸手術" },
+      { "key": "D", "text": "以上皆可能是禁忌或高風險因素（依程度而定）" }
+    ],
+    "answer": "C",
+    "explanation": "題本內文：胸腔鏡常見「絕對禁忌」包含肋膜腔嚴重沾黏、無法承受單肺通氣；而「曾開胸手術」多被歸類為相對禁忌/高難度因素（沾黏與解剖改變風險上升），並非一律絕對禁忌，因此在此題型中 C 最符合「不是絕對禁忌」的概念。",
+    "source": "內視鏡｜胸腔鏡內文（同章）",
+    "tags": ["endoscopy", "thoracoscopy", "vats", "contraindications"]
+  },
+  {
+    "id": "MED_05_01_ENDO_Q0015",
+    "stem": "下列有關腹腔鏡疝氣修補（laparoscopic inguinal hernia repair）的敘述，何者最符合其常見優缺點組合？",
+    "options": [
+      { "key": "A", "text": "優點：住院更久、疼痛更大；缺點：花費較低" },
+      { "key": "B", "text": "優點：術後疼痛較少、較快回到工作；缺點：花費較高、手術時間較長、學習曲線較高" },
+      { "key": "C", "text": "優點：手術時間必定較短；缺點：視野較差" },
+      { "key": "D", "text": "優點：復發率必定較低；缺點：不需全身麻醉" }
+    ],
+    "answer": "B",
+    "explanation": "腹腔鏡疝氣修補常見考點：微創帶來較低術後疼痛與較快恢復；但通常成本較高、手術時間可能較長且高度受操作者經驗影響（學習曲線）。復發與併發症在經驗不足者可能反而較高，是常見陷阱。故 B 最符合。",
+    "source": "內視鏡｜同章詳解段落",
+    "tags": ["endoscopy", "laparoscopy", "hernia_repair", "learning_curve"]
+  },
+  {
+    "id": "MED_05_01_ENDO_Q0016",
+    "stem": "相對於開腹手術，腹腔鏡手術的生理與免疫反應，下列何者較正確？",
+    "options": [
+      { "key": "A", "text": "免疫抑制反應更明顯" },
+      { "key": "B", "text": "免疫抑制反應通常較少" },
+      { "key": "C", "text": "不會產生壓力荷爾蒙變化" },
+      { "key": "D", "text": "氣體栓塞是最常見併發症" }
+    ],
+    "answer": "B",
+    "explanation": "微創通常降低組織創傷與發炎反應，因此術後免疫抑制反應相對較少（B）。但並非完全沒有壓力反應（仍可見皮質醇等變化），而氣體栓塞屬罕見但嚴重併發症，絕非最常見。",
+    "source": "內視鏡｜同章重點（與題 4/9 相同概念）",
+    "tags": ["endoscopy", "laparoscopy", "immunity", "stress_response"]
+  },
+  {
+    "id": "MED_05_01_ENDO_Q0017",
+    "stem": "下列何者不是機器手臂輔助內視鏡手術（如達文西）的典型優點？",
+    "options": [
+      { "key": "A", "text": "3D 立體視野" },
+      { "key": "B", "text": "抑制手部顫抖" },
+      { "key": "C", "text": "器械多關節自由度提高狹小空間操作能力" },
+      { "key": "D", "text": "一定比傳統腹腔鏡便宜" }
+    ],
+    "answer": "D",
+    "explanation": "機器手臂的常見優點是視野、精細操作與人體工學；成本通常更高而非更便宜，因此 D 為錯誤敘述。",
+    "source": "內視鏡｜同章延伸概念",
+    "tags": ["endoscopy", "robotic_surgery", "cost"]
   }
 
 
+  
   
 
 ]
