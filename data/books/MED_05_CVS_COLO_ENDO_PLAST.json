@@ -2356,9 +2356,501 @@
     ],
     "answer": "C",
     "explanation": "下消化道出血的處置核心是「先 resuscitation，再定位與止血」，手術並非唯一手段，因此 (C) 錯。\n\n(A) 正確：任何 GI bleeding 的第一步都是 ABC 與 hemodynamic stabilization（輸液、輸血、糾正凝血異常、停/調整抗凝抗血小板需依情境評估）。\n(B) 正確：生命徵象穩定後，才進行診斷定位（最常見是大腸鏡；也可能用 CTA、核醫 RBC scan 等依院內資源與出血速度選擇）。\n(D) 正確：angiography 可用來定位活動性出血，並可行栓塞（embolization）達到治療效果，常用於持續大量出血或內視鏡難以控制/無法完成者。\n\n補充（實務鑑別點）：\n1) 大腸鏡：穩定且可做腸道準備時，能同時診斷與治療（夾閉、電燒、注射、止血粉等）。\n2) CTA：快速、非侵入，對活動性出血定位很有價值，也可引導後續血管介入。\n3) 手術：通常保留給（a）持續大量出血且內視鏡/介入止血失敗，（b）合併穿孔/缺血壞死等需要外科處置的情境；且理想狀態下要先定位出血段落以避免盲目次全結腸切除。"
-  }
+  },
+
 
   
+  {
+    "id": "CRS_甲_Q0001",
+    "unit": "大腸直腸外科_甲_解剖及生理學",
+    "stem": "骨盆底肌肉（pelvic floor）的組成不包括下列哪一群？",
+    "options": [
+      { "key": "A", "text": "puborectalis muscle" },
+      { "key": "B", "text": "iliococcygeus muscle" },
+      { "key": "C", "text": "pubococcygeus muscle" },
+      { "key": "D", "text": "gluteus maximus muscle" }
+    ],
+    "answer": "D",
+    "explanation": "骨盆底（pelvic floor）主要由提肛肌群（levator ani）與尾骨肌（coccygeus/ischiococcygeus）構成，用於支撐骨盆臟器（膀胱、子宮、直腸）並參與排尿、排便與維持肛門括約機制。\n\n提肛肌群典型分成：puborectalis、pubococcygeus、iliococcygeus。它們共同形成骨盆底的「肌性吊床」，其中 puborectalis 形成肛直角（anorectal angle）最關鍵。\n\ngluteus maximus（臀大肌）屬於臀部外在肌群，主要負責髖關節伸展與外旋、站立/爬樓梯等動作，並非骨盆底肌肉，不直接構成骨盆底支撐層。因此選 D。"
+  },
+  {
+    "id": "CRS_甲_Q0002",
+    "unit": "大腸直腸外科_甲_解剖及生理學",
+    "stem": "關於降結腸癌手術造成大出血，最常見的原因為：",
+    "options": [
+      { "key": "A", "text": "脾臟撕裂傷" },
+      { "key": "B", "text": "上腸繫膜靜脈撕裂" },
+      { "key": "C", "text": "下腔靜脈撕裂" },
+      { "key": "D", "text": "主動脈撕裂" }
+    ],
+    "answer": "A",
+    "explanation": "降結腸（特別是脾彎曲 splenic flexure）游離時，常需要進行脾彎曲動員（splenic flexure mobilization）。在分離結腸與胃脾韌帶、脾結腸韌帶（splenocolic ligament）以及相關腹膜反折時，若牽拉過度或鈍性剝離層次不正確，最常見且最典型的嚴重出血來源就是「脾臟被撕裂」。\n\n相對地：\n- 上腸繫膜靜脈（SMV）主要在右側/中腹部、與小腸系膜相關，與左側脾彎曲區的手術解剖距離較遠。\n- 下腔靜脈與腹主動脈屬於深部後腹膜大血管，雖然一旦受傷極嚴重，但在標準降結腸癌手術操作範圍內較不常直接傷及。\n\n因此最常見原因為 A（脾臟撕裂傷）。"
+  },
+  {
+    "id": "CRS_甲_Q0003",
+    "unit": "大腸直腸外科_甲_解剖及生理學",
+    "stem": "肛管（anal canal）的感覺（sensory）神經支配源自於下列何者？",
+    "options": [
+      { "key": "A", "text": "obturator nerve" },
+      { "key": "B", "text": "femoral nerve" },
+      { "key": "C", "text": "pudendal nerve" },
+      { "key": "D", "text": "sciatic nerve" }
+    ],
+    "answer": "C",
+    "explanation": "肛管的感覺支配（特別是齒狀線以下的皮膚與黏膜區域）主要來自陰部神經（pudendal nerve, S2–S4）。其分支 inferior rectal nerve（或稱 inferior anal nerve）負責肛門周圍皮膚、外肛門括約肌區域的感覺與部分運動支配。\n\n臨床重點：\n- 齒狀線以下：體神經（somatic）支配 → 痛覺敏感，因此外痔、肛裂非常痛。\n- 齒狀線以上：內臟神經（visceral/autonomic）為主 → 痛覺較不敏感，因此內痔多為無痛性出血。\n\n其餘選項（obturator、femoral、sciatic）皆非肛管主要感覺來源。故選 C。"
+  },
+  {
+    "id": "CRS_甲_Q0004",
+    "unit": "大腸直腸外科_甲_解剖及生理學",
+    "stem": "下列血管，何者不是源自下腸繫膜動脈（inferior mesenteric artery, IMA）？",
+    "options": [
+      { "key": "A", "text": "left colic artery" },
+      { "key": "B", "text": "sigmoid artery" },
+      { "key": "C", "text": "superior rectal artery" },
+      { "key": "D", "text": "middle rectal artery" }
+    ],
+    "answer": "D",
+    "explanation": "IMA 的典型分支包括：\n1) left colic artery（供應降結腸與部分橫結腸遠端）\n2) sigmoid arteries（供應乙狀結腸）\n3) superior rectal artery（IMA 末端延續，供應直腸上段）\n\nmiddle rectal artery 主要源自 internal iliac artery（內髂動脈系統），供應直腸中段，並非 IMA 分支。\n\n因此答案為 D。"
+  },
+  {
+    "id": "CRS_甲_Q0005",
+    "unit": "大腸直腸外科_甲_解剖及生理學",
+    "stem": "下列哪一段結腸或直腸（colon and rectum）並未附著於後腹膜腔（retroperitoneum）？",
+    "options": [
+      { "key": "A", "text": "升結腸" },
+      { "key": "B", "text": "降結腸" },
+      { "key": "C", "text": "橫結腸" },
+      { "key": "D", "text": "直腸" }
+    ],
+    "answer": "C",
+    "explanation": "解剖上：\n- 升結腸、降結腸：多屬「第二性後腹膜器官」（secondarily retroperitoneal），在胚胎旋轉與融合後，其後方腹膜與後腹壁融合，形成相對固定的後腹膜位置。\n- 橫結腸：典型為腹膜內器官（intraperitoneal），具有橫結腸繫膜（transverse mesocolon），活動度高，並未固定附著於後腹膜。\n- 直腸：多位於骨盆腔內，臨床常視為固定結構，且部分區域具後腹膜/盆筋膜相關固定（並非像橫結腸那樣完全由系膜懸吊）。\n\n因此「並未附著於後腹膜」最典型的是橫結腸，選 C。"
+  },
+  {
+    "id": "CRS_甲_Q0006",
+    "unit": "大腸直腸外科_甲_解剖及生理學",
+    "stem": "有關大腸直腸的生理敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "colonic microflora 可幫助維持 epithelial integrity 及 nutritive function" },
+      { "key": "B", "text": "Bacteroides species 約占大腸細菌的 2/3" },
+      { "key": "C", "text": "colonic microflora 幫助人體行 urea recycling，有助於 liver failure 之病人" },
+      { "key": "D", "text": "大腸吸收面積約 900 cm^2，可幫忙再吸收大量水分" }
+    ],
+    "answer": "C",
+    "explanation": "腸道菌叢確實可透過產生短鏈脂肪酸（SCFAs）、維持黏膜屏障、競爭性抑制致病菌、調節免疫等方式，協助 epithelial integrity 與營養功能（A 正確）。Bacteroides 在厭氧菌群中占比很高（B 可視為正確概念）。\n\n關鍵在 C：所謂 urea recycling 是指腸道菌（具 urease）將尿素分解，產生氨相關代謝物，部分可回到 portal circulation。\n- 在肝功能正常者，氨可在肝臟尿素循環被處理。\n- 但在 liver failure 時，肝臟無法有效清除氨，反而會使氨/氮代謝負荷增加，提升肝性腦病變（hepatic encephalopathy）風險。\n\n因此「有助於 liver failure 病人」這句在臨床上方向相反，屬錯誤敘述，選 C。"
+  },
+  {
+    "id": "CRS_甲_Q0007",
+    "unit": "大腸直腸外科_甲_解剖及生理學",
+    "stem": "有關大腸直腸的胚胎發育，下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "前腸衍生結構（foregut-derived structures）的主要血液供應來源為腹腔動脈（celiac artery）" },
+      { "key": "B", "text": "中腸衍生結構（midgut-derived structures）是從近端空腸（proximal jejunum）到遠端橫結腸（distal transverse colon）" },
+      { "key": "C", "text": "肛門內括約肌（internal anal sphincter）是從直腸（rectum）的環形肌肉層（circular muscle layer）延伸形成" },
+      { "key": "D", "text": "約在胚胎發育第 6 週，泌尿生殖隔（urogenital septum）往尾部移行（caudal migration）而分隔開消化道及生殖泌尿道" }
+    ],
+    "answer": "B",
+    "explanation": "胚胎腸管分區與供血：\n- foregut：由 celiac trunk 供血（A 正確）。\n- midgut：由 SMA 供血，範圍經典定義是「遠端十二指腸（distal duodenum）→ 近端 2/3 橫結腸（proximal two-thirds transverse colon）」。\n- hindgut：由 IMA 供血，範圍是「遠端 1/3 橫結腸 → 上段肛管」。\n\n選項 B 把 midgut 的起點寫成 proximal jejunum，忽略了 midgut 其實從 distal duodenum 開始，因此範圍描述錯誤。\n\nC：internal anal sphincter 為平滑肌，源自腸壁環形肌層的延續，概念正確。\nD：urorectal septum 的分隔概念屬正確方向（時間點不同教材略有差異，但此題主要考 B 的明顯錯誤）。故選 B。"
+  },
+  {
+    "id": "CRS_甲_Q0008",
+    "unit": "大腸直腸外科_甲_解剖及生理學",
+    "stem": "有關大腸直腸的解剖構造，下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "base of appendix 位於 cecum taeniae coli 的聚合處" },
+      { "key": "B", "text": "在手術中可藉由發現 fold of Treves，進而發現 appendix" },
+      { "key": "C", "text": "rectum 沒有 taeniae coli，也沒有 epiploic appendices" },
+      { "key": "D", "text": "sigmoid colon wall 比 descending colon 薄，所以 sigmoid colon 較常發生 perforation" }
+    ],
+    "answer": "D",
+    "explanation": "A 正確：闌尾根部（appendiceal base）位於盲腸三條結腸帶（taeniae coli）會合處，是手術定位闌尾的經典方法。\n\nB 正確：Treves fold（ileocecal fold）可作為迴盲部解剖標記之一，手術時能協助辨識迴盲瓣/盲腸區域並尋找闌尾。\n\nC 正確：直腸的縱走肌層並不集中成三條 taeniae coli，而是形成連續的縱行肌層；同時直腸通常沒有 epiploic appendages。\n\nD 錯誤：乙狀結腸穿孔（perforation）在臨床上常見，但主要原因多與「憩室炎、糞石、腸腔壓力、局部缺血」等病理因素相關，而非單純因為其腸壁比降結腸薄而導致穿孔更常發生。厚薄並非此現象的關鍵決定因素。\n\n因此選 D。"
+  },
+  {
+    "id": "CRS_甲_Q0009",
+    "unit": "大腸直腸外科_甲_解剖及生理學",
+    "stem": "下列關於骨盆底肌肉群（the muscles of pelvic floor）的敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "又稱為提肛肌（levator ani），由恥骨尾骨肌（pubococcygeus）、恥骨直腸肌（puborectalis）及梨狀肌（piriformis）共同組合而成" },
+      { "key": "B", "text": "平時由骨盆底肌肉群維持一定的張力，支撐著骨盆腔內的器官，同時與肛門括約肌一起協調控制著排便行為" },
+      { "key": "C", "text": "恥骨直腸肌（puborectalis muscle）為 U 字型的橫紋肌，放鬆時會使肛門直腸角度拉直（anorectal angle straightens），藉此使糞便下降以利排便" },
+      { "key": "D", "text": "若骨盆底肌肉群有功能上的障礙，可能會產生排便異常問題" }
+    ],
+    "answer": "A",
+    "explanation": "骨盆底肌群主要由 coccygeus 與 levator ani 構成；而 levator ani 又包含 puborectalis、pubococcygeus、iliococcygeus。\n\n梨狀肌（piriformis）屬於骨盆壁肌（pelvic wall muscle），位於骨盆側後方，參與髖關節外旋，並不屬於提肛肌或骨盆底肌群的組成。\n\nB、C、D 都是骨盆底生理的正確描述：\n- 長期張力支撐臟器並協調括約肌。\n- puborectalis 放鬆使 anorectal angle 變直，有助排便；收縮則增加角度、協助控便。\n\n因此錯誤的是 A。"
+  },
+  {
+    "id": "CRS_甲_Q0010",
+    "unit": "大腸直腸外科_甲_解剖及生理學",
+    "stem": "有關大腸生理功能的說明，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "人體所放出的 flatus，以吸入之大氣空氣為主" },
+      { "key": "B", "text": "關於大腸癌好發在遠端大腸，有一說法是因為遠端大腸較缺乏酵素，所以遠端大腸的細菌主要行蛋白質 putrefactive process，容易堆積毒素所造成的" },
+      { "key": "C", "text": "short-chain fatty acids（包含 acetate、propionate、butyrate）對於大腸細胞是很重要的物質，可以幫助正常細胞生長和抑制癌細胞生長的功能" },
+      { "key": "D", "text": "食用纖維（dietary fiber）中，water-soluble 的可以被腸道細菌分解產生 short-chain fatty acid，water-insoluble 可以利用來治療便秘" }
+    ],
+    "answer": "B",
+    "explanation": "A：腸氣主要來源包括吞入空氣（nitrogen 為主）、腸道細菌發酵產氣（H2、CO2、CH4 等）與血液擴散至腸腔的氣體；「吞入空氣」確實是重要來源之一，方向可接受。\n\nC 正確：SCFAs（尤其 butyrate）是結腸上皮重要能量來源，並與黏膜修復、抗發炎、調節上皮增生/分化相關；在腫瘤生物學上也常被討論其抑制腫瘤增生的作用。\n\nD 正確：可溶性纖維較易被發酵產生 SCFAs；不可溶性纖維增加糞便體積、促進蠕動，常用於改善便秘。\n\nB 的敘述把「遠端大腸癌較常見」歸因於「遠端缺乏酵素→細菌蛋白腐敗→毒素堆積」過度簡化且不符合主流機轉。大腸癌的部位分布受多因素影響（遺傳分子路徑、腸內容物停留時間、膽酸代謝、菌相、發炎環境、篩檢效應等），並非以“缺乏酵素導致 putrefactive process”作為標準解釋。\n\n因此錯誤選 B。"
+  },
+  {
+    "id": "CRS_甲_Q0011",
+    "unit": "大腸直腸外科_甲_解剖及生理學",
+    "stem": "有關 rectosacral fascia 的敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "它在 S4 位置連接 presacral fascia 和直腸的 fascia propria" },
+      { "key": "B", "text": "若是手術過程不慎穿破這個 landmark，將會往後進入 presacral fascia 引起 venous plexus 受傷大流血" },
+      { "key": "C", "text": "若是手術分離組織過程沒有沿著 rectosacral fascia，在前會破壞 fascia propria，造成癌細胞局部轉移的風險" },
+      { "key": "D", "text": "rectosacral fascia 又稱做 Denonvilliers fascia" }
+    ],
+    "answer": "D",
+    "explanation": "rectosacral fascia 常指 Waldeyer’s fascia（後方的筋膜性連結），位於直腸後方，與 presacral fascia/直腸固有筋膜（fascia propria of rectum）之間的解剖層次有關，臨床上是 TME（total mesorectal excision）時的重要後方解剖標記。\n\n- A：其典型位置常被描述在 S4 左右層次，作為後方連結與層次轉換的 landmark，方向正確。\n- B：若誤入後方 presacral 層面，可能傷及 presacral venous plexus（非常難止血的大出血來源），為經典手術風險。\n- C：TME 的腫瘤學原則是沿著 fascia propria 的正確層次（holy plane）分離，若層次錯誤可能造成腫瘤學切緣品質變差（例如侵犯 mesorectal fascia 或破壞包膜），增加局部復發風險。\n\nDenonvilliers fascia 則是「前方」的 rectoprostatic / rectovaginal fascia（分隔直腸與前方前列腺/精囊或陰道），與 rectosacral fascia 不是同一個結構。\n\n因此錯誤的是 D。"
+  },
+
+  {
+    "id": "CRS_乙_Q0001",
+    "unit": "大腸直腸外科_乙_腸扭結",
+    "stem": "有關大腸腸扭轉（volvulus），下列敘述何者正確？",
+    "options": [
+      { "key": "A", "text": "好發於橫結腸" },
+      { "key": "B", "text": "有慢性便秘之年輕女性為好發族群，攝食較多的高纖飲食有助於預防其發生" },
+      { "key": "C", "text": "未固定於後腹腔的結腸，且有較長的腸繫膜較易發生腸扭轉" },
+      { "key": "D", "text": "在乙狀結腸腸扭轉中，腹部 X 光攝影可能有琴鍵徵象（keyboard sign）" }
+    ],
+    "answer": "C",
+    "explanation": "大腸扭結的核心機轉是「腸段活動度高 + 腸繫膜較長/基底較窄 → 容易旋轉造成閉鎖」。因此未固定於後腹膜、具較長系膜的腸段（如乙狀結腸、盲腸）最常見。\n\nA 錯：最常見部位是乙狀結腸（sigmoid volvulus）與盲腸（cecal volvulus），橫結腸扭結相對少見。\nB 錯：典型 sigmoid volvulus 好發於高齡、長期便秘、臥床、神經精神疾病/用藥等族群；「年輕女性」不是典型。\nD 錯：乙狀結腸扭結的典型平片徵象是 coffee bean sign；keyboard sign 更常用於描述小腸阻塞時皺襞排列等表現，非此題重點。\n\n因此選 C。"
+  },
+  {
+    "id": "CRS_乙_Q0002",
+    "unit": "大腸直腸外科_乙_腸扭結",
+    "stem": "一名 84 歲男性，因四天未解便，出現腹脹、陣發性腹痛等症狀而被送到急診。病患先前有慢性便秘病史，沒有接受過腹部手術，腹部 X 光可看到明顯脹大的乙狀結腸，有 bent inner tube sign。生命徵象穩定，理學檢查腹部有輕微壓痛，但無腹膜炎症狀，無腹股溝疝氣。下列初步處置何者最理想？",
+    "options": [
+      { "key": "A", "text": "立即剖腹探查" },
+      { "key": "B", "text": "胃鏡檢查" },
+      { "key": "C", "text": "乙狀結腸鏡檢查並減壓" },
+      { "key": "D", "text": "腹部超音波檢查" }
+    ],
+    "answer": "C",
+    "explanation": "題幹高度典型乙狀結腸扭結：高齡 + 慢性便秘 + X 光「bent inner tube sign / coffee bean 相關徵象」+ 無腹膜炎、生命徵象穩定。\n\n在沒有缺血/壞死/穿孔或腹膜炎時，初步治療首選為「內視鏡減壓與復位」：\n- 乙狀結腸鏡或軟式乙狀結腸鏡（flexible sigmoidoscopy/colonoscopy）進行 detorsion + decompression。\n- 常會放置 rectal tube 以降低短期再扭轉。\n\n何時不做內視鏡減壓、直接手術？\n- 有腹膜炎、敗血、疑似腸缺血壞死、穿孔、或內視鏡復位失敗。\n\n因此最理想初步處置為 C。"
+  },
+  {
+    "id": "CRS_乙_Q0003",
+    "unit": "大腸直腸外科_乙_腸扭結",
+    "stem": "下列有關結腸扭結（colonic volvulus）的敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "乙狀結腸是最常發生的部位" },
+      { "key": "B", "text": "盲腸（cecum）扭結危險因子包括食物纖維的大量攝取、精神藥物的服用及腹部手術的既往史" },
+      { "key": "C", "text": "盲腸（cecum）扭結應先嘗試大腸鏡還原再施行常規手術" },
+      { "key": "D", "text": "盲腸（cecum）扭結常合併部分或全部升結腸的扭轉" }
+    ],
+    "answer": "C",
+    "explanation": "A 正確：colonic volvulus 最常見是 sigmoid volvulus。\n\nB：盲腸扭結與腸段活動度（未固定/游離盲腸）、腸內容物與蠕動狀態、以及既往腹部手術造成的解剖變化等均可能相關；此選項可視為合理。\n\nD 正確：cecal volvulus 常是 ileocecal segment 的旋轉，可能牽連部分/全部升結腸，屬典型描述。\n\nC 錯誤：盲腸扭結的內視鏡復位成功率普遍偏低，且延誤可能增加缺血壞死風險；標準處置多以手術為主（例如右半結腸切除/盲腸切除、或在無壞死時行 detorsion + cecopexy 等）。因此「先大腸鏡還原再常規手術」不是典型正確策略。\n\n故選 C。"
+  },
+
+  {
+    "id": "CRS_丙_Q0001",
+    "unit": "大腸直腸外科_丙_大腸憩室疾病",
+    "stem": "74 歲楊女士這一星期來左下腹疼痛越來越厲害到急診求診，過去病史有糖尿病、高血壓病史及大腸憩室炎。急診生命徵象穩定，但體溫 38.5°C。臨床症狀包括食慾變差、噁心及腹瀉。理學檢查左下腹疑似摸到硬塊且有壓痛並合併局部性腹膜炎。抽血 WBC 19,310/mm^3、neutrophil 86.1%、CRP 196 mg/L。腹部電腦斷層如圖，最可能診斷為何？",
+    "options": [
+      { "key": "A", "text": "缺血性腸壞死（ischemic bowel）" },
+      { "key": "B", "text": "乙狀結腸腸扭轉（volvulus）" },
+      { "key": "C", "text": "乙狀結腸憩室炎破裂併膿瘍（ruptured sigmoid diverticulitis with abscess）" },
+      { "key": "D", "text": "空腸腸繫膜膿瘍（jejunal mesenteric abscess）" }
+    ],
+    "answer": "C",
+    "explanation": "題幹是典型「複雜性憩室炎（complicated diverticulitis）」表現：\n- 左下腹痛（LLQ pain）+ 發燒 + 白血球上升與 CRP 顯著上升。\n- 理學檢查局部性腹膜炎與可觸及硬塊，提示局部發炎腫塊（phlegmon）或膿瘍。\n- CT 在複雜性憩室炎常見：結腸壁增厚（bowel wall thickening）、周圍脂肪浸潤（fat stranding）、局部液體/氣體集結（abscess），可能伴微小穿孔（microperforation）。\n\n鑑別：\nA 缺血性腸壞死常見「pain out of proportion」與血管危險因子，影像可能見腸壁缺血、血管阻塞、腸壁氣腫等；本題更符合局部感染性病灶。\nB 乙狀結腸扭轉以阻塞與典型影像徵象（coffee bean/bird beak）為主，未必出現局部膿瘍。\nD 空腸腸繫膜膿瘍位置與臨床背景（LLQ、既往 diverticulitis）不相符。\n\n因此最可能診斷為 C。"
+  },
+  {
+    "id": "CRS_丙_Q0002",
+    "unit": "大腸直腸外科_丙_大腸憩室疾病",
+    "stem": "依據 Hinchey classification 描述大腸憩室炎（colon diverticulitis）嚴重度的分類，若發生 generalized purulent peritonitis 的情況是屬於下列哪一個 stage？",
+    "options": [
+      { "key": "A", "text": "stage IV" },
+      { "key": "B", "text": "stage III" },
+      { "key": "C", "text": "stage II" },
+      { "key": "D", "text": "stage I" }
+    ],
+    "answer": "B",
+    "explanation": "Hinchey 分類常用於穿孔性/複雜性憩室炎：\n- Stage I：局部旁結腸膿瘍或蜂窩組織炎（pericolic abscess/phlegmon）。\n- Stage II：骨盆、腹腔或後腹膜的較遠端膿瘍（pelvic/intra-abdominal/retroperitoneal abscess）。\n- Stage III：廣泛性化膿性腹膜炎（generalized purulent peritonitis）。\n- Stage IV：廣泛性糞便性腹膜炎（generalized feculent peritonitis）。\n\n因此 generalized purulent peritonitis 對應 Stage III，選 B。"
+  },
+  {
+    "id": "CRS_丙_Q0003",
+    "unit": "大腸直腸外科_丙_大腸憩室疾病",
+    "stem": "下列何者為結腸憩室炎（diverticulitis）必須手術的適應症？\n① 破裂造成腹膜炎（free perforation with peritonitis）\n② 形成局部 2 cm 膿瘍（localized abscess）無腹膜炎\n③ 形成結腸膀胱瘻管（colovesical fistula）\n④ 造成貧血、血紅素 9.9",
+    "options": [
+      { "key": "A", "text": "僅 ①②③" },
+      { "key": "B", "text": "僅 ①③" },
+      { "key": "C", "text": "僅 ②④" },
+      { "key": "D", "text": "①②③④" }
+    ],
+    "answer": "B",
+    "explanation": "憩室炎治療原則：\n- 非複雜性（uncomplicated）多以保守治療（抗生素視情況、飲食調整、症狀控制）為主。\n- 複雜性（complicated）如穿孔造成腹膜炎、瘻管、阻塞、無法控制的膿瘍或反覆發作，才會進入手術策略。\n\n逐項判讀：\n① free perforation with peritonitis：屬嚴重併發症，通常需要緊急手術（來源控制、切除病灶、視情況造口/吻合）。→ 必須手術（是）。\n② 局部 2 cm 膿瘍且無腹膜炎：2 cm 屬偏小膿瘍，常可先抗生素治療；若較大（常以 >3–4 cm 作為是否考慮經皮引流的門檻）或治療失敗才更偏向介入/手術。→ 不必然“必須手術”（否）。\n③ colovesical fistula：典型複雜性憩室炎併發症，多需選擇性手術修補/切除病灶（在感染控制後安排）。→ 手術適應症（是）。\n④ 貧血 Hb 9.9：單純貧血不是憩室炎“必須手術”的適應症，需找出原因（出血量、其他病因）並先穩定血流動力學與止血策略。→ 否。\n\n因此答案為 ①③ → 選 B。"
+  },
+  {
+    "id": "CRS_丙_Q0004",
+    "unit": "大腸直腸外科_丙_大腸憩室疾病",
+    "stem": "62 歲男性有高血壓病史但不規則服藥，因左下腹痛兩天來到急診，發燒 38.5°C，血壓 90/60 mmHg，心跳 110/分。理學檢查左下腹明顯有壓痛硬塊，肛門指診出現黏液血便。抽血白血球 22,000/μL，血紅素 9.7 g/dL。依據上述情況，其最不適宜的檢查為：",
+    "options": [
+      { "key": "A", "text": "大腸鏡（colonoscopy）" },
+      { "key": "B", "text": "電腦斷層（CT）" },
+      { "key": "C", "text": "胸部 X 光（CXR）" },
+      { "key": "D", "text": "左側躺腹部 X 光（left lateral decubitus）" }
+    ],
+    "answer": "A",
+    "explanation": "此病人呈現感染與可能敗血性休克傾向（發燒、低血壓、心搏過速、白血球高），合併左下腹局部腫塊與壓痛，臨床高度懷疑急性憩室炎併發症（膿瘍/微穿孔/出血）。\n\n在急性憩室炎活躍期，常規不建議做大腸鏡，原因：\n- 充氣與鏡身操作可能增加穿孔風險。\n- 若已有微穿孔或嚴重發炎，內視鏡可能誘發或加重腹膜炎。\n\n相對地：\n- CT 是評估急性憩室炎嚴重度、是否有膿瘍/穿孔的首選影像。\n- CXR/臥位或側臥位腹部 X 光可作為輔助（例如評估 free air、阻塞等），但臨床核心仍是 CT。\n\n因此最不適宜的檢查為 A（colonoscopy）。"
+  },
+  {
+    "id": "CRS_丙_Q0005",
+    "unit": "大腸直腸外科_丙_大腸憩室疾病",
+    "stem": "有關 colon diverticular disease，下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "一般而言最常發生於 sigmoid 及 descending colon；但在亞洲較常發生於 right colon 及 cecum" },
+      { "key": "B", "text": "abdominal CT 是診斷 acute diverticulitis 的標準" },
+      { "key": "C", "text": "對於 Hinchey classification stage III 之 diverticulitis with perforation，需進行手術治療" },
+      { "key": "D", "text": "complicated diverticulitis 最常發生 fistula 的器官為膀胱，且女多於男" }
+    ],
+    "answer": "D",
+    "explanation": "A、B、C 為常見正確概念：\n- 西方憩室多見左側（sigmoid/descending），亞洲右側比例較高。\n- 急性憩室炎影像評估與嚴重度分層以 CT 最常用、也最關鍵。\n- Hinchey stage III（廣泛化膿性腹膜炎）多需要手術來源控制。\n\nD 錯在「女多於男」：\n- 憩室炎造成的瘻管最常見為 colovesical fistula（結腸-膀胱）。\n- 但 colovesical fistula 在臨床上更常見於男性。原因是女性的子宮位於膀胱與乙狀結腸之間，形成屏障，降低乙狀結腸直接與膀胱形成瘻管的機會；除非曾子宮切除或解剖屏障減少。\n\n因此錯誤為 D。"
+  },
+  {
+    "id": "CRS_丙_Q0006",
+    "unit": "大腸直腸外科_丙_大腸憩室疾病",
+    "stem": "有關大腸憩室炎（diverticulitis disease）的敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "評估大腸憩室炎嚴重程度，目前較建議的診斷工具是電腦斷層" },
+      { "key": "B", "text": "急性大腸憩室炎臨床上可粗略分為非複雜性及複雜性；非複雜性（uncomplicated）可以採保守治療方式" },
+      { "key": "C", "text": "可建議大腸憩室炎患者在症狀改善後的 4–6 週接受大腸鏡檢查，以確認憩室並排除大腸惡性腫瘤或大腸發炎性疾病之可能性" },
+      { "key": "D", "text": "一旦患者發生過大腸憩室炎，就必須建議患者接受常規部分大腸切除，以預防下次發作" }
+    ],
+    "answer": "D",
+    "explanation": "A 正確：CT 可評估腸壁增厚、周邊脂肪浸潤、膿瘍、穿孔、阻塞等，並可用於嚴重度分層與治療決策。\n\nB 正確：uncomplicated diverticulitis 多可先保守治療；complicated（膿瘍、穿孔、瘻管、阻塞等）才進一步介入或手術。\n\nC 多數情境合理：急性發作緩解後安排大腸鏡（常見建議 4–6 或 6–8 週）以排除癌症/IBD 等偽裝成憩室炎的病因，並評估結腸狀態。\n\nD 錯誤：並非「發生過一次就必須常規切除」。是否需要選擇性結腸切除取決於：\n- 反覆發作（且影響生活或住院多次）\n- 複雜性併發症（瘻管、狹窄/阻塞、反覆膿瘍）\n- 免疫低下或特定高風險族群（依機構策略）\n而不是每位第一次發作者都常規手術。\n\n因此錯誤為 D。"
+  },
+  {
+    "id": "CRS_丙_Q0007",
+    "unit": "大腸直腸外科_丙_大腸憩室疾病",
+    "stem": "一位 60 歲女性因解血便致心跳加速且血壓下降，經檢查發現出血的位置在升結腸如圖所示，則最可能的診斷為何？",
+    "options": [
+      { "key": "A", "text": "大腸癌出血" },
+      { "key": "B", "text": "大腸憩室出血" },
+      { "key": "C", "text": "潰瘍性腸炎（ulcerative colitis）" },
+      { "key": "D", "text": "克隆氏症（Crohn’s disease）" }
+    ],
+    "answer": "B",
+    "explanation": "急性大量血便合併血流動力學不穩（tachycardia + hypotension）時，常見鑑別包含：憩室出血、血管畸形（angiodysplasia）、腫瘤出血、嚴重結腸炎等。\n\n題幹指出出血位於「升結腸」，且配合圖像（典型考題常呈現憩室口或憩室頸部出血點）。憩室出血常呈現：\n- 突發、無痛性大量血便\n- 可能來自右側結腸（右側憩室雖較少發炎，但出血並不少見）\n- 內視鏡下可見憩室內或憩室頸部出血/血管暴露\n\nUC/Crohn 多伴腹痛、腹瀉與黏液膿血便等慢性發炎特徵；大腸癌出血通常較慢性、隱血或間歇出血較多。\n\n因此最可能為 B（大腸憩室出血）。"
+  },
+  {
+    "id": "CRS_丙_Q0008",
+    "unit": "大腸直腸外科_丙_大腸憩室疾病",
+    "stem": "承上題，上述疾病的治療何者較不恰當？",
+    "options": [
+      { "key": "A", "text": "抗生素治療" },
+      { "key": "B", "text": "大腸鏡下進行止血" },
+      { "key": "C", "text": "血管攝影並栓塞" },
+      { "key": "D", "text": "保守治療無效的情形下，安排手術治療" }
+    ],
+    "answer": "A",
+    "explanation": "承上題為「憩室出血（diverticular bleeding）」而非憩室炎。\n\n憩室出血治療策略（依嚴重度）：\n- 先復甦與穩定（輸液/輸血、糾正凝血異常）。\n- 內視鏡止血：clip、熱凝固、注射等。\n- 若持續出血或找不到出血點：可做 CT angiography 或血管攝影，並進一步栓塞。\n- 反覆或持續大量出血、介入失敗：手術（節段切除）作為最後手段。\n\n抗生素是用於感染性或憩室炎情境，單純憩室「出血」並不需要常規抗生素。\n\n因此較不恰當的是 A。"
+  },
+
+  {
+    "id": "CRS_丁_Q0001",
+    "unit": "大腸直腸外科_丁_大腸偽性阻塞",
+    "stem": "有關大腸 pseudo-obstruction 的描述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "又稱為 Ogilvie’s syndrome，是在西元 1948 被提出的診斷" },
+      { "key": "B", "text": "臨床上常見的大腸 pseudo-obstruction 原因以 secondary 為主，主要和合併使用嗎啡類止痛藥、甲狀腺機能異常、糖尿病、腎毒症等因素有關" },
+      { "key": "C", "text": "治療方式可以考慮利用大腸鏡做診斷和減壓；不過要小心謹選病患，若懷疑大腸壞死就不可以施行" },
+      { "key": "D", "text": "藥物治療可以考慮 neostigmine；需小心給藥後 bradycardia，仔細觀察心率變化，並準備 dopamine 作為緊急解毒劑" }
+    ],
+    "answer": "D",
+    "explanation": "大腸偽性阻塞（acute colonic pseudo-obstruction, Ogilvie syndrome）為非機械性阻塞造成的結腸擴張，常見於住院、術後、重症、電解質異常或使用影響腸蠕動藥物（opioids、抗膽鹼藥等）的病人。\n\nA、B、C 皆符合典型教科書概念：\n- Ogilvie syndrome 的命名與描述確實來自 Ogilvie 的經典報告。\n- 多為 secondary（誘發因素）造成自律神經失衡。\n- 內視鏡減壓可用於治療，但若疑似缺血/壞死/穿孔則禁忌。\n\nD 的錯誤點在「緊急解毒劑」：\n- neostigmine（乙醯膽鹼酯酶抑制劑）可促進結腸蠕動，但可能引發顯著迷走神經效應（bradycardia、支氣管痙攣等）。\n- 給藥時需心電監測，並準備的急救藥物是 atropine（抗膽鹼藥）用來處理 symptomatic bradycardia，而不是 dopamine 作為所謂“解毒劑”。\n\n因此錯誤為 D。"
+  },
+
+  {
+    "id": "CRS_戊_Q0001",
+    "unit": "大腸直腸外科_戊_後天性血管異常及下消化道出血",
+    "stem": "病患接受腹主動脈瘤修補手術後 3 天發生左下腹痛、血便，其最可能原因為何？",
+    "options": [
+      { "key": "A", "text": "偽膜性腸炎（pseudomembranous colitis）" },
+      { "key": "B", "text": "潰瘍性腸炎（ulcerative colitis）" },
+      { "key": "C", "text": "結腸憩室炎（diverticulitis）" },
+      { "key": "D", "text": "缺血性腸炎（ischemic colitis）" }
+    ],
+    "answer": "D",
+    "explanation": "腹主動脈瘤（AAA）修補術後出現左下腹痛合併血便，最典型要想到「缺血性腸炎」。機轉包括：\n- 手術中可能結紮或影響下腸繫膜動脈（IMA）灌流。\n- 左側結腸（特別是脾彎曲、降結腸、乙狀結腸）位於血流邊界區（watershed areas），對低灌流/血流中斷特別敏感。\n- 術後低血壓、血管痙攣、栓塞亦可加重。\n\n偽膜性腸炎多與抗生素暴露後的 C. difficile 感染相關；UC/憩室炎並不特別與 AAA 修補術後第 3 天這種典型時序連動。\n\n因此最可能是 D（ischemic colitis）。"
+  },
+  {
+    "id": "CRS_戊_Q0002",
+    "unit": "大腸直腸外科_戊_後天性血管異常及下消化道出血",
+    "stem": "關於糞便潛血（fecal occult blood testing, FOBT）的敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "對沒有危險因子的民眾是很好的大腸直腸癌篩檢工具" },
+      { "key": "B", "text": "藉由免疫反應檢測的糞便潛血其專一性較氧化還原法的糞便潛血檢測為高" },
+      { "key": "C", "text": "因為血球蛋白會在上消化道被破壞，所以免疫反應檢測的糞便潛血是來自於大腸或直腸的出血" },
+      { "key": "D", "text": "糞便潛血檢驗前三天都必須要避免紅肉的攝取" }
+    ],
+    "answer": "D",
+    "explanation": "FOBT 主要有兩大類：\n1) guaiac-based FOBT（gFOBT，化學氧化還原法）：偵測 heme 的過氧化酶活性，容易受飲食（紅肉、某些蔬果）與藥物影響 → 因此常建議檢驗前避免特定飲食。\n2) fecal immunochemical test（FIT，免疫化學法）：以抗體偵測「人類血紅蛋白/球蛋白」成分，專一性較高，且較不受飲食中 heme 影響。\n\nA 正確：在平均風險族群，糞便潛血篩檢是常用且有效的 CRC 篩檢策略之一。\nB 正確：FIT 專一性一般高於 gFOBT。\nC 正確：FIT 對上消化道出血較不敏感，因 Hb 會在上消化道被分解，較能反映下消化道出血。\n\nD 錯：要求「前三天避免紅肉」主要適用於 gFOBT，而非 FIT；若題目未特別限定 gFOBT，將此規則一概而論為 FOBT 必須遵守即屬錯誤。\n\n因此答案為 D。"
+  },
+  {
+    "id": "CRS_戊_Q0003",
+    "unit": "大腸直腸外科_戊_後天性血管異常及下消化道出血",
+    "stem": "關於下消化道出血（LGI bleeding）的敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "治療下消化道出血的首要目標是穩定心跳及血壓" },
+      { "key": "B", "text": "當患者的生命徵象穩定時，應該尋找出血位置" },
+      { "key": "C", "text": "手術是拯救患者唯一的治療方法" },
+      { "key": "D", "text": "血管攝影（angiography）可以用於尋找出血位置及治療" }
+    ],
+    "answer": "C",
+    "explanation": "下消化道出血處置遵循「先復甦、後診斷定位、再止血治療」：\n- A 正確：先處理 ABC、輸液/輸血、糾正凝血異常，目標是穩定血流動力學。\n- B 正確：穩定後才進一步定位（結腸鏡、CT angiography、核醫 RBC scan 等依情境）。\n- D 正確：angiography 可定位且可栓塞止血。\n\nC 錯誤：手術不是唯一方法；多數 LGI bleeding 可透過內視鏡治療或血管介入止血。手術通常保留給持續大量出血且內視鏡/介入失敗或合併其他需手術病因者。\n\n因此錯誤為 C。"
+  },
+
+  {
+    "id": "CRS_己_Q0001",
+    "unit": "大腸直腸外科_己_發炎性腸炎（IBD）",
+    "stem": "有關克隆氏症（Crohn’s disease），下列敘述何者最恰當？",
+    "options": [
+      { "key": "A", "text": "是可藉由手術治癒的疾病" },
+      { "key": "B", "text": "主要侵犯在大腸" },
+      { "key": "C", "text": "相對好發於社經地位較高者，且抽菸是其危險因子" },
+      { "key": "D", "text": "容易有腸道以外的症狀，且 pyoderma gangrenosum 與 ankylosing spondylitis 與腸道發炎嚴重程度成正相關" }
+    ],
+    "answer": "C",
+    "explanation": "Crohn’s disease 的重點特徵：\n- 可侵犯由口到肛門任何部位（mouth-to-anus），最常見為末端迴腸與結腸；並非“主要只在大腸”（B 不恰當）。\n- 目前無法以手術根治：手術多為處理併發症（狹窄、瘻管、膿瘍、穿孔）或症狀控制；切除後仍可在其他腸段復發（A 不恰當）。\n- 流行病學上與都市化、工業化與較高社經狀態常被描述相關；且「吸菸」是 Crohn’s disease 明確風險因子，與較差預後、較高復發與較高手術需求相關（C 最恰當）。\n- 腸外表現（關節、皮膚、眼、肝膽）確實常見，但其與腸道活動度的相關性並非全部都嚴格正相關；例如某些表現可與腸炎活動度平行（如 erythema nodosum），也有些可相對獨立（如 PSC 更偏 UC 且不一定隨活動度變動）。因此 D 以“成正相關”一概而論不最恰當。\n\n故選 C。"
+  },
+  {
+    "id": "CRS_己_Q0002",
+    "unit": "大腸直腸外科_己_發炎性腸炎（IBD）",
+    "stem": "潰瘍性大腸炎（ulcerative colitis）手術的適應症，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "猛爆性腸炎（fulminant colitis）且藥物治療無效" },
+      { "key": "B", "text": "每日腹瀉 5 次" },
+      { "key": "C", "text": "毒性巨結腸症（toxic megacolon）" },
+      { "key": "D", "text": "病理切片出現細胞分化不良的病灶" }
+    ],
+    "answer": "B",
+    "explanation": "UC 的手術適應症可分為急性危及生命與長期腫瘤風險：\n- 急性：fulminant colitis 對強力藥物（如 IV steroids/救援療法）無反應、toxic megacolon、穿孔、大量出血無法控制等。\n- 長期：高度異生（high-grade dysplasia）、癌症或不可接受的癌前病變風險。\n\nA、C 屬典型急性手術適應症。\nD 代表病理高風險（嚴重異生/癌變相關概念），屬於手術考量方向。\n\nB「每天腹瀉 5 次」本身不足以構成手術適應症，需看是否合併全身毒性、治療反應、營養狀態、生活品質與併發症等。\n\n因此錯誤為 B。"
+  },
+  {
+    "id": "CRS_己_Q0003",
+    "unit": "大腸直腸外科_己_發炎性腸炎（IBD）",
+    "stem": "有關潰瘍性結腸炎及克隆氏症（Crohn’s disease）之比較，下列何者正確？",
+    "options": [
+      { "key": "A", "text": "潰瘍性結腸炎可能產生小腸病灶，克隆氏症則不會有小腸病灶" },
+      { "key": "B", "text": "克隆氏症較易形成肛門瘻管或腸道瘻管" },
+      { "key": "C", "text": "在腸道外表徵方面，相較於潰瘍性結腸炎，克隆氏症較易有原發性硬化性膽管炎（PSC）" },
+      { "key": "D", "text": "抽菸不會增加克隆氏症復發的機率" }
+    ],
+    "answer": "B",
+    "explanation": "Crohn’s disease 的病理核心是「全層性（transmural）發炎」與「跳躍式（skip lesions）」分布，因此更容易造成：\n- 狹窄（stricture）\n- 瘻管（fistula：肛門瘻管、腸腸瘻、腸皮膚瘻、腸膀胱瘻等）\n- 膿瘍（abscess）\n因此 B 正確。\n\nA 錯：Crohn 可侵犯小腸很常見；UC 原則上局限於結腸（例外如 backwash ileitis 的概念也不等同 Crohn 的小腸病灶）。\nC 錯：PSC 與 UC 的關聯更強，且其活動度可不與腸炎同步。\nD 錯：吸菸是 Crohn 的風險因子，亦與較高復發與較差預後相關。\n\n因此選 B。"
+  },
+  {
+    "id": "CRS_己_Q0004",
+    "unit": "大腸直腸外科_己_發炎性腸炎（IBD）",
+    "stem": "比較 Ulcerative colitis 及 Crohn’s colitis，下列敘述何者錯誤？",
+    "options": [
+      { "key": "A", "text": "gross appearance：Ulcerative colitis 較多有 thickened colon wall" },
+      { "key": "B", "text": "microscopic appearance：Crohn’s colitis 常有 lymphoid aggregates" },
+      { "key": "C", "text": "clinical features：Ulcerative colitis 較常有血便" },
+      { "key": "D", "text": "operative treatment：Crohn’s colitis 是 ileal pouch 的 contraindication" }
+    ],
+    "answer": "A",
+    "explanation": "UC 與 Crohn 的典型對比：\n- UC：黏膜層為主（mucosal/submucosal），連續性（continuous）由直腸向近端延伸；臨床常見血便、黏液便。\n- Crohn：全層性發炎，跳躍式分布，較常造成腸壁增厚、狹窄與瘻管。\n\n因此「thickened colon wall」更符合 Crohn 的 transmural 病理，A 把厚壁特徵放在 UC 上不恰當。\n\nB：Crohn 的組織學可見淋巴聚集、裂隙樣潰瘍、（有時）肉芽腫等，方向正確。\nC 正確：血便在 UC 更典型。\nD 正確：Crohn 病人因為復發與小腸/吻合口病灶風險，通常不建議做 ileal pouch-anal anastomosis 作為常規治療。\n\n故選 A。"
+  },
+  {
+    "id": "CRS_己_Q0005",
+    "unit": "大腸直腸外科_己_發炎性腸炎（IBD）",
+    "stem": "下列關於發炎性腸疾（inflammatory bowel disease）的敘述，何者錯誤？",
+    "options": [
+      { "key": "A", "text": "相較於北歐及美國，亞洲地區的發生率較高" },
+      { "key": "B", "text": "潰瘍性結腸炎的發炎浸潤多在黏膜層及黏膜下層；長期持續發炎可能導致慢性病變並增加癌變風險" },
+      { "key": "C", "text": "克隆氏症為慢性、全壁式（transmural）的發炎性疾病，可侵犯由口至肛門的任何部位" },
+      { "key": "D", "text": "發炎性腸疾患者還可以併發其他病症，包括虹膜/葡萄膜炎、關節炎、皮膚病變、膽管相關發炎等" }
+    ],
+    "answer": "A",
+    "explanation": "傳統流行病學：IBD 在北美與北歐/西歐的盛行率與發生率長期較高；亞洲過去較低，但近年呈上升趨勢（與都市化、飲食西化、環境因素等相關）。因此「亞洲比北歐及美國更高」不符合典型描述，A 為錯誤。\n\nB 正確：UC 以黏膜層為主的發炎，長期慢性發炎與大腸癌風險上升相關。\nC 正確：Crohn 為 transmural、mouth-to-anus。\nD 正確：腸外表現是 IBD 重點（眼、關節、皮膚、肝膽）。\n\n故選 A。"
+  },
+  {
+    "id": "CRS_己_Q0006",
+    "unit": "大腸直腸外科_己_發炎性腸炎（IBD）",
+    "stem": "克隆氏疾病（Crohn’s disease）最常見的症狀為何？",
+    "options": [
+      { "key": "A", "text": "腹瀉及腹痛" },
+      { "key": "B", "text": "直腸流血" },
+      { "key": "C", "text": "肛門膿瘍" },
+      { "key": "D", "text": "腸道皮膚瘻管" }
+    ],
+    "answer": "A",
+    "explanation": "Crohn’s disease 最常見臨床表現是慢性或反覆的腹痛與腹瀉，可能合併體重減輕、食慾差、發燒等。\n\n直腸流血在 UC 更典型；肛門膿瘍與瘻管雖是 Crohn 的重要併發症與表現（尤其肛門周邊病灶），但不是「最常見」的首發主訴。\n\n因此選 A。"
+  },
+  {
+    "id": "CRS_己_Q0007",
+    "unit": "大腸直腸外科_己_發炎性腸炎（IBD）",
+    "stem": "一位 20 歲女性主訴腹痛，大便有血，經肛門直腸檢查發現直腸黏膜發炎，下列何者為最不可能之診斷？",
+    "options": [
+      { "key": "A", "text": "潰瘍性大腸炎" },
+      { "key": "B", "text": "缺血性大腸炎" },
+      { "key": "C", "text": "藥物性大腸炎" },
+      { "key": "D", "text": "感染性大腸炎" }
+    ],
+    "answer": "B",
+    "explanation": "直腸黏膜發炎合併血便的鑑別包括：\n- UC：典型從直腸開始、連續性向近端延伸，血便常見。\n- 感染性大腸炎：可造成直腸炎（proctitis），依病原不同而異。\n- 藥物性大腸炎：如 NSAIDs、抗生素相關等，可造成結腸炎表現。\n\n缺血性大腸炎（ischemic colitis）通常好發於血流邊界區（如脾彎曲、直乙交界），而「直腸」因有豐富側枝血流（上/中/下直腸動脈供血），相對不易缺血；除非是嚴重低灌流或特殊血管問題。\n\n因此最不可能為 B。"
+  },
+  {
+    "id": "CRS_己_Q0008",
+    "unit": "大腸直腸外科_己_發炎性腸炎（IBD）",
+    "stem": "承上題，經檢查後發現病患腸黏膜發炎、糜爛、出血、浸潤從直腸至橫結腸，血液檢查正常、無發燒現象，下列何者並非現階段之治療選項？",
+    "options": [
+      { "key": "A", "text": "禁食牛奶製品" },
+      { "key": "B", "text": "給予抗生素" },
+      { "key": "C", "text": "給予類固醇" },
+      { "key": "D", "text": "給予磺胺類藥物（如 sulfasalazine／5-ASA 類）" }
+    ],
+    "answer": "B",
+    "explanation": "題幹描述「從直腸到橫結腸的連續性黏膜發炎、糜爛與出血」，高度符合潰瘍性大腸炎（UC）的典型分布。\n\n在無發燒、血液檢查正常、沒有感染或敗血證據時，UC 的治療重點是抗發炎：\n- 5-ASA（mesalamine / sulfasalazine）作為輕中度誘導與維持的重要藥物。\n- 類固醇用於中重度或對 5-ASA 反應不足的誘導治療。\n- 飲食調整可作為輔助（個別患者可能對乳製品耐受差）。\n\n抗生素通常保留給：\n- 懷疑感染性腸炎、\n- 合併膿瘍/敗血、\n- 或特定併發症（例如部分肛門周邊 Crohn 併發症）\n而不是此題描述的穩定 UC 急性期常規用藥。\n\n因此「並非現階段治療選項」為 B。"
+  },
+
+
+  
+  {
+    "id": "MED_CRS_GENG_Q0001",
+    "stem": "有關大腸息肉的處置原則，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "內視鏡息肉切除術通常是首選，因為多數小型莖性息肉可直接切除，並可送病理確認良惡性" },
+      { "key": "B", "text": "息肉的完整切除比僅切片更重要；僅切片可能無法評估病灶完整程度而影響後續處置" },
+      { "key": "C", "text": "殺雞需用牛刀" },
+      { "key": "D", "text": "發現大腸息肉時，不論是否有症狀，多數情況下應考慮進一步切除並檢查，以排除惡性可能性" }
+    ],
+    "answer": "C",
+    "explanation": "本題在考「臨床處置原則」而非成語。\n\nA 正確：多數大腸息肉（尤其小型、莖性）首選以內視鏡切除（polypectomy/EMR），同時能獲得完整病理資訊（組織型態、異生程度、切緣、是否有浸潤癌）。\n\nB 正確：僅切片（biopsy）可能造成取樣誤差，且若病灶為腺瘤或早期癌，切片不足以評估完整病灶與切緣狀態；「完整切除後病理分層」才是後續追蹤與是否需要追加手術的關鍵。\n\nD 正確：息肉是大腸癌的重要前驅病灶（尤其腺瘤性息肉），臨床上通常不會以『單純觀察』作為常規策略（除非極特殊情境，如病人手術/麻醉風險極高且息肉特徵高度偏良性、或處置風險大於收益）。\n\nC 錯誤：這是成語/俗語，非醫療處置原則敘述，因此為本題錯誤選項。\n\n延伸：息肉處置的關鍵分層包含大小、形態（莖性/無莖、Paris 分型）、位置、是否可疑浸潤（NBI/色素/表面型態）、以及切除後病理（advanced adenoma、high-grade dysplasia、T1 癌的切緣與淋巴血管侵犯等）。",
+    "tags": ["CRS", "大腸息肉", "內視鏡處置", "病理分層"]
+  },
+  {
+    "id": "MED_CRS_GENG_Q0002",
+    "stem": "病人的大腸鏡檢查發現有 hamartomatous polyps，同時又有嘴唇、口腔黏膜、手指末端的黑色素沉澱（hyperpigmentation），最可能罹患何種疾病？",
+    "options": [
+      { "key": "A", "text": "Juvenile polyposis syndrome" },
+      { "key": "B", "text": "Peutz-Jeghers syndrome" },
+      { "key": "C", "text": "Lynch syndrome" },
+      { "key": "D", "text": "Familial adenomatous polyposis" }
+    ],
+    "answer": "B",
+    "explanation": "本題是典型「hamartomatous polyps + 黏膜皮膚色素沉著」的組合，最符合 Peutz–Jeghers syndrome（PJS）。\n\n關鍵辨識點：\n1) 息肉型態：PJS 為 hamartomatous polyps（常見於小腸，也可見於胃/大腸）。\n2) 皮膚黏膜表現：唇周、口腔黏膜、手指末端等處的黑色素沉著是高度辨識特徵。\n3) 遺傳與基因：常染色體顯性；常與 STK11（LKB1）基因突變相關。\n4) 臨床意義：除腸道出血/腸套疊/阻塞外，PJS 也與多系統惡性腫瘤風險上升相關（GI 與非 GI）。\n\n鑑別診斷：\nA Juvenile polyposis syndrome（JPS）：同為 hamartomatous polyps，但通常沒有典型唇周/口腔色素沉著；常見基因 BMPR1A、SMAD4。\nC Lynch syndrome（HNPCC）：核心是 DNA mismatch repair（MMR）基因缺陷造成的癌症風險上升；息肉多為腺瘤性（adenomatous）而非 hamartomatous，也沒有色素沉著的典型表現。\nD FAP：APC 突變，特徵是大量腺瘤性息肉（adenomatous polyps），與色素沉著不相符。\n\n延伸：遇到 PJS 題型，國考常連帶考『腸套疊風險（小腸）』與『多器官癌症監測策略』的概念。",
+    "tags": ["CRS", "遺傳性息肉症候群", "PJS", "hamartomatous polyp"]
+  },
+  {
+    "id": "MED_CRS_GENG_Q0003",
+    "stem": "有關大腸息肉的敘述，下列何者錯誤？",
+    "options": [
+      { "key": "A", "text": "大腸息肉經過許多基因的變異，可能長成大腸癌" },
+      { "key": "B", "text": "腺性息肉越大，癌化的機率越高" },
+      { "key": "C", "text": "Villous adenoma 較 tubular adenoma 癌化的機率高" },
+      { "key": "D", "text": "大腸息肉轉化成大腸癌的時間約需 1–2 年" }
+    ],
+    "answer": "D",
+    "explanation": "本題考 adenoma–carcinoma sequence 的時間尺度與危險因子分層。\n\nD 錯誤：大腸腺瘤進展成大腸癌通常是「多年」的累積過程，常見考法約為 8–10 年量級（個體差異存在，但 1–2 年屬過度縮短、違反常規考點）。\n\n其餘選項為正確觀念：\nA 正確：多步驟基因變化（例如 APC/β-catenin pathway、KRAS、TP53 等）與表觀遺傳變化推動腺瘤到癌的演進，是典型國考框架。\nB 正確：腺瘤越大（例如 ≥10 mm），advanced adenoma 與癌化風險上升；臨床上也會據此安排更密集追蹤。\nC 正確：腺瘤的組織型態與癌化風險相關，傳統分層為 villous > tubulovillous > tubular。\n\n延伸重點（常併考）：\n1) 高風險腺瘤特徵：大（≥10 mm）、villous 成分、high-grade dysplasia、多發息肉。\n2) 追蹤間隔：依『切除後病理 + 數量大小』分層決定（題庫若要做衍生題可從這裡出）。",
+    "tags": ["CRS", "大腸息肉", "adenoma-carcinoma sequence", "癌化風險"]
+  }
+
+
 
 
 ]
