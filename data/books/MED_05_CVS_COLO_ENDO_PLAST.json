@@ -172,6 +172,193 @@
     ],
     "answer": "D",
     "explanation": "【書上答案】(D)\n【詳解】簡要記憶法：\n術後10 年血管通暢率：心內乳動脈90% >Q) 橈動脈70% >® 大隱靜\n脈50%\n。"
+  },
+
+
+  
+  {
+    "id": "MED_05_02_QA0001",
+    "stem": "1. 主動脈剝離是一項廣為人知的急症，關於其敘述下列何者錯誤？\n112(二) 專醫五-20",
+    "options": [
+      {
+        "key": "A",
+        "text": "當剝離範圍包含主動脈根部（aortic root）時，\n可能造成急性主動脈瓣閉鎖不全"
+      },
+      {
+        "key": "B",
+        "text": "主動脈剝離依照 Stanford 的分類，是以 intima tear\n的位置分為 type A 及 type B，type A 是指破口位\n於升主動脈（ascending aorta），type B 則是破口\n位於降主動脈"
+      },
+      {
+        "key": "C",
+        "text": "acute type A aortic dissection 須接受緊急開胸手\n術修補，最主要是為了防止急性升主動脈破裂"
+      },
+      {
+        "key": "D",
+        "text": "acute type B aortic dissection 若無合併灌流不足\n症候群，可先使用藥物控制血壓"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【書上詳解】\n(A) ascending aorta 附近的剝離可能會影響 aortic root，導致主動脈瓣環擴張或瓣膜附著點受損，進而引起 acute AR，這可能導致急性心衰竭或心因性休克。\n(B) Stanford 分類的標準是看剝離是否涉及升主動脈，而不是單純以內膜破裂點的位置來決定。\n(C) Type A 剝離可能導致主動脈破裂、cardiac tamponade 或腦部與冠狀動脈灌流受阻，因此手術是緊急救命的措施，主要目的是避免升主動脈破裂。\n(D) Type B 剝離如果沒有合併內臟灌流不足、持續疼痛、主動脈擴張、主動脈破裂等高風險因素，通常會先以藥物控制血壓（如 β-blockers、降血壓藥）來減少血管壁的壓力，並定期追蹤。\n【補充考點】Stanford：A＝任何涉及 ascending aorta（不論 entry tear 在哪）；B＝不涉及 ascending aorta。"
+  },
+  {
+    "id": "MED_05_02_QA0002",
+    "stem": "2. 50 歲男性至急診就醫，主訴突發性胸痛持續逾半小時，胸部電腦斷層影像如附圖，正確診斷為：\n110(一) 專醫五-73",
+    "options": [
+      { "key": "A", "text": "Stanford A 型主動脈內皮血腫（Stanford Type A\nintramural hematoma）" },
+      { "key": "B", "text": "Stanford B 型主動脈內皮血腫（Stanford Type B\nintramural hematoma）" },
+      { "key": "C", "text": "Stanford B 型主動脈剝離（Stanford Type B aortic\ndissection）" },
+      { "key": "D", "text": "DeBakey 第三型主動脈剝離（DeBakey Type III\naortic dissection）" }
+    ],
+    "answer": "A",
+    "explanation": "【書上答案】選擇 (A)。\n【書上詳解要點】intramural hematoma 又稱作非典型主動脈剝離（atypical aortic dissection），由於供應主動脈壁上的小血管破裂，使得血液進入主動脈壁造成剝離。CT 影像中不會看見典型主動脈剝離的 intima flap；無顯影劑時可見主動脈壁內稍微發亮（血液於急性期滲入主動脈壁內），並呈現彎月形或環狀增厚；顯影 CT 時會發現主動脈壁完全不會被 enhance。\n本題圖像可見 Plain CT 時 ascending aorta 和 descending aorta 的動脈壁，皆有環狀增厚的情形，符合 Type A 之解剖學定義，顯影 CT 時更可以清楚看到沒被顯影出來的增厚主動脈壁，故選擇 (A)。\n【補充考點】IMH（尤其 Type A）臨床處置多比照 Type A dissection 風險評估，常需外科團隊緊急介入評估。"
+  },
+  {
+    "id": "MED_05_02_QA0003",
+    "stem": "3. 在急性主動脈剝離（aortic dissection）的治療上，下列敘述何者錯誤？\n110(一) 專醫五-17",
+    "options": [
+      {
+        "key": "A",
+        "text": "在高度懷疑為主動脈剝離之情形下，可先實行降\n低心跳及控制血壓之藥物治療（anti-pulse thera-\npy and blood pressure control）"
+      },
+      {
+        "key": "B",
+        "text": "對急性史丹佛 A 型（Stanford type A）之主動脈\n剝離病患，應考慮進行緊急主動脈置換手術"
+      },
+      {
+        "key": "C",
+        "text": "對急性史丹佛 B 型（Stanford type B）之主動脈剝\n離合併有器官供血不足（malperfusion）之病患，\n應立即考慮介入性血管內主動脈支架（endovas-\ncular treatment）之可能性"
+      },
+      {
+        "key": "D",
+        "text": "對於急性史丹佛 A 型（Stanford type A）之主動\n脈剝離合併有器官供血不足的病患，與無器官\n供血不足者，兩者之預後相同"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【書上答案】(D)\n【書上詳解】(D) 根據 JTCS 2019 年發表的論文，統計北區 8 個醫學中心 10 年、1,159 位患者，Type A Aortic dissection with Malperfusion v.s. without Malperfusion，30 天內死亡率 28.9% v.s. 12.1%，國內各院與世界各國統計皆有類似趨勢，故不可忽視 Malperfusion（器官供血不足）對病人帶來的各種後遺症與風險。\n【補充考點】Type A + malperfusion 屬高危險群：除死亡率上升，也常伴隨術後腎衰竭、腸缺血、中風等併發症。"
+  },
+  {
+    "id": "MED_05_02_QA0004",
+    "stem": "4. 主動脈剝離（aortic dissection）DeBakey type II，其剝離侵犯範圍主要是下圖那一部分之主動脈？\n109(二) 專醫五-23",
+    "options": [
+      { "key": "A", "text": "I" },
+      { "key": "B", "text": "II" },
+      { "key": "C", "text": "III" },
+      { "key": "D", "text": "IV" }
+    ],
+    "answer": "A",
+    "explanation": "【書上答案】(A)\n【書上詳解】DeBakey Type I 僅侵犯 Ascending aorta。\n【補充考點】標準分型：DeBakey II＝僅限 ascending aorta；DeBakey I＝ascending + arch/descending；DeBakey III＝descending（可能延伸至腹主動脈）。本題以圖示區段對應「ascending aorta」為判讀關鍵。"
+  },
+  {
+    "id": "MED_05_02_QA0005",
+    "stem": "5. 下列有關急性主動脈剝離（aortic dissection）之描述，何者正確？\n108(一) 專醫五-21",
+    "options": [
+      {
+        "key": "A",
+        "text": "急性主動脈剝離最佳診斷工具是心臟超音波\n（cardiac echocar-diography）或是核磁共振攝影\n（magnetic resonance imaging）"
+      },
+      {
+        "key": "B",
+        "text": "急性主動脈剝離發生的機制大都是內膜層有一\n個破口（intimal tear），通常是在主動脈壁外層\n（adventitia）及中層（media）中間形成一假腔\n（false lumen）"
+      },
+      {
+        "key": "C",
+        "text": "發生急性主動脈剝離最常見的症狀為胸痛，非\n常類似冠狀動脈疾病的壓迫性胸痛，二者並不\n容易區別"
+      },
+      {
+        "key": "D",
+        "text": "發生急性主動脈剝離的病人，大多都以胸痛為\n主要症狀，並不會引起其他器官的血流不足\n（malperfusion）"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【書上答案】(B)\n【書上詳解】(A) Contrast CT 最合適；(C) 主動脈剝離的疼痛為撕裂痛的劇烈疼痛，病患常形容為後背撕裂痛；(D) 主動脈剝離侵犯到其他血管或是假腔壓迫真腔影響血流會引發器官灌流不足症狀。\n【補充考點】急性情境首選多為 CTA（快、可評估分支/破裂/血腫）；TEE 可用於不穩定或無法搬運者。"
+  },
+  {
+    "id": "MED_05_02_QA0006",
+    "stem": "6. 50 歲男性病患主訴，有高血壓病史，未接受規則性之治療，3 星期前有突發性撕裂性背痛至今仍舊無法緩解。電腦斷層顯示如下圖，下列診斷及治療何者錯誤？\n107(二) 專醫五-20",
+    "options": [
+      {
+        "key": "A",
+        "text": "其主動脈剝離由降主動脈至腹主動脈，但\n入口位於降主動脈近端處，診斷為史丹佛\nB 型主動脈剝離（Stanford type B）"
+      },
+      { "key": "B", "text": "需考慮手術治療" },
+      { "key": "C", "text": "症狀發生超過 14 天，屬於慢性主動脈剝離" },
+      {
+        "key": "D",
+        "text": "雖腔內血管修補術（TEVAR）發展迅速，\n但手術仍以傳統開胸置換手術為主"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【書上答案】(D)\n【書上詳解（續頁）】(B) 由於症狀一直無法緩解（persistent pain），為 chronic complicated Type B aortic dissection，需考慮手術治療；(D) TEVAR 的術中死亡率、早期死亡率、術後併發症在 B 型主動脈剝離皆比傳統手術低。\n【補充考點】Type B 的「complicated」常見指標：malperfusion、破裂/高破裂風險、持續/反覆疼痛、快速擴張、難控制高血壓等；此類通常優先考慮 TEVAR。"
+  },
+  {
+    "id": "MED_05_02_QA0007",
+    "stem": "7. 下列有關主動脈剝離（aortic dissection）之敘述，何者錯誤？\n107(一) 專醫五-23",
+    "options": [
+      { "key": "A", "text": "主動脈剝離病人往往合併有高血壓或主動脈瓣\n膜疾病" },
+      {
+        "key": "B",
+        "text": "診斷的方式包含主動脈攝影、食道超音波、電腦\n斷層或核磁共振，診斷的 sensitivity 及 specificity\n皆有 80% 以上"
+      },
+      {
+        "key": "C",
+        "text": "凡是急性升主動脈剝離（acute type A aortic dissec-\ntion），需要馬上接受手術治療"
+      },
+      {
+        "key": "D",
+        "text": "在 type A 或 type B 主動脈剝離產生的器官灌注不\n良（mal-perfusion syndrome）中，以腦部及腸道\n最常見"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【書上答案】(D)\n【書上詳解】Coronary malperfusion 佔約 10~15%，mesenteric malperfusion 約 4~6%，cerebral malperfusion 約 6~14%。\n【補充考點】臨床上也常見腎臟/下肢灌流不足；題目重點在「最常見」的排序並非腦部+腸道。"
+  },
+  {
+    "id": "MED_05_02_QA0008",
+    "stem": "8. 胸降主動脈損傷，胸部 X-ray 影像學徵象，下列何者較少見？\n107(一) 專醫五-73",
+    "options": [
+      { "key": "A", "text": "主動脈邊界模糊（blurring of the aortic contour）" },
+      { "key": "B", "text": "氣管偏向左邊（tracheal shift to the left）" },
+      { "key": "C", "text": "血胸（hemothorax）" },
+      { "key": "D", "text": "縱隔腔寬度增加（widening of the mediastinum）" }
+    ],
+    "answer": "B",
+    "explanation": "【書上答案】(B)\n【書上詳解】Traumatic aortic injury 好發於 aortic isthmus 近 proximal descending aorta，位於胸腔左上方，破裂血腫會把氣管往右邊擠，故 (B) 應是氣管偏向右邊（tracheal shift to the right）。\n【補充考點】鈍傷主動脈（多在 isthmus）X-ray 常見：縱隔變寬、aortic knob 變鈍、左側血胸、氣管/食道向右移等。"
+  },
+  {
+    "id": "MED_05_02_QA0009",
+    "stem": "9. 下列關於急性主動脈剝離症的敘述，何者正確？\n106(一) 專醫五-24\n①主動脈剝離的範圍若僅包含胸部降主動脈，則大多需手術\n②主動脈剝離的範圍若包含胸部升主動脈，則大多需緊急手術\n③主動脈剝離的範圍若僅包含胸部降主動脈，大多不可用主動脈內徑\n血管支架（endovascular stent grafts）治療\n④主動脈剝離的範圍若包含胸部升主動脈，大多不可用主動脈內徑血\n管支架（endovascular stent grafts）治療",
+    "options": [
+      { "key": "A", "text": "①②③" },
+      { "key": "B", "text": "僅①③" },
+      { "key": "C", "text": "②④" },
+      { "key": "D", "text": "僅④" }
+    ],
+    "answer": "C",
+    "explanation": "【書上答案】(C)\n【書上詳解】急性主動脈剝離的治療重點在儘可能保存重要器官灌流並修補心臟血管結構上的缺陷，若包含升主動脈（Type A），病情致命且複雜，常伴隨主動脈分支剝離、主動脈根部擴張、主動脈瓣逆流與冠狀動脈剝離或嚴重阻塞…等支架無法解決的心血管結構異常，因此大多需緊急開胸手術而不適合使用 endovascular stent grafts；若僅限於降主動脈（Type B），處理的時間相對較充裕，可再鑑別診斷為 uncomplicated 或 complicated 兩類病患，利用 endovascular stent grafts 保護並撐大真腔是重要的一個治療選擇。\n【補充考點】Type B uncomplicated：先嚴格血壓/心跳控制；complicated：TEVAR 優先。"
+  },
+  {
+    "id": "MED_05_02_QA0010",
+    "stem": "10. 心包填塞（cardiac tamponade）是下列那一個情形？\n105(一) 專醫五-9\n\n          中心靜脈壓    動脈壓    心輸出量    混合靜脈血氧飽和度\nA             ↓          ↓         ↓            ↓\nB             ↑          ↓         ↓            ↓\nC             ↑          ↓         ↓            ↑\nD             ↑          ↑         ↑            ↓\n\n中心靜脈壓（central venous pressure），動脈壓（arterial blood pressure），\n心輸出量（cardiac output），混合靜脈血氧飽和度（mixed venous oxygen-\nation saturation）",
+    "options": [
+      { "key": "A", "text": "A" },
+      { "key": "B", "text": "B" },
+      { "key": "C", "text": "C" },
+      { "key": "D", "text": "D" }
+    ],
+    "answer": "B",
+    "explanation": "【書上答案】(B)\n【書上詳解】心臟腔室壓力受外在壓迫上升，靜脈回流受阻 => 中心靜脈壓上升；心室舒張填充量受限，所以心輸出量降低、動脈壓降低；根據 Fick Principle，混和靜脈血氧飽和度下降，選 (B)。\n【補充考點】tamponade 典型：CVP↑、CO↓、BP↓；臨床可見 Beck’s triad、pulsus paradoxus。"
+  },
+  {
+    "id": "MED_05_02_QA0011",
+    "stem": "11. 趙先生 59 歲，晚餐後突感前胸劇痛，並延伸到後背，經救護車送到醫院急診。趙先生除高血壓外並無其他病史。理學檢查發現意識清楚，血壓 180/50 mmHg，心跳 96／分，呼吸 18／分，頸靜脈平坦，胸骨左側有心縮期及心舒期雜音。胸部 X 光發現縱隔腔寬度約 8.5 cm。趙先生在胸部電腦斷層掃描檢查後又感胸痛，此時血壓下降至 110/50 mmHg，心跳 130／分，呼吸 25／分，頸靜脈怒張，下列何者是適當的處置？\n104(一) 專醫五-24\n\n①立即心臟超音波檢查\n②給予 propranolol 及 sodium nitroprusside 治療\n③緊急手術\n④送入加護病房觀察並接受藥物治療",
+    "options": [
+      { "key": "A", "text": "①②③" },
+      { "key": "B", "text": "僅①③" },
+      { "key": "C", "text": "②④" },
+      { "key": "D", "text": "僅④" }
+    ],
+    "answer": "B",
+    "explanation": "【書上答案】(B)\n【書上詳解】依據題幹描述懷疑為 aortic dissection，電腦斷層掃描確診後血循急速變化，懷疑可能有 aortic rupture with cardiac tamponade，可立即以心臟超音波快速確認並安排緊急手術。\n【補充考點】Type A/rupture/tamponade 情境下，單純降壓（尤其未先控 HR 的 vasodilator）可能惡化；優先處理致命併發症並外科介入。"
   }
+
 
 ]
