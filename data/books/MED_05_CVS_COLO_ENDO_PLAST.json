@@ -358,7 +358,203 @@
     ],
     "answer": "B",
     "explanation": "【書上答案】(B)\n【書上詳解】依據題幹描述懷疑為 aortic dissection，電腦斷層掃描確診後血循急速變化，懷疑可能有 aortic rupture with cardiac tamponade，可立即以心臟超音波快速確認並安排緊急手術。\n【補充考點】Type A/rupture/tamponade 情境下，單純降壓（尤其未先控 HR 的 vasodilator）可能惡化；優先處理致命併發症並外科介入。"
+  },
+
+
+  
+  {
+    "id": "MED_05_02_Q0014",
+    "stem": "7. 68 歲男性因心肌梗塞來急診，呈現休克狀態並經插管緊急處置 ，聽診時發\n現有－第四度收縮期雜音 (Grade 4/6 systolic murmur ) ' 且伴隨有肺水腫\n(pulmonary edema ) , 經 心 導管攝影為左前降枝 (LAD) 90% 狹窄，迴\n旋枝 (LCX) 有 85% 狹窄，下列處置何者錯誤?\nI 09(.=..) 專罄五 -25",
+    "options": [
+      { "key": "A", "text": "應該再進行心臟超音波檢査" },
+      { "key": "B", "text": "可以考慮放置主動脈幫浦 (IABP )" },
+      { "key": "C", "text": "因病人狀況 差， 必須使用不停跳冠狀動脈繞道\n術，以減少合併症之產生" },
+      { "key": "D", "text": "此情況 為 ACCIAHA 準則之 Class I 之冠狀動脈\n繞道術適應症" }
+    ],
+    "answer": "C",
+    "explanation": "【書上答案】(C)\n【書上詳解】正確診斷應為急性心肌梗塞後導致大片心臟肌肉壞死、心室中膈破裂，然後左心高壓血往右心流去產生第四度收縮期雜音，併發肺高壓與肺水腫。心超可確認心室中膈完整性，若確定心室中膈破損，則應儘快放置 IABP 提升冠狀動脈灌流，此為緊急冠狀動脈繞道手術適應症 (Emergent CABG)，不停跳手術不適合此類血循不穩之病患。\n【補充考點】AMI 後 VSD：新出現粗大全收縮期雜音 + 休克/肺水腫要高度懷疑；處置核心是 hemodynamic stabilization（IABP/vasopressor/ventilation）+ 外科修補/重建血流。"
+  },
+  {
+    "id": "MED_05_02_Q0015",
+    "stem": "8 一位 60 歲男性病人因急性心肌梗塞住院。 一星 期後，病人突然呼吸較\n喘，流冷汗；身體檢査顯示胸骨左側有新的心縮期雜音、血壓 65150 毫米\n汞柱 ( mmHg ) 、肺 動脈壓 60/40 毫米汞柱 、 中心靜脈壓 (CVP) 30 毫米\n汞柱，但意識清楚。下列敘述何者錯誤?\n10 9( 一）專醫五 -19",
+    "options": [
+      { "key": "A", "text": "CD 診斷為心室中隔破裂" },
+      { "key": "B", "text": "＠不須裝置主動脈內 氣球幫浦" },
+      { "key": "C", "text": "＠須緊急手 術，但若病人 書 面拒絕 手 術，則不可強\n行手術" },
+      { "key": "D", "text": "®若病人意識不清楚，也聯絡不到家屬，經初步治療\n略有改善， 則不可立即手術" }
+    ],
+    "answer": "A",
+    "explanation": "【書上答案】(A)\n【書上詳解】心室中膈破裂，左心高壓血灌往右心導致中心靜脈與肺動脈高壓，併分走原本往主動脈前進的動脈血導致心因性休克，手術前先做主動脈內氣球幫浦可穩定血循，降低 afterload 並增加 Coronary artery perfusion，所以 O正確，＠錯誤。＠緊急手術在病人意識清楚下仍須尊重其意願。®「經初步治療略有改善」這是陷阱，表示患者可能已脫離醫療法定義緊急手術的範圍，須尊重患者或其代理人意願並徵得同意執行手術。\n【補充考點】AMI 後 3–7 天出現新雜音 + 休克/肺水腫：VSD 或 papillary muscle rupture（急性 MR）最常考；IABP 常用於 bridge to surgery。"
+  },
+  {
+    "id": "MED_05_02_Q0016",
+    "stem": "9 一位 65 歲男性病 人 因左前胸 痛至 急診室求診 ，下 列敘述何 者正確 ？\n108( 二 ）專醫 五 -19",
+    "options": [
+      { "key": "A", "text": "心 急性 主 動脈剝離為鑑別診斷之一" },
+      { "key": "B", "text": "＠若診 斷 急 性 B 型 主 動脈剝離，可考慮以 主動 脈內\n血管支架 ( endovascular aortic graft ) 治療" },
+      { "key": "C", "text": "＠ 若診斷急性心 肌 梗塞，須考慮經 皮 冠狀動脈 處 置\n( percutaneous coronary intervention )" },
+      { "key": "D", "text": "® 若診斷急 性心肌 梗塞，須立 即執 行冠 狀動脈\n繞道 術" }
+    ],
+    "answer": "A",
+    "explanation": "【書上答案】(A)\n【書上詳解】第四個選項考 Emergent CABG indication。急性心肌梗塞 (AMI) 有 medication、PCI 或 CABG 等治療對策，各有其適應症，不是每一個 AMI 患者都要做 emergent CABG。\nEmergent CABG indication : (ACC/AHA guidelines)\nCLASS I recommendation for emergency CABG in STEMI:\n(1) PCI has been impossible to perform or has failed\n(2) Persistent pain and ischaemia threatening a significant area of myocardium despite medical therapy.\n(3) Ventricular septal defect POST MI\n(4) Papillary muscle rupture\n(5) Free wall rupture\n(6) Ventricular pseudo-aneurysm\n(7) Life-threatening ventricular arrhythmias\n(8) Cardiogenic shock.\n【補充考點】胸痛鑑別：ACS、aortic dissection、PE、tension PTX、esophageal rupture；一旦懷疑 dissection，抗凝/溶栓要非常謹慎。"
+  },
+  {
+    "id": "MED_05_02_Q0017",
+    "stem": "(A) 10 根據美國心臟協會 (American Heart Association) 及美國心臟學院 (American\nCollege of Cardiology) 對冠狀動脈繞道手術之指引，下列何種狀況下接受\n冠狀動脈繞道手術，對延長壽命而言不是第 一 級建議 ( class I recommenda\n108( 一）專 醫 五 -20\ntion)?",
+    "options": [
+      { "key": "A", "text": "僅單純 一 條嚴重阻塞（大於 75%) 且發生在左\n前降冠狀動脈近端 ( LAD proximal ) 區域" },
+      { "key": "B", "text": "左主幹冠狀動脈 ( left main ) 嚴重 阻塞（大於\n60%)" },
+      { "key": "C", "text": "三條血管阻塞合併有左前降冠 狀動脈近端 (LAD\nproximal ) 嚴重阻塞（大於 7 5 %)" },
+      { "key": "D", "text": "二 條血管阻 塞包 括 左 前降冠狀動脈近端 (LAD\nproximal) 嚴重 阻塞（大於 75%)" }
+    ],
+    "answer": "A",
+    "explanation": "【書上答案】(A)\n【書上詳解】根據 AfWACC guideline，(B)(C)(D) 皆屬於 class I recommendation，(A) 選項以及兩條血管阻塞但不包含 LAD proximal 屬於 class IIa；一條血管阻塞但不包含 LAD proximal 屬於 class III。\n【補充考點】考題常把「proximal LAD」「left main」「3-vessel + LV dysfunction/DM」當作 CABG 的 survival benefit 情境。"
+  },
+  {
+    "id": "MED_05_02_Q0018",
+    "stem": "(C) 11 一位 58 歲男性因急性胸痛，伴隨冷汗來急診求助，當下安排之檢查，下\n107 ( 二）專 醫五 -22\n列何者較不適當？",
+    "options": [
+      { "key": "A", "text": "胸部電腦斷層" },
+      { "key": "B", "text": "抽血測心肌酵素" },
+      { "key": "C", "text": "運動心電圖" },
+      { "key": "D", "text": "心導管冠狀動脈攝影" }
+    ],
+    "answer": "C",
+    "explanation": "【書上答案】(C)\n【書上詳解】運動心電圖是無症狀或症狀輕微者的 screening tool，不適合使用於產生明顯急性症狀的疑似心臟衰竭患者。\n【補充考點】急性胸痛（疑 ACS）優先：ECG + troponin + risk stratification；運動試驗屬穩定期/低中風險評估工具。"
+  },
+  {
+    "id": "MED_05_02_Q0019",
+    "stem": "(D) 12 一 位 56 歲男性病人因胸悶住院 。 他 有糖尿病、高血糜、與 抽菸史 。 冠\n狀動脈血管攝影檢査顯示左冠狀動脈主幹 85% 狹窄、左前降支 8 0% 狹\n窄 、 左回 旋支 77% 狹窄、右冠狀動脈 90% 狹窄 。下列敘述何者正確？\n107( 一）專 醫 五 -24",
+    "options": [
+      { "key": "A", "text": "尘依冠 狀動脈血管攝影檢査前家屬之決定， 立 即 裝\n置塗藥支架 (drug-eluting stent )" },
+      { "key": "B", "text": "＠冠狀 動脈血 管攝影檢查時 ，經與家屬商 量 後，立\n即裝置裸金支架 (bared-metal stent )" },
+      { "key": "C", "text": "＠裝置支架前，不須請心臟外科醫師向病人及其家\n屬解釋冠狀動脈繞道手術之優缺點" },
+      { "key": "D", "text": "®裝置支架時，手術室須準備好，以便可立即進行\n緊急手術" }
+    ],
+    "answer": "D",
+    "explanation": "【書上答案】(D)\n【書上詳解】題幹指出 left main coronary artery 及另外三條都有 70% 以上的阻塞 (triple-vessel disease)，根據 2017 AHA guideline，除了 one vessel disease、two vessel disease 和 distal LAD 阻塞外，CABG 預後都比 PCI 好，所以不會選擇裝支架。因此比較好的答案是選 (D)。\n【補充考點】Left main + 3-vessel + DM：典型偏 CABG（長期預後/再處置率較佳）；決策需 heart team shared decision（介入 + 心外）。"
+  },
+  {
+    "id": "MED_05_02_Q0020",
+    "stem": "(B) 13 下列關於不停跳冠狀動脈繞道手術 (off- pump coronary artery\ngrafting) 的敘述，何者正確?\n107( 一 ）專醫五 -25",
+    "options": [
+      { "key": "A", "text": "®須使用 heparin®人工心肺機不需待命\n＠不須降低體溫\n®不會引發腦中風" },
+      { "key": "B", "text": "僅(DQ)" },
+      { "key": "C", "text": "(2)@" },
+      { "key": "D", "text": "僅®" }
+    ],
+    "answer": "A",
+    "explanation": "【書上答案】(A)\n【書上詳解】不停跳冠狀動脈繞道手術不需使用體外循環，不必降低體溫，不必給予心肌麻痺液，手術的併發症（中風、出血、心律不整）等依舊會發生，但機率降低許多。因手術中若發生無法控制的出血、血管或心臟破裂…等緊急狀況，隨時有可能轉成 on-pump CABG 故須人工心肺機待命；off pump CABG 仍需夾住原有血管以進行縫合，為降低血管夾緊後 thromboembolization 發生的機率，仍須使用 heparin。\n【補充考點】Off-pump 的核心差異是「無 CPB」，但不等於 0 stroke/0 bleeding；術式選擇要看血流動力穩定度、病灶位置與團隊經驗。"
+  },
+  {
+    "id": "MED_05_02_Q0021",
+    "stem": "(D) 14 下列有關冠狀動脈疾病病人之處置，何者錯誤?\n42\n106( 二）專醫五 -16",
+    "options": [
+      { "key": "A", "text": "三條冠狀動脈疾病之糖尿病病人接受冠狀動\n脈繞道手術，比接受支架置放術具有較好的長\n期存活" },
+      { "key": "B", "text": "多條血管冠狀動脈疾病病人的治療方面，經皮冠\n狀動脈處置 (percutaneous coronary intervention)\n與冠狀動脈繞道手術皆比藥物治療有顯著的生\n存利益" },
+      { "key": "C", "text": "高嚴重性冠狀動脈疾病病人若以經皮冠狀動脈\n處 置 治療，其再處 置 率較接受冠狀動脈繞道手\n術者為高" },
+      { "key": "D", "text": "具有高 風險的特徵（例如：糖尿病、左心 室 功\n能異常 、 腎功能異常、年老、慢性肺病 、 周邊\n動脈疾病）的多條血 管 冠狀動脈 疾 病病人接受\n冠狀動脈繞道手術比接受經皮冠狀動脈處置具\n有較差的長期存活率" }
+    ],
+    "answer": "D",
+    "explanation": "【書上答案】(D)\n【書上詳解】除了 one vessel disease、two vessel disease 和 distal LAD 阻塞外，CABG 預後都比 PCI 好。\n【補充考點】高風險/多血管/DM/LV dysfunction：常見考法是「CABG 長期存活/再處置率優於 PCI」，但要注意個案手術風險與解剖（SYNTAX）會影響策略。"
+  },
+  {
+    "id": "MED_05_02_Q0022",
+    "stem": "(B) 15 一位 6 9 歲男性病人 因急性心肌梗 塞住 院 。五天後，病 人呼吸較喘，身\n體檢査顒示有新的 心尖部心縮期雜音、血壓 80/50 mmHg 、 中心靜脈壓 30\nmmHg 、胸部 X 光顯示肺水腫現象。下列敘述何者錯誤？\n10 6( 一）專醫五 -25",
+    "options": [
+      { "key": "A", "text": "CD診斷為心室中隔破裂" },
+      { "key": "B", "text": "＠須裝置主動脈內 氣球幫浦" },
+      { "key": "C", "text": "＠不須緊急手術" },
+      { "key": "D", "text": "®手術死亡率約 10% 至 2 0%" }
+    ],
+    "answer": "C",
+    "explanation": "【書上答案】(C)\n【書上詳解】依題幹推測為二尖瓣閉鎖不全，先使用 IABP 維持心臟血液穩定輸出，然後緊急手術修補。原本左心室的血流應於心收縮期時往打開的主動脈瓣方向噴人升主動脈，但在二尖瓣閉鎖不全的患者，分出一部分噴人左心房，產生新的心尖部心縮期雜音，降低有效心輸出並形成低血壓，製造左心房內部高壓並將此高壓逆著血流一路傳遞經肺靜脈、肺血管系統、肺動脈乃至於右心室、右心房與中心靜脈，因而形成中心靜脈高壓與肺水腫。\n【補充考點】AMI 後 papillary muscle rupture → 急性嚴重 MR：突發肺水腫+休克+新心尖部全收縮期雜音；IABP/afterload reduction bridge to surgery。"
+  },
+  {
+    "id": "MED_05_02_Q0023",
+    "stem": "(B)\n16 關於冠狀動脈繞道手術，下列何者之長期暢通率 ( long-term patency rate ) 最\n差?\n105( 二）專 騷 五 -24",
+    "options": [
+      { "key": "A", "text": "右內胸動脈 ( right internal thoracic artery)" },
+      { "key": "B", "text": "大 隱靜脈 ( greater saphenous vein )" },
+      { "key": "C", "text": "右 網膜動脈 ( right gastroepiploic artery)" },
+      { "key": "D", "text": "左橈動脈 ( left radial artery )" }
+    ],
+    "answer": "B",
+    "explanation": "【答案】(B)\n【詳解】在 CABG conduit 的長期通暢率比較中，靜脈 graft（尤其大隱靜脈）一般劣於動脈 graft（內胸動脈、橈動脈、胃網膜動脈）。臨床常用概念：IMA 最佳，其次橈動脈等動脈 graft，再來才是 SVG。\n【補充考點】影響 SVG patency：target vessel 狹窄程度（競爭血流）、血脂控制、抗血小板/他汀、糖尿病與抽菸等。"
+  },
+  {
+    "id": "MED_05_02_Q0024",
+    "stem": "(C) 17 針對末期心臟衰竭的病人，在心臟移植之前，尚有其他手術方式可以改善\n心臟功能及臨床症狀，但下列何者除外？\n105( 一）專 醫 五 -22",
+    "options": [
+      { "key": "A", "text": "冠狀動脈繞道手術 (coronary artery bypass sur-\ngery)" },
+      { "key": "B", "text": "二 尖瓣逆流重建手術 ( mitral reconstruction)" },
+      { "key": "C", "text": "經心肌雷射血管再生術 (transmyocardial laser re-\nvasculari-zat1on)" },
+      { "key": "D", "text": "部分左心室心肌切除手術 (partial left ventriculec-\ntomy)" }
+    ],
+    "answer": "C",
+    "explanation": "【書上答案】(C)\n【書上詳解】TMLR 適用在治療無法以傳統冠狀動脈繞道手術治療的末期冠狀動脈疾病之病人，不適用於末期心臟衰竭患者。\n【補充考點】末期 HF bridge：LVAD/temporary MCS、valve intervention（選案）、revascularization（ischemic cardiomyopathy 選案）等。"
+  },
+  {
+    "id": "MED_05_02_Q0025",
+    "stem": "(A) 18 下列關於 急性心肌梗 塞的敘述，何者錯誤？\n105( 一） 專靨五 -23",
+    "options": [
+      { "key": "A", "text": "可能因僧帽瓣破裂 (mitral valve) 而併發急性\n僧帽瓣閉鎖不全 (mitral regurgitation) , 需要緊\n急手術" },
+      { "key": "B", "text": "若發生心室中隔破裂 (ventricular septa! rupture )\n需要緊急手術" },
+      { "key": "C", "text": "若發生左心室游離壁破裂 (left ventricular free-\nwall rupture) 需要緊急手術" },
+      { "key": "D", "text": "主動脈內氣球幫浦 (intra-aortic balloon pumping )\n常用於急性心肌梗塞併發休克" }
+    ],
+    "answer": "A",
+    "explanation": "【答案】(A)\n【詳解】AMI 的機械性併發症需要「緊急手術」的典型考點包含：VSD、papillary muscle rupture（→急性嚴重 MR）、free wall rupture（→tamponade/PEA）。題目 (A) 把「mitral valve 破裂」當成描述本體不精確；AMI 常見的是「乳突肌（papillary muscle）破裂」導致 MR，而不是瓣膜本身破裂。\n【補充考點】IABP：可作為 cardiogenic shock 或急性 MR/VSD 的 bridge（降 afterload、增冠灌流），但並非取代 definitive repair。"
+  },
+  {
+    "id": "MED_05_02_Q0026",
+    "stem": "(AB) 19 根據 AHA/ ACC guidelines for coronary artery bypass grafting (CABG),\n下列何者並非冠狀動脈繞道手術之 class I 適應症?\n104( 一）專 醫 五 -26",
+    "options": [
+      { "key": "A", "text": "只有單一左前降支近端 80% 狹窄" },
+      { "key": "B", "text": "右冠狀動脈中段堵塞合併急性心肌梗 塞" },
+      { "key": "C", "text": "急性心肌梗塞合併梗塞後心室中隔破裂" },
+      { "key": "D", "text": "三條冠狀動脈堵塞合併心室收縮功能不良" }
+    ],
+    "answer": "B",
+    "explanation": "【書上答案】(B)\n【書上詳解】(A) 需同時有 Proximal LAD (left anterior descending artery) 和 proximal LCA ( left circumflex artery) stenosis > 70% 。(B) 非適應症。\n【補充考點】AMI 需要緊急 CABG 的情境多是 PCI failed/impossible 或機械性併發症（VSD、papillary muscle rupture、free wall rupture）等。"
+  },
+  {
+    "id": "MED_05_02_Q0027",
+    "stem": "20. 李先生於冠狀動脈繞道手術後 4 小時，心跳 130 次／分鐘，呼吸 14 次／\n分鐘，血壓 90/50 mmHg' 中心靜脈壓 4 mmHg, 胸管血流量二小時達\n600 cc• 有逐漸增加趨勢 。 身體評估發現肺泡 音正常、心音正常 ，胸部傷\n口有滲出血水量多，下肢冰冷 。下 列何項敘述或處置正確？\n1 03( 二 ）專醫五 -22",
+    "options": [
+      { "key": "A", "text": "CD的李先生可能處於體溫過低活動性出血狀態\n®李先生可能處於活動性出血狀態\n＠ 給予強心劑，增加心肌收縮力\n® 通知心臟外科醫師是需要的" },
+      { "key": "B", "text": "僅叩(3)" },
+      { "key": "C", "text": "(Z)@" },
+      { "key": "D", "text": "僅®" }
+    ],
+    "answer": "A",
+    "explanation": "【書上答案】(A)\n【書上詳解】可能是血管吻合處有 leakage，給予強心劑會加重出血，甚至壓力過大將出血點用破更大傷口。開心手術患者胸管通常放置於心包膜腔或肋膜腔，兩者因心包膜與肋膜切開而相通，故胸管引流量異常增加須考慮 postoperative surgical site active bleeding。\n【補充考點】CABG 術後早期大量胸管引流：先評估凝血/低溫/血小板、吻合口出血；hemodynamic instability + 持續出血需早期 re-exploration。"
+  },
+  {
+    "id": "MED_05_02_Q0028",
+    "stem": "(C) 21 關於冠狀動脈病之外科治療方式，下列何者之效果最差？\n103( 二）專醚五 -26",
+    "options": [
+      { "key": "A", "text": "以心臟麻痺液將心臟靜止後，再進行冠狀動脈繞\n道術 (cardio-plegic arrest coronary artery bypass graft-\ning)" },
+      { "key": "B", "text": "不停跳冠狀動脈繞道術 (off pump coronary artery\nbypass grafting )" },
+      { "key": "C", "text": "經心肌雷射血管再 通術 (transmyocardial laser re-\nvascula-nzation)" },
+      { "key": "D", "text": "微創直接冠狀動脈繞道術 (m inimally invasive di 一\nrect coronary artery bypass grafting)" }
+    ],
+    "answer": "C",
+    "explanation": "【書上答案】(C)\n【書上詳解】TMLR 需要較長的時間才會有顯著療效。\n【補充考點】TMLR 常被當作 no-option CAD 的 symptom-relief/adjunct，考題要點是：效果延遲、機轉非「LV 直接灌流心肌」。"
+  },
+  {
+    "id": "MED_05_02_Q0029",
+    "stem": "(C) 22 下列有關不停跳冠狀動脈繞道手術 (off-pump coronary artery bypass grafting ) 之敘述， 何者錯 誤?\n103( 一）專 醫五 -23",
+    "options": [
+      { "key": "A", "text": "可以降低手術後心房震顫" },
+      { "key": "B", "text": "可以減少術中及術後的輸血" },
+      { "key": "C", "text": "血液動力學不穩定之病人應優先考慮不停跳冠狀\n動脈繞道手術" },
+      { "key": "D", "text": "合併有腎功能不良及肺氣腫的病人應優先考慮\n不停跳冠狀動脈繞道手術" }
+    ],
+    "answer": "C",
+    "explanation": "【書上答案】(C)\n【書上詳解】血液動力學不穩定病人並非不停跳冠狀動脈繞道手術之適應症，仍以一般冠狀動脈繞道手術為主。\n【補充考點】Off-pump 常被用於降低 CPB 相關併發症（例如腎功能不良、嚴重 COPD、atheroma burden 高減少中風風險等）之選案，但「不穩定」反而常需要更可控的 on-pump 支援。"
   }
+
 
 
 ]
